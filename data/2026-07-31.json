@@ -3,8 +3,8 @@
     "slug": "ch101_rocket",
     "category": "pl",
     "lead": true,
-    "title": "Rosyjska rakieta spadła na terytorium Polski, MON i NATO potwierdzają",
-    "body": "W nocy z 29 na 30 lipca Rosja przeprowadziła kolejny masowy atak rakietowo dronowy na Ukrainę, w którym zginęło co najmniej osiem osób. Według polskich służb jeden z elementów ataku, najprawdopodobniej rosyjska rakieta manewrująca Ch-101, przekroczył polską granicę i spadł w miejscowości Tarnawa-Kolonia w województwie lubelskim, pozostawiając po sobie krater. Prokuratura ustaliła, że pocisk zawierał znaczną ilość materiału wybuchowego, co czyniło go potencjalnie bardzo niebezpiecznym. Ministerstwo Obrony Narodowej potwierdziło z pełną odpowiedzialnością rosyjskie pochodzenie obiektu, a wiceminister Cezary Tomczyk przekazał, że nad Polskę leciało w tę noc około dwudziestu rosyjskich rakiet. Szef MSZ Radosław Sikorski zaznaczył, że nie wiadomo jeszcze, czy incydent był działaniem celowym. Sekretarz generalny NATO Mark Rutte oraz sojusznicy określili wydarzenie jako lekkomyślny akt ze strony Rosji, a Sojusz zapowiedział podjęcie wszelkich niezbędnych środków w celu ochrony przestrzeni powietrznej. Prezydent Ukrainy Wołodymyr Zełenski zaapelował do sojuszników o wzmocnienie obrony powietrznej. Nie ma potwierdzonych doniesień o ofiarach po polskiej stronie granicy.",
+    "title": "Rosyjska rakieta Ch-101 w Polsce: prokuratura potwierdza produkcję w Rosji",
+    "body": "W nocy z 29 na 30 lipca Rosja przeprowadziła kolejny masowy atak rakietowo dronowy na Ukrainę, w którym zginęło co najmniej osiem osób. Jeden z elementów ataku, rosyjska rakieta manewrująca Ch-101, przekroczył polską granicę i spadł w Tarnawie-Kolonii w województwie lubelskim, pozostawiając krater. Prokuratura ustaliła, że pocisk zawierał znaczną ilość materiału wybuchowego, a śledczy zabezpieczyli fragmenty napędu i elektroniki do dalszych badań. W piątek prokuratura poinformowała, że pocisk wyprodukowano w Rosji, najprawdopodobniej pod Moskwą, co potwierdzają oznaczenia na zabezpieczonych elementach. MON potwierdziło rosyjskie pochodzenie obiektu, a wiceminister Cezary Tomczyk przekazał, że nad Polskę leciało tej nocy około dwudziestu rosyjskich rakiet. Były pilot wojskowy Michał Fiszer tłumaczył, dlaczego mimo naruszenia przestrzeni powietrznej nie padł rozkaz zestrzelenia, wskazując na brak w pobliżu systemu Patriot i ryzyko reakcji na szybki cel nad zaludnionym terenem. Szef MSZ Radosław Sikorski zaznaczył, że nie wiadomo, czy incydent był celowy. Sekretarz generalny NATO Mark Rutte określił go jako lekkomyślny akt ze strony Rosji. Nie ma potwierdzonych ofiar po polskiej stronie.",
     "sources": {
       "https://www.rmf24.pl/regiony/lublin/news-jest-nagranie-z-momentu-uderzenia-w-tarnawie-kolonii-to-praw,nIdn,1011927": "RMF24",
       "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11283136,rosyjska-rakieta-ch101-w-polsce-zelenski-apeluje-tomczyk-potwierdza-2026.html": "GazetaPrawna.pl",
@@ -19,24 +19,33 @@
       "https://wydarzenia.interia.pl/kraj/news-mozemy-powiedziec-jest-potwierdzenie-z-mon-ws-rakiety,nId,23522253": "Interia",
       "https://wydarzenia.interia.pl/kraj/news-lekkomyslny-akt-ze-strony-rosji-sojusznicy-reaguja-na-incyde,nId,23522205": "Interia",
       "https://wydarzenia.interia.pl/kraj/news-sikorski-zabral-glos-w-sprawie-rosyjskiej-rakiety-bierzemy-p,nId,23522221": "Interia",
-      "https://wiadomosci.wp.pl/z-pelna-odpowiedzialnoscia-mon-potwierdza-ws-rosyjskiej-rakiety-7313133353506816a": "WP Wiadomosci"
+      "https://wiadomosci.wp.pl/z-pelna-odpowiedzialnoscia-mon-potwierdza-ws-rosyjskiej-rakiety-7313133353506816a": "WP Wiadomosci",
+      "https://www.rp.pl/sluzby/art44921941-nowe-ustalenia-ws-rakiety-ktora-spadla-na-polske-wyprodukowano-ja-w-rosji": "rp.pl",
+      "https://www.bankier.pl/wiadomosc/Prokuratura-rakieta-ktora-spadla-w-Tarnawie-Kolonii-wyprodukowana-w-Rosji-9176244.html": "Bankier.pl",
+      "https://wiadomosci.wp.pl/rakieta-nad-polska-wyprodukowano-ja-pod-moskwa-7313375809140736a": "WP Wiadomości",
+      "https://www.rp.pl/wojsko/art44917791-rakieta-ch-101-nad-polska-byly-pilot-tlumaczy-dlaczego-nie-padl-rozkaz-zestrzelenia": "rp.pl",
+      "https://www.lublin112.pl/prokuratura-w-tarnawie-kolonii-spadla-rosyjska-rakieta-sledczy-zabezpieczyli-elementy-napedu-i-elektroniki/": "Lublin112.pl"
     },
-    "last_updated": "2026-07-31 13:00"
+    "last_updated": "2026-07-31 14:00"
   },
   {
     "slug": "imgw_upaly",
     "category": "pl",
     "lead": false,
-    "title": "IMGW ostrzega: fala upałów do 36 stopni i czerwony alert w trzech województwach",
-    "body": "W piątek 31 lipca Instytut Meteorologii i Gospodarki Wodnej wydał łącznie kilkanaście ostrzeżeń pogodowych obejmujących niemal cały kraj, w tym najwyższy, trzeci stopień zagrożenia dla trzech województw w związku z ekstremalnym upałem. Synoptycy prognozowali temperaturę sięgającą nawet 36 stopni Celsjusza, przede wszystkim w województwach śląskim i lubelskim, gdzie żar miał dawać się we znaki mieszkańcom przez większą część dnia. Według serwisów pogodowych i lokalnych redakcji upalna i słoneczna pogoda miała jednak załamać się po południu, kiedy nad Polskę miały nadciągnąć gwałtowne burze z gradem oraz porywistym wiatrem, szczególnie groźne po wcześniejszym silnym nagrzaniu powietrza. Synoptycy apelowali o ograniczenie aktywności fizycznej w godzinach największego upału, picie odpowiedniej ilości płynów oraz unikanie przebywania na słońcu bez osłony głowy, zwłaszcza w grupach szczególnego ryzyka, czyli wśród dzieci, osób starszych i przewlekle chorych. Lokalne media podkreślały, że tak duża liczba jednoczesnych ostrzeżeń, obejmujących właściwie wszystkie regiony kraju, należy do rzadkości i wynika z połączenia fali upałów z nadchodzącym od zachodu frontem burzowym.",
+    "title": "IMGW: po fali upałów nadciągają superkomórki burzowe z gradem i wiatrem do 120 km/h",
+    "body": "W piątek 31 lipca IMGW wydał łącznie kilkanaście ostrzeżeń pogodowych obejmujących niemal cały kraj, w tym najwyższy, trzeci stopień zagrożenia dla trzech województw z powodu ekstremalnego upału. Synoptycy prognozowali temperaturę sięgającą nawet 36 stopni, przede wszystkim w województwach śląskim i lubelskim. Po południu i wieczorem synoptycy oraz sieci obserwatorów burz ostrzegli przed nadciągającymi znad Niemiec tak zwanymi superkomórkami burzowymi, które mają przynosić grad wielkości kurzych jaj oraz porywy wiatru sięgające 110 do 120 km na godzinę, szczególnie groźne po wcześniejszym silnym nagrzaniu powietrza. Lokalne media informowały już o pierwszych burzach z gradem notowanych między innymi w rejonie Białegostoku i Podlasia, gdzie IMGW wydał ostrzeżenie pierwszego stopnia. Synoptycy apelowali o ograniczenie aktywności fizycznej w godzinach największego upału, picie płynów, unikanie słońca bez osłony głowy oraz ostrożność podczas nadchodzących burz, w tym unikanie otwartych przestrzeni. Komentatorzy podkreślają, że połączenie fali upałów z gwałtownymi burzami w jednym dniu jest rzadkością i może prowadzić do lokalnych podtopień oraz przerw w dostawach prądu.",
     "sources": {
       "https://pogoda.dziennik.pl/aktualnosci/artykuly/11282585,czerwony-alert-dla-polski-najwyzszy-stopien-zagrozenia-w-3-wojewodzt.html": "Dziennik.pl",
       "https://wydarzenia.interia.pl/kraj/news-cala-polska-w-alertach-imgw-pogoda-zalamie-sie-po-poludniu,nId,23522243": "Interia",
       "https://tvn24.pl/tvnmeteo/polska/upal-i-burze-w-polsce-czerwone-alarmy-imgw-przed-wysoka-temperatura-synoptycy-ostrzegaja-st9163262": "TVN24 Meteo",
       "https://www.pap.pl/aktualnosci/imgw-ostrzega-przed-upalami-i-ii-i-iii-stopnia-w-calym-kraju": "PAP",
-      "https://www.polsatnews.pl/wiadomosc/2026-07-30/fala-upalow-nad-polska-tam-bedzie-najcieplej-imgw/": "Polsat News"
+      "https://www.polsatnews.pl/wiadomosc/2026-07-30/fala-upalow-nad-polska-tam-bedzie-najcieplej-imgw/": "Polsat News",
+      "https://fanipogody.pl/burze-nadciagaja-do-polski-znad-niemiec-przyniosa-niszczace-superkomorki-grad-wielkosci-kurzych-jaj-i-wiatr-do-120-km-h/": "FaniPogody.pl",
+      "https://polskieradio24.pl/pogoda/superkomorki-burzowe-uderza-w-polske-wiatr-do-110-kmh-i-grad-jak-jajka": "Polskie Radio 24",
+      "https://wiadomosci.wp.pl/w-polsce-bedzie-niebezpiecznie-przejda-silne-burze-grad-ale-i-upaly-7313409004390400a": "WP Wiadomości",
+      "https://poranny.pl/burze-z-gradem-w-bialymstoku-i-w-podlaskiem-imgw-wydal-ostrzezenie-i-stopnia/ar/c1p2-29226571": "Kurier Poranny"
     },
-    "last_updated": "2026-07-31 09:00"
+    "last_updated": "2026-07-31 14:00"
   },
   {
     "slug": "cbos_sondaz",
@@ -147,16 +156,21 @@
     "slug": "hamas_deal",
     "category": "world",
     "lead": true,
-    "title": "Trump ogłasza porozumienie ws. rozbrojenia Hamasu: wiele niewiadomych",
-    "body": "Prezydent USA Donald Trump ogłosił w czwartek, że powołany przez niego Board of Peace, czyli międzynarodowy zespół nadzorujący realizację planu pokojowego dla Gazy, wypracował porozumienie zakładające całkowite rozbrojenie Hamasu. Według dokumentów i relacji cytowanych przez zagraniczne redakcje rozbrojenie ma przebiegać etapami przez okres około ośmiu miesięcy i obejmować oddanie broni, zniszczenie sieci tuneli pod Strefą Gazy oraz przekazanie władzy tymczasowemu rządowi technokratycznemu, wspieranemu przez międzynarodowe siły stabilizacyjne odpowiedzialne za odbudowę i bezpieczeństwo. Trump określił porozumienie jako historyczne, choć nie podał wielu szczegółów jego egzekwowania. Sam Hamas formalnie nie potwierdził jeszcze akceptacji warunków, a według doniesień część przedstawicieli ugrupowania uzależnia rozbrojenie od wcześniejszego wycofania się wojsk izraelskich z terytorium Gazy. Urzędnicy zaangażowani w rozmowy podkreślają, że warunki nie są jeszcze ostateczne, a Izrael pozostaje sceptyczny wobec deklaracji o dobrowolnym rozbrojeniu się Hamasu. Komentatorzy ostrzegają, że plan może utknąć na etapie wdrażania, podobnie jak wcześniejsze porozumienia dotyczące Gazy.",
+    "title": "Hamas deklaruje zgodę na rozbrojenie, ale Izrael odrzuca warunki porozumienia",
+    "body": "Prezydent USA Donald Trump ogłosił w czwartek, że powołany przez niego Board of Peace wypracował porozumienie zakładające całkowite rozbrojenie Hamasu, a w piątek przedstawiciele ugrupowania potwierdzili zgodę na jego warunki. Rozbrojenie ma przebiegać etapami przez około 90 dni, obejmując przekazanie wyrzutni rakietowych i pocisków, oddanie broni oraz zniszczenie tuneli pod Strefą Gazy, przy wsparciu międzynarodowych sił stabilizacyjnych. Izrael, w tym premier Benjamin Netanjahu, niemal od razu zakwestionował ostateczny kształt porozumienia, twierdząc, że nie spełnia ono wcześniejszych żądań, i zapowiedział, że nie wycofa wojsk z tak zwanej żółtej linii w Gazie, dopóki Hamas nie zostanie w pełni rozbrojony. Przedstawiciele Hamasu zastrzegli z kolei, że złożenie broni w magazynach zależy od wcześniejszego wycofania wojsk izraelskich i rozwiązania wspieranych przez Izrael milicji na terenie Gazy. Urzędnicy amerykańscy ostrzegli, że Trump będzie rozczarowany, jeśli Izrael zablokuje realizację planu. Komentatorzy oceniają, że wdrożenie porozumienia pozostaje niepewne i może utknąć na etapie negocjacji szczegółów, podobnie jak wcześniejsze próby zakończenia konfliktu w Gazie.",
     "sources": {
       "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza": "NPR",
       "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza": "Al Jazeera",
       "https://www.cbsnews.com/news/trump-hamas-next-phase-gaza-peace-deal-disarmament/": "CBS News",
       "https://www.timesofisrael.com/text-of-board-of-peace-gaza-plan-calls-for-hamas-to-disarm-over-period-of-eight-months/": "Times of Israel",
-      "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know": "Al Jazeera"
+      "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know": "Al Jazeera",
+      "https://www.nbcnews.com/world/gaza/trump-says-peace-plan-will-lead-hamas-disarmament-israel-support-uncer-rcna590151": "NBC News",
+      "https://www.washingtonpost.com/world/2026/07/31/hamas-disarm-trump-gaza-board-of-peace/c11f461a-8cd0-11f1-8912-d71e69d679d7_story.html": "Washington Post",
+      "https://www.timesofisrael.com/liveblog_entry/israel-rejects-emerging-hamas-disarmament-plan-vows-no-gaza-pullout-until-its-fully-demilitarized-official/": "Times of Israel",
+      "https://www.jpost.com/middle-east/article-904113": "The Jerusalem Post",
+      "https://www.middleeasteye.net/news/hamas-says-it-will-not-disarm-gaza-israeli-withdrawal": "Middle East Eye"
     },
-    "last_updated": "2026-07-31 09:00"
+    "last_updated": "2026-07-31 14:00"
   },
   {
     "slug": "atak_ukraina",
