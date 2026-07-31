@@ -2,6 +2,11 @@ import json
 import sys
 import urllib.parse
 from datetime import datetime
+try:
+    from zoneinfo import ZoneInfo
+    WARSAW = ZoneInfo("Europe/Warsaw")
+except Exception:
+    WARSAW = None
 
 DATE = sys.argv[1] if len(sys.argv) > 1 else datetime.now().strftime("%Y-%m-%d")
 DATA_PATH = f"data/{DATE}.json"
@@ -64,7 +69,7 @@ def category_html(cat_key):
 pl_html, pl_total, pl_shown = category_html("pl")
 world_html, world_total, world_shown = category_html("world")
 
-now = datetime.now()
+now = datetime.now(WARSAW) if WARSAW else datetime.now()
 meta_line = f"Aktualizacja: {pl_date_str(now)}, {now.strftime('%H:%M')}, wygenerowano automatycznie"
 
 html = f'''<!DOCTYPE html>
