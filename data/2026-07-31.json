@@ -225,27 +225,29 @@
     "category": "world",
     "lead": false,
     "title": "Nowe amerykańskie cła wchodzą w życie 1 sierpnia, obejmą dziesiątki krajów",
-    "body": "Administracja prezydenta Donalda Trumpa potwierdza, że wyznaczony wcześniej termin wejścia w życie nowej fali podwyższonych ceł importowych na towary z dziesiątków państw partnerskich Stanów Zjednoczonych przypada na 1 sierpnia, po tym jak był już raz przesuwany w ostatnich tygodniach. Jak informuje ABC News, nowe stawki celne mają objąć towary z około sześćdziesięciu krajów, w tym kilku największych partnerów handlowych USA, a ich wysokość różnić się będzie w zależności od kraju pochodzenia i kategorii produktów. Stacja CBS News podaje, że część państw zdołała w ostatniej chwili wynegocjować z Waszyngtonem odrębne porozumienia handlowe obniżające pierwotnie zapowiadane stawki, podczas gdy inne kraje, które nie doszły do porozumienia, zostaną objęte pełnymi, wyższymi taryfami. Analitycy rynkowi cytowani przez amerykańskie media wskazują, że nowa fala ceł może podbić ceny części towarów importowanych na rynek amerykański oraz wpłynąć na globalne łańcuchy dostaw, a także zaostrzyć napięcia handlowe z niektórymi z kluczowych sojuszników gospodarczych Stanów Zjednoczonych. Rządy kilku państw zapowiedziały analizę środków odwetowych w razie wejścia stawek w życie.",
+    "body": "Administracja prezydenta Donalda Trumpa potwierdza, że wyznaczony wcześniej termin wejścia w życie nowej fali podwyższonych ceł importowych na towary z dziesiątków państw partnerskich Stanów Zjednoczonych przypada na 1 sierpnia, po tym jak był już raz przesuwany w ostatnich tygodniach. Jak informuje ABC News, nowe stawki celne mają objąć towary z około sześćdziesięciu krajów, w tym kilku największych partnerów handlowych USA. Z ustaleń polskich serwisów ekonomicznych wynika, że Unia Europejska oraz pięć innych krajów, które zdołały wynegocjować odrębne porozumienia handlowe z Waszyngtonem, zapłacą stawkę w wysokości dziesięciu procent, natomiast pozostałe państwa świata, które nie doszły do porozumienia, zostaną objęte cłami w przedziale od dziesięciu do dwunastu i pół procent. Analitycy wskazują, że nowa fala ceł może podbić ceny towarów importowanych do USA oraz wpłynąć na globalne łańcuchy dostaw i zaostrzyć napięcia handlowe z kluczowymi sojusznikami. Rządy kilku państw zapowiedziały analizę środków odwetowych w razie wejścia stawek w życie.",
     "sources": {
       "https://abcnews.com/Business/trumps-aug-1-tariff-deadline/story?id=123921765": "ABC News",
-      "https://www.cbsnews.com/news/trump-trade-deals-tariffis-deadline/": "CBS News"
+      "https://www.cbsnews.com/news/trump-trade-deals-tariffis-deadline/": "CBS News",
+      "https://www.stockwatch.pl/wiadomosci/trump-oglosil-nowe-cla-ue-i-5-krajow-zaplaca-10-proc-reszta-swiata-wiecej,zagranica,376895": "StockWatch.pl"
     },
-    "last_updated": "2026-07-31 09:00"
+    "last_updated": "2026-07-31 23:55"
   },
   {
     "slug": "fed_stopy",
     "category": "world",
     "lead": false,
     "title": "Fed po raz kolejny utrzymuje stopy procentowe bez zmian: podzielone głosowanie",
-    "body": "Rezerwa Federalna Stanów Zjednoczonych zdecydowała pod koniec lipca o pozostawieniu głównej stopy procentowej bez zmian, mimo utrzymującej się podwyższonej inflacji i rosnącej presji politycznej na obniżki kosztu pieniądza. Decyzja zapadła jednak przy niecodziennie dużym rozłamie w komitecie, ponieważ aż trzech jego członków głosowało za podwyżką stóp, co media określają jako jedno z najbardziej podzielonych głosowań Federalnego Komitetu Otwartego Rynku od wielu lat. Rozdźwięk w gronie decydentów odzwierciedla szerszy spór w amerykańskiej polityce gospodarczej o to, czy priorytetem banku centralnego powinno być dalsze dławienie inflacji, czy raczej wspieranie spowalniającego wzrostu gospodarczego i rynku pracy. Decyzja Fedu ma bezpośrednie przełożenie na koszt kredytów w dolarach, kursy walut oraz nastroje na globalnych rynkach finansowych, w tym pośrednio na notowania spółek wrażliwych na zmiany stóp procentowych oraz na rynek kryptowalut. Kolejne posiedzenie amerykańskich władz monetarnych, na którym rynki spodziewają się nowych sygnałów co do dalszego kierunku polityki pieniężnej, zaplanowane jest na kolejne tygodnie.",
+    "body": "Rezerwa Federalna Stanów Zjednoczonych zdecydowała pod koniec lipca o pozostawieniu głównej stopy procentowej bez zmian, mimo utrzymującej się podwyższonej inflacji i rosnącej presji politycznej na obniżki kosztu pieniądza. Decyzja zapadła jednak przy niecodziennie dużym rozłamie w komitecie, ponieważ aż trzech jego członków głosowało za podwyżką stóp, co media określają jako jedno z najbardziej podzielonych głosowań Federalnego Komitetu Otwartego Rynku od wielu lat. Jak zwracają uwagę polskie serwisy ekonomiczne, było to pierwsze posiedzenie poprowadzone przez nowego szefa Fedu Kevina Warsha, następcę Jerome'a Powella, co podbiło zainteresowanie rynków kierunkiem polityki pieniężnej pod jego przewodnictwem. Rozdźwięk w gronie decydentów odzwierciedla szerszy spór w amerykańskiej polityce gospodarczej o to, czy priorytetem banku centralnego powinno być dalsze dławienie inflacji, czy raczej wspieranie spowalniającego wzrostu gospodarczego i rynku pracy. Decyzja Fedu przekłada się bezpośrednio na koszt kredytów w dolarach, kursy walut oraz nastroje na globalnych rynkach finansowych.",
     "sources": {
       "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv",
       "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html": "CNBC",
       "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation": "NPR",
       "https://www.parkiet.com/gospodarka-swiatowa/art44910041-fed-utrzymuje-stopy-procentowe-bez-zmian-trzy-glosy-za-podwyzka": "Parkiet.com",
-      "https://www.rp.pl/dane-gospodarcze/art44280061-jerome-powell-konczy-kadencje-w-cieniu-sporow-fed-nie-rusza-stop": "rp.pl"
+      "https://www.rp.pl/dane-gospodarcze/art44280061-jerome-powell-konczy-kadencje-w-cieniu-sporow-fed-nie-rusza-stop": "rp.pl",
+      "https://strefainwestorow.pl/strefa-global-market/gospodarka/fed-bez-zmian-kevin-warsh-fomc": "StrefaInwestorow.pl"
     },
-    "last_updated": "2026-07-31 09:00"
+    "last_updated": "2026-07-31 23:55"
   },
   {
     "slug": "bolsonaro",
@@ -265,15 +267,16 @@
     "category": "world",
     "lead": false,
     "title": "Fauci powołuje się na piątą poprawkę przed senacką komisją ws. Covid-19",
-    "body": "W środę 29 lipca dr Anthony Fauci, wieloletni doradca kolejnych amerykańskich prezydentów ds. chorób zakaźnych, podczas przesłuchania przed senacką komisją zdominowaną przez Republikanów wielokrotnie powoływał się na piątą poprawkę do konstytucji USA i odmawiał odpowiedzi na pytania dotyczące pochodzenia pandemii Covid-19 oraz polityki lockdownów. Przesłuchanie, prowadzone między innymi przez senatora Randa Paula, trwało kilka godzin i miało burzliwy przebieg; Fauci określił część pytań i zachowanie senatora jako nieopanowane, co wywołało ostrą wymianę zdań na sali. Republikańscy senatorowie zapowiedzieli rozważenie wniosku o pociągnięcie Fauciego do odpowiedzialności za obrazę Kongresu w związku z odmową współpracy. Krytycy, w tym część demokratycznych senatorów, ocenili przesłuchanie jako mające charakter polityczny i częściowo odwracające uwagę od merytorycznej dyskusji o gotowości USA na przyszłe pandemie. Sprawa jest częścią szerszego sporu politycznego wokół pochodzenia SARS-CoV-2 i decyzji podejmowanych przez amerykańskie władze zdrowia publicznego w pierwszych miesiącach pandemii, który powraca regularnie w amerykańskiej debacie publicznej od kilku lat.",
+    "body": "W środę 29 lipca dr Anthony Fauci, wieloletni doradca kolejnych amerykańskich prezydentów ds. chorób zakaźnych, podczas przesłuchania przed senacką komisją zdominowaną przez Republikanów wielokrotnie powoływał się na piątą poprawkę do konstytucji USA i odmawiał odpowiedzi na pytania dotyczące pochodzenia pandemii Covid-19 oraz polityki lockdownów. Przesłuchanie, prowadzone między innymi przez senatora Randa Paula, miało burzliwy przebieg; Fauci określił zachowanie senatora jako nieopanowane. Republikańscy senatorowie zapowiedzieli rozważenie wniosku o pociągnięcie Fauciego do odpowiedzialności za obrazę Kongresu w związku z odmową współpracy. W piątek ponad stu pięćdziesięciu pięciu naukowców z całego świata podpisało list otwarty w obronie Fauciego, określając naciski na niego jako atak na całą naukę i ostrzegając przed mrożącym efektem dla przyszłych doradców zdrowia publicznego. Krytycy, w tym część demokratycznych senatorów, ocenili przesłuchanie jako mające charakter polityczny. Sprawa jest częścią szerszego sporu wokół pochodzenia SARS-CoV-2, powracającego regularnie w amerykańskiej debacie publicznej.",
     "sources": {
       "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv",
       "https://www.cnn.com/2026/07/29/politics/anthony-fauci-fifth-amendment-plea": "CNN",
       "https://www.nbcnews.com/politics/congress/anthony-fauci-5th-amendment-testify-covid-hearing-rand-paul-rcna589793": "NBC News",
       "https://www.aljazeera.com/news/2026/7/30/why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explained": "Al Jazeera",
-      "https://www.axios.com/2026/07/29/anthony-fauci-fifth-amendment-covid-hearing-paul": "Axios"
+      "https://www.axios.com/2026/07/29/anthony-fauci-fifth-amendment-covid-hearing-paul": "Axios",
+      "https://www.rmf24.pl/fakty/swiat/news-anthony-fauci-milczal-przed-senatem-spor-o-pandemie-i-wuhan-,nIdn,1011878": "RMF24"
     },
-    "last_updated": "2026-07-31 13:00"
+    "last_updated": "2026-07-31 23:55"
   },
   {
     "slug": "francja_dziennikarka",
@@ -320,15 +323,16 @@
     "category": "world",
     "lead": false,
     "title": "Raport ujawnia dekady wykorzystywania seksualnego w szkole Interlochen, wśród sprawców Epstein",
-    "body": "Niezależne śledztwo zlecone przez elitarną szkołę artystyczną Interlochen Center for the Arts w stanie Michigan ujawniło, że na przestrzeni siedemdziesięciu lat działalności placówki co najmniej siedemdziesięciu uczniów oskarżyło łącznie czterdziestu siedmiu pracowników i osób powiązanych ze szkołą o wykorzystywanie seksualne. Wśród wymienionych w raporcie nazwisk znalazł się Jeffrey Epstein, zmarły w areszcie finansista skazany wcześniej za przestępstwa seksualne wobec nieletnich, powiązany ze szkołą jako darczyńca i gość w wcześniejszych dekadach. Władze Interlochen opublikowały oświadczenie, w którym przeprosiły byłych uczniów i pracowników za krzywdy wyrządzone w przeszłości oraz zadeklarowały wdrożenie nowych procedur ochrony dzieci i młodzieży przebywającej w ośrodku. Raport, przygotowany przez zewnętrzną kancelarię prawną na zlecenie zarządu szkoły, opisuje dekady zaniedbań instytucjonalnych, w tym przypadki ignorowania zgłoszeń przez ówczesne kierownictwo placówki. Sprawa dołącza do długiej listy ujawnianych w ostatnich latach w USA przypadków wieloletniego, systemowego tuszowania wykorzystywania seksualnego dzieci w renomowanych instytucjach edukacyjnych i kulturalnych.",
+    "body": "Niezależne śledztwo zlecone przez elitarną szkołę artystyczną Interlochen Center for the Arts w stanie Michigan ujawniło, że na przestrzeni siedemdziesięciu lat działalności placówki co najmniej siedemdziesięciu uczniów oskarżyło łącznie czterdziestu siedmiu pracowników i osób powiązanych ze szkołą o wykorzystywanie seksualne. Wśród wymienionych w raporcie nazwisk znalazł się Jeffrey Epstein, zmarły w areszcie finansista skazany wcześniej za przestępstwa seksualne wobec nieletnich, powiązany ze szkołą jako darczyńca i gość w wcześniejszych dekadach. Władze Interlochen przeprosiły byłych uczniów i pracowników oraz zadeklarowały nowe procedury ochrony dzieci i młodzieży w ośrodku. W piątek prawnik reprezentujący część ofiar byłego lekarza gimnastycznego Larry'ego Nassara wezwał ustawodawców stanu Michigan do pilnego działania legislacyjnego w związku z ustaleniami raportu, wskazując na podobieństwa systemowych zaniedbań w obu sprawach. Raport przygotowała zewnętrzna kancelaria prawna na zlecenie zarządu szkoły.",
     "sources": {
       "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv",
       "https://michiganadvance.com/2026/07/29/scathing-report-shows-decades-of-sexual-abuse-at-interlochen-arts-school-epstein-among-those-named/": "Michigan Advance",
       "https://www.cbsnews.com/detroit/news/interlochen-arts-center-sexual-misconduct-investigation-jeffrey-epstein/": "CBS Detroit",
       "https://bridgemi.com/talent-education/report-interlochen-sex-abuse-spans-70-years-extends-past-jeffrey-epstein/": "Bridge Michigan",
-      "https://www.interlochen.org/statement-interlochen": "Interlochen Center for the Arts (oświadczenie)"
+      "https://www.interlochen.org/statement-interlochen": "Interlochen Center for the Arts (oświadczenie)",
+      "https://www.uppermichiganssource.com/2026/07/31/nassar-survivor-attorney-pushes-michigan-lawmakers-act-after-interlochen-abuse-report-names-nearly-50-adults/": "Upper Michigan's Source"
     },
-    "last_updated": "2026-07-31 13:00"
+    "last_updated": "2026-07-31 23:55"
   },
   {
     "slug": "ceuta_migracja",
@@ -423,7 +427,7 @@
     "category": "world",
     "lead": false,
     "title": "Wojna USA i Izraela z Iranem rozszerza się na Zatokę Perską, Iran uderzył w Kuwejt i Bahrajn",
-    "body": "W czwartek 30 lipca trwający z przerwami od kwietnia konflikt zbrojny między Stanami Zjednoczonymi i Izraelem a Iranem rozszerzył się po raz pierwszy na terytorium Egiptu: dron uderzył w instalacje gazowe w porcie nad Morzem Śródziemnym, co CNN i Washington Times określiły jako sygnał rozlewania się wojny na kolejne kraje regionu. Dzień później, w piątek 31 lipca, Korpus Strażników Rewolucji Islamskiej uderzył w amerykańskie instalacje wojskowe w Kuwejcie i Bahrajnie, co potwierdziły Al Jazeera i CNBC. Wcześniej USA przeprowadziły, według CNBC i NBC News, kolejną, ciężką falę nalotów na cele w Iranie. Irańskie media państwowe twierdziły, że zniszczono trzy amerykańskie samoloty F-35 i zabito personel wojskowy USA, jednak doniesień tych nie potwierdziły żadne niezależne źródła ani strona amerykańska, więc należy je traktować jako niepotwierdzoną propagandę. Kuwejt poinformował o przechwyceniu części irańskich dronów, a wcześniejsze uderzenia odnotowano też w pobliżu Jordanii i Kanału Sueskiego, co budzi obawy o stabilność regionu Zatoki Perskiej. Prezydent Donald Trump rozmawiał z premierem Izraela Beniaminem Netanjahu o możliwym ponownym otwarciu Cieśniny Ormuz, zamkniętej od tygodni z powodu działań wojennych.",
+    "body": "W czwartek 30 lipca trwający z przerwami od kwietnia konflikt zbrojny między Stanami Zjednoczonymi i Izraelem a Iranem rozszerzył się po raz pierwszy na terytorium Egiptu: dron uderzył w instalacje gazowe w porcie nad Morzem Śródziemnym, co CNN i Washington Times określiły jako sygnał rozlewania się wojny na kolejne kraje regionu. Dzień później, w piątek 31 lipca, Korpus Strażników Rewolucji Islamskiej uderzył w amerykańskie instalacje wojskowe w Kuwejcie i Bahrajnie, co potwierdziły Al Jazeera i CNBC. Prezydent Donald Trump zapowiedział w piątek kolejną, ciężką falę uderzeń odwetowych, a według CNBC i NBC News administracja amerykańska planuje nowe naloty na cele w Iranie już w najbliższy weekend. Irańskie media państwowe twierdziły, że zniszczono trzy amerykańskie samoloty F-35, jednak doniesień tych nie potwierdziły niezależne źródła ani strona amerykańska, więc to niepotwierdzona propaganda. Kuwejt poinformował o przechwyceniu części irańskich dronów, a wcześniejsze uderzenia odnotowano też w pobliżu Jordanii i Kanału Sueskiego. Trump rozmawiał z Netanjahu o możliwym ponownym otwarciu Cieśniny Ormuz, zamkniętej od tygodni z powodu działań wojennych.",
     "sources": {
       "https://www.cnn.com/2026/07/30/world/live-news/iran-war-trump": "CNN",
       "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html": "CNBC",
@@ -432,7 +436,7 @@
       "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events": "Al Jazeera",
       "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html": "CNBC"
     },
-    "last_updated": "2026-07-31 19:15"
+    "last_updated": "2026-07-31 23:55"
   },
   {
     "slug": "znieczulica_a1",
