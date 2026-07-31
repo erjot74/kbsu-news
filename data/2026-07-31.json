@@ -385,17 +385,21 @@
     "slug": "broad_peak_lawina",
     "category": "world",
     "lead": false,
-    "title": "Lawina na Broad Peak w Pakistanie porwała dziesięciu wspinaczy, wśród nich Nirmal Purja",
-    "body": "W środę 29 lipca na stokach Broad Peak w paśmie Karakorum w Pakistanie zeszła potężna lawina, która porwała grupę dziesięciu wspinaczy szykujących się do wejścia na szczyt przed planowaną wyprawą na pobliskie K2. Wśród zaginionych znalazł się słynny nepalski himalaista Nirmal Nims Purja, znany na całym świecie z rekordowego zdobycia wszystkich czternastu ośmiotysięczników w niespełna siedem miesięcy oraz z dokumentu Netfliksa 14 Peaks. Według zgodnych relacji CNN, The Week oraz serwisu Kathmandu Post do piątku 31 lipca ratownicy odnaleźli cztery ciała ofiar, natomiast los pozostałych sześciu wspinaczy, w tym Purji, wciąż pozostawał nieznany, mimo trwającej kilka dni akcji poszukiwawczej prowadzonej w trudnych warunkach wysokogórskich. Polskie media, w tym RMF24, TVN24 Eurosport oraz TVP Info, szeroko relacjonowały dramat, podkreślając wyjątkową pozycję Purji w środowisku himalaistów i ogromny niepokój wspinaczy na całym świecie o los zaginionej grupy. Organizatorzy wyprawy oraz pakistańskie służby ratunkowe kontynuują poszukiwania, choć nadzieje na odnalezienie kolejnych osób żywych maleją z każdym dniem od katastrofy.",
+    "title": "Lawina na Broad Peak: sprzeczne doniesienia o liczbie ciał, szanse na przeżycie bliskie zeru",
+    "body": "W środę 29 lipca na stokach Broad Peak w paśmie Karakorum w Pakistanie zeszła potężna lawina, która porwała grupę dziesięciu wspinaczy szykujących się do wejścia na szczyt przed planowaną wyprawą na pobliskie K2. Wśród zaginionych znalazł się słynny nepalski himalaista Nirmal Nims Purja, znany z rekordowego zdobycia wszystkich czternastu ośmiotysięczników w niespełna siedem miesięcy oraz z dokumentu Netfliksa 14 Peaks. Doniesienia o liczbie odnalezionych ciał różnią się w zależności od źródła: PAP, CBS News i CNN podawały w piątek po południu o czterech odnalezionych ciałach, natomiast wieczorem polski serwis wspinanie.pl informował już o dziewięciu, co nie zostało jeszcze potwierdzone przez pakistańskie służby ani agencje zachodnie. Niezależnie od dokładnej liczby, ESKA, o2 i Super Express zgodnie cytowały ratowników mówiących, że szanse na odnalezienie kogokolwiek żywego są już bliskie zeru po trzech dniach akcji w ekstremalnych warunkach wysokogórskich. Polskie media, w tym RMF24 i TVN24 Eurosport, podkreślają wyjątkową pozycję Purji w środowisku himalaistów. Organizatorzy wyprawy i pakistańskie służby kontynuują poszukiwania, choć nadzieje słabną z każdą godziną.",
     "sources": {
       "https://www.cnn.com/2026/07/30/asia/climber-nirmal-purja-feared-missing-intl-hnk": "CNN",
       "https://www.theweek.in/news/world/2026/07/31/broad-peak-avalanche-four-bodies-recovered-no-news-of-nirmal-purja-yet.html": "The Week",
       "https://kathmandupost.com/national/2026/07/31/four-bodies-recovered-after-avalanche-hits-broad-peak-nirmal-purja-among-climbers-missing": "Kathmandu Post",
       "https://www.rmf24.pl/fakty/swiat/news-dramat-na-broad-peak-lawina-porwala-dziesiec-osob-w-tym-lege,nIdn,1012050": "RMF24",
       "https://eurosport.tvn24.pl/wspinaczka-gorska/nirmal-purja-wsrod-zaginionych-po-zejsciu-lawiny-na-broad-peaku-w-karakorum.-odnaleziono-cztery-ciala_sto23324135/story.shtml": "Eurosport TVN24",
-      "https://www.tvp.info/94621167/pakistan-broad-peak-lawina-porwala-10-wspinaczy-wsrod-nich-nirmal-nims-purja-kim-jest-nirmal-purja-osiagniecia": "TVP INFO"
+      "https://www.tvp.info/94621167/pakistan-broad-peak-lawina-porwala-10-wspinaczy-wsrod-nich-nirmal-nims-purja-kim-jest-nirmal-purja-osiagniecia": "TVP INFO",
+      "https://wspinanie.pl/2026/07/broad-peak-lawina/": "wspinanie.pl",
+      "https://www.eska.pl/news/swiat/smiertelna-lawina-na-broad-peak-dziesieciu-wspinaczy-uznano-za-zmarlych-aa-VCDc-3PQg-Mcru.html": "ESKA.pl",
+      "https://www.se.pl/wiadomosci/swiat/lawina-na-broad-peak-szanse-na-odnalezienie-ocalalych-sa-oceniane-jako-niemal-zerowe-aa-dbGn-EYcr-uMdE.html": "Super Express",
+      "https://www.o2.pl/informacje/lawina-na-broad-peak-nie-ma-kontaktu-z-dziesiecioma-wspinaczami-7313290171156480a": "o2.pl"
     },
-    "last_updated": "2026-07-31 17:00"
+    "last_updated": "2026-07-31 21:20"
   },
   {
     "slug": "nawrocki_lancuchowa",
@@ -425,5 +429,19 @@
       "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html": "CNBC"
     },
     "last_updated": "2026-07-31 19:15"
+  },
+  {
+    "slug": "znieczulica_a1",
+    "category": "pl",
+    "lead": false,
+    "title": "Bus wypadł z A1, kierowcy przejeżdżali obojętnie obok wypadku",
+    "body": "W czwartek 30 lipca na autostradzie A1 w okolicach Częstochowy doszło do wypadku, w którym bus przewożący kilka osób zjechał z jezdni, przebił bariery ochronne i dachował na poboczu. Nagranie z rejestratora jadącego z tyłu kierowcy, opisane między innymi przez WP Wiadomości, naTemat.pl, o2.pl oraz Polskie Radio 24, pokazało, że obok rozbitego pojazdu przejechało aż 67 samochodów, z których zatrzymały się zaledwie trzy, by udzielić pomocy poszkodowanym. Autor nagrania, który sam zatrzymał się na miejscu, opisał zachowanie większości kierowców jako przerażającą znieczulicę i zaapelował o większą wrażliwość na drodze. Poszkodowani pasażerowie busa zostali przewiezieni do szpitala po przybyciu służb ratunkowych, wezwanych przez osoby, które się zatrzymały. Sprawa wywołała szeroką dyskusję w mediach społecznościowych na temat prawnego obowiązku udzielania pomocy ofiarom wypadków, którego niedopełnienie grozi w Polsce odpowiedzialnością karną. Komentatorzy i psychologowie tłumaczyli bierność kierowców tak zwanym efektem widza, czyli skłonnością do bierności w grupie świadków zdarzenia, gdy każdy liczy, że pomoc udzieli ktoś inny. Policja i GDDKiA ustalają dokładne okoliczności wypadku.",
+    "sources": {
+      "https://wiadomosci.wp.pl/przerazajaca-znieczulica-na-a1-przejechalo-67-aut-pomogly-tylko-3-7313385750631489v": "WP Wiadomości",
+      "https://natemat.pl/663115,koszmarny-wypadek-na-a1-i-obojetnosc-kierowcow-zatrwazajacy-film-i-dane-gddkia": "naTemat.pl",
+      "https://www.o2.pl/informacje/wstrzasajace-sceny-na-a1-naliczyli-67-aut-ponure-wnioski-7313374888806464a": "o2.pl",
+      "https://polskieradio24.pl/polska/porazajace-nagranie-z-a1-mknacy-bus-przekoziolkowal-przez-barierki": "Polskie Radio 24"
+    },
+    "last_updated": "2026-07-31 21:20"
   }
 ]
