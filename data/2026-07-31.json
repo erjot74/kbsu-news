@@ -206,12 +206,14 @@
     "category": "world",
     "lead": false,
     "title": "Pożary w Hiszpanii i Francji: nowa fala upałów utrudnia gaszenie",
-    "body": "Kolejna fala rekordowych upałów w Hiszpanii i Francji utrudnia strażakom walkę z licznymi pożarami lasów, które od kilku dni obejmują coraz większe obszary obu krajów. Hiszpańskie władze ogłosiły w części regionów stan wyjątkowy, a łącznie w obu krajach ewakuowano już ponad dwieście tysięcy osób z terenów zagrożonych ogniem. Służby ratownicze ostrzegają, że utrzymujące się wysokie temperatury, silny wiatr i susza mogą w najbliższych dniach jeszcze pogorszyć sytuację i doprowadzić do powstania nowych ognisk pożarów. W gaszeniu ognia biorą udział tysiące strażaków, wojsko oraz samoloty i śmigłowce gaśnicze, a część krajów Unii Europejskiej wysłała dodatkowe wsparcie w ramach unijnego mechanizmu ochrony ludności. Lokalne władze apelują do mieszkańców i turystów o ścisłe przestrzeganie zakazów wstępu do zagrożonych terenów leśnych oraz zakazów rozpalania ognia. Naukowcy i klimatolodzy podkreślają, że kolejne fale upałów i pożarów nawiedzające południe Europy w ostatnich latach są zgodne z prognozami dotyczącymi skutków zmian klimatu dla regionu śródziemnomorskiego.",
+    "body": "Kolejna fala rekordowych upałów w Hiszpanii i Francji utrudnia strażakom walkę z licznymi pożarami lasów, które od kilku dni obejmują coraz większe obszary obu krajów. Hiszpańskie władze ogłosiły w części regionów stan wyjątkowy, a łącznie w obu krajach ewakuowano już ponad dwieście tysięcy osób z terenów zagrożonych ogniem. Do tragedii doszło pod Marsylią na południu Francji, gdzie podczas gaszenia jednego z pożarów zginął trzydziestoośmioletni strażak, co stało się pierwszą potwierdzoną śmiertelną ofiarą tegorocznej fali pożarów we Francji. Ogień dotarł miejscami aż do obrzeży Marsylii, zmuszając służby do ewakuacji kolejnych dzielnic miasta. Służby ratownicze ostrzegają, że utrzymujące się wysokie temperatury, silny wiatr i susza mogą w najbliższych dniach jeszcze pogorszyć sytuację. W gaszeniu ognia biorą udział tysiące strażaków, wojsko oraz samoloty i śmigłowce gaśnicze, a kilka krajów Unii Europejskiej, w tym Polska, wysłało dodatkowe wsparcie. Naukowcy i klimatolodzy podkreślają, że kolejne fale upałów i pożarów nawiedzające południe Europy są zgodne z prognozami dotyczącymi skutków zmian klimatu dla regionu śródziemnomorskiego.",
     "sources": {
       "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires": "NPR",
-      "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people": "Al Jazeera"
+      "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people": "Al Jazeera",
+      "https://www.rp.pl/kleski-zywiolowe/art44896201-jest-pierwsza-ofiara-walki-z-pozarami-we-francji-zginal-38-letni-strazak": "rp.pl",
+      "https://www.pap.pl/aktualnosci/trwaja-pozary-na-poludniu-francji-ogien-dotarl-do-obrzezy-marsylii": "PAP"
     },
-    "last_updated": "2026-07-31 13:00"
+    "last_updated": "2026-07-31 16:00"
   },
   {
     "slug": "cla_usa",
@@ -328,28 +330,49 @@
     "category": "world",
     "lead": false,
     "title": "Kryzys migracyjny w hiszpańskiej Ceucie",
-    "body": "Do hiszpańskiej eksklawy Ceuta w Afryce Północnej w ciągu kilku dni przedarły się tysiące migrantów, głównie obywateli Maroka, co hiszpańskie media określiły jako jeden z największych szturmów na granicę tej enklawy od lat. Według doniesień z ostatnich godzin liczba osób biorących udział w próbach przekroczenia granicy oraz już przebywających w mieście sięgnęła około czterdziestu dziewięciu tysięcy, a wielu migrantów spędzało noce na ulicach z powodu braku miejsc w ośrodkach recepcyjnych. Hiszpański rząd podjął decyzję o skierowaniu do Ceuty dodatkowych oddziałów wojska i żandarmerii, a lokalne władze zamknęły czasowo część przejść granicznych z Marokiem, by opanować chaos i przywrócić kontrolę nad przepływem ludzi. Na nagraniach publikowanych przez media widać tłumy ludzi próbujących sforsować ogrodzenia graniczne oraz interwencje służb porządkowych. Madryt zapowiedział rozmowy z władzami Maroka w sprawie wzmocnienia kontroli po marokańskiej stronie granicy, a Unia Europejska śledzi rozwój sytuacji, przypominając o wcześniejszych podobnych kryzysach migracyjnych na hiszpańsko-marokańskiej granicy w Ceucie i Melilli.",
+    "body": "Do hiszpańskiej eksklawy Ceuta w Afryce Północnej w ciągu kilku dni przedarły się dziesiątki tysięcy migrantów, głównie obywateli Maroka, co hiszpańskie media określiły jako jeden z największych szturmów na granicę tej enklawy od lat. Według najnowszych doniesień liczba osób, które przekroczyły granicę lub wciąż przebywają w mieście, sięgnęła już około sześćdziesięciu tysięcy, a wielu migrantów nadal spędza noce na ulicach z powodu braku miejsc w ośrodkach recepcyjnych. Premier Hiszpanii Pedro Sanchez zapowiedział mobilizację niezbędnych służb, a rząd skierował do Ceuty dodatkowe oddziały wojska i żandarmerii, czasowo zamykając część przejść granicznych z Marokiem, by opanować chaos. Na nagraniach publikowanych przez media widać tłumy ludzi forsujących ogrodzenia graniczne. Sytuacja wywołała reakcję również poza Hiszpanią: premier Włoch Giorgia Meloni zapowiedziała stanowcze wsparcie dla Madrytu w ochronie zewnętrznej granicy Unii Europejskiej. Madryt zapowiedział rozmowy z władzami Maroka w sprawie wzmocnienia kontroli po marokańskiej stronie granicy, a Komisja Europejska śledzi rozwój sytuacji.",
     "sources": {
       "https://www.rmf24.pl/fakty/swiat/news-migranci-szturmuja-hiszpanska-eksklawe-madryt-wysyla-wojsko,nIdn,1012015": "RMF24",
       "https://www.rp.pl/spoleczenstwo/art44917211-tysiace-marokanczykow-przedarlo-sie-do-hiszpanskiej-ceuty-madryt-wysyla-wojsko": "rp.pl",
       "https://tvn24.pl/swiat/hiszpania-kryzys-migracyjny-w-ceucie-hiszpania-wysyla-wojsko-st9166427": "TVN24",
       "https://wiadomosci.wp.pl/potezny-szturm-na-ceute-49-tys-ludzi-i-wojsko-w-akcji-7313348081915904a": "WP Wiadomosci",
-      "https://wiadomosci.wp.pl/inwazja-na-ceute-tysiace-migrantow-spalo-na-ulicach-7313337764313152a": "WP Wiadomosci"
+      "https://wiadomosci.wp.pl/inwazja-na-ceute-tysiace-migrantow-spalo-na-ulicach-7313337764313152a": "WP Wiadomosci",
+      "https://wiadomosci.wp.pl/ceuta-pod-presja-granice-przekroczylo-juz-60-tys-migrantow-7313401037481984a": "WP Wiadomości",
+      "https://wydarzenia.interia.pl/zagranica/news-szturm-migrantow-na-ceute-wysylaja-wojsko-wybuchl-potezny-kr,nId,23522315": "Interia",
+      "https://wiadomosci.wp.pl/to-wykrzykuja-migranci-ktorzy-wtargneli-do-ceuty-nie-do-maroka-7313318016034880a": "WP Wiadomości"
     },
-    "last_updated": "2026-07-31 13:00"
+    "last_updated": "2026-07-31 16:00"
   },
   {
     "slug": "wroclaw_pobicie",
     "category": "pl",
     "lead": false,
     "title": "Pobicie ukraińskiej pary we Wrocławiu wywołuje spór polityczny",
-    "body": "W nocy z 26 na 27 lipca we Wrocławiu doszło do brutalnego pobicia pary obywateli Ukrainy, co wywołało falę oburzenia i spór polityczny na najwyższym szczeblu. Według policji i mediów napastnicy zaatakowali kobietę i mężczyznę bez wyraźnego powodu, po czym uciekli z miejsca zdarzenia. Policja zatrzymała dwóch podejrzanych mężczyzn, a wobec jednego z nich prokuratura zastosowała areszt tymczasowy. Sprawa szybko nabrała wymiaru politycznego: premier Donald Tusk zaapelował do prezydenta Karola Nawrockiego o jednoznaczne potępienie ataku, zarzucając części polityków prawicy współodpowiedzialność za wzrost nastrojów antyukraińskich w kraju. Ambasada Ukrainy oraz władze w Kijowie wyraziły zaniepokojenie bezpieczeństwem ukraińskich obywateli w Polsce i zaapelowały o rzetelne wyjaśnienie sprawy. Wokół zdarzenia w mediach społecznościowych krążyły też nieprawdziwe informacje, co skłoniło część redakcji do dodatkowego fact checkingu okoliczności napadu. Sprawa wywołała szerszą debatę o bezpieczeństwie mniejszości ukraińskiej w polskich miastach oraz o odpowiedzialności polityków za ton debaty publicznej dotyczącej uchodźców z Ukrainy.",
+    "body": "W nocy z 26 na 27 lipca we Wrocławiu doszło do brutalnego pobicia pary obywateli Ukrainy, co wywołało falę oburzenia i spór polityczny na najwyższym szczeblu. Napastnicy zaatakowali kobietę i mężczyznę bez wyraźnego powodu, po czym uciekli z miejsca zdarzenia. Policja zatrzymała dwóch podejrzanych mężczyzn, a wrocławski sąd zdecydował w środę o zastosowaniu wobec obu tymczasowego aresztu, uznając argumenty prokuratury o możliwym matactwie i ryzyku ucieczki za wiarygodne. Wcześniej informowano jedynie o areszcie dla jednego z podejrzanych, jednak ostatecznie za kratami znaleźli się obaj mężczyźni. Sprawa nabrała wymiaru politycznego: premier Donald Tusk zaapelował do prezydenta Karola Nawrockiego o jednoznaczne potępienie ataku, zarzucając części polityków prawicy współodpowiedzialność za wzrost nastrojów antyukraińskich. Ambasada Ukrainy wyraziła zaniepokojenie bezpieczeństwem swoich obywateli w Polsce. Wokół zdarzenia krążyły w sieci nieprawdziwe informacje, co skłoniło część redakcji do dodatkowego fact checkingu. Sprawa wywołała szerszą debatę o bezpieczeństwie mniejszości ukraińskiej w polskich miastach.",
     "sources": {
       "https://www.pap.pl/aktualnosci/sprawa-pobicia-pary-ukraincow-we-wroclawiu-zatrzymano-dwoch-mezczyzn": "PAP",
       "https://tvn24.pl/wroclaw/wroclaw-mezczyzni-podejrzewani-o-pobicie-ukraincow-zatrzymani-st9161482": "TVN24",
       "https://www.rp.pl/polityka/art44897961-donald-tusk-o-ataku-na-ukraincow-we-wroclawiu-niech-prezydent-przestanie-milczec": "rp.pl",
-      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11282312,pobicie-ukraincow-wroclaw-areszt-falszywe-informacje-fakt-checking.html": "GazetaPrawna.pl"
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11282312,pobicie-ukraincow-wroclaw-areszt-falszywe-informacje-fakt-checking.html": "GazetaPrawna.pl",
+      "https://www.rp.pl/prawo-karne/art44905001-pobicie-pary-ukraincow-we-wroclawiu-dwoch-sprawcow-idzie-za-kraty": "rp.pl",
+      "https://www.polsatnews.pl/wiadomosc/2026-07-29/pobicie-ukraincow-we-wroclawiu-jest-tymczasowy-areszt-dla-podejrzanych/": "PolsatNews.pl",
+      "https://www.rmf24.pl/regiony/wroclaw/news-brutalne-pobicie-pary-ukraincow-we-wroclawiu-jest-decyzja-sa,nIdn,1011817": "RMF24"
     },
-    "last_updated": "2026-07-31 13:00"
+    "last_updated": "2026-07-31 16:00"
+  },
+  {
+    "slug": "mundial_bojka",
+    "category": "world",
+    "lead": false,
+    "title": "Skandal po finale mistrzostw świata: FIFA karze Argentynę za bójkę i transparent",
+    "body": "W finale mistrzostw świata w piłce nożnej 2026 Hiszpania pokonała broniącą tytułu Argentynę 1:0, jednak spotkanie zakończyło się gwałtowną bójką na boisku tuż po ostatnim gwizdku sędziego. Argentyński pomocnik Leandro Paredes miał, według relacji świadków i nagrań telewizyjnych, zaatakować dwóch hiszpańskich zawodników, w tym młodego pomocnika Gaviego, co wywołało ogólną szarpaninę z udziałem obu ekip. Sędzia ukarał Paredesa czerwoną kartką jeszcze na boisku, a FIFA niemal natychmiast wszczęła postępowanie dyscyplinarne wobec kilku piłkarzy reprezentacji Argentyny oraz samej federacji AFA. Śledczy FIFA badają też osobno sprawę transparentu z politycznym przekazem dotyczącym Falklandów, wniesionego przez argentyńskich kibiców na trybuny podczas finału, co może skutkować odrębnymi sankcjami wobec związku. Eksperci cytowani przez media sportowe wskazują, że Argentyńczykom grożą wielomeczowe zawieszenia kluczowych zawodników oraz wysoka kara finansowa dla federacji. Sprawa wywołała szeroką dyskusję w mediach na całym świecie o kulturze rywalizacji i bezpieczeństwie na boisku podczas wielkich finałów.",
+    "sources": {
+      "https://www.rmf24.pl/fakty/sport/news-skandal-po-finale-mundialu-fifa-wszczyna-sledztwo-po-wielkie,nIdn,1010698": "RMF24",
+      "https://www.gazetaprawna.pl/wiadomosci/swiat/artykuly/11282481,fifa-wszczyna-postepowanie-awantura-final-ms-argentyna-hiszpania-gavi-paredes.html": "GazetaPrawna.pl",
+      "https://sportowefakty.wp.pl/pilka-nozna/1265010/argentyna-sie-doigrala-fifa-wszczela-postepowanie-takze-przeciwko-hiszpanowi": "WP SportoweFakty",
+      "https://eurosport.tvn24.pl/pilka-nozna/mistrzostwa-swiata/2026/mundial-2026.-bojka-po-finale-hiszpania-argentyna.-leandro-paredes-zaatakowal-dwoch-rywali_sto23321133/story.shtml": "Eurosport TVN24",
+      "https://www.aljazeera.com/sports/2026/7/30/world-cup-what-have-fifa-charged-argentina-with-what-could-punishment-be": "Al Jazeera"
+    },
+    "last_updated": "2026-07-31 16:00"
   }
 ]
