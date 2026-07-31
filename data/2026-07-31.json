@@ -156,8 +156,8 @@
     "slug": "hamas_deal",
     "category": "world",
     "lead": true,
-    "title": "Hamas deklaruje zgodę na rozbrojenie, ale Izrael odrzuca warunki porozumienia",
-    "body": "Prezydent USA Donald Trump ogłosił w czwartek, że powołany przez niego Board of Peace wypracował porozumienie zakładające całkowite rozbrojenie Hamasu, a w piątek przedstawiciele ugrupowania potwierdzili zgodę na jego warunki. Rozbrojenie ma przebiegać etapami przez około 90 dni, obejmując przekazanie wyrzutni rakietowych i pocisków, oddanie broni oraz zniszczenie tuneli pod Strefą Gazy, przy wsparciu międzynarodowych sił stabilizacyjnych. Izrael, w tym premier Benjamin Netanjahu, niemal od razu zakwestionował ostateczny kształt porozumienia, twierdząc, że nie spełnia ono wcześniejszych żądań, i zapowiedział, że nie wycofa wojsk z tak zwanej żółtej linii w Gazie, dopóki Hamas nie zostanie w pełni rozbrojony. Przedstawiciele Hamasu zastrzegli z kolei, że złożenie broni w magazynach zależy od wcześniejszego wycofania wojsk izraelskich i rozwiązania wspieranych przez Izrael milicji na terenie Gazy. Urzędnicy amerykańscy ostrzegli, że Trump będzie rozczarowany, jeśli Izrael zablokuje realizację planu. Komentatorzy oceniają, że wdrożenie porozumienia pozostaje niepewne i może utknąć na etapie negocjacji szczegółów, podobnie jak wcześniejsze próby zakończenia konfliktu w Gazie.",
+    "title": "Hamas deklaruje zgodę na rozbrojenie, ale minister Ben-Gvir nazywa porozumienie nie do przyjęcia",
+    "body": "Prezydent USA Donald Trump ogłosił w czwartek, że powołany przez niego Board of Peace wypracował porozumienie zakładające całkowite rozbrojenie Hamasu, a w piątek przedstawiciele ugrupowania potwierdzili zgodę na jego warunki. Rozbrojenie ma przebiegać etapami przez około 90 dni, obejmując przekazanie wyrzutni rakietowych i pocisków, oddanie broni oraz zniszczenie tuneli pod Strefą Gazy, przy wsparciu międzynarodowych sił stabilizacyjnych. Izrael, w tym premier Benjamin Netanjahu, niemal od razu zakwestionował ostateczny kształt porozumienia i zapowiedział, że nie wycofa wojsk z tak zwanej żółtej linii w Gazie, dopóki Hamas nie zostanie w pełni rozbrojony. W piątek wieczorem skrajnie prawicowy minister Itamar Ben-Gvir określił porozumienie jako nie do przyjęcia, mówiąc, że Izrael musi wygrać, a nie zawierać porozumień kapitulacyjnych, podczas gdy sam Netanjahu, według Times of Israel, powstrzymał się od komentarza mimo zapewnień Trumpa, że Izrael jest zadowolony z ustaleń. Hamas zastrzegł, że złożenie broni zależy od wcześniejszego wycofania wojsk izraelskich i rozwiązania wspieranych przez Izrael milicji w Gazie. Komentatorzy oceniają, że wdrożenie porozumienia pozostaje niepewne wobec sprzeciwu części izraelskiej koalicji rządzącej.",
     "sources": {
       "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza": "NPR",
       "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza": "Al Jazeera",
@@ -168,9 +168,10 @@
       "https://www.washingtonpost.com/world/2026/07/31/hamas-disarm-trump-gaza-board-of-peace/c11f461a-8cd0-11f1-8912-d71e69d679d7_story.html": "Washington Post",
       "https://www.timesofisrael.com/liveblog_entry/israel-rejects-emerging-hamas-disarmament-plan-vows-no-gaza-pullout-until-its-fully-demilitarized-official/": "Times of Israel",
       "https://www.jpost.com/middle-east/article-904113": "The Jerusalem Post",
-      "https://www.middleeasteye.net/news/hamas-says-it-will-not-disarm-gaza-israeli-withdrawal": "Middle East Eye"
+      "https://www.middleeasteye.net/news/hamas-says-it-will-not-disarm-gaza-israeli-withdrawal": "Middle East Eye",
+      "https://www.timesofisrael.com/liveblog_entry/ben-gvir-says-hamas-disarmament-deal-unacceptable/": "Times of Israel"
     },
-    "last_updated": "2026-07-31 14:00"
+    "last_updated": "2026-07-31 19:15"
   },
   {
     "slug": "atak_ukraina",
@@ -413,14 +414,16 @@
     "slug": "iran_wojna_egipt",
     "category": "world",
     "lead": false,
-    "title": "Wojna USA i Izraela z Iranem rozszerza się na Egipt, dron uderzył w port nad Morzem Śródziemnym",
-    "body": "W czwartek 30 lipca trwający z przerwami od kwietnia konflikt zbrojny między Stanami Zjednoczonymi i Izraelem a Iranem rozszerzył się po raz pierwszy na terytorium Egiptu: dron uderzył w instalacje gazowe w porcie nad Morzem Śródziemnym, co CNN i Washington Times określiły jako sygnał rozlewania się wojny na kolejne kraje regionu. Wcześniej tego samego dnia USA przeprowadziły, według CNBC i NBC News, kolejną, opisywaną jako ciężką, falę nalotów na cele w Iranie, w odpowiedzi na co Teheran zapowiedział, że tego samego dnia ukarze agresora. Irańskie media państwowe twierdziły, że zniszczono trzy amerykańskie samoloty F-35 i zabito personel wojskowy USA, jednak doniesień tych nie potwierdziły żadne niezależne źródła ani strona amerykańska, więc należy je traktować jako niepotwierdzoną propagandę. Kuwejt poinformował o przechwyceniu irańskich dronów nad swoim terytorium, a wcześniej uderzenia odnotowano też w pobliżu Jordanii i Kanału Sueskiego, co budzi obawy o bezpieczeństwo szlaków żeglugowych. Prezydent Donald Trump rozmawiał z premierem Izraela Beniaminem Netanjahu o możliwym ponownym otwarciu Cieśniny Ormuz, zamkniętej od tygodni z powodu działań wojennych.",
+    "title": "Wojna USA i Izraela z Iranem rozszerza się na Zatokę Perską, Iran uderzył w Kuwejt i Bahrajn",
+    "body": "W czwartek 30 lipca trwający z przerwami od kwietnia konflikt zbrojny między Stanami Zjednoczonymi i Izraelem a Iranem rozszerzył się po raz pierwszy na terytorium Egiptu: dron uderzył w instalacje gazowe w porcie nad Morzem Śródziemnym, co CNN i Washington Times określiły jako sygnał rozlewania się wojny na kolejne kraje regionu. Dzień później, w piątek 31 lipca, Korpus Strażników Rewolucji Islamskiej uderzył w amerykańskie instalacje wojskowe w Kuwejcie i Bahrajnie, co potwierdziły Al Jazeera i CNBC. Wcześniej USA przeprowadziły, według CNBC i NBC News, kolejną, ciężką falę nalotów na cele w Iranie. Irańskie media państwowe twierdziły, że zniszczono trzy amerykańskie samoloty F-35 i zabito personel wojskowy USA, jednak doniesień tych nie potwierdziły żadne niezależne źródła ani strona amerykańska, więc należy je traktować jako niepotwierdzoną propagandę. Kuwejt poinformował o przechwyceniu części irańskich dronów, a wcześniejsze uderzenia odnotowano też w pobliżu Jordanii i Kanału Sueskiego, co budzi obawy o stabilność regionu Zatoki Perskiej. Prezydent Donald Trump rozmawiał z premierem Izraela Beniaminem Netanjahu o możliwym ponownym otwarciu Cieśniny Ormuz, zamkniętej od tygodni z powodu działań wojennych.",
     "sources": {
       "https://www.cnn.com/2026/07/30/world/live-news/iran-war-trump": "CNN",
       "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html": "CNBC",
       "https://www.nbcnews.com/world/iran/us-heavy-wave-strikes-iran-war-attack-trump-saudi-egypt-drone-oil-rcna589967": "NBC News",
-      "https://www.washingtontimes.com/news/2026/jul/30/middle-east-war-expands-egypt-us-continues-strikes-iran/": "Washington Times"
+      "https://www.washingtontimes.com/news/2026/jul/30/middle-east-war-expands-egypt-us-continues-strikes-iran/": "Washington Times",
+      "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events": "Al Jazeera",
+      "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html": "CNBC"
     },
-    "last_updated": "2026-07-31 18:00"
+    "last_updated": "2026-07-31 19:15"
   }
 ]
