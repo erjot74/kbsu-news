@@ -3,8 +3,8 @@
     "slug": "ch101_rocket",
     "category": "pl",
     "lead": true,
-    "title": "Rosyjska rakieta spadła na terytorium Polski, NATO zapowiada wszelkie niezbędne środki",
-    "body": "W nocy z 29 na 30 lipca Rosja przeprowadziła kolejny masowy atak rakietowo dronowy na Ukrainę, w wyniku którego zginęło co najmniej osiem osób, a kilkanaście kolejnych zostało rannych. Według polskich służb oraz doniesień agencyjnych jeden z elementów ataku, najprawdopodobniej rosyjska rakieta lub jej szczątki, przekroczył polską granicę i spadł na terenie województwa lubelskiego, pozostawiając po sobie krater. Służby przez całą noc zabezpieczały miejsce zdarzenia, a polskie i sojusznicze myśliwce zostały podniesione w powietrze w ramach procedur ostrzegawczych. NATO poinformowało, że pozostaje w bezpośrednim kontakcie z polskimi władzami i podejmie wszelkie niezbędne środki w celu ochrony przestrzeni powietrznej sojuszu. Ukraiński minister spraw zagranicznych Andrij Sybiha określił incydent jako bezpośrednie zagrożenie nie tylko dla Polski, ale dla całego NATO, a zdecydowaną reakcję wystosował także ambasador USA w Warszawie. Według dotychczasowych ustaleń nie ma potwierdzonych doniesień o ofiarach po polskiej stronie granicy. To kolejny w ostatnich latach przypadek, gdy szczątki broni używanej przez Rosję przeciwko Ukrainie lądują na polskim terytorium, co ponownie wywołało dyskusję o bezpieczeństwie wschodniej flanki sojuszu.",
+    "title": "Rosyjska rakieta spadła na terytorium Polski, MON i NATO potwierdzają",
+    "body": "W nocy z 29 na 30 lipca Rosja przeprowadziła kolejny masowy atak rakietowo dronowy na Ukrainę, w którym zginęło co najmniej osiem osób. Według polskich służb jeden z elementów ataku, najprawdopodobniej rosyjska rakieta manewrująca Ch-101, przekroczył polską granicę i spadł w miejscowości Tarnawa-Kolonia w województwie lubelskim, pozostawiając po sobie krater. Prokuratura ustaliła, że pocisk zawierał znaczną ilość materiału wybuchowego, co czyniło go potencjalnie bardzo niebezpiecznym. Ministerstwo Obrony Narodowej potwierdziło z pełną odpowiedzialnością rosyjskie pochodzenie obiektu, a wiceminister Cezary Tomczyk przekazał, że nad Polskę leciało w tę noc około dwudziestu rosyjskich rakiet. Szef MSZ Radosław Sikorski zaznaczył, że nie wiadomo jeszcze, czy incydent był działaniem celowym. Sekretarz generalny NATO Mark Rutte oraz sojusznicy określili wydarzenie jako lekkomyślny akt ze strony Rosji, a Sojusz zapowiedział podjęcie wszelkich niezbędnych środków w celu ochrony przestrzeni powietrznej. Prezydent Ukrainy Wołodymyr Zełenski zaapelował do sojuszników o wzmocnienie obrony powietrznej. Nie ma potwierdzonych doniesień o ofiarach po polskiej stronie granicy.",
     "sources": {
       "https://www.rmf24.pl/regiony/lublin/news-jest-nagranie-z-momentu-uderzenia-w-tarnawie-kolonii-to-praw,nIdn,1011927": "RMF24",
       "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11283136,rosyjska-rakieta-ch101-w-polsce-zelenski-apeluje-tomczyk-potwierdza-2026.html": "GazetaPrawna.pl",
@@ -15,8 +15,13 @@
       "https://www.pap.pl/aktualnosci/z-duzym-prawdopodobienstwem-rosyjska-premier-o-uzbrojonej-rakiecie-w-tarnawie-kolonii": "PAP",
       "https://wiadomosci.wp.pl/rosyjski-pocisk-w-polsce-lej-zasypany-teren-przekazany-wlascicielowi-7313149192652864a": "WP Wiadomosci",
       "https://www.rp.pl/konflikty-zbrojne/art44912741-sybiha-to-rosyjska-rakieta-wleciala-do-polski-to-bezposrednie-zagrozenie": "rp.pl",
-      "https://wydarzenia.interia.pl/zagranica/news-wszelkie-niezbedne-dzialania-nato-reaguje-ws-rosyjskiej-raki,nId,23522090": "Interia"
-    }
+      "https://wydarzenia.interia.pl/zagranica/news-wszelkie-niezbedne-dzialania-nato-reaguje-ws-rosyjskiej-raki,nId,23522090": "Interia",
+      "https://wydarzenia.interia.pl/kraj/news-mozemy-powiedziec-jest-potwierdzenie-z-mon-ws-rakiety,nId,23522253": "Interia",
+      "https://wydarzenia.interia.pl/kraj/news-lekkomyslny-akt-ze-strony-rosji-sojusznicy-reaguja-na-incyde,nId,23522205": "Interia",
+      "https://wydarzenia.interia.pl/kraj/news-sikorski-zabral-glos-w-sprawie-rosyjskiej-rakiety-bierzemy-p,nId,23522221": "Interia",
+      "https://wiadomosci.wp.pl/z-pelna-odpowiedzialnoscia-mon-potwierdza-ws-rosyjskiej-rakiety-7313133353506816a": "WP Wiadomosci"
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "imgw_upaly",
@@ -30,7 +35,8 @@
       "https://tvn24.pl/tvnmeteo/polska/upal-i-burze-w-polsce-czerwone-alarmy-imgw-przed-wysoka-temperatura-synoptycy-ostrzegaja-st9163262": "TVN24 Meteo",
       "https://www.pap.pl/aktualnosci/imgw-ostrzega-przed-upalami-i-ii-i-iii-stopnia-w-calym-kraju": "PAP",
       "https://www.polsatnews.pl/wiadomosc/2026-07-30/fala-upalow-nad-polska-tam-bedzie-najcieplej-imgw/": "Polsat News"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "cbos_sondaz",
@@ -41,7 +47,8 @@
     "sources": {
       "https://tvn24.pl/polska/sondaz-cbos-ranking-zaufania-do-politykow-lipiec-2026-st9150611": "TVN24",
       "https://wydarzenia.interia.pl/kraj/news-nawrocki-niekwestionowanym-liderem-badania-tusk-i-trzaskowsk,nId,23517059": "Interia"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "gus_inflacja",
@@ -54,7 +61,8 @@
       "https://www.bankier.pl/wiadomosc/Inflacja-CPI-w-Polsce-w-lipcu-2026-roku-Ponownie-mamy-trojke-z-przodu-9176110.html": "Bankier.pl",
       "https://www.rp.pl/dane-gospodarcze/art44919631-inflacja-w-polsce-wyraznie-w-gore-zgodnie-z-prognozami-winny-m-in-koniec-cpn": "rp.pl",
       "https://www.money.pl/firma/inflacja-w-gore-znamy-nowe-dane-7313337931937856a.html": "Money.pl"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "rcb_alert",
@@ -66,7 +74,8 @@
       "https://www.rp.pl/spoleczenstwo/art44920181-problemy-z-poradnikiem-bezpieczenstwa-po-alercie-rcb-msw-potwierdza": "rp.pl",
       "https://www.rmf24.pl/fakty/polska/news-badz-przygotowany-alert-rcb-rozeslany-ale-strona-nie-dziala,nIdn,1012054": "RMF24",
       "https://www.polsatnews.pl/wiadomosc/2026-07-31/wpadka-z-alertem-rcb-rzad-wyslal-link-do-poradnika-ale-strona-sie-nie-otwierala/": "Polsat News"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "sejm_edziennik",
@@ -77,7 +86,8 @@
     "sources": {
       "https://www.infor.pl/prawo/nowosci-prawne/7482106,w-sejmie-bezplatny-edziennik-dla-szkol-oze-deregulacja-slubowanie-rpo-transmisja-online-z-29-30-i-31-lipca-2026-r.html": "Infor.pl",
       "https://www.portalsamorzadowy.pl/edukacja/koniec-placenia-za-e-dziennik-szkoly-dostana-nowy-system-za-darmo,670472.html": "Portal Samorzadowy"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "roboty_humanoidalne",
@@ -88,7 +98,8 @@
     "sources": {
       "https://naukawpolsce.pl/aktualnosci/news,114137,polscy-specjalisci-wsrod-4-najlepszych-zespolow-na-swiecie-w-turnieju": "Nauka w Polsce (PAP)",
       "https://www.pulshr.pl/po-godzinach/polski-zespol-podbija-swiatowa-lige-walk-humanoidow-znalazl-sie-w-scislej-czolowce,120724.html": "pulshr.pl"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "liga_konferencji",
@@ -103,29 +114,34 @@
       "https://sport.interia.pl/pilka-nozna/liga-konferencji/news-spacerek-rakowa-na-malcie-pokaz-sily-medalikow-jest-awans-w,nId,23522241": "Sport Interia.pl",
       "https://weszlo.com/liga-konferencji-gks-katowice-msk-zylina-3-1-duze-emocje-i-awans/": "Weszlo.com",
       "https://sport.rp.pl/pilka-nozna/art44918651-liga-konferencji-rakow-czestochowa-i-gks-katowice-zostaja-w-europie": "Sport.rp.pl"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "lot_hanoi",
     "category": "pl",
     "lead": false,
     "title": "LOT uruchamia bezpośrednie loty do Hanoi",
-    "body": "Narodowy przewoźnik wprowadza nowe połączenie z Warszawy do stolicy Wietnamu: trzy rejsy tygodniowo od marca 2027, bilety są już w sprzedaży. To kolejny krok w umacnianiu obecności LOT-u w Azji.",
+    "body": "Polskie Linie Lotnicze LOT ogłosiły uruchomienie nowego bezpośredniego połączenia lotniczego z Warszawy do Hanoi, stolicy Wietnamu, co ma być kolejnym krokiem w strategii umacniania obecności narodowego przewoźnika na rynkach azjatyckich. Według zapowiedzi LOT-u loty mają być realizowane trzy razy w tygodniu począwszy od marca 2027 roku, a bilety na pierwsze rejsy są już dostępne w sprzedaży. Nowa trasa dołączy do innych azjatyckich kierunków obsługiwanych przez LOT, wpisując się w wieloletnią strategię przewoźnika zakładającą rozwój sieci połączeń dalekodystansowych z wykorzystaniem centralnego położenia Warszawy jako węzła przesiadkowego między Europą a Azją. Przedstawiciele branży lotniczej oceniają decyzję jako odpowiedź na rosnące zainteresowanie Polaków podróżami do Azji Południowo-Wschodniej oraz rosnący ruch biznesowy między Polską a Wietnamem, gdzie działa liczna polska diaspora. LOT podkreśla, że nowe połączenie ma również ułatwić podróże pasażerom przesiadającym się w Warszawie z innych miast Europy Środkowej, dla których dotąd podróż do Hanoi wymagała przesiadki w innym europejskim lub azjatyckim węźle lotniczym.",
     "sources": {
       "https://www.rmf24.pl/fakty": "RMF24",
       "https://www.national-geographic.pl/traveler/kierunki/z-warszawy-prosto-do-jednego-z-najbardziej-fascynujacych-miast-azji-lot-uruchamia-nowa-trase/": "National Geographic Polska",
       "https://www.rynek-lotniczy.pl/wiadomosci/pll-lot-umacniaja-obecnosc-w-azji-narodowy-przewoznik-uruchomi-nowe-polaczenie-do-hanoi-w-wietnamie-28591.html": "Rynek Lotniczy"
-    }
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "wypadek_zwirownia",
     "category": "pl",
     "lead": false,
-    "title": "Tragiczny wypadek w żwirowni pod Krakowem",
-    "body": "Pojazd zatonął w żwirowni, kierowca zginął na miejscu.",
+    "title": "Tragiczny wypadek w kopalni kruszywa pod Krakowem, zginął operator wozidła",
+    "body": "W kopalni kruszywa pod Krakowem doszło do tragicznego wypadku, w którym zginął operator ciężkiego wozidła górniczego. Maszyna, pracująca na terenie wyrobiska zalanego wodą, zsunęła się do zbiornika i zatonęła wraz z kierowcą znajdującym się w kabinie. Na miejsce natychmiast wezwano straż pożarną oraz nurków, którzy podjęli akcję ratunkową, jednak mimo działań ratowników nie udało się uratować życia mężczyzny; jego ciało wydobyto z wody po zakończeniu akcji. Policja i prokuratura wszczęły postępowanie mające wyjaśnić przyczyny i okoliczności wypadku, w tym stan techniczny wozidła oraz przestrzeganie procedur bezpieczeństwa pracy na terenie zakładu górniczego. Zakład, w którym doszło do tragedii, zawiesił tymczasowo prace przy wyrobisku do czasu wyjaśnienia sprawy przez inspekcję pracy oraz nadzór górniczy. Tego typu wypadki w kopalniach odkrywkowych kruszywa, choć rzadkie, zwracają uwagę na ryzyko związane z pracą ciężkiego sprzętu w pobliżu głębokich, zalanych wodą wyrobisk pożwirowych w Polsce.",
     "sources": {
-      "https://www.rmf24.pl/fakty": "RMF24"
-    }
+      "https://www.rmf24.pl/fakty": "RMF24",
+      "https://www.rmf24.pl/regiony/krakow/news-tragedia-na-terenie-zwirowni-zatonelo-wozidlo-z-kierowca-w-s,nIdn,1012021": "RMF24",
+      "https://www.se.pl/krakow/tragiczny-wypadek-w-kopalni-kruszywa-operator-wozidla-zginal-pod-woda-aa-doV8-XfKD-C3n3.html": "Super Express"
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "hamas_deal",
@@ -139,7 +155,8 @@
       "https://www.cbsnews.com/news/trump-hamas-next-phase-gaza-peace-deal-disarmament/": "CBS News",
       "https://www.timesofisrael.com/text-of-board-of-peace-gaza-plan-calls-for-hamas-to-disarm-over-period-of-eight-months/": "Times of Israel",
       "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know": "Al Jazeera"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "atak_ukraina",
@@ -154,7 +171,8 @@
       "https://kyivindependent.com/explosions-heard-in-kyiv-as-russia-launches-large-scale-ballistic-missile-attack-across-ukraine/": "Kyiv Independent",
       "https://www.pap.pl/aktualnosci/ukraina-mer-lwowa-okolo-20-rannych-w-miescie-po-rosyjskim-ataku-rakietowym": "PAP",
       "https://www.pap.pl/aktualnosci/rosyjski-atak-na-miasto-krzywy-rog-w-ukrainie-sa-ofiary-smiertelne": "PAP"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "trzesienie_japonia",
@@ -166,18 +184,20 @@
       "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll": "NPR",
       "https://www.cbsnews.com/news/japan-earthquake-death-toll-climbs-hopes-wane-rescues/": "CBS News",
       "https://www.japantimes.co.jp/news/2026/07/30/japan/earthquake-kumamoto-death-toll/": "The Japan Times"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "pozary_hiszpania",
     "category": "world",
     "lead": false,
     "title": "Pożary w Hiszpanii i Francji: nowa fala upałów utrudnia gaszenie",
-    "body": "Mimo stanu wyjątkowego ogłoszonego w Hiszpanii, kolejna fala upałów niweczy wysiłki strażaków walczących z pożarami lasów, które zmusiły do ewakuacji ponad 200 tys. osób w obu krajach. Służby ostrzegają, że wysokie temperatury mogą jeszcze pogorszyć sytuację w najbliższych dniach.",
+    "body": "Kolejna fala rekordowych upałów w Hiszpanii i Francji utrudnia strażakom walkę z licznymi pożarami lasów, które od kilku dni obejmują coraz większe obszary obu krajów. Hiszpańskie władze ogłosiły w części regionów stan wyjątkowy, a łącznie w obu krajach ewakuowano już ponad dwieście tysięcy osób z terenów zagrożonych ogniem. Służby ratownicze ostrzegają, że utrzymujące się wysokie temperatury, silny wiatr i susza mogą w najbliższych dniach jeszcze pogorszyć sytuację i doprowadzić do powstania nowych ognisk pożarów. W gaszeniu ognia biorą udział tysiące strażaków, wojsko oraz samoloty i śmigłowce gaśnicze, a część krajów Unii Europejskiej wysłała dodatkowe wsparcie w ramach unijnego mechanizmu ochrony ludności. Lokalne władze apelują do mieszkańców i turystów o ścisłe przestrzeganie zakazów wstępu do zagrożonych terenów leśnych oraz zakazów rozpalania ognia. Naukowcy i klimatolodzy podkreślają, że kolejne fale upałów i pożarów nawiedzające południe Europy w ostatnich latach są zgodne z prognozami dotyczącymi skutków zmian klimatu dla regionu śródziemnomorskiego.",
     "sources": {
       "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires": "NPR",
       "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people": "Al Jazeera"
-    }
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "cla_usa",
@@ -188,7 +208,8 @@
     "sources": {
       "https://abcnews.com/Business/trumps-aug-1-tariff-deadline/story?id=123921765": "ABC News",
       "https://www.cbsnews.com/news/trump-trade-deals-tariffis-deadline/": "CBS News"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "fed_stopy",
@@ -202,7 +223,8 @@
       "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation": "NPR",
       "https://www.parkiet.com/gospodarka-swiatowa/art44910041-fed-utrzymuje-stopy-procentowe-bez-zmian-trzy-glosy-za-podwyzka": "Parkiet.com",
       "https://www.rp.pl/dane-gospodarcze/art44280061-jerome-powell-konczy-kadencje-w-cieniu-sporow-fed-nie-rusza-stop": "rp.pl"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "bolsonaro",
@@ -214,68 +236,106 @@
       "https://www.washingtonpost.com/world/2026/07/25/brazil-flavio-bolsonaro-presidential-candidate-convention/e06a67c4-8808-11f1-9cec-0fb26676f07e_story.html": "Washington Post",
       "https://www.cnbc.com/2026/07/25/brazils-flvio-bolsonaro-secures-presidential-bid-despite-challenges.html": "CNBC",
       "https://www.euronews.com/2026/07/25/brazils-flavio-bolsonaro-to-challenge-lula-after-winning-party-nomination": "Euronews"
-    }
+    },
+    "last_updated": "2026-07-31 09:00"
   },
   {
     "slug": "fauci",
     "category": "world",
     "lead": false,
-    "title": "Fauci przed senacką komisją ws. Covid-19",
-    "body": "Dr Anthony Fauci ponad 100 razy odmówił odpowiedzi, powołując się na 5. poprawkę, podczas trzygodzinnego przesłuchania. Senatorowie zarzucili mu brak szczerości wobec opinii publicznej w sprawie polityki pandemicznej.",
+    "title": "Fauci powołuje się na piątą poprawkę przed senacką komisją ws. Covid-19",
+    "body": "W środę 29 lipca dr Anthony Fauci, wieloletni doradca kolejnych amerykańskich prezydentów ds. chorób zakaźnych, podczas przesłuchania przed senacką komisją zdominowaną przez Republikanów wielokrotnie powoływał się na piątą poprawkę do konstytucji USA i odmawiał odpowiedzi na pytania dotyczące pochodzenia pandemii Covid-19 oraz polityki lockdownów. Przesłuchanie, prowadzone między innymi przez senatora Randa Paula, trwało kilka godzin i miało burzliwy przebieg; Fauci określił część pytań i zachowanie senatora jako nieopanowane, co wywołało ostrą wymianę zdań na sali. Republikańscy senatorowie zapowiedzieli rozważenie wniosku o pociągnięcie Fauciego do odpowiedzialności za obrazę Kongresu w związku z odmową współpracy. Krytycy, w tym część demokratycznych senatorów, ocenili przesłuchanie jako mające charakter polityczny i częściowo odwracające uwagę od merytorycznej dyskusji o gotowości USA na przyszłe pandemie. Sprawa jest częścią szerszego sporu politycznego wokół pochodzenia SARS-CoV-2 i decyzji podejmowanych przez amerykańskie władze zdrowia publicznego w pierwszych miesiącach pandemii, który powraca regularnie w amerykańskiej debacie publicznej od kilku lat.",
     "sources": {
-      "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv"
-    }
+      "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv",
+      "https://www.cnn.com/2026/07/29/politics/anthony-fauci-fifth-amendment-plea": "CNN",
+      "https://www.nbcnews.com/politics/congress/anthony-fauci-5th-amendment-testify-covid-hearing-rand-paul-rcna589793": "NBC News",
+      "https://www.aljazeera.com/news/2026/7/30/why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explained": "Al Jazeera",
+      "https://www.axios.com/2026/07/29/anthony-fauci-fifth-amendment-covid-hearing-paul": "Axios"
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "francja_dziennikarka",
     "category": "world",
     "lead": false,
-    "title": "Francja wydala rosyjską dziennikarkę",
-    "body": "Xenia Fiedorowa została oskarżona o szerzenie kremlowskiej propagandy przed przyszłorocznymi wyborami prezydenckimi i objęta aresztem domowym.",
+    "title": "Francja wydala byłą szefową RT France, Xenię Fiedorową",
+    "body": "Francuskie władze nakazały pod koniec lipca wydalenie z kraju byłej szefowej francuskiego oddziału rosyjskiej telewizji RT, Xenii Fiedorowej, oskarżając ją o szerzenie kremlowskiej propagandy oraz działania zagrażające porządkowi publicznemu we Francji w okresie poprzedzającym przyszłoroczne wybory prezydenckie. Decyzję ogłosiło francuskie ministerstwo spraw wewnętrznych, a dziennikarka została objęta nadzorem i zakazem opuszczania wyznaczonego miejsca pobytu do czasu wykonania decyzji o wydaleniu. Fiedorowa zaprzeczyła zarzutom, a jej prawnicy zapowiedzieli odwołanie się od decyzji do francuskich sądów administracyjnych, argumentując, że stanowi ona naruszenie wolności słowa. Sprawa wywołała żywą dyskusję we francuskich mediach na temat wpływu rosyjskiej propagandy na debatę publiczną w Europie Zachodniej oraz działań podejmowanych przez zachodnie rządy wobec byłych pracowników rosyjskich mediów państwowych od czasu pełnoskalowej inwazji Rosji na Ukrainę. Francja od 2022 roku systematycznie ogranicza działalność mediów powiązanych z Kremlem na swoim terytorium, a decyzja wobec Fiedorowej wpisuje się w tę politykę.",
     "sources": {
-      "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv"
-    }
+      "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv",
+      "https://www.themoscowtimes.com/2026/07/29/france-orders-expulsion-of-former-rt-editor-ksenia-fedorova-a93373": "The Moscow Times",
+      "https://www.france24.com/en/france/20260729-france-expels-russian-journalist-xenia-fedorova-over-alleged-kremlin-propaganda": "France 24",
+      "https://www.euronews.com/my-europe/2026/07/29/pro-russian-propagandist-xenia-fedorova-faces-expulsion-from-france": "Euronews"
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "ateny_walizka",
     "category": "world",
     "lead": false,
     "title": "Makabryczne odkrycie w Atenach",
-    "body": "W centrum miasta bezdomny znalazł ciało młodej kobiety w walizce. Policja bada okoliczności zbrodni oraz podejrzaną aktywność na jej telefonie już po śmierci.",
+    "body": "W centrum Aten bezdomny mężczyzna, przeszukujący kontener na odpady, natknął się na cuchnącą walizkę, w której odkryto ciało młodej kobiety. Znalazca natychmiast zawiadomił grecką policję, która zabezpieczyła miejsce zdarzenia i wszczęła śledztwo w sprawie zabójstwa. Śledczy ustalają tożsamość ofiary oraz okoliczności jej śmierci, analizując między innymi aktywność na telefonie komórkowym kobiety, która według doniesień mediów miała być widoczna jeszcze po prawdopodobnym momencie zgonu, co śledczy uznają za istotny trop w ustaleniu sprawcy i czasu zbrodni. Greckie media podkreślają makabryczny charakter odkrycia oraz brak na razie jednoznacznych ustaleń co do tego, kim była ofiara i czy znała swojego zabójcę. Policja apeluje do świadków o kontakt oraz analizuje nagrania z monitoringu w okolicy miejsca znalezienia zwłok. Sprawa wywołała duże poruszenie w Grecji i jest szeroko relacjonowana przez tamtejsze i zagraniczne media jako jedna z bardziej niepokojących zbrodni ostatnich tygodni w centrum stolicy kraju.",
     "sources": {
-      "https://www.tvp.info/94585140/cialo-mlodej-kobiety-w-cuchnacej-walizce-w-centrum-aten-grecja-znalazl-ja-bezdomny-policja-wyjasnia-okolicznosci-tragedii": "TVP INFO"
-    }
+      "https://www.tvp.info/94585140/cialo-mlodej-kobiety-w-cuchnacej-walizce-w-centrum-aten-grecja-znalazl-ja-bezdomny-policja-wyjasnia-okolicznosci-tragedii": "TVP INFO",
+      "https://wiadomosci.wp.pl/makabryczne-odkrycie-w-atenach-cialo-kobiety-znaleziono-w-walizce-7312731779500512a": "WP Wiadomosci"
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "harry_daily_mail",
     "category": "world",
     "lead": false,
-    "title": "Książę Harry przegrywa proces z wydawcą Daily Mail",
-    "body": "Sąd oddalił wszystkie 97 zarzutów. Harry i pozostali powodowie mogą zapłacić nawet 18 mln funtów kosztów sądowych.",
+    "title": "Sąd oddalił pozew księcia Harry'ego przeciwko wydawcy Daily Mail",
+    "body": "Londyński sąd oddalił w lipcu wszystkie 97 zarzutów wniesionych przeciwko wydawcy Daily Mail, spółce Associated Newspapers, przez grupę powodów, wśród których znalazł się książę Harry. Powodowie zarzucali gazecie i jej dziennikarzom nielegalne pozyskiwanie informacji, w tym podsłuchiwanie telefonów oraz inwigilację, na przestrzeni wielu lat. Sędzia uznał, że przedstawione dowody nie potwierdzają zarzucanych praktyk w stopniu wystarczającym do uwzględnienia pozwu, co dla księcia Harry'ego oznacza kolejną porażkę w serii jego procesów przeciwko brytyjskim tabloidom. Wydawca domaga się teraz zwrotu kosztów procesowych, które według doniesień brytyjskich i amerykańskich mediów mogą sięgnąć nawet 18 milionów funtów, a sąd rozważa, czy nałożyć na powodów dodatkowe, surowsze sankcje finansowe za sposób prowadzenia sprawy. Prawnicy księcia Harry'ego zapowiedzieli analizę wyroku pod kątem możliwości odwołania. Sprawa jest kolejnym elementem wieloletniej batalii sądowej Harry'ego z brytyjską prasą brukową, w ramach której książę wcześniej wygrywał pojedyncze sprawy przeciwko innym wydawcom, ale ponosił też znaczące porażki finansowe.",
     "sources": {
-      "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv"
-    }
+      "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv",
+      "https://www.ibtimes.co.uk/prince-harry-18m-legal-costs-privacy-case-1811381": "IBTimes UK",
+      "https://www.newsweek.com/entertainment/celebrity-news/prince-harry-costs-daily-mail-lawsuit-hearing-12257835": "Newsweek",
+      "https://www.newsnationnow.com/entertainment-news/prince-harry-daily-mail-lawsuit/": "NewsNation"
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "epstein_michigan",
     "category": "world",
     "lead": false,
-    "title": "Zarzuty ws. Epsteina w szkole artystycznej w Michigan",
-    "body": "Śledztwo w Interlochen Center for the Arts ujawniło zarzuty molestowania seksualnego związane z Jeffreyem Epsteinem oraz 47 innymi pracownikami na przestrzeni dekad.",
+    "title": "Raport ujawnia dekady wykorzystywania seksualnego w szkole Interlochen, wśród sprawców Epstein",
+    "body": "Niezależne śledztwo zlecone przez elitarną szkołę artystyczną Interlochen Center for the Arts w stanie Michigan ujawniło, że na przestrzeni siedemdziesięciu lat działalności placówki co najmniej siedemdziesięciu uczniów oskarżyło łącznie czterdziestu siedmiu pracowników i osób powiązanych ze szkołą o wykorzystywanie seksualne. Wśród wymienionych w raporcie nazwisk znalazł się Jeffrey Epstein, zmarły w areszcie finansista skazany wcześniej za przestępstwa seksualne wobec nieletnich, powiązany ze szkołą jako darczyńca i gość w wcześniejszych dekadach. Władze Interlochen opublikowały oświadczenie, w którym przeprosiły byłych uczniów i pracowników za krzywdy wyrządzone w przeszłości oraz zadeklarowały wdrożenie nowych procedur ochrony dzieci i młodzieży przebywającej w ośrodku. Raport, przygotowany przez zewnętrzną kancelarię prawną na zlecenie zarządu szkoły, opisuje dekady zaniedbań instytucjonalnych, w tym przypadki ignorowania zgłoszeń przez ówczesne kierownictwo placówki. Sprawa dołącza do długiej listy ujawnianych w ostatnich latach w USA przypadków wieloletniego, systemowego tuszowania wykorzystywania seksualnego dzieci w renomowanych instytucjach edukacyjnych i kulturalnych.",
     "sources": {
-      "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv"
-    }
+      "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026": "GoLocalProv",
+      "https://michiganadvance.com/2026/07/29/scathing-report-shows-decades-of-sexual-abuse-at-interlochen-arts-school-epstein-among-those-named/": "Michigan Advance",
+      "https://www.cbsnews.com/detroit/news/interlochen-arts-center-sexual-misconduct-investigation-jeffrey-epstein/": "CBS Detroit",
+      "https://bridgemi.com/talent-education/report-interlochen-sex-abuse-spans-70-years-extends-past-jeffrey-epstein/": "Bridge Michigan",
+      "https://www.interlochen.org/statement-interlochen": "Interlochen Center for the Arts (oświadczenie)"
+    },
+    "last_updated": "2026-07-31 13:00"
   },
   {
     "slug": "ceuta_migracja",
     "category": "world",
     "lead": false,
     "title": "Kryzys migracyjny w hiszpańskiej Ceucie",
-    "body": "Tysiące osób, głównie z Maroka, sforsowało granicę hiszpańskiej eksklawy w Afryce Północnej. Madryt wysłał wojsko, a przejście graniczne zostało zamknięte.",
+    "body": "Do hiszpańskiej eksklawy Ceuta w Afryce Północnej w ciągu kilku dni przedarły się tysiące migrantów, głównie obywateli Maroka, co hiszpańskie media określiły jako jeden z największych szturmów na granicę tej enklawy od lat. Według doniesień z ostatnich godzin liczba osób biorących udział w próbach przekroczenia granicy oraz już przebywających w mieście sięgnęła około czterdziestu dziewięciu tysięcy, a wielu migrantów spędzało noce na ulicach z powodu braku miejsc w ośrodkach recepcyjnych. Hiszpański rząd podjął decyzję o skierowaniu do Ceuty dodatkowych oddziałów wojska i żandarmerii, a lokalne władze zamknęły czasowo część przejść granicznych z Marokiem, by opanować chaos i przywrócić kontrolę nad przepływem ludzi. Na nagraniach publikowanych przez media widać tłumy ludzi próbujących sforsować ogrodzenia graniczne oraz interwencje służb porządkowych. Madryt zapowiedział rozmowy z władzami Maroka w sprawie wzmocnienia kontroli po marokańskiej stronie granicy, a Unia Europejska śledzi rozwój sytuacji, przypominając o wcześniejszych podobnych kryzysach migracyjnych na hiszpańsko-marokańskiej granicy w Ceucie i Melilli.",
     "sources": {
       "https://www.rmf24.pl/fakty/swiat/news-migranci-szturmuja-hiszpanska-eksklawe-madryt-wysyla-wojsko,nIdn,1012015": "RMF24",
       "https://www.rp.pl/spoleczenstwo/art44917211-tysiace-marokanczykow-przedarlo-sie-do-hiszpanskiej-ceuty-madryt-wysyla-wojsko": "rp.pl",
-      "https://tvn24.pl/swiat/hiszpania-kryzys-migracyjny-w-ceucie-hiszpania-wysyla-wojsko-st9166427": "TVN24"
-    }
+      "https://tvn24.pl/swiat/hiszpania-kryzys-migracyjny-w-ceucie-hiszpania-wysyla-wojsko-st9166427": "TVN24",
+      "https://wiadomosci.wp.pl/potezny-szturm-na-ceute-49-tys-ludzi-i-wojsko-w-akcji-7313348081915904a": "WP Wiadomosci",
+      "https://wiadomosci.wp.pl/inwazja-na-ceute-tysiace-migrantow-spalo-na-ulicach-7313337764313152a": "WP Wiadomosci"
+    },
+    "last_updated": "2026-07-31 13:00"
+  },
+  {
+    "slug": "wroclaw_pobicie",
+    "category": "pl",
+    "lead": false,
+    "title": "Pobicie ukraińskiej pary we Wrocławiu wywołuje spór polityczny",
+    "body": "W nocy z 26 na 27 lipca we Wrocławiu doszło do brutalnego pobicia pary obywateli Ukrainy, co wywołało falę oburzenia i spór polityczny na najwyższym szczeblu. Według policji i mediów napastnicy zaatakowali kobietę i mężczyznę bez wyraźnego powodu, po czym uciekli z miejsca zdarzenia. Policja zatrzymała dwóch podejrzanych mężczyzn, a wobec jednego z nich prokuratura zastosowała areszt tymczasowy. Sprawa szybko nabrała wymiaru politycznego: premier Donald Tusk zaapelował do prezydenta Karola Nawrockiego o jednoznaczne potępienie ataku, zarzucając części polityków prawicy współodpowiedzialność za wzrost nastrojów antyukraińskich w kraju. Ambasada Ukrainy oraz władze w Kijowie wyraziły zaniepokojenie bezpieczeństwem ukraińskich obywateli w Polsce i zaapelowały o rzetelne wyjaśnienie sprawy. Wokół zdarzenia w mediach społecznościowych krążyły też nieprawdziwe informacje, co skłoniło część redakcji do dodatkowego fact checkingu okoliczności napadu. Sprawa wywołała szerszą debatę o bezpieczeństwie mniejszości ukraińskiej w polskich miastach oraz o odpowiedzialności polityków za ton debaty publicznej dotyczącej uchodźców z Ukrainy.",
+    "sources": {
+      "https://www.pap.pl/aktualnosci/sprawa-pobicia-pary-ukraincow-we-wroclawiu-zatrzymano-dwoch-mezczyzn": "PAP",
+      "https://tvn24.pl/wroclaw/wroclaw-mezczyzni-podejrzewani-o-pobicie-ukraincow-zatrzymani-st9161482": "TVN24",
+      "https://www.rp.pl/polityka/art44897961-donald-tusk-o-ataku-na-ukraincow-we-wroclawiu-niech-prezydent-przestanie-milczec": "rp.pl",
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11282312,pobicie-ukraincow-wroclaw-areszt-falszywe-informacje-fakt-checking.html": "GazetaPrawna.pl"
+    },
+    "last_updated": "2026-07-31 13:00"
   }
 ]
