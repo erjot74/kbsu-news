@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Podsumowanie dnia — Polska i Świat</title>
+<meta name="description" content="Codzienne, zweryfikowane podsumowanie najważniejszych wiadomości z Polski i świata.">
+<style>
+  :root{
+    --bg:#0b0d10;
+    --panel:#14171c;
+    --panel-2:#1b1f26;
+    --border:#262b33;
+    --text:#eef1f5;
+    --text-dim:#9aa4b2;
+    --accent:#e6473a;
+    --accent-2:#3aa6e6;
+    --tag-pl:#e6473a;
+    --tag-world:#3aa6e6;
+    --maxw:920px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.55;
+  }
+  a{color:var(--accent-2); text-decoration:none;}
+  a:hover{text-decoration:underline;}
+
+  header.site{
+    border-bottom:1px solid var(--border);
+    padding:28px 20px 22px;
+    background:linear-gradient(180deg, #14171c 0%, #0b0d10 100%);
+  }
+  .wrap{max-width:var(--maxw); margin:0 auto; padding:0 8px;}
+  .brand{
+    display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap;
+  }
+  .brand h1{
+    font-size:22px; margin:0; letter-spacing:0.2px;
+  }
+  .brand h1 span{color:var(--text-dim); font-weight:400;}
+  .meta-line{
+    color:var(--text-dim); font-size:13px; margin-top:6px;
+  }
+  .verified-badge{
+    display:inline-flex; align-items:center; gap:6px;
+    background:rgba(58,166,42,0.12);
+    border:1px solid rgba(58,166,42,0.35);
+    color:#7bd88f;
+    font-size:12px;
+    padding:4px 10px;
+    border-radius:999px;
+    margin-top:10px;
+  }
+
+  main{max-width:var(--maxw); margin:0 auto; padding:28px 20px 60px;}
+
+  section.category{margin-bottom:38px;}
+  .cat-header{
+    display:flex; align-items:center; gap:10px; margin-bottom:16px;
+  }
+  .cat-tag{
+    font-size:12px; font-weight:700; text-transform:uppercase; letter-spacing:0.6px;
+    padding:4px 10px; border-radius:6px;
+  }
+  .cat-tag.pl{ background:rgba(230,71,58,0.15); color:#ff8377; border:1px solid rgba(230,71,58,0.4);}
+  .cat-tag.world{ background:rgba(58,166,230,0.15); color:#7cc8f5; border:1px solid rgba(58,166,230,0.4);}
+  .cat-header h2{font-size:13px; color:var(--text-dim); margin:0; font-weight:600; text-transform:uppercase; letter-spacing:0.5px;}
+
+  article.story{
+    background:var(--panel);
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding:18px 20px;
+    margin-bottom:12px;
+  }
+  article.story.lead{
+    background:var(--panel-2);
+    border-color:#33261f;
+  }
+  article.story h3{
+    margin:0 0 8px; font-size:17px; font-weight:650;
+  }
+  article.story p{
+    margin:0; color:#d6dbe2; font-size:14.5px;
+  }
+  article.story .src{
+    margin-top:10px; font-size:12.5px; color:var(--text-dim);
+  }
+  article.story .src a{ color:var(--accent-2); }
+  .translate-link{
+    display:inline-flex; align-items:center; gap:4px;
+    font-size:11.5px; color:#c9a227; text-decoration:none;
+    border:1px solid rgba(201,162,39,0.4); background:rgba(201,162,39,0.1);
+    padding:1px 7px; border-radius:5px; margin-left:6px;
+  }
+  .translate-link:hover{ text-decoration:none; background:rgba(201,162,39,0.2); }
+
+  footer.site{
+    border-top:1px solid var(--border);
+    padding:24px 20px 40px;
+    color:var(--text-dim);
+    font-size:12.5px;
+  }
+  footer.site .wrap{display:flex; flex-direction:column; gap:6px;}
+
+  @media (max-width:520px){
+    .brand h1{font-size:19px;}
+    article.story h3{font-size:16px;}
+  }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <div class="brand">
+      <h1>Podsumowanie dnia <span>— Polska i Świat</span></h1>
+    </div>
+    <div class="meta-line">Aktualizacja: 31 lipca 2026, wygenerowano automatycznie</div>
+    <div class="verified-badge">✓ zweryfikowane w co najmniej dwóch niezależnych źródłach</div>
+  </div>
+</header>
+
+<main>
+
+  <section class="category">
+    <div class="cat-header">
+      <span class="cat-tag pl">Polska</span>
+      <h2>Najważniejsze wydarzenia z kraju</h2>
+    </div>
+
+    <article class="story lead">
+      <h3>Rosyjska rakieta Ch-101 uderzyła na Lubelszczyźnie</h3>
+      <p>W nocy z 29 na 30 lipca, ok. 3:40, w miejscowości Tarnawa-Kolonia spadła i eksplodowała rosyjska rakieta manewrująca Ch-101 — teoretycznie zdolna przenosić głowice nuklearne. Wiceminister obrony Cezary Tomczyk potwierdził to oficjalnie, a prokuratura w Lublinie ustaliła, że pocisk zawierał znaczną ilość materiału wybuchowego. Polskie F-16 natychmiast wystartowały w reakcji. Tej nocy Rosja odpaliła ok. 70 rakiet w stronę Ukrainy, z czego ok. 20 skierowało się w stronę Polski. Zełenski zaapelował do Zachodu o dostawy systemów obrony powietrznej (Patriot, NASAMS, IRIS-T).</p>
+      <div class="src">Źródła: <a href="https://www.rmf24.pl/regiony/lublin/news-jest-nagranie-z-momentu-uderzenia-w-tarnawie-kolonii-to-praw,nIdn,1011927" target="_blank" rel="noopener">RMF24</a> · <a href="https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11283136,rosyjska-rakieta-ch101-w-polsce-zelenski-apeluje-tomczyk-potwierdza-2026.html" target="_blank" rel="noopener">GazetaPrawna.pl</a> · <a href="https://www.rp.pl/wojsko/art44916401-prokuratura-rakieta-zawierala-material-wybuchowy-w-znacznej-ilosci" target="_blank" rel="noopener">rp.pl</a></div>
+    </article>
+
+    <article class="story">
+      <h3>LOT uruchamia bezpośrednie loty do Hanoi</h3>
+      <p>Nowe połączenie ma wyeliminować konieczność przesiadek na trasie do Wietnamu.</p>
+      <div class="src">Źródło: <a href="https://www.rmf24.pl/fakty" target="_blank" rel="noopener">RMF24</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Awans polskich klubów w Lidze Konferencji Europy</h3>
+      <p>Raków Częstochowa pokonał rywala z Malty w efektownym stylu, a GKS Katowice również zapewnił sobie awans w eliminacjach.</p>
+      <div class="src">Źródło: <a href="https://www.rmf24.pl/fakty" target="_blank" rel="noopener">RMF24</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Tragiczny wypadek w żwirowni pod Krakowem</h3>
+      <p>Pojazd zatonął w żwirowni, kierowca zginął na miejscu.</p>
+      <div class="src">Źródło: <a href="https://www.rmf24.pl/fakty" target="_blank" rel="noopener">RMF24</a></div>
+    </article>
+  </section>
+
+  <section class="category">
+    <div class="cat-header">
+      <span class="cat-tag world">Świat</span>
+      <h2>Najważniejsze wydarzenia ze świata</h2>
+    </div>
+
+    <article class="story lead">
+      <h3>Trump ogłasza porozumienie ws. rozbrojenia Hamasu — wiele niewiadomych</h3>
+      <p>Plan zakłada oddanie broni przez Hamas, zniszczenie sieci tuneli, powstanie tymczasowego rządu technokratycznego oraz odbudowę Gazy przy udziale międzynarodowych sił stabilizacyjnych. Harmonogram jest nieprecyzyjny — zniszczenie ciężkiej broni i tuneli może potrwać 200–350 dni. Ani Hamas, ani Izrael nie potwierdziły jeszcze formalnie akceptacji porozumienia; Izrael pozostaje sceptyczny wobec dobrowolnego rozbrojenia się Hamasu.</p>
+      <div class="src">Źródła: <a href="https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza" target="_blank" rel="noopener">NPR</a><a class="translate-link" href="https://translate.google.com/translate?sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fwww.npr.org%2F2026%2F07%2F31%2Fg-s1-136500%2Ftrump-hamas-gaza" target="_blank" rel="noopener">🌐 tłumacz</a> · <a href="https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza" target="_blank" rel="noopener">Al Jazeera</a><a class="translate-link" href="https://translate.google.com/translate?sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2026%2F7%2F30%2Ftrump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza" target="_blank" rel="noopener">🌐 tłumacz</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Kryzys migracyjny w hiszpańskiej Ceucie</h3>
+      <p>Tysiące osób, głównie z Maroka, sforsowało granicę hiszpańskiej eksklawy w Afryce Północnej. Madryt wysłał wojsko, a przejście graniczne zostało zamknięte.</p>
+      <div class="src">Źródła: <a href="https://www.rmf24.pl/fakty/swiat/news-migranci-szturmuja-hiszpanska-eksklawe-madryt-wysyla-wojsko,nIdn,1012015" target="_blank" rel="noopener">RMF24</a> · <a href="https://www.rp.pl/spoleczenstwo/art44917211-tysiace-marokanczykow-przedarlo-sie-do-hiszpanskiej-ceuty-madryt-wysyla-wojsko" target="_blank" rel="noopener">rp.pl</a> · <a href="https://tvn24.pl/swiat/hiszpania-kryzys-migracyjny-w-ceucie-hiszpania-wysyla-wojsko-st9166427" target="_blank" rel="noopener">TVN24</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Rynki w korekcie mimo stabilnych stóp Fed</h3>
+      <p>Nasdaq 100 wszedł w strefę korekty (spadek ok. 1,8%), S&amp;P 500 spadł o ok. 1,5%. Inwestorzy obawiają się inflacji związanej z napięciami na Bliskim Wschodzie, mimo że Fed utrzymał stopy procentowe bez zmian.</p>
+      <div class="src">Źródło: <a href="https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">GoLocalProv</a><a class="translate-link" href="https://translate.google.com/translate?sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fwww.golocalprov.com%2Fnews%2F5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">🌐 tłumacz</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Fauci przed senacką komisją ws. Covid-19</h3>
+      <p>Dr Anthony Fauci ponad 100 razy odmówił odpowiedzi, powołując się na 5. poprawkę, podczas trzygodzinnego przesłuchania. Senatorowie zarzucili mu brak szczerości wobec opinii publicznej w sprawie polityki pandemicznej.</p>
+      <div class="src">Źródło: <a href="https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">GoLocalProv</a><a class="translate-link" href="https://translate.google.com/translate?sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fwww.golocalprov.com%2Fnews%2F5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">🌐 tłumacz</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Książę Harry przegrywa proces z wydawcą Daily Mail</h3>
+      <p>Sąd oddalił wszystkie 97 zarzutów. Harry i pozostali powodowie mogą zapłacić nawet 18 mln funtów kosztów sądowych.</p>
+      <div class="src">Źródło: <a href="https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">GoLocalProv</a><a class="translate-link" href="https://translate.google.com/translate?sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fwww.golocalprov.com%2Fnews%2F5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">🌐 tłumacz</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Francja wydala rosyjską dziennikarkę</h3>
+      <p>Xenia Fiedorowa została oskarżona o szerzenie kremlowskiej propagandy przed przyszłorocznymi wyborami prezydenckimi i objęta aresztem domowym.</p>
+      <div class="src">Źródło: <a href="https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">GoLocalProv</a><a class="translate-link" href="https://translate.google.com/translate?sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fwww.golocalprov.com%2Fnews%2F5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">🌐 tłumacz</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Makabryczne odkrycie w Atenach</h3>
+      <p>W centrum miasta bezdomny znalazł ciało młodej kobiety w walizce. Policja bada okoliczności zbrodni oraz podejrzaną aktywność na jej telefonie już po śmierci.</p>
+      <div class="src">Źródło: <a href="https://www.tvp.info/94585140/cialo-mlodej-kobiety-w-cuchnacej-walizce-w-centrum-aten-grecja-znalazl-ja-bezdomny-policja-wyjasnia-okolicznosci-tragedii" target="_blank" rel="noopener">TVP INFO</a></div>
+    </article>
+
+    <article class="story">
+      <h3>Zarzuty ws. Epsteina w szkole artystycznej w Michigan</h3>
+      <p>Śledztwo w Interlochen Center for the Arts ujawniło zarzuty molestowania seksualnego związane z Jeffreyem Epsteinem oraz 47 innymi pracownikami na przestrzeni dekad.</p>
+      <div class="src">Źródło: <a href="https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">GoLocalProv</a><a class="translate-link" href="https://translate.google.com/translate?sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fwww.golocalprov.com%2Fnews%2F5-big-news-stories-overnight-thursday-july-30-2026" target="_blank" rel="noopener">🌐 tłumacz</a></div>
+    </article>
+  </section>
+
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <div>Treść generowana automatycznie i weryfikowana w co najmniej dwóch niezależnych źródłach przed publikacją.</div>
+    <div>Strona aktualizowana automatycznie każdego dnia.</div>
+  </div>
+</footer>
+
+</body>
+</html>
