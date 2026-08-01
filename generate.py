@@ -25,7 +25,13 @@ def is_polish_source(name):
     polish_markers = ["PAP","RMF24","TVN24","Interia","rp.pl","WP","Onet","Polsat",
                        "Gazeta","Bankier","Money.pl","Niezalezna","Wprost","Dorzeczy",
                        "Infosecurity24","Lublin112","TVP","Radio","Kresy","Euractiv.pl",
-                       "Zielona","Goniec","Kronika24","Koteria"]
+                       "Zielona","Goniec","Kronika24","Koteria","Parkiet","Comparic",
+                       "Strefa Inwestorow","Forsal","StockWatch","Dziennik","Portal",
+                       "Kaszuby","Farmer.pl","Biznesinfo","Eska","Super Express","se.pl",
+                       "Nettg","Wgospodarce","Polskie Radio","Agroprofil","Defence24",
+                       "Demagog","Episkopat","IPN","OKO.press","Lowcyburz","histmag",
+                       "WNP.pl","Super Biznes","Konflikty","Wszystko co najwazniejsze",
+                       "Wszystko co najważniejsze"]
     return any(m.lower() in name.lower() for m in polish_markers)
 
 def render_sources(sources):

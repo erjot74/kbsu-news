@@ -228,5 +228,23 @@
       "https://demagog.org.pl/na-biezaco/ustawa-o-statusie-osoby-najblizszej-weto-prezydenta-nawrockiego/": "Demagog.org.pl"
     },
     "last_updated": "2026-08-01 07:17"
+  },
+  {
+    "slug": "fed_warsh_stopy_procentowe",
+    "category": "world",
+    "lead": false,
+    "title": "Kevin Warsh w roli szefa Fed: stopy procentowe bez zmian mimo buntu trzech jastrzebi w komitecie",
+    "body": "W srode 29 lipca Rezerwa Federalna Stanow Zjednoczonych ogłosila pierwsza decyzje w kadencji nowego prezesa Kevina Warsha, utrzymujac stopy procentowe na dotychczasowym poziomie. Jak podaly niezaleznie Euronews, TVN24 Biznes, Gazeta Prawna oraz Money.pl, decyzja zapadla mimo ze trzech czlonkow Federalnego Komitetu Otwartego Rynku (FOMC) glosowalo za podwyzka stop, co komentatorzy okreslili jako jastrzebi bunt w gronie decydentow. Interia oraz Parkiet.com podaly, ze Warsh, obejmujac stanowisko po odejsciu poprzedniego szefa Fed, zapowiedzial jastrzebie nastawienie i podkreslil, ze jedynym celem banku centralnego pozostaje sprowadzenie inflacji do poziomu 2 procent. Portal Comparic.pl zacytowal wypowiedz Warsha, w ktorej podkreslil jednoznacznosc tego celu wobec czesci komitetu domagajacej sie szybszego zacisniania polityki pienieznej. Strefa Inwestorow opisala decyzje jako poczatek nowego rozdzialu w polityce monetarnej USA. Reakcje rynkow byly ostrozne, inwestorzy oczekuja sygnalow co do kolejnych decyzji Fed w kontekscie uporczywie podwyzszonej inflacji oraz napiec geopolitycznych wplywajacych na globalne rynki finansowe.",
+    "sources": {
+      "https://www.euronews.com/business/2026/07/29/us-federal-reserve-holds-interest-rates-steady-as-three-policymakers-back-hike": "Euronews",
+      "https://tvn24.pl/biznes/ze-swiata/usa-stopy-procentowe-rezerwa-federalna-podjela-decyzje-st9164596": "TVN24 Biznes",
+      "https://edgp.gazetaprawna.pl/gospodarka/artykuly/11282482,kevin-warsh-prezes-fedu-cel-inflacyjny-2-proc-musi-zostac-osiagn.html": "Gazeta Prawna",
+      "https://www.money.pl/gospodarka/stopy-procentowe-w-usa-jest-decyzja-fed-7312782898747872a.html": "Money.pl",
+      "https://biznes.interia.pl/gospodarka/news-stopy-procentowe-w-usa-jest-kluczowa-decyzja-fed,nId,23521573": "Interia",
+      "https://www.parkiet.com/gospodarka-swiatowa/art44910041-fed-utrzymuje-stopy-procentowe-bez-zmian-trzy-glosy-za-podwyzka": "Parkiet.com",
+      "https://comparic.pl/fed-utrzymuje-stopy-ale-w-komitecie-wrze-jastrzebi-bunt-warsh-cel-jest-tylko-jeden/": "Comparic.pl",
+      "https://strefainwestorow.pl/strefa-global-market/gospodarka/fed-bez-zmian-kevin-warsh-fomc": "Strefa Inwestorow"
+    },
+    "last_updated": "2026-08-01 09:18"
   }
 ]
