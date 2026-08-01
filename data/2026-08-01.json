@@ -96,17 +96,21 @@
     "slug": "tusk_regulowane_ceny_paliw",
     "category": "pl",
     "lead": false,
-    "title": "Tusk zapowiada powrot regulowanych cen paliw na czas powrotow z wakacji, Orlen deklaruje gotowosc",
-    "body": "W czwartek i piątek, 30 i 31 lipca, premier Donald Tusk zapowiedział, że rząd rozważa przywrócenie regulowanych cen paliw na czas powrotów z wakacji, w reakcji na rosnące ceny ropy i benzyny na polskich stacjach. Jak podały Gazeta Prawna, energia.rp.pl, Wprost oraz Money.pl, premier mówił o tak zwanym pakiecie CPN i zastrzegł jeden warunek: rozmawiał już w tej sprawie z ministrem finansów, a decyzja ma zapaść przed końcem wakacji, jeśli wzrost cen się utrzyma. Forsal.pl oraz nettg.pl przekazały, że Orlen zadeklarował gotowość do współpracy z rządem i ograniczył marże na oleju napędowym niemal do zera, zapewniając, że nie brakuje paliwa na stacjach. Zapowiedź padła na tle rosnących cen ropy związanych między innymi z napięciami wokół Iranu i Cieśniny Ormuz. Reakcje są podzielone: część ekonomistów ostrzega przed ingerencją państwa w rynek paliw jako rozwiązaniem doraźnym, które może zniechęcić inwestorów, inni chwalą rząd za ochronę kierowców przed podwyżkami przed sezonem powrotów z urlopów. Ostateczne decyzje mają zostać ogłoszone w najbliższych dniach, jak zapowiedział premier.",
+    "title": "Tusk podtrzymuje zapowiedz regulowanych cen paliw, ceny na stacjach wahaja sie po rekordach",
+    "body": "Sytuacja na rynku paliw w Polsce pozostaje dynamiczna. Jak informowały pod koniec lipca portale agroprofil.pl, Super Biznes (se.pl) oraz Dziennik.pl, hurtowa cena oleju napędowego w Orlenie rosła nieprzerwanie przez 25 kolejnych dni, osiągając rekordowy poziom, a detaliczna cena ON lokalnie przebiła 8,69 złotego za litr, co eksperci określili jako najwyższy poziom od szczytu z 2022 roku, mimo relatywnie mocnego złotego. Na przełomie lipca i sierpnia seria podwyżek została jednak przerwana: notowania ropy Brent spadły o około 15 procent, a Orlen obniżył część hurtowych cen, najmocniej taniał diesel, podczas gdy benzyna w tym samym czasie nieznacznie zdrożała, jak podała Interia oraz Super Biznes. Równolegle premier Donald Tusk podtrzymał zapowiedź z 30 i 31 lipca o możliwym wprowadzeniu regulowanych cen paliw na czas powrotów z wakacji, a Orlen zadeklarował ograniczenie marż na oleju napędowym. Kierowcy odczuwają wahania cen na dystrybutorach z dnia na dzień, a analitycy ostrzegają, że sytuacja na Bliskim Wschodzie związana z wojną wokół Iranu może ponownie wywindować ceny ropy w najbliższych tygodniach, komplikując plany rządu dotyczące dalszej regulacji rynku.",
     "sources": {
       "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11281425,tusk-regulowane-ceny-paliw-koniec-wakacji.html": "GazetaPrawna.pl",
       "https://energia.rp.pl/paliwa/art44892011-tusk-mowi-o-regulowaniu-cen-paliw-na-czas-powrotow-z-wakacji-stawia-jeden-warunek": "rp.pl (energia.rp.pl)",
       "https://biznes.wprost.pl/gospodarka/12400611/donald-tusk-zapowiada-regulowane-ceny-paliw-jest-reakcja-orlenu.html": "Wprost",
       "https://www.money.pl/mobility/ceny-paliw-pod-kontrola-panstwa-premier-wskazuje-scenariusz-7311971484199296a.html": "Money.pl",
       "https://forsal.pl/transport/aktualnosci/artykuly/11281247,bedzie-powrot-do-regulowanych-cen-paliw-rozmawialem-z-ministrem-finansow.html": "Forsal.pl",
-      "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-polsce-donald-tusk-zaproponujemy-wprowadzenie-regulowanych-cen-paliw-st9160665": "TVN24 Biznes"
+      "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-polsce-donald-tusk-zaproponujemy-wprowadzenie-regulowanych-cen-paliw-st9160665": "TVN24 Biznes",
+      "https://agroprofil.pl/wiadomosci/ceny-paliw-padl-rekord-drozyzny-w-polsce-on-przebil-szczyt-z-2022-roku-przy-silniejszym-zlotym/": "Agroprofil.pl",
+      "https://agroprofil.pl/wiadomosci/ceny-paliw-przerwana-seria-25-podwyzek-diesla-ropa-w-dol-o-15-rekordy-orlenu-na-gpw-i-grozba-cen-regulowanych/": "Agroprofil.pl",
+      "https://superbiz.se.pl/wiadomosci/hurtowe-ceny-paliw-31072026-mieszane-sygnaly-na-koniec-miesiaca-benzyna-w-dol-diesel-w-gore-aa-VvaX-9Rqr-t2AM.html": "Super Biznes (se.pl)",
+      "https://auto.dziennik.pl/aktualnosci/artykuly/11280498,paliwowe-trzesienie-ziemi-na-stacjach-po-27-lipca-benzyna-95-lpg-i-diesel-juz-po-tyle-mamy-najnowsze-zestawienie.html": "Dziennik.pl"
     },
-    "last_updated": "2026-08-01 02:20"
+    "last_updated": "2026-08-01 03:25"
   },
   {
     "slug": "powstanie_warszawskie_82_rocznica",
@@ -122,5 +126,20 @@
       "https://episkopat.pl/doc/250496.82-rocznica-wybuchu-Powstania-Warszawskiego-W-godzinie-W": "Episkopat.pl"
     },
     "last_updated": "2026-08-01 02:20"
+  },
+  {
+    "slug": "usa_blanche_nominacja_prokurator_generalny",
+    "category": "world",
+    "lead": false,
+    "title": "Bunt republikanow w Senacie wobec nominacji Todda Blanche na prokuratora generalnego USA",
+    "body": "W czwartek i piątek, 30 i 31 lipca, w Waszyngtonie nasiliła się burza wokół nominacji Todda Blanche'a na prokuratora generalnego Stanów Zjednoczonych. Jak podały niezależnie CNN, NBC News, Washington Post oraz NPR, senacka komisja sądownictwa odłożyła głosowanie nad kandydaturą Blanche'a, gdy kilku republikańskich senatorów, w tym John Cornyn i Thom Tillis, odmówiło poparcia z powodu sporu o ulgę podatkową dla urzędu skarbowego IRS powiązaną z nominatem. Prezydent Donald Trump, zaskoczony buntem we własnym obozie, zagroził czasowym wycofaniem nominacji do czasu, aż niechętni senatorowie opuszczą urząd, co potwierdziły NPR oraz NBC News. Blanche, wcześniej osobisty prawnik Trumpa w procesach karnych, od kwietnia pełni obowiązki prokuratora generalnego USA. Sytuacja jest opisywana jako rzadki, otwarty konflikt Trumpa z częścią senackiego klubu Republikanów, co komentatorzy Washington Post określają jako sygnał słabnącej kontroli prezydenta nad własną frakcją w Kongresie. Reakcje są podzielone: część senatorów apeluje o szybki kompromis, inni traktują opóźnienie jako precedens ograniczający swobodę nominacyjną prezydenta w obsadzie kluczowych stanowisk w wymiarze sprawiedliwości.",
+    "sources": {
+      "https://www.cnn.com/2026/07/30/politics/todd-blanche-donald-trump-nomination-gop": "CNN",
+      "https://www.cnn.com/2026/07/29/politics/todd-blanche-nomination-cornyn": "CNN",
+      "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump": "NPR",
+      "https://www.washingtonpost.com/national-security/2026/07/29/blanches-ag-nomination-doubt-critical-republican-remains-unsatisfied/": "Washington Post",
+      "https://www.nbcnews.com/politics/justice-department/trumps-irs-carveout-threatens-hold-todd-blanche-attorney-general-nomin-rcna589617": "NBC News"
+    },
+    "last_updated": "2026-08-01 03:25"
   }
 ]
