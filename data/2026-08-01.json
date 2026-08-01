@@ -303,5 +303,22 @@
       "https://biznes.interia.pl/gospodarka/news-trump-uderza-w-import-lekow-do-usa-zapowiada-200-proc-cla,nId,23517805": "Interia Biznes"
     },
     "last_updated": "2026-08-01 12:19"
+  },
+  {
+    "slug": "zakaz_smartfonow_szkoly_podstawowe",
+    "category": "pl",
+    "lead": false,
+    "title": "Prezydent podpisal ustawe: zakaz telefonow w podstawowkach i przedszkolach od 1 wrzesnia",
+    "body": "W piatek 31 lipca prezydent Karol Nawrocki podpisal ustawe wprowadzajaca calkowity zakaz korzystania z telefonow komorkowych przez dzieci w przedszkolach oraz uczniow szkol podstawowych na terenie placowek, co niezaleznie potwierdzily TVN24, rp.pl oraz PolsatNews. Nowe przepisy wejda w zycie od 1 wrzesnia 2026 roku, na poczatek roku szkolnego, i obejmuja przedszkola oraz szkoly podstawowe w calym kraju. Cyberdefence24.pl oraz Gosc.pl podaly, ze zakaz obejmuje rowniez tablety i inne urzadzenia mobilne podczas zajec oraz przerw, a wyjatki maja dotyczyc sytuacji wskazanych przez nauczyciela lub potrzeb zdrowotnych ucznia. Instytut Spraw Obywatelskich zwrocil uwage, ze regulacja ma ograniczyc uzaleznienie dzieci od ekranow oraz przeciwdzialac cyberprzemocy i rozproszeniu uwagi na lekcjach. Zwolennicy, w tym czesc srodowisk nauczycielskich i rodzicow, chwala przepisy jako krok w strone poprawy koncentracji i zdrowia psychicznego, natomiast czesc ekspertow ostrzega przed trudnosciami z egzekwowaniem zakazu w praktyce oraz brakiem jednolitych zasad przechowywania urzadzen w szkolach. Interia przypomniala, ze to jedna z kilku ustaw podpisanych ostatnio przez prezydenta dotyczacych zmian w oswiacie.",
+    "sources": {
+      "https://edukacja.rp.pl/szkoly-podstawowe-i-srednie/art44919291-telefony-znikna-z-podstawowek-od-wrzesnia-obowiazywac-beda-nowe-przepisy": "rp.pl (edukacja)",
+      "https://tvn24.pl/polska/prezydent-podpisal-ustawe-o-zakazie-telefonow-w-szkolach-st9166170": "TVN24",
+      "https://www.polsatnews.pl/wiadomosc/2026-07-30/calkowity-zakaz-telefonow-w-szkolach-prezydent-podjal-decyzje/": "PolsatNews.pl",
+      "https://wydarzenia.interia.pl/kraj/news-zakaz-telefonow-w-szkolach-i-przedszkolach-jest-decyzja-prez,nId,23522127": "Interia",
+      "https://cyberdefence24.pl/polityka-i-prawo/polska/prezydent-podpisal-ustawe-smartfony-znikna-ze-szkol-i-przedszkoli": "Cyberdefence24.pl",
+      "https://www.gosc.pl/doc/9827783.Prezydent-podpisal-zakaz-korzystania-z-telefonow-komorkowych-w": "Gosc.pl",
+      "https://instytutsprawobywatelskich.pl/prezydent-podpisal-zakaz-telefonow-w-podstawowkach-i-przedszkolach/": "Instytut Spraw Obywatelskich"
+    },
+    "last_updated": "2026-08-01 14:17"
   }
 ]
