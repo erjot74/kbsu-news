@@ -176,8 +176,8 @@
     "slug": "rosja_atak_lwow_krzywy_rog",
     "category": "world",
     "lead": false,
-    "title": "Rosja przeprowadza kolejne masowe ataki na Ukraine: po Lwowie i Krzywym Rogu w nocy uderzyla w Kijow, uszkodzona ambasada Litwy",
-    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie kolejne fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo okolo dwudziestu osob, a na Lubelszczyznie polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie w nocy z piatku na sobote Rosja uderzyla rakietami balistycznymi i dronami w Kijow, co potwierdzily PAP, Al Jazeera, portal i.pl, rp.pl oraz TVP Info: zginelo co najmniej dziewiec osob, a okolo dwudziestu osiem zostalo rannych. W sobote 1 sierpnia agencja Reuters, litewski nadawca LRT, Ukrainska Prawda oraz WP Wiadomosci potwierdzily, ze podczas nalotu uszkodzona zostala ambasada Litwy w Kijowie, a litewskie MSZ wezwalo na dywanik rosyjskiego przedstawiciela. Prezydent Zelenski oswiadczyl, ze obronie zabraklo pociskow do systemow Patriot, i ponowil apel o wzmocnienie oslony przeciwlotniczej. Wladze ukrainskie okreslily nalot jako jeden z najwiekszych balistycznych atakow na Kijow od poczatku wojny, a Wojsko Polskie zapewnilo, ze dzialania obronne mialy charakter prewencyjny.",
+    "title": "Rosja przeprowadza kolejne masowe ataki na Ukraine: bilans ofiar w Kijowie wzrosl do dziesieciu zabitych",
+    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie kolejne fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo okolo dwudziestu osob, a na Lubelszczyznie polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie w nocy z piatku na sobote Rosja uderzyla rakietami balistycznymi i dronami w Kijow, co potwierdzily PAP, Al Jazeera, portal i.pl, rp.pl oraz TVP Info: zginelo co najmniej dziewiec osob, a rannych bylo ponad trzydziestu. W niedziele 1 sierpnia wieczorem TVN24 podal, powolujac sie na wladze Kijowa, ze bilans ofiar smiertelnych wzrosl do dziesieciu, co potwierdzil rowniez Euronews. Reuters, litewski nadawca LRT, Ukrainska Prawda oraz WP Wiadomosci potwierdzily, ze podczas nalotu uszkodzona zostala ambasada Litwy w Kijowie, a litewskie MSZ wezwalo na dywanik rosyjskiego przedstawiciela. Prezydent Zelenski oswiadczyl, ze obronie zabraklo pociskow do systemow Patriot, i ponowil apel o wzmocnienie oslony przeciwlotniczej. Wladze ukrainskie okreslily nalot jako jeden z najwiekszych atakow na Kijow od poczatku wojny.",
     "sources": {
       "https://www.pap.pl/aktualnosci/nocny-atak-rosyjskich-dronow-na-kijow-sa-zabici-i-ranni": "PAP",
       "https://www.rmf24.pl/fakty/polska/news-polska-poderwala-mysliwce-mieszkancow-lublina-obudzily-syren,nIdn,1011892": "RMF24",
@@ -193,9 +193,11 @@
       "https://www.pap.pl/aktualnosci/ukraina-co-najmniej-dziewiec-osob-zginelo-w-rosyjskim-ataku-rakietowym-na-kijow": "PAP",
       "https://www.gosc.pl/doc/9829464.Dziewiec-osob-zginelo-w-rosyjskich-atakach-uszkodzona-ambasada": "Gość Niedzielny",
       "https://www.tvp.info/94633433/ukraina-rosyjski-atak-rakietowy-na-kijow-co-najmniej-dziewiec-ofiar-smiertelnych-i-kilkudziesieciu-rannych-pocisk-uszkodzil-ambasade-litwy": "TVP Info",
-      "https://www.bankier.pl/wiadomosc/Zabraklo-rakiet-do-Patriotow-Atak-na-Kijow-Pocisk-spadl-przy-ambasadzie-Litwy-9176719.html": "Bankier.pl"
+      "https://www.bankier.pl/wiadomosc/Zabraklo-rakiet-do-Patriotow-Atak-na-Kijow-Pocisk-spadl-przy-ambasadzie-Litwy-9176719.html": "Bankier.pl",
+      "https://tvn24.pl/swiat/wojna-w-ukrainie-atak-na-kijow-zabraklo-pociskow-do-systemow-patriot-10-osob-nie-zyje-st9168750": "TVN24",
+      "https://www.euronews.com/my-europe/2026/08/01/russian-ballistic-missile-strikes-on-kyiv-kill-nine-and-injure-more-than-30": "Euronews"
     },
-    "last_updated": "2026-08-01 16:17"
+    "last_updated": "2026-08-01 19:18"
   },
   {
     "slug": "nawrocki_domniemana_proba_otrucia",
