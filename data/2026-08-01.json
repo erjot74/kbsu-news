@@ -26,8 +26,8 @@
     "slug": "gaza_hamas_rozbrojenie",
     "category": "world",
     "lead": false,
-    "title": "Trump oglasza porozumienie o rozbrojeniu Hamasu w Gazie, Izrael i eksperci pozostaja sceptyczni",
-    "body": "W czwartek 30 i piatek 31 lipca prezydent Stanow Zjednoczonych Donald Trump ogłosil, ze tak zwana Rada Pokoju dla Gazy (Board of Peace) osiagnela porozumienie z Hamasem w sprawie rozbrojenia ugrupowania i przekazania broni w ramach planu odbudowy Strefy Gazy. Trump okreslil porozumienie jako historyczne, co odnotowuja takze rp.pl oraz PCH24, jednak wedlug CNN i Al Jazeera plan wciaz zawiera zastrzezenia co do harmonogramu oraz nadzoru nad rozbrojeniem. Kresy.pl podaje, powolujac sie na media bliskowschodnie, ze Hamas postawil Izraelowi warunek dotyczacy wycofania wojsk z okreslonych stref Gazy, zanim odda bron. NBC News oraz Middle East Eye podaly, ze Hamas deklaruje gotowosc do rozbrojenia dopiero po tym, jak Izrael dotrzyma zobowiazan, w tym wstrzyma ataki, co pozostawia kluczowe przeszkody nierozwiazane. The Hill oraz AP przekazaly, ze przeszkody dotycza gwarancji bezpieczenstwa i tempa wycofania izraelskich wojsk. Reakcje sa okreslane jako ostrozny optymizm: czesc komentatorow widzi szanse na trwale zakonczenie konfliktu, inni ostrzegaja, ze podobne zapowiedzi wczesniej nie byly w pelni realizowane.",
+    "title": "Trump oglasza rozbrojenie Hamasu w Gazie, IDF uderza w skladowiska broni, Izrael pozostaje sceptyczny",
+    "body": "W czwartek 30 i piatek 31 lipca prezydent USA Donald Trump ogłosil, ze Rada Pokoju dla Gazy (Board of Peace) osiagnela porozumienie z Hamasem w sprawie rozbrojenia ugrupowania w ramach planu odbudowy Strefy Gazy, co potwierdzily rp.pl oraz PCH24, choc wedlug CNN i Al Jazeera plan wciaz zawiera zastrzezenia co do harmonogramu i nadzoru. Kresy.pl podaje, ze Hamas postawil Izraelowi warunek wycofania wojsk z okreslonych stref Gazy, zanim odda bron, a NBC News oraz Middle East Eye potwierdzaja, ze Hamas deklaruje rozbrojenie dopiero po dotrzymaniu zobowiazan przez Izrael. The Hill i AP wskazuja, ze przeszkody dotycza gwarancji bezpieczenstwa i tempa wycofania wojsk izraelskich. W sobote 1 sierpnia przedstawiciel Rady Pokoju poinformowal, ze rozbrojenie Hamasu ma sie rozpoczac w najblizszych dniach, a JNS oraz Cleveland Jewish News, powolujac sie na wojsko izraelskie, podaly, ze IDF przeprowadzilo rownolegle uderzenia na skladowiska broni Hamasu, w tym atak na meczet w miescie Gaza sluzacy jako magazyn uzbrojenia. Reakcje pozostaja mieszane: jedni widza w tym poczatek realizacji porozumienia, inni ostrzegaja, ze rownoczesne ataki izraelskie utrudniaja budowe zaufania.",
     "sources": {
       "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know": "Al Jazeera",
       "https://www.cnn.com/2026/07/31/middleeast/trump-hamas-disarmament-announcement-intl": "CNN",
@@ -39,9 +39,11 @@
       "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html": "CNBC",
       "https://www.rp.pl/dyplomacja/art44918921-donald-trump-oglasza-historyczne-porozumienie-hamas-ma-zostac-rozbrojony": "rp.pl",
       "https://pch24.pl/wiadomosci/hamas-bedzie-rozbrojony-trump-oglosil-historyczne-porozumienie,728370": "PCH24",
-      "https://kresy.pl/wydarzenia/media-hamas-zgodzil-sie-na-plan-rozbrojenia-strefy-gazy-postawil-jednak-warunek-izraelowi/": "Kresy.pl"
+      "https://kresy.pl/wydarzenia/media-hamas-zgodzil-sie-na-plan-rozbrojenia-strefy-gazy-postawil-jednak-warunek-izraelowi/": "Kresy.pl",
+      "https://www.jns.org/news/israel-news/idf-strikes-hamas-arms-depots-including-one-inside-gaza-mosque": "JNS",
+      "https://www.timesofisrael.com/liveblog-august-01-2026/": "The Times of Israel"
     },
-    "last_updated": "2026-08-01 10:17"
+    "last_updated": "2026-08-01 17:20"
   },
   {
     "slug": "japonia_trzesienie_ziemi_kumamoto",
