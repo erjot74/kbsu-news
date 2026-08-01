@@ -275,5 +275,33 @@
       "https://english.news.cn/europe/20260729/3d86da8818e940af81403af9e8969300/c.html": "Xinhua"
     },
     "last_updated": "2026-08-01 11:20"
+  },
+  {
+    "slug": "upaly_alert_imgw_iii_stopnia_sierpien",
+    "category": "pl",
+    "lead": false,
+    "title": "IMGW wydal alerty III stopnia przed upalem, fala goraca do 38 stopni naklada sie na burze",
+    "body": "W piatek 31 lipca i w sobote 1 sierpnia 2026 roku Instytut Meteorologii i Gospodarki Wodnej wydal dla znacznej czesci Polski ostrzezenia trzeciego, najwyzszego stopnia przed upalem: synoptycy prognozuja temperatury siegajace 36 do 38 stopni Celsjusza, a w kolejnych dniach lokalnie nawet do 43 stopni. Jak podaly TVN24, Polsat News, Biznesinfo.pl oraz Goniec.pl, fala goraca dotyczy centrum, zachodu i poludnia kraju i naklada sie na wczesniejsze ostrzezenia RCB przed gwaltownymi burzami z gradem, co oznacza naprzemienne alerty: upal w dzien, nawalnice wieczorem. Sluzby apeluja o ograniczenie aktywnosci na sloncu w godzinach od jedenastej do siedemnastej, regularne nawadnianie organizmu, unikanie transportu zwierzat i osob starszych w najwiekszym upale oraz zachowanie ostroznosci na drogach i kapieliskach. Media donosza o gwaltownie rosnacym popycie na klimatyzatory i wentylatory, ktorych zabraklo w wielu sklepach i marketach budowlanych. Lekarze ostrzegaja przed ryzykiem udarow cieplnych, zwlaszcza wsrod dzieci, seniorow oraz osob pracujacych na wolnym powietrzu, i przypominaja pracodawcom o obowiazku zapewnienia odpowiednich warunkow zatrudnionym na zewnatrz.",
+    "sources": {
+      "https://tvn24.pl/tvnmeteo/prognoza/upal-i-burze-w-polsce-1-08-ostrzezenia-imgw-przed-wysoka-temperatura-synoptycy-ostrzegaja-st9163262": "TVN24",
+      "https://www.polsatnews.pl/wiadomosc/2026-07-30/fala-upalow-nad-polska-tam-bedzie-najcieplej-imgw/": "Polsat News",
+      "https://www.biznesinfo.pl/imgw-wydal-alert-iii-stopnia-tutaj-upal-bedzie-nie-do-zniesienia-js-wks-310726": "Biznesinfo.pl",
+      "https://goniec.pl/upaly-w-sierpniu-2026-najnowsze-prognozy-zapowiadaja-nawet-38-stopni-mt-wwi-220726": "Goniec.pl"
+    },
+    "last_updated": "2026-08-01 12:19"
+  },
+  {
+    "slug": "cla_trump_ue_import_2026",
+    "category": "world",
+    "lead": false,
+    "title": "Nowe cla Trumpa na dziesiatki krajow, w tym Unie Europejska, weszly w zycie",
+    "body": "Prezydent Stanow Zjednoczonych Donald Trump wprowadzil z koncem lipca i poczatkiem sierpnia 2026 roku nowa fale ceł wzajemnych obejmujaca niemal caly import do USA. Jak potwierdzaja TVN24 Biznes, rp.pl, RMF24 oraz Interia Biznes, dziesiatki krajow, w tym cala Unia Europejska, zostaly objete stawka dziesieciu procent, a czesc partnerow handlowych bez wczesniejszego porozumienia z Waszyngtonem otrzymala wyzsze, indywidualne stawki celne. Decyzja to kontynuacja wczesniejszej wojny celnej administracji Trumpa i wywolala ostra krytyke w Brukseli: szefowa unijnej dyplomacji Kaja Kallas okreslila amerykanskie zarzuty jako bezpodstawne. Prawnicy i eksperci cytowani przez rp.pl oraz Parkiet kwestionuja podstawe prawna nowych taryf, wskazujac na niejasne uzasadnienie, w tym odwolania do pracy przymusowej w niektorych krajach partnerskich. Trump zapowiedzial rowniez odrebne, znacznie wyzsze cla, siegajace nawet dwustu procent, na leki generyczne importowane do Stanow Zjednoczonych. Wprowadzenie nowych cel budzi obawy o wzrost cen towarow importowanych oraz dalsze napiecia w globalnym handlu, a gieldy i rynek dolara reaguja nerwowo na kolejne posuniecia administracji amerykanskiej.",
+    "sources": {
+      "https://tvn24.pl/biznes/ze-swiata/usa-wprowadza-cla-na-niemal-caly-import-donald-trump-wznawia-ofensywe-handlowa-unia-europejska-objeta-stawka-10-procent-st9156556": "TVN24 Biznes",
+      "https://www.rp.pl/gospodarka/art44881271-trump-naklada-nowe-cla-na-kilkadziesiat-krajow-watpliwa-podstawa-prawna": "rp.pl",
+      "https://www.rmf24.pl/fakty/ekonomia/news-usa-nakladaja-nowe-cla-na-ue-kallas-zarzuty-sa-bezpodstawne,nIdn,1011191": "RMF24",
+      "https://biznes.interia.pl/gospodarka/news-trump-uderza-w-import-lekow-do-usa-zapowiada-200-proc-cla,nId,23517805": "Interia Biznes"
+    },
+    "last_updated": "2026-08-01 12:19"
   }
 ]
