@@ -183,5 +183,23 @@
       "https://www.radiowroclaw.pl/articles/view/162684/Czy-Karol-Nawrocki-zostal-otruty-w-Zabkowicach-Slaskich-Prokuratura-wszczyna-sledztwo-w-tej-sprawie": "Radio Wroclaw"
     },
     "last_updated": "2026-08-01 05:17"
+  },
+  {
+    "slug": "nawrocki_sedziowie_sn_asesorzy_spor",
+    "category": "pl",
+    "lead": false,
+    "title": "Nawrocki powolal sedziow Sadu Najwyzszego i asesorow, Zurek i KRS kwestionuja decyzje",
+    "body": "W ostatnim tygodniu lipca prezydent Karol Nawrocki wręczył akty powołania czterem nowym sędziom Sądu Najwyższego oraz mianował ponad dwustu asesorów sądów rejonowych, co potwierdziły niezależnie rp.pl, Dorzeczy oraz Wprost. Decyzja wywołała ostry spór polityczno prawny: minister sprawiedliwości Waldemar Żurek określił nowo powołanych sędziów SN mianem neosędziów, a Krajowa Rada Sądownictwa, jak podały portalsamorzadowy.pl oraz GazetaPrawna.pl, zakwestionowała skuteczność aktów mianowania asesorów, twierdząc że wymagają one kontrasygnaty premiera Donalda Tuska. Pierwsza prezes Sądu Najwyższego, cytowana przez rp.pl, odpowiedziała na stanowisko KRS, nazywając je rażąco nieuczciwym, bo to sam Żurek wcześniej apelował o pilne nominacje dla ponad dwustu absolwentów czekających bez pracy. Były prezes Trybunału Konstytucyjnego profesor Andrzej Zoll skrytykował z kolei Nawrockiego, sugerując mozliwość odpowiedzialności przed Trybunałem Stanu, co podał Goniec.pl. Spór wpisuje się w trwający od lat konflikt wokół statusu sędziów powoływanych z udziałem neo KRS oraz wyroków TSUE dotyczących polskiego sądownictwa.",
+    "sources": {
+      "https://www.rp.pl/sady-i-trybunaly/art44898481-czterech-nowych-sedziow-sadu-najwyzszego-prezydent-wreczyl-akty-powolania": "rp.pl",
+      "https://www.rp.pl/sady-i-trybunaly/art44905991-prezydent-mianowal-nowych-asesorow-krs-potrzebna-kontrasygnata-premiera": "rp.pl",
+      "https://www.rp.pl/sady-i-trybunaly/art44919371-i-prezes-sn-reaguje-na-stanowisko-krs-ws-asesorow-jest-razaco-nieuczciwe": "rp.pl",
+      "https://dorzeczy.pl/kraj/921175/karol-nawrocki-powolal-czterech-nowych-sedziow-sadu-najwyzszego.html": "Dorzeczy",
+      "https://www.wprost.pl/kraj/12399522/prezydent-karol-nawrocki-powolal-czterech-nowych-sedziow-sn.html": "Wprost",
+      "https://www.gazetaprawna.pl/prawnik/zawody-prawnicze/artykuly/11282335,krs-spor-o-nominacje-asesorow-kontrasygnata-tuska-decyzja-prezydenta-nawrockiego.html": "GazetaPrawna.pl",
+      "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/kprp-prezydent-karol-nawrocki-powolal-czterech-sedziow-sadu-najwyzszego,670316.html": "PortalSamorzadowy.pl",
+      "https://goniec.pl/byly-prezes-tk-uderzyl-w-nawrockiego-poszlo-o-jego-decyzje-ws-krs-padly-slowa-o-trybunale-stanu-mt-wpd-130726": "Goniec.pl"
+    },
+    "last_updated": "2026-08-01 06:25"
   }
 ]
