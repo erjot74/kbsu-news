@@ -3,52 +3,70 @@
     "slug": "iran_wojna_eskalacja",
     "category": "world",
     "lead": true,
-    "title": "Wojna USA i Izraela z Iranem znów eskaluje: Trump zapowiada nowe uderzenia w ten weekend",
-    "body": "Konflikt zbrojny między Stanami Zjednoczonymi i Izraelem a Iranem trwa od kilku miesięcy i w piątek 31 lipca ponownie się zaostrzył. Według ustaleń Wall Street Journal, na które powołał się Bloomberg, prezydent Donald Trump wydał polecenie przygotowania nowej fali uderzeń na cele w Iranie, które mogą się rozpocząć już w najbliższy weekend, po tym jak rozmowy o zawieszeniu broni załamały się, a obie strony wymieniły kolejne ataki. Amerykańskie dowództwo CENTCOM potwierdziło zakończenie najnowszej serii nalotów, a Iran zapowiedział kontrolę nad Cieśniną Ormuz, kluczowym szlakiem transportu ropy. Według CNN i CBS News wojna trwa od kilku miesięcy, a liczba ofiar śmiertelnych po obu stronach sięga już tysięcy, w tym kilkunastu Amerykanów. Senat USA po raz kolejny odrzucił próbę ograniczenia wojennych uprawnień prezydenta. Premier Izraela Beniamin Netanjahu spotkał się z Trumpem w Waszyngtonie, ujawniając różnice zdań co do dalszej strategii wobec Teheranu. Reakcje są mieszane: część kongresmenów ostrzega przed eskalacją i ryzykiem dla żeglugi w Zatoce Perskiej, a sojusznicy USA w regionie apelują o deeskalację, obawiając się skutków dla cen ropy i bezpieczeństwa globalnego.",
+    "title": "Wojna USA i Izraela z Iranem znow eskaluje: Trump planuje uderzenia na infrastrukture energetyczna",
+    "body": "Konflikt zbrojny między Stanami Zjednoczonymi i Izraelem a Iranem trwa od kilku miesięcy i w piątek 31 lipca ponownie się zaostrzył. Według Wall Street Journal, na które powołały się Bloomberg i Fortune, prezydent Donald Trump wydał polecenie przygotowania nowej fali uderzeń na irańską infrastrukturę energetyczną, które mogą ruszyć już w ten weekend. Axios informował, że administracja rozważa takie ataki w ciągu najbliższych dni, po tym jak rozmowy o zawieszeniu broni załamały się. Washington Post opisał, że naloty doprowadziły do przerw w dostawach prądu i niedoborów paliw w irańskich miastach, osłabiając gospodarkę. CENTCOM potwierdziło zakończenie kolejnej serii nalotów, a Iran zapowiedział kontrolę nad Cieśniną Ormuz, kluczowym szlakiem transportu ropy. Według CNN i CBS News liczba ofiar po obu stronach sięga już tysięcy, w tym kilkunastu Amerykanów. Senat USA po raz kolejny odrzucił próbę ograniczenia wojennych uprawnień prezydenta. Reakcje są mieszane: część kongresmenów ostrzega przed eskalacją i ryzykiem dla żeglugi w Zatoce Perskiej, a sojusznicy USA w regionie apelują o deeskalację, obawiając się skutków dla cen ropy.",
     "sources": {
       "https://www.bloomberg.com/news/articles/2026-07-31/trump-orders-attacks-on-iran-as-soon-as-this-weekend-wsj-says": "Bloomberg",
       "https://www.cnn.com/2026/07/31/world/live-news/iran-war-trump": "CNN",
       "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over/": "CBS News",
-      "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-attacks-gulf-us-strikes-tehran-ships-hormuz-oil-rcna353439": "NBC News",
-      "https://www.washingtonpost.com/politics/2026/07/28/netanyahu-heads-washington-differences-with-trump-over-iran-grow/": "Washington Post"
+      "https://www.axios.com/2026/07/31/trump-iran-strikes-energy-infrastructure-war": "Axios",
+      "https://www.washingtonpost.com/world/2026/07/31/trumps-infrastructure-strikes-leave-irans-economy-battered/": "Washington Post",
+      "https://fortune.com/2026/07/31/trump-iran-attack-weekend-energy-infrastructure/": "Fortune"
     },
-    "last_updated": "2026-08-01 01:20"
+    "last_updated": "2026-08-01 02:20"
   },
   {
     "slug": "gaza_hamas_rozbrojenie",
     "category": "world",
     "lead": false,
-    "title": "Trump ogłasza porozumienie o rozbrojeniu Hamasu w Gazie, na Bliskim Wschodzie ostrożny optymizm",
-    "body": "W czwartek 30 i piątek 31 lipca prezydent Stanów Zjednoczonych Donald Trump ogłosił, że tak zwana Rada Pokoju dla Gazy (Board of Peace) osiągnęła porozumienie z Hamasem w sprawie rozbrojenia ugrupowania i przekazania broni w ramach szerszego planu odbudowy Strefy Gazy. Trump określił porozumienie jako historyczne i poinformował, że Izrael jest z niego zadowolony, jednak według CNN i Al Jazeera plan wciąż zawiera istotne zastrzeżenia i niepewności co do harmonogramu oraz mechanizmu nadzoru nad rozbrojeniem. Izraelski Jerusalem Post podał, że władze w Jerozolimie pozostają sceptyczne co do realnego wdrożenia planu przez Hamas, mimo oficjalnych deklaracji ugrupowania o akceptacji tak zwanej mapy drogowej rozbrojenia. Serwis The Hill oraz agencja Associated Press przekazały, że kluczowe przeszkody dotyczą gwarancji bezpieczeństwa, roli sił międzynarodowych w Gazie oraz tempa wycofania izraelskich wojsk. Reakcje na świecie są określane jako ostrożny optymizm: część komentatorów widzi w porozumieniu szansę na trwałe zakończenie konfliktu, inni ostrzegają, że podobne zapowiedzi już wcześniej nie były w pełni realizowane, a sytuacja humanitarna w Strefie Gazy pozostaje krytyczna.",
+    "title": "Trump oglasza porozumienie o rozbrojeniu Hamasu w Gazie, Izrael i eksperci pozostaja sceptyczni",
+    "body": "W czwartek 30 i piątek 31 lipca prezydent Stanów Zjednoczonych Donald Trump ogłosił, że tak zwana Rada Pokoju dla Gazy (Board of Peace) osiągnęła porozumienie z Hamasem w sprawie rozbrojenia ugrupowania i przekazania broni w ramach planu odbudowy Strefy Gazy. Trump określił porozumienie jako historyczne, jednak według CNN i Al Jazeera plan wciąż zawiera zastrzeżenia i niepewności co do harmonogramu oraz nadzoru nad rozbrojeniem. NBC News oraz Middle East Eye podały, że Hamas deklaruje gotowość do rozbrojenia dopiero po tym, jak Izrael dotrzyma zobowiązań, w tym wstrzyma ataki i wycofa wojska ze Strefy Gazy, co pozostawia kluczowe przeszkody nierozwiązane. Jerusalem Post podał, że władze w Jerozolimie pozostają sceptyczne wobec wdrożenia planu przez Hamas, mimo deklaracji o akceptacji mapy drogowej. The Hill oraz AP przekazały, że przeszkody dotyczą gwarancji bezpieczeństwa, roli sił międzynarodowych w Gazie oraz tempa wycofania izraelskich wojsk. Reakcje są określane jako ostrożny optymizm: część komentatorów widzi szansę na trwałe zakończenie konfliktu, inni ostrzegają, że podobne zapowiedzi wcześniej nie były w pełni realizowane, a sytuacja humanitarna w Gazie pozostaje krytyczna.",
     "sources": {
       "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know": "Al Jazeera",
       "https://www.cnn.com/2026/07/31/middleeast/trump-hamas-disarmament-announcement-intl": "CNN",
       "https://www.jpost.com/middle-east/article-904197": "The Jerusalem Post",
       "https://thehill.com/policy/international/6001600-hamas-trump-admin-us-deal-disarmament/": "The Hill",
-      "https://www.irishtimes.com/world/middle-east/2026/07/31/gaza-latest-trump-says-agreement-reached-for-disarmament-of-hamas/": "The Irish Times"
+      "https://www.nbcnews.com/world/gaza/trump-says-peace-plan-will-lead-hamas-disarmament-israel-support-uncer-rcna590151": "NBC News",
+      "https://www.middleeasteye.net/news/hamas-disarm-when-israel-keeps-its-word-gazas-weapons-stay-palestinian": "Middle East Eye"
     },
-    "last_updated": "2026-08-01 01:20"
+    "last_updated": "2026-08-01 02:20"
+  },
+  {
+    "slug": "japonia_trzesienie_ziemi_kumamoto",
+    "category": "world",
+    "lead": false,
+    "title": "Trzesienie ziemi w Japonii: liczba ofiar w Kumamoto wzrosla do 34, ratownicy szukaja zaginionych",
+    "body": "W poniedziałek 28 lipca w południowej Japonii, w prefekturze Kumamoto na wyspie Kiusiu, doszło do silnego trzęsienia ziemi o magnitudzie 7,1, które spowodowało zawalenie się części centrum handlowego Aeon oraz pobliskiej fabryki, grzebiąc pod gruzami dziesiątki osób. Jak podały NPR, Al Jazeera, Washington Post oraz Japan Times, do piątku 31 lipca liczba potwierdzonych ofiar wzrosła do 34, a ratownicy nadal przeszukiwali zwały gruzu w poszukiwaniu zaginionych, mimo upływu ponad trzech dni od katastrofy. CNN oraz CBS News informowały wcześniej o dziesiątkach rannych i uwięzionych w chwili uderzenia fali sejsmicznej, a relacje ze środka centrum handlowego porównywały opadający pył do popiołu wulkanicznego. Władze Japonii ogłosiły stan wyjątkowy dla regionu i skierowały tam wojsko, straż pożarną oraz ekipy poszukiwawczo-ratownicze z detektorami i psami tropiącymi. France24 oraz ABC News podały, że część uszkodzonych budynków grozi dalszym zawaleniem, co utrudnia akcję ratunkową. Premier Japonii złożył kondolencje rodzinom ofiar i zapowiedział pomoc finansową dla poszkodowanych oraz odbudowę infrastruktury w regionie Kiusiu, gdzie trzęsienie uszkodziło też sieć drogową i kolejową.",
+    "sources": {
+      "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll": "NPR",
+      "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs": "Al Jazeera",
+      "https://www.washingtonpost.com/world/2026/07/30/japan-earthquake-kumamoto-mall-factory/b19fd5f2-8c89-11f1-8912-d71e69d679d7_story.html": "Washington Post",
+      "https://www.japantimes.co.jp/news/2026/07/30/japan/earthquake-kumamoto-death-toll/": "The Japan Times",
+      "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued/": "CBS News",
+      "https://www.france24.com/en/asia-pacific/20260728-multiple-deaths-in-japan-mall-collapse-after-7-1-magnitude-earthquake": "France 24"
+    },
+    "last_updated": "2026-08-01 02:20"
   },
   {
     "slug": "burze_alert_rcb_sierpien",
     "category": "pl",
     "lead": true,
-    "title": "Alert RCB dla ośmiu województw: gwałtowne burze z gradem i wiatrem do 120 km/h przechodzą przez Polskę",
-    "body": "W piątek 31 lipca Rządowe Centrum Bezpieczeństwa rozesłało mieszkańcom ośmiu województw pilne alerty SMS ostrzegające przed gwałtownymi burzami, silnym wiatrem i gradem, co potwierdziły między innymi TVN24 Meteo, Polskie Radio 24 oraz portal Goniec.pl. Burze nadciągnęły znad Niemiec w postaci tak zwanych superkomórek burzowych, przynosząc grad wielkości kurzych jaj oraz porywy wiatru sięgające nawet 110 do 120 kilometrów na godzinę, szczególnie groźne po wcześniejszej fali upałów sięgającej 36 stopni Celsjusza w województwach śląskim i lubelskim. IMGW wydało łącznie kilkanaście ostrzeżeń, w tym najwyższy trzeci stopień zagrożenia dla części kraju. Straż pożarna i lokalne media informowały o połamanych drzewach, zerwanych dachach oraz przerwach w dostawie prądu w kilku regionach, a RCB zaapelowało o unikanie otwartych przestrzeni i schronienie się w budynkach na czas przechodzenia komórek burzowych. Synoptycy ostrzegali też przed możliwymi lokalnymi podtopieniami. Władze samorządowe w kilku województwach uruchomiły dodatkowe dyżury służb kryzysowych, a mieszkańców proszono o zabezpieczenie balkonów, samochodów i luźnych przedmiotów przed nadciągającym żywiołem w weekend.",
+    "title": "Alert RCB dla osmiu wojewodztw: gwaltowne burze z gradem przechodza przez Polske i utrzymaja sie w weekend",
+    "body": "W piątek 31 lipca Rządowe Centrum Bezpieczeństwa rozesłało mieszkańcom ośmiu województw pilne alerty SMS ostrzegające przed gwałtownymi burzami, silnym wiatrem i gradem, co potwierdziły między innymi TVN24 Meteo, Polskie Radio 24 oraz Goniec.pl. Burze nadciągnęły znad Niemiec w postaci superkomórek burzowych, przynosząc grad wielkości kurzych jaj oraz porywy wiatru do 110 do 120 kilometrów na godzinę, groźne po wcześniejszej fali upałów sięgającej 36 stopni w województwach śląskim i lubelskim. IMGW wydało łącznie kilkanaście ostrzeżeń, w tym najwyższy trzeci stopień zagrożenia dla części kraju. Straż pożarna i media informowały o połamanych drzewach, zerwanych dachach oraz przerwach w dostawie prądu w kilku regionach. Lowcyburz.pl (Skywarn Polska) prognozował, że niebezpieczna pogoda utrzyma się także w sobotę 1 sierpnia oraz w nocy na niedzielę, co oznacza przedłużenie zagrożenia na cały weekend. RCB zaapelowało o unikanie otwartych przestrzeni i schronienie się w budynkach, a władze samorządowe w kilku województwach uruchomiły dodatkowe dyżury służb kryzysowych, prosząc mieszkańców o zabezpieczenie balkonów, samochodów i luźnych przedmiotów przed żywiołem.",
     "sources": {
       "https://tvn24.pl/tvnmeteo/polska/alert-rcb-w-piatek-31-07-burze-grad-mozliwe-przerwy-w-dostawie-pradu-st9167837": "TVN24 Meteo",
       "https://goniec.pl/rcb-wyslalo-alerty-do-mieszkancow-8-wojewodztw-ostrzezenie-przed-niebezpieczna-pogoda-mt-wwi-310726": "Goniec.pl",
       "https://polskieradio24.pl/pogoda/uwaga-na-niebezpieczna-pogode-rcb-rozeslalo-pilne-alerty": "Polskie Radio 24",
       "https://www.gov.pl/web/rcb/alert-rcb---burze-3107": "RCB (gov.pl)",
-      "https://fanipogody.pl/burze-nadciagaja-do-polski-znad-niemiec-przyniosa-niszczace-superkomorki-grad-wielkosci-kurzych-jaj-i-wiatr-do-120-km-h/": "FaniPogody.pl"
+      "https://lowcyburz.pl/2026/07/31/prognoza-konwekcyjna-dla-polski-na-dzien-01-08-2026-i-noc-01-02-08-2026/": "Lowcyburz.pl (Skywarn Polska)"
     },
-    "last_updated": "2026-08-01 01:20"
+    "last_updated": "2026-08-01 02:20"
   },
   {
     "slug": "sejm_absolutorium_budzet_2025",
     "category": "pl",
     "lead": false,
-    "title": "Sejm udzielił rządowi absolutorium za wykonanie budżetu na 2025 rok, opozycja mówi o dewastacji finansów",
+    "title": "Sejm udzielil rzadowi absolutorium za wykonanie budzetu na 2025 rok, opozycja mowi o dewastacji finansow",
     "body": "W piątek 31 lipca Sejm, ostatniego dnia obrad przed letnią przerwą, głosował nad absolutorium dla Rady Ministrów z wykonania budżetu państwa za 2025 rok. Jak podały PAP oraz Gazeta Prawna, za udzieleniem absolutorium rządowi premiera Donalda Tuska opowiedziało się 240 posłów klubów koalicyjnych, a wniosek przeszedł mimo sprzeciwu opozycji. Według Interii oraz Dziennika.pl podczas debaty padły ostre zarzuty ze strony Prawa i Sprawiedliwości o rzekomą dewastację finansów publicznych oraz nadmierny deficyt budżetowy, na co przedstawiciele koalicji rządzącej odpowiadali, że wykonanie budżetu było zgodne z założeniami mimo trudnej sytuacji geopolitycznej i gospodarczej. Portal Bankier.pl oraz WNP.pl potwierdziły przebieg głosowania i podział głosów według klubów parlamentarnych. Spór dotyczył przede wszystkim wysokości deficytu oraz poziomu zadłużenia publicznego, a także wydatków na obronność i pomoc społeczną. Decyzja Sejmu oznacza formalne zamknięcie rozliczenia budżetowego za miniony rok i kończy cykl prac parlamentu przed wakacyjną przerwą, podczas której posłowie zajmowali się też ustawami dotyczącymi akcyzy, transportu oraz praw pacjenta.",
     "sources": {
       "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11283288,rzad-z-absolutorium-sejmu-za-wykonanie-budzetu-za-2025-rok-tak-glosow.html": "GazetaPrawna.pl",
@@ -63,7 +81,7 @@
     "slug": "gus_inflacja_lipiec_2026",
     "category": "pl",
     "lead": false,
-    "title": "GUS: inflacja w Polsce wzrosła w lipcu do 3 procent, w górę poszły głównie ceny paliw",
+    "title": "GUS: inflacja w Polsce wzrosla w lipcu do 3 procent, w gore poszly glownie ceny paliw",
     "body": "W piątek 31 lipca Główny Urząd Statystyczny opublikował szybki szacunek inflacji konsumenckiej za lipiec 2026 roku, według którego ceny towarów i usług wzrosły w ujęciu rocznym o 3 procent, co potwierdziły niezależnie Forsal.pl, Dziennik.pl oraz portal StockWatch.pl. To wynik wyższy niż w czerwcu i oznacza powrót inflacji z wyraźną trójką z przodu po kilku miesiącach względnej stabilizacji. Według Money.pl oraz Bankier.pl głównym motorem wzrostu cen były paliwa, których podwyżki analitycy wiążą między innymi z sytuacją na rynkach surowcowych oraz zakończeniem części ulg podatkowych, natomiast ceny żywności w lipcu, jak zauważył portal Portalspozywczy.pl, zachowywały się wbrew ogólnemu trendowi i lokalnie nieco spadły. Ekonomiści cytowani przez Strefę Inwestorów oceniają, że wzrost inflacji może skomplikować decyzje Rady Polityki Pieniężnej w kolejnych miesiącach dotyczące ewentualnych dalszych obniżek stóp procentowych. Ostateczne, pełne dane GUS ma opublikować w kolejnych tygodniach, jednak szybki szacunek zwykle pokrywa się z finalnym odczytem z niewielkimi korektami, co sprawia, że rynki finansowe traktują go jako wiarygodny sygnał dla dalszej polityki gospodarczej.",
     "sources": {
       "https://forsal.pl/gospodarka/inflacja/artykuly/11283210,inflacja-w-lipcu-2026-gus-podal-szybki-szacunek.html": "Forsal.pl",
@@ -73,5 +91,36 @@
       "https://www.bankier.pl/wiadomosc/Inflacja-CPI-w-Polsce-w-lipcu-2026-roku-Ponownie-mamy-trojke-z-przodu-9176110.html": "Bankier.pl"
     },
     "last_updated": "2026-08-01 01:20"
+  },
+  {
+    "slug": "tusk_regulowane_ceny_paliw",
+    "category": "pl",
+    "lead": false,
+    "title": "Tusk zapowiada powrot regulowanych cen paliw na czas powrotow z wakacji, Orlen deklaruje gotowosc",
+    "body": "W czwartek i piątek, 30 i 31 lipca, premier Donald Tusk zapowiedział, że rząd rozważa przywrócenie regulowanych cen paliw na czas powrotów z wakacji, w reakcji na rosnące ceny ropy i benzyny na polskich stacjach. Jak podały Gazeta Prawna, energia.rp.pl, Wprost oraz Money.pl, premier mówił o tak zwanym pakiecie CPN i zastrzegł jeden warunek: rozmawiał już w tej sprawie z ministrem finansów, a decyzja ma zapaść przed końcem wakacji, jeśli wzrost cen się utrzyma. Forsal.pl oraz nettg.pl przekazały, że Orlen zadeklarował gotowość do współpracy z rządem i ograniczył marże na oleju napędowym niemal do zera, zapewniając, że nie brakuje paliwa na stacjach. Zapowiedź padła na tle rosnących cen ropy związanych między innymi z napięciami wokół Iranu i Cieśniny Ormuz. Reakcje są podzielone: część ekonomistów ostrzega przed ingerencją państwa w rynek paliw jako rozwiązaniem doraźnym, które może zniechęcić inwestorów, inni chwalą rząd za ochronę kierowców przed podwyżkami przed sezonem powrotów z urlopów. Ostateczne decyzje mają zostać ogłoszone w najbliższych dniach, jak zapowiedział premier.",
+    "sources": {
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11281425,tusk-regulowane-ceny-paliw-koniec-wakacji.html": "GazetaPrawna.pl",
+      "https://energia.rp.pl/paliwa/art44892011-tusk-mowi-o-regulowaniu-cen-paliw-na-czas-powrotow-z-wakacji-stawia-jeden-warunek": "rp.pl (energia.rp.pl)",
+      "https://biznes.wprost.pl/gospodarka/12400611/donald-tusk-zapowiada-regulowane-ceny-paliw-jest-reakcja-orlenu.html": "Wprost",
+      "https://www.money.pl/mobility/ceny-paliw-pod-kontrola-panstwa-premier-wskazuje-scenariusz-7311971484199296a.html": "Money.pl",
+      "https://forsal.pl/transport/aktualnosci/artykuly/11281247,bedzie-powrot-do-regulowanych-cen-paliw-rozmawialem-z-ministrem-finansow.html": "Forsal.pl",
+      "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-polsce-donald-tusk-zaproponujemy-wprowadzenie-regulowanych-cen-paliw-st9160665": "TVN24 Biznes"
+    },
+    "last_updated": "2026-08-01 02:20"
+  },
+  {
+    "slug": "powstanie_warszawskie_82_rocznica",
+    "category": "pl",
+    "lead": false,
+    "title": "82. rocznica Powstania Warszawskiego: Godzina W i syreny w calej Warszawie 1 sierpnia",
+    "body": "W sobotę 1 sierpnia w całej Polsce, a szczególnie w Warszawie, odbywają się główne uroczystości 82. rocznicy wybuchu Powstania Warszawskiego z 1944 roku. Jak informują Instytut Pamięci Narodowej, Radio dla Ciebie oraz portal Interia, punktem kulminacyjnym obchodów jest tradycyjna Godzina W o godzinie 17:00, kiedy w stolicy rozbrzmią syreny alarmowe, a mieszkańcy i turyści zatrzymują się na minutę ciszy w hołdzie powstańcom. Portal histmag.org oraz Episkopat.pl podały, że oprócz apeli i capstrzyków przy Pomniku Powstania Warszawskiego, w wielu kościołach w kraju o godzinie W rozbrzmiewają dzwony, a władze Warszawy wprowadziły na czas obchodów dodatkowe linie komunikacji miejskiej oraz zmiany w organizacji ruchu wokół punktów uroczystości. W obchodach uczestniczą przedstawiciele władz państwowych, kombatanci oraz młodzież, a program obejmuje też wystawy historyczne i rekonstrukcje. Rocznica ma dla Polaków wymiar symboliczny i edukacyjny, przypominając o jednym z najważniejszych zrywów niepodległościowych w historii kraju, a organizatorzy podkreślają znaczenie przekazywania pamięci o powstaniu młodszym pokoleniom wobec odchodzenia ostatnich żyjących świadków tamtych wydarzeń.",
+    "sources": {
+      "https://warszawa.ipn.gov.pl/waw/aktualnosci/245653,Obchody-82-rocznicy-Powstania-Warszawskiego-w-Gorze-Kalwarii-1-sierpnia-2026.html": "IPN",
+      "https://www.rdc.pl/aktualnosci/warszawa/82-rocznica-powstania-warszawskiego-oto-program-obchodow-2026_0Ht4TpQby9XiUzzHiWpt": "Radio dla Ciebie",
+      "https://wydarzenia.interia.pl/mazowieckie/news-w-stolicy-ponownie-zawyja-syreny-szczegolowa-rozpiska-progra,nId,23520822": "Interia",
+      "https://histmag.org/1-sierpnia-2026-obchody-82-rocznicy-Powstania-Warszawskiego-program-29273": "histmag.org",
+      "https://episkopat.pl/doc/250496.82-rocznica-wybuchu-Powstania-Warszawskiego-W-godzinie-W": "Episkopat.pl"
+    },
+    "last_updated": "2026-08-01 02:20"
   }
 ]
