@@ -3,8 +3,8 @@
     "slug": "iran_wojna_eskalacja",
     "category": "world",
     "lead": true,
-    "title": "Wojna USA i Izraela z Iranem znow eskaluje: Trump planuje uderzenia na infrastrukture energetyczna",
-    "body": "Konflikt zbrojny miedzy Stanami Zjednoczonymi i Izraelem a Iranem trwa od kilku miesiecy i w piatek 31 lipca oraz w weekend 1 i 2 sierpnia ponownie sie zaostrzyl. Wedlug Wall Street Journal, na ktore powolaly sie Bloomberg i Fortune, prezydent Donald Trump wydal polecenie przygotowania nowej fali uderzen na iranska infrastrukture energetyczna. Portal rp.pl podal, powolujac sie na potwierdzenie wojskowe, ze Amerykanie faktycznie uszkodzili iranska infrastrukture energetyczna, a wladze w Teheranie zaapelowaly o oszczedzanie pradu i wody. Washington Post opisal przerwy w dostawach pradu i niedobory paliw w iranskich miastach. W niedziele 1 sierpnia CNN informowal w relacji na zywo, ze Trump ostrzega przed kolejnymi nalotami na Iran, a Kuwejt zglosil nowe ataki dronowe na swoim terytorium. Tego samego dnia Fox News, France24 oraz South China Morning Post potwierdzily, ze ambasady USA w Bahrajnie i Egipcie wydaly ostrzezenia dla obywateli, apelujac o rozwazenie opuszczenia regionu, po tym jak Iran zagrozil uderzeniami w uniwersytety i inne cele na Bliskim Wschodzie. Senat USA po raz kolejny odrzucil probe ograniczenia wojennych uprawnien prezydenta wobec Iranu.",
+    "title": "Wojna USA i Izraela z Iranem znow eskaluje: nowe uderzenia i iranski odwet w Kuwejcie",
+    "body": "Konflikt zbrojny miedzy Stanami Zjednoczonymi i Izraelem a Iranem trwa od kilku miesiecy i w weekend 1 i 2 sierpnia ponownie sie zaostrzyl. Wedlug CBS News, USA i Izrael szykuja wspolna kampanie uderzen na iranska infrastrukture energetyczna, ktora moze ruszyc jeszcze w ten weekend, przed otwarciem rynkow finansowych w poniedzialek. Prezydent Donald Trump, cytowany przez Wall Street Journal i Times of Israel, nazwal Iran nieuczciwym i trudnym partnerem i zapowiedzial kolejne fale nalotow majace wymusic kapitulacje Teheranu. Al Jazeera oraz Jerusalem Post potwierdzily, ze Korpus Straznikow Rewolucji Islamskiej (IRGC) przeprowadzil w odwecie uderzenia na amerykanskie instalacje w Kuwejcie, w tym system obrony Patriot oraz smiglowce, dzien po amerykanskich atakach na Iran, a doniesienia Iran International mowia o rozszerzeniu odwetu takze na Bahrajn. Fox News, France24 i South China Morning Post podaly, ze ambasady USA w Bahrajnie i Egipcie wydaly ostrzezenia dla obywateli po iranskich grozbach uderzen w uniwersytety i inne cele na Bliskim Wschodzie. rp.pl podal, ze Amerykanie juz uszkodzili iranska infrastrukture energetyczna, a wladze w Teheranie zaapelowaly o oszczedzanie pradu i wody.",
     "sources": {
       "https://www.bloomberg.com/news/articles/2026-07-31/trump-orders-attacks-on-iran-as-soon-as-this-weekend-wsj-says": "Bloomberg",
       "https://www.cnn.com/2026/07/31/world/live-news/iran-war-trump": "CNN",
@@ -21,16 +21,21 @@
       "https://edition.cnn.com/2026/08/01/world/live-news/iran-war-trump": "CNN",
       "https://www.foxnews.com/world/us-embassies-bahrain-egypt-issue-warnings-iran-threatens-universities-across-middle-east": "Fox News",
       "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east": "France 24",
-      "https://www.scmp.com/news/world/middle-east/article/3362658/us-embassies-urge-citizens-consider-departing-middle-east": "South China Morning Post"
+      "https://www.scmp.com/news/world/middle-east/article/3362658/us-embassies-urge-citizens-consider-departing-middle-east": "South China Morning Post",
+      "https://www.jpost.com/middle-east/iran-news/article-904243": "The Jerusalem Post",
+      "https://www.ynetnews.com/article/hkbzatchzg": "Ynetnews",
+      "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events": "Al Jazeera",
+      "https://www.jpost.com/middle-east/iran-news/article-903376": "The Jerusalem Post",
+      "https://www.iranintl.com/en/202607203066": "Iran International"
     },
-    "last_updated": "2026-08-01 20:20"
+    "last_updated": "2026-08-01 21:20"
   },
   {
     "slug": "gaza_hamas_rozbrojenie",
     "category": "world",
     "lead": false,
     "title": "Trump oglasza rozbrojenie Hamasu w Gazie, IDF uderza w skladowiska broni, Izrael pozostaje sceptyczny",
-    "body": "W czwartek 30 i piatek 31 lipca prezydent USA Donald Trump ogłosil, ze Rada Pokoju dla Gazy (Board of Peace) osiagnela porozumienie z Hamasem w sprawie rozbrojenia ugrupowania w ramach planu odbudowy Strefy Gazy, co potwierdzily rp.pl oraz PCH24, choc wedlug CNN i Al Jazeera plan wciaz zawiera zastrzezenia co do harmonogramu i nadzoru. Kresy.pl podaje, ze Hamas postawil Izraelowi warunek wycofania wojsk z okreslonych stref Gazy, zanim odda bron, a NBC News oraz Middle East Eye potwierdzaja, ze Hamas deklaruje rozbrojenie dopiero po dotrzymaniu zobowiazan przez Izrael. The Hill i AP wskazuja, ze przeszkody dotycza gwarancji bezpieczenstwa i tempa wycofania wojsk izraelskich. W sobote 1 sierpnia przedstawiciel Rady Pokoju poinformowal, ze rozbrojenie Hamasu ma sie rozpoczac w najblizszych dniach, a JNS oraz Cleveland Jewish News, powolujac sie na wojsko izraelskie, podaly, ze IDF przeprowadzilo rownolegle uderzenia na skladowiska broni Hamasu, w tym atak na meczet w miescie Gaza sluzacy jako magazyn uzbrojenia. Reakcje pozostaja mieszane: jedni widza w tym poczatek realizacji porozumienia, inni ostrzegaja, ze rownoczesne ataki izraelskie utrudniaja budowe zaufania.",
+    "body": "W czwartek 30 i piatek 31 lipca prezydent USA Donald Trump ogłosil, ze Rada Pokoju dla Gazy (Board of Peace) osiagnela porozumienie z Hamasem w sprawie rozbrojenia ugrupowania w ramach planu odbudowy Strefy Gazy, co potwierdzily rp.pl oraz PCH24, choc wedlug CNN i Al Jazeera plan wciaz zawiera zastrzezenia co do harmonogramu i nadzoru. Kresy.pl podaje, ze Hamas postawil Izraelowi warunek wycofania wojsk z okreslonych stref Gazy, zanim odda bron, a NBC News, PBS NewsHour oraz Middle East Eye potwierdzaja, ze Hamas deklaruje rozbrojenie dopiero po dotrzymaniu zobowiazan przez Izrael, w tym po wycofaniu wojsk. CBS News oraz The Hill informuja, ze rzad Beniamina Netanjahu zglasza powazne zastrzezenia, a czesc izraelskich urzednikow okresla te ustalenia mianem kapitulacji, domagajac sie realnego rozbrojenia przed wycofaniem wojsk. Rownoczesnie JNS oraz Cleveland Jewish News podaly, ze IDF uderzylo w skladowiska broni Hamasu, w tym w meczet w miescie Gaza sluzacy jako magazyn uzbrojenia. Reakcje pozostaja mieszane: jedni widza w tym poczatek realizacji porozumienia, inni ostrzegaja, ze rownoczesne ataki izraelskie utrudniaja budowe zaufania.",
     "sources": {
       "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know": "Al Jazeera",
       "https://www.cnn.com/2026/07/31/middleeast/trump-hamas-disarmament-announcement-intl": "CNN",
@@ -44,16 +49,18 @@
       "https://pch24.pl/wiadomosci/hamas-bedzie-rozbrojony-trump-oglosil-historyczne-porozumienie,728370": "PCH24",
       "https://kresy.pl/wydarzenia/media-hamas-zgodzil-sie-na-plan-rozbrojenia-strefy-gazy-postawil-jednak-warunek-izraelowi/": "Kresy.pl",
       "https://www.jns.org/news/israel-news/idf-strikes-hamas-arms-depots-including-one-inside-gaza-mosque": "JNS",
-      "https://www.timesofisrael.com/liveblog-august-01-2026/": "The Times of Israel"
+      "https://www.timesofisrael.com/liveblog-august-01-2026/": "The Times of Israel",
+      "https://www.cbsnews.com/news/trump-hamas-next-phase-gaza-peace-deal-disarmament/": "CBS News",
+      "https://www.pbs.org/newshour/amp/world/hamas-says-it-will-disarm-if-israel-halts-strikes-and-withdraws-from-gaza-but-obstacles-remain": "PBS NewsHour"
     },
-    "last_updated": "2026-08-01 17:20"
+    "last_updated": "2026-08-01 21:20"
   },
   {
     "slug": "japonia_trzesienie_ziemi_kumamoto",
     "category": "world",
     "lead": false,
-    "title": "Trzesienie ziemi w Japonii: liczba ofiar w Kumamoto wzrosla do 34, ratownicy szukaja zaginionych",
-    "body": "W poniedzialek 28 lipca w prefekturze Kumamoto na wyspie Kiusiu doszlo do silnego trzesienia ziemi o magnitudzie 7,1, ktore spowodowalo zawalenie sie czesci centrum handlowego Aeon oraz pobliskiej fabryki, grzebiac pod gruzami dziesiatki osob. Jak podaly NPR, Al Jazeera, Washington Post oraz Japan Times, do piatku 31 lipca liczba potwierdzonych ofiar wzrosla do 34, a w sobote 1 sierpnia TVN24 oraz Super Express potwierdzily, ze bilans utrzymuje sie na tym poziomie, gdy ratownicy nadal przeszukuja zwaly gruzu w poszukiwaniu zaginionych mimo fali upalow utrudniajacej akcje. CNN oraz CBS News informowaly wczesniej o dziesiatkach rannych i uwiezionych w chwili uderzenia fali sejsmicznej. Wladze Japonii ogłosily stan wyjatkowy dla regionu i skierowaly tam wojsko, straz pozarna oraz ekipy poszukiwawczo ratownicze z psami tropiacymi. France24 oraz ABC News podaly, ze czesc uszkodzonych budynkow grozi dalszym zawaleniem, co utrudnia akcje ratunkowa. Premier Japonii zlozyl kondolencje rodzinom ofiar i zapowiedzial pomoc finansowa oraz odbudowe infrastruktury w regionie Kiusiu, gdzie trzesienie uszkodzilo tez siec drogowa i kolejowa.",
+    "title": "Trzesienie ziemi w Japonii: liczba ofiar w Kumamoto wzrosla do 36, upal utrudnia poszukiwania",
+    "body": "W poniedzialek 28 lipca w prefekturze Kumamoto na wyspie Kiusiu doszlo do silnego trzesienia ziemi, ktore spowodowalo zawalenie sie czesci centrum handlowego Aeon Mall w miejscowosci Kashima oraz pobliskiej fabryki Nippon Paper Industries w Yatsushiro, grzebiac pod gruzami dziesiatki osob. Jak podaly NPR, Al Jazeera, Washington Post oraz Japan Times, do piatku 31 lipca liczba potwierdzonych ofiar wzrosla do 34, a w sobote 1 sierpnia Japan Times oraz agencja AP poinformowaly, ze bilans wzrosl do 36 zabitych, z czego zidentyfikowano dotychczas 27 osob, a szesc kolejnych osob pozostaje w stanie krytycznym. W centrum handlowym zginelo siedem osob a piec zostalo rannych, natomiast w fabryce papierniczej z jedenastu wydobytych osob dziewiec nie przezylo. Ratownicy nadal przeszukuja zwaly gruzu w poszukiwaniu zaginionych, a fala upalow dodatkowo utrudnia akcje, przez co czesc ocalałych spedza noce w samochodach z dala od zniszczonych domow. Wladze Japonii ogłosily stan wyjatkowy dla regionu i skierowaly tam wojsko, straz pozarna oraz ekipy poszukiwawczo ratownicze z psami tropiacymi. Premier Japonii zlozyl kondolencje rodzinom ofiar i zapowiedzial pomoc finansowa oraz odbudowe infrastruktury w regionie Kiusiu.",
     "sources": {
       "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll": "NPR",
       "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs": "Al Jazeera",
@@ -62,9 +69,11 @@
       "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued/": "CBS News",
       "https://www.france24.com/en/asia-pacific/20260728-multiple-deaths-in-japan-mall-collapse-after-7-1-magnitude-earthquake": "France 24",
       "https://tvn24.pl/swiat/wzrosl-bilans-ofiar-trzesienia-ziemi-w-japonii-moga-byc-kolejne-wstrzasy-st9166883": "TVN24",
-      "https://www.se.pl/wiadomosci/swiat/tragiczny-wzrost-liczby-ofiar-w-japonii-nowe-dane-po-poteznym-trzesieniu-ziemi-aa-oeR4-4HnH-bXHQ.html": "Super Express"
+      "https://www.se.pl/wiadomosci/swiat/tragiczny-wzrost-liczby-ofiar-w-japonii-nowe-dane-po-poteznym-trzesieniu-ziemi-aa-oeR4-4HnH-bXHQ.html": "Super Express",
+      "https://www.japantimes.co.jp/news/2026/08/01/japan/kumamoto-quake-survivors-heat/": "The Japan Times",
+      "https://www.aol.com/articles/japan-earthquake-death-toll-rises-111013000.html": "AP (via AOL)"
     },
-    "last_updated": "2026-08-01 07:17"
+    "last_updated": "2026-08-01 21:20"
   },
   {
     "slug": "burze_alert_rcb_sierpien",
@@ -146,15 +155,16 @@
     "category": "pl",
     "lead": false,
     "title": "82. rocznica Powstania Warszawskiego: Godzina W i syreny w calej Warszawie 1 sierpnia",
-    "body": "W sobotę 1 sierpnia w całej Polsce, a szczególnie w Warszawie, odbywają się główne uroczystości 82. rocznicy wybuchu Powstania Warszawskiego z 1944 roku. Jak informują Instytut Pamięci Narodowej, Radio dla Ciebie oraz portal Interia, punktem kulminacyjnym obchodów jest tradycyjna Godzina W o godzinie 17:00, kiedy w stolicy rozbrzmią syreny alarmowe, a mieszkańcy i turyści zatrzymują się na minutę ciszy w hołdzie powstańcom. Portal histmag.org oraz Episkopat.pl podały, że oprócz apeli i capstrzyków przy Pomniku Powstania Warszawskiego, w wielu kościołach w kraju o godzinie W rozbrzmiewają dzwony, a władze Warszawy wprowadziły na czas obchodów dodatkowe linie komunikacji miejskiej oraz zmiany w organizacji ruchu wokół punktów uroczystości. W obchodach uczestniczą przedstawiciele władz państwowych, kombatanci oraz młodzież, a program obejmuje też wystawy historyczne i rekonstrukcje. Rocznica ma dla Polaków wymiar symboliczny i edukacyjny, przypominając o jednym z najważniejszych zrywów niepodległościowych w historii kraju, a organizatorzy podkreślają znaczenie przekazywania pamięci o powstaniu młodszym pokoleniom wobec odchodzenia ostatnich żyjących świadków tamtych wydarzeń.",
+    "body": "W sobote 1 sierpnia o godzinie 17:00 w Warszawie zawyly syreny w ramach tradycyjnej Godziny W, upamietniajacej wybuch Powstania Warszawskiego z 1944 roku; mieszkancy i turysci zatrzymali sie na minute ciszy, wstrzymano na chwile komunikacje miejska, a w kosciolach w calym kraju rozbrzmialy dzwony, co potwierdzily Radio dla Ciebie oraz Interia Wydarzenia. Tlumy zgromadzily sie na Rondzie Dmowskiego, gdzie odpalono race z czerwonym dymem, oraz na Placu Zamkowym, gdzie uczestnicy utworzyli zywy znak Polski Walczacej; na Wisle odbyla sie flotylla lodzi z wiencami dla poleglych powstancow, a nad mostami samoloty wykonaly pokaz z kolorowym dymem, jak podaly Wprost oraz histmag.org. Na Cmentarzu Wojskowym na Powazkach przy pomniku Gloria Victis hold poleglym oddal prezydent Karol Nawrocki wraz z kombatantami i przedstawicielami wladz panstwowych. W stolicy wprowadzono na czas obchodow zmiany w organizacji ruchu i dodatkowe linie komunikacji miejskiej. Program obejmowal takze apele, capstrzyki, wystawy historyczne oraz rekonstrukcje, a organizatorzy podkreslali znaczenie przekazywania pamieci o powstaniu mlodszym pokoleniom wobec odchodzenia ostatnich zyjacych swiadkow tamtych wydarzen.",
     "sources": {
       "https://warszawa.ipn.gov.pl/waw/aktualnosci/245653,Obchody-82-rocznicy-Powstania-Warszawskiego-w-Gorze-Kalwarii-1-sierpnia-2026.html": "IPN",
       "https://www.rdc.pl/aktualnosci/warszawa/82-rocznica-powstania-warszawskiego-oto-program-obchodow-2026_0Ht4TpQby9XiUzzHiWpt": "Radio dla Ciebie",
       "https://wydarzenia.interia.pl/mazowieckie/news-w-stolicy-ponownie-zawyja-syreny-szczegolowa-rozpiska-progra,nId,23520822": "Interia",
       "https://histmag.org/1-sierpnia-2026-obchody-82-rocznicy-Powstania-Warszawskiego-program-29273": "histmag.org",
-      "https://episkopat.pl/doc/250496.82-rocznica-wybuchu-Powstania-Warszawskiego-W-godzinie-W": "Episkopat.pl"
+      "https://episkopat.pl/doc/250496.82-rocznica-wybuchu-Powstania-Warszawskiego-W-godzinie-W": "Episkopat.pl",
+      "https://www.rdc.pl/aktualnosci/warszawa/godzina-w-w-warszawie-tak-stolica-uczcila-rocznice-wybuchu-powstania-warszawskiego_etCsLvBHqocK4NFuKUQ8": "Radio dla Ciebie"
     },
-    "last_updated": "2026-08-01 05:17"
+    "last_updated": "2026-08-01 21:20"
   },
   {
     "slug": "usa_blanche_nominacja_prokurator_generalny",
@@ -180,7 +190,7 @@
     "category": "world",
     "lead": false,
     "title": "Rosja przeprowadza kolejne masowe ataki na Ukraine: bilans ofiar w Kijowie wzrosl do dziesieciu zabitych",
-    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie kolejne fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo okolo dwudziestu osob, a na Lubelszczyznie polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie w nocy z piatku na sobote Rosja uderzyla rakietami balistycznymi i dronami w Kijow, co potwierdzily PAP, Al Jazeera, portal i.pl, rp.pl oraz TVP Info: zginelo co najmniej dziewiec osob, a rannych bylo ponad trzydziestu. W niedziele 1 sierpnia wieczorem TVN24 podal, powolujac sie na wladze Kijowa, ze bilans ofiar smiertelnych wzrosl do dziesieciu, co potwierdzil rowniez Euronews. Reuters, litewski nadawca LRT, Ukrainska Prawda oraz WP Wiadomosci potwierdzily, ze podczas nalotu uszkodzona zostala ambasada Litwy w Kijowie, a litewskie MSZ wezwalo na dywanik rosyjskiego przedstawiciela. Prezydent Zelenski oswiadczyl, ze obronie zabraklo pociskow do systemow Patriot, i ponowil apel o wzmocnienie oslony przeciwlotniczej. Wladze ukrainskie okreslily nalot jako jeden z najwiekszych atakow na Kijow od poczatku wojny.",
+    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie kolejne fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo okolo dwudziestu osob, a na Lubelszczyznie polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie w nocy z piatku na sobote Rosja od okolo pierwszej w nocy czasu lokalnego przez ponad dwie godziny ostrzeliwala Kijow rakietami balistycznymi, trafiajac w dzielnice Aloszijiwska, Darnicka, Szewczenkiwska i Solomianska. Jak podaly Kyiv Independent, Al Jazeera oraz The Moscow Times, bilans ofiar w stolicy Ukrainy wzrosl do co najmniej dziesieciu zabitych, a rannych zostalo kilkadziesiat osob, w tym czworo dzieci; w dzielnicy Szewczenkiwskiej zawalily sie dwie kondygnacje budynku mieszkalnego, wybuchly tez pozary magazynow i parkingow. Kyiv Independent zwraca uwage, ze Ukrainie brakuje pociskow przechwytujacych do systemow Patriot, a prezydent Trump wycofal sie z wczesniejszej propozycji udzielenia Ukrainie licencji na ich produkcje, co ogranicza mozliwosci obrony przed kolejnymi nalotami.",
     "sources": {
       "https://www.pap.pl/aktualnosci/nocny-atak-rosyjskich-dronow-na-kijow-sa-zabici-i-ranni": "PAP",
       "https://www.rmf24.pl/fakty/polska/news-polska-poderwala-mysliwce-mieszkancow-lublina-obudzily-syren,nIdn,1011892": "RMF24",
@@ -198,9 +208,11 @@
       "https://www.tvp.info/94633433/ukraina-rosyjski-atak-rakietowy-na-kijow-co-najmniej-dziewiec-ofiar-smiertelnych-i-kilkudziesieciu-rannych-pocisk-uszkodzil-ambasade-litwy": "TVP Info",
       "https://www.bankier.pl/wiadomosc/Zabraklo-rakiet-do-Patriotow-Atak-na-Kijow-Pocisk-spadl-przy-ambasadzie-Litwy-9176719.html": "Bankier.pl",
       "https://tvn24.pl/swiat/wojna-w-ukrainie-atak-na-kijow-zabraklo-pociskow-do-systemow-patriot-10-osob-nie-zyje-st9168750": "TVN24",
-      "https://www.euronews.com/my-europe/2026/08/01/russian-ballistic-missile-strikes-on-kyiv-kill-nine-and-injure-more-than-30": "Euronews"
+      "https://www.euronews.com/my-europe/2026/08/01/russian-ballistic-missile-strikes-on-kyiv-kill-nine-and-injure-more-than-30": "Euronews",
+      "https://kyivindependent.com/kyiv-hammered-by-ballistic-missiles-as-russia-launches-2nd-major-attack-in-48-hours/": "Kyiv Independent",
+      "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392": "The Moscow Times"
     },
-    "last_updated": "2026-08-01 19:18"
+    "last_updated": "2026-08-01 21:20"
   },
   {
     "slug": "nawrocki_domniemana_proba_otrucia",
@@ -358,5 +370,59 @@
       "https://www.polsatnews.pl/wiadomosc/2026-08-01/prokuratura-wrocila-na-miejsce-wybuchu-rosyjskiego-pocisku-znaleziono-kolejne-elementy/": "PolsatNews.pl"
     },
     "last_updated": "2026-08-01 20:20"
+  },
+  {
+    "slug": "siatkarze_final_ligi_narodow_2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Polscy siatkarze pokonali Slowenie i awansowali do finalu Ligi Narodow",
+    "body": "W sobote 1 sierpnia reprezentacja Polski siatkarzy pokonala Slowenie 3:0 (25:16, 25:19, 25:17) w polfinale Ligi Narodow 2026, rozgrywanym w hali w chinskim miescie Ningbo. Jak podaly Eurosport i TVN24 oraz Interia Sport, najlepszym punktujacym zawodnikiem meczu byl Wilfredo Leon, ktory zdobyl 16 punktow, a caly zespol zagral zdyscyplinowana partie zarowno w ataku jak i w bloku, nie dajac rywalom szans na odrobienie strat w zadnym z trzech setow. Dzieki temu zwyciestwu biale-czerwoni po raz kolejny awansowali do finalu prestizowego turnieju i w niedziele 2 sierpnia zmierza sie ze zwyciezca polfinalu pomiedzy Stanami Zjednoczonymi a Japonia, o czym poinformowaly rowniez TVP Sport, Sport1.pl oraz PolsatSport.pl. Trenerzy i kibice komentujacy mecz podkreslali dojrzalosc druzyny oraz skutecznosc zagrywki, ktora utrudniala Slowencom budowanie akcji rozgrywajacego. Sukces jest kolejnym potwierdzeniem dobrej formy polskich siatkarzy w tym sezonie reprezentacyjnym i zwieksza szanse na zdobycie kolejnego trofeum w historii kadry, co odbija sie szerokim echem w krajowych mediach sportowych, ktore juz zapowiadaja obszerne relacje z niedzielnego finalu Ligi Narodow.",
+    "sources": {
+      "https://eurosport.tvn24.pl/siatkowka/liga-narodow-siatkarzy/2026/polska-slowenia-wynik-meczu-i-relacja-polfinal-ligi-narodow-siatkarzy-2026_sto23324421/story.shtml": "Eurosport / TVN24",
+      "https://sport.interia.pl/siatkowka/liga-narodow-siatkarzy/news-mecz-polska-slowenia-polfinal-ligi-narodow-relacja-wynik,nId,23522726": "Interia Sport",
+      "https://sport.tvp.pl/94640084/slowenia-polska-na-zywo-relacja-online-z-polfinalu-ligi-narodow-siatkarzy-01082026": "TVP Sport",
+      "https://www.polsatsport.pl/wiadomosc/2026-08-01/polska-slowenia-na-zywo-dzis-liga-narodow-siatkarzy-relacja-live-wynik-online/": "Polsat Sport"
+    },
+    "last_updated": "2026-08-01 21:20"
+  },
+  {
+    "slug": "strazacy_pomoc_pozary_hiszpania",
+    "category": "pl",
+    "lead": false,
+    "title": "Ponad stu polskich strazakow poleciało do Hiszpanii pomoc w gaszeniu wielkich pozarow lasow",
+    "body": "W sobote 1 sierpnia ze stolecznego lotniska Krakow Balice wystartowal wojskowy samolot transportowy CASA z pierwsza grupa polskich strazakow, ktorzy w ramach unijnego mechanizmu ochrony ludnosci poleca z pomoca do Hiszpanii, gdzie od kilku dni szaleja rozlegle pozary lasow. Jak podaly PolsatNews.pl oraz WP Wiadomosci, a takze Gosc Niedzielny i TVN24 Meteo, w akcji wezmie udzial lacznie okolo stu pieciu strazakow z Panstwowej Strazy Pozarnej, podzielonych na trzy zmiany po trzydziesci piec osob, ktorzy przez najblizsze dni beda stacjonowac w bazie w Toledo, w regionie Kastylia La Mancha. Pozary strawily juz ponad szescdziesiat tysiecy hektarow lasow i terenow zielonych, a hiszpanskie sluzby ewakuowaly z zagrozonych okolic okolo dziewiecdziesieciu tysiecy mieszkancow. Przewodniczaca Komisji Europejskiej Ursula von der Leyen podziekowala Polsce za blyskawiczna reakcje i wyslanie sprzetu oraz ludzi w ramach europejskiej solidarnosci kryzysowej. Powrot polskich strazakow do kraju planowany jest na jedenasty sierpnia, o ile sytuacja pozarowa wczesniej sie nie ustabilizuje na tyle, by misje mozna bylo skrocic, a polskie wladze zapowiadaja gotowosc wyslania kolejnych ekip w razie potrzeby.",
+    "sources": {
+      "https://www.polsatnews.pl/wiadomosc/2026-08-01/pozary-trawia-hiszpanie-z-pomoca-poleci-ponad-100-polskich-strazakow/": "PolsatNews.pl",
+      "https://wiadomosci.wp.pl/polscy-strazacy-jada-do-hiszpanii-pomoga-w-walce-z-ogniem-7312373505075552a": "WP Wiadomosci",
+      "https://www.gosc.pl/doc/9824717.Polscy-strazacy-pomoga-Hiszpanii-w-walce-z-pozarami": "Gosc Niedzielny",
+      "https://tvn24.pl/tvnmeteo/polska/pozary-w-hiszpanii-polscy-strazacy-polecieli-na-pomoc-st9169221": "TVN24 Meteo"
+    },
+    "last_updated": "2026-08-01 21:20"
+  },
+  {
+    "slug": "f35b_katastrofa_miramar",
+    "category": "world",
+    "lead": false,
+    "title": "Amerykanski mysliwiec F-35B rozbil sie w bazie Miramar w Kalifornii, pilot katapultowal sie bezpiecznie",
+    "body": "W piatek 31 lipca w poblizu bazy lotnictwa Korpusu Piechoty Morskiej MCAS Miramar nieopodal San Diego w Kalifornii rozbil sie mysliwiec F-35B nalezacy do amerykanskich Marines. Jak potwierdzily CNN, Stars and Stripes, Fox News oraz NBC News, pilot zdazyl katapultowac sie tuz przed uderzeniem maszyny w ziemie i zostal przewieziony do szpitala z obrazeniami nie zagrazajacymi zyciu. Uderzenie samolotu wywolalo pozar suchej trawy w okolicy bazy, ktory strazacy ugasili w ciagu kilku godzin, a okoliczne drogi byly czasowo zamkniete dla ruchu. Korpus Piechoty Morskiej wszczal standardowe dochodzenie majace ustalic przyczyny wypadku, nie wykluczajac usterki technicznej samego samolotu, ktory nalezy do jednej z najdrozszych i najbardziej zaawansowanych konstrukcji lotnictwa wojskowego na swiecie. To kolejny w ostatnich latach incydent z udzialem mysliwca F-35, co ponownie wywolalo w amerykanskich mediach dyskusje na temat bezpieczenstwa i kosztow utrzymania tego programu zbrojeniowego. Dowodztwo Marines podkreslilo, ze najwazniejsze jest bezpieczenstwo pilota, ktory przezyl katastrofe bez powaznych obrazen, a szczegoly techniczne wypadku maja zostac ujawnione po zakonczeniu dochodzenia w najblizszych tygodniach.",
+    "sources": {
+      "https://www.cnn.com/2026/07/31/us/military-jet-crash-california-marine-base": "CNN",
+      "https://www.stripes.com/branches/marine_corps/2026-07-31/f-35-crash-mcas-miramar-22422757.html": "Stars and Stripes",
+      "https://www.foxnews.com/us/pilot-ejects-f-35-crashes-mcas-miramar-sparking-fire": "Fox News",
+      "https://www.nbcnews.com/news/us-news/f-35-fighter-jet-crashes-san-diego-sparks-fire-miramar-air-base-rcna590274": "NBC News"
+    },
+    "last_updated": "2026-08-01 21:20"
+  },
+  {
+    "slug": "wypadek_piotrowice_male_1279n",
+    "category": "pl",
+    "lead": false,
+    "title": "Wypadek na drodze 1279N w Piotrowicach Malych: szesc osob rannych, w tym dwoje dzieci",
+    "body": "W sobote po poludniu 1 sierpnia na drodze powiatowej numer 1279N w miejscowosci Piotrowice Male w rejonie Proszowic, w wojewodztwie malopolskim, doszlo do powaznego wypadku drogowego z udzialem dwoch samochodow osobowych oraz ciezarowki marki Iveco. Jak podaly portal Goniec.pl oraz Komenda Powiatowa Policji w Proszowicach, do zdarzenia doszlo najprawdopodobniej podczas manewru wyprzedzania, gdy jeden z kierowcow nie zdolal bezpiecznie wrocic na swoj pas ruchu przed nadjezdzajaca z przeciwka ciezarowka. W wyniku zderzenia rannych zostalo szesc osob, w tym dwoje malych dzieci, a czworo poszkodowanych trafilo do okolicznych szpitali z rozleglymi obrazeniami. Na miejsce zdarzenia zadysponowano liczne zastepy strazy pozarnej, karetki pogotowia ratunkowego oraz patrole policji, ktore na czas trwania akcji ratunkowej calkowicie zablokowaly droge dla ruchu w obu kierunkach, kierujac pojazdy na trasy objazdowe. Policja wszczela postepowanie majace wyjasnic dokladny przebieg i przyczyny wypadku oraz ewentualna odpowiedzialnosc kierowcow, apelujac jednoczesnie do wszystkich uczestnikow ruchu drogowego o zachowanie szczegolnej ostroznosci podczas wyprzedzania, zwlaszcza w okresie wzmozonego ruchu wakacyjnego na drogach lokalnych.",
+    "sources": {
+      "https://goniec.pl/dramatyczny-wypadek-na-drodze-1279n-kilka-osob-rannych-w-tym-male-dzieci-pilna-akcja-sluzb-wk-wpd-010826": "Goniec.pl",
+      "https://proszowice.policja.gov.pl/kpr/aktualnosci/10158,Powazny-wypadek-w-Piotrkowicach-Malych.html": "Policja Proszowice"
+    },
+    "last_updated": "2026-08-01 21:20"
   }
 ]
