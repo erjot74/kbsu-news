@@ -66,7 +66,7 @@
   {
     "slug": "burze_alert_rcb_sierpien",
     "category": "pl",
-    "lead": true,
+    "lead": false,
     "title": "Alert RCB dla kilku wojewodztw: burze z gradem i silnym wiatrem utrzymuja sie przez caly weekend",
     "body": "W piątek 31 lipca i w sobotę 1 sierpnia Rządowe Centrum Bezpieczeństwa kilkukrotnie rozsyłało mieszkańcom pilne alerty SMS, najpierw dla ośmiu, potem dla siedmiu województw, ostrzegając przed gwałtownymi burzami, silnym wiatrem i gradem, co potwierdziły między innymi Polskie Radio 24, TVN24 Meteo oraz PAP. IMGW wydało w tym czasie ostrzeżenia pierwszego i drugiego stopnia łącznie dla około dziesięciu regionów kraju. Burze przynoszą grad wielkości kurzych jaj oraz porywy wiatru dochodzące do stu dwudziestu kilometrów na godzinę, co jest szczególnie groźne po wcześniejszej fali upałów sięgającej trzydziestu sześciu stopni. Serwis Kaszuby24 informował, że w weekend 1 i 2 sierpnia najsilniejsze zjawiska przejdą przez Pomorze, gdzie synoptycy nie wykluczają także trąb powietrznych nad morzem. Straż pożarna zgłaszała już połamane drzewa i przerwy w dostawie prądu. RCB zaapelowało o unikanie otwartych przestrzeni, plaż i lasów oraz o schronienie się w budynkach, a władze samorządowe uruchomiły dodatkowe dyżury służb kryzysowych. Synoptycy ostrzegają, że niebezpieczna pogoda może utrzymać się aż do niedzieli, dlatego RCB zapowiada możliwe kolejne alerty w najbliższych godzinach.",
     "sources": {
@@ -333,5 +333,20 @@
       "https://instytutsprawobywatelskich.pl/prezydent-podpisal-zakaz-telefonow-w-podstawowkach-i-przedszkolach/": "Instytut Spraw Obywatelskich"
     },
     "last_updated": "2026-08-01 14:17"
+  },
+  {
+    "slug": "tarnawa_kolonia_rakieta_rosyjska",
+    "category": "pl",
+    "lead": true,
+    "title": "Rosyjska rakieta spadla w Tarnawie-Kolonii na Lubelszczyznie, Tusk mowi o uzbrojonym pocisku",
+    "body": "W nocy z 29 na 30 lipca 2026 roku w miejscowosci Tarnawa-Kolonia na Lubelszczyznie, okolo 42 km od Lublina i 92 km od granicy z Ukraina, spadl niezidentyfikowany obiekt, ktory eksplodowal, pozostawiajac okolo dziesieciometrowy lej i wywolujac syreny alarmowe; informowaly o tym TVN24, Interia oraz PolsatNews. Premier Donald Tusk potwierdzil, ze rakieta byla uzbrojona i ze polskie sily byly gotowe do jej zestrzelenia, choc do tego nie doszlo. Szef MON Wladyslaw Kosiniak-Kamysz oraz wiceszef resortu obrony sugerowali, ze pocisk prawdopodobnie przypadkowo zbladzil z kursu podczas rosyjskiego ataku na Ukraine. Prokuratura ustalila, ze byl to rosyjski pocisk manewrujacy typu CH-101 wyprodukowany pod Moskwa, zawierajacy znaczna ilosc materialu wybuchowego, co potwierdzily rp.pl oraz Goniec.pl. Szef MSZ Ukrainy stwierdzil, ze rosyjski pocisk wlecial w polska przestrzen powietrzna. Rzecznik prezydenta Nawrockiego poinformowal, ze prezydent nie zwola Rady Bezpieczenstwa Narodowego, co skrytykowala opozycja, mowiac o unikaniu odpowiedzialnosci. Nikt nie zostal ranny, ale mieszkancy okolicznych wsi mowia o szoku, podkreslajac, ze gdyby pocisk spadl na zabudowania, skutki moglyby byc tragiczne.",
+    "sources": {
+      "https://tvn24.pl/polska/wybuch-w-okolicach-miejscowosci-tarnawa-kolonia-premier-donald-tusk-rakieta-byla-uzbrojona-st9166417": "TVN24",
+      "https://wydarzenia.interia.pl/kraj/na-zywo-tarnawa-kolonia-syreny-i-10-metrowy-lej-spadla-rakieta,nzId,8928": "Interia",
+      "https://www.rp.pl/wojsko/art44916401-prokuratura-rakieta-zawierala-material-wybuchowy-w-znacznej-ilosci": "rp.pl",
+      "https://www.polsatnews.pl/wiadomosc/2026-07-31/glos-z-palacu-ws-rakiety-w-polsce-jasne-stanowisko-prezydenta/": "PolsatNews.pl",
+      "https://tvn24.pl/swiat/tarnawa-kolonia-wybuch-szef-msz-ukrainy-to-rosyjski-pocisk-wlecial-w-polska-przestrzen-st9165217": "TVN24"
+    },
+    "last_updated": "2026-08-01 18:25"
   }
 ]
