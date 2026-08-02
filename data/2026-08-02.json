@@ -213,5 +213,22 @@
       "https://www.nbcnews.com/news/us-news/f-35-fighter-jet-crashes-san-diego-sparks-fire-miramar-air-base-rcna590274": "NBC News"
     },
     "last_updated": "2026-08-02 00:20"
+  },
+  {
+    "slug": "82_rocznica_powstania_warszawskiego",
+    "category": "pl",
+    "lead": false,
+    "title": "Godzina W: Polska uczcila 82. rocznice wybuchu Powstania Warszawskiego",
+    "body": "W sobote 1 sierpnia Polska obchodzila 82. rocznice wybuchu Powstania Warszawskiego z 1944 roku. Punktualnie o godzinie siedemnastej, w tak zwanej Godzinie W, w Warszawie oraz w wielu innych miastach kraju zawyly syreny, a mieszkancy na minute zatrzymali sie w milczeniu, oddajac hold poleglym powstancom; ruch uliczny w stolicy zostal wstrzymany, co potwierdzily TVN24 Warszawa, Dziennik.pl oraz Radio dla Ciebie. Centralne uroczystosci panstwowe odbyly sie na Placu Krasinskich, gdzie zlozono kwiaty pod Pomnikiem Powstania Warszawskiego; wzieli w nich udzial prezydent Karol Nawrocki oraz prezydent Warszawy Rafal Trzaskowski, a takze nieliczni juz zyjacy kombatanci, jak podala GazetaPrawna.pl. W swoim przemowieniu prezydent Nawrocki podkreslil, ze powstancy byli gotowi oddac zycie za niepodleglosc, a obecnie potrzebna jest zgoda ponad podzialami w sprawach bezpieczenstwa panstwa, o co zdaniem TVN24 Warszawa upominaja sie dzis zyjacy uczestnicy powstania. PolsatNews.pl oraz naszemiasto.pl relacjonowaly, ze podobne obchody z apelami pamieci i skladaniem kwiatow odbyly sie rowniez w innych miastach, w tym w Radomiu.",
+    "sources": {
+      "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-godzina-w-wybila-stolica-uczcila-82-rocznice-wybuchu-powstania-warszawskiego-st9169412": "TVN24 Warszawa",
+      "https://tvn24.pl/tvnwarszawa/srodmiescie/82-rocznica-wybuchu-powstania-warszawskiego-w-sprawach-bezpieczenstwa-musimy-byc-zgodni-o-to-upominaja-sie-dzisiaj-powstancy-st9169558": "TVN24 Warszawa",
+      "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/9853382,godzina-w-warszawa-stanela-syreny-rozlegly-sie-w-calej-polsce.html": "Dziennik.pl",
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11283644,obchody-powstania-warszawskiego-plac-krasinskich-nawrocki-trzaskowski-82-rocznica.html": "GazetaPrawna.pl",
+      "https://www.polsatnews.pl/wiadomosc/2026-07-31/82-rocznica-powstania-warszawskiego-prezydent-powstancy-byli-gotowi-oddac-zycie-za-niepodleglosc/": "PolsatNews.pl",
+      "https://www.rdc.pl/aktualnosci/warszawa/godzina-w-w-warszawie-tak-stolica-uczcila-rocznice-wybuchu-powstania-warszawskiego_etCsLvBHqocK4NFuKUQ8": "Radio dla Ciebie",
+      "https://warszawa.naszemiasto.pl/warszawa-oddaje-hold-bohaterom-trwaja-obchody-82-rocznicy-wybuchu-powstania-warszawskiego/ar/c1p2-29229343": "naszemiasto.pl"
+    },
+    "last_updated": "2026-08-02 03:30"
   }
 ]
