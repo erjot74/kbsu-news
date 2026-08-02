@@ -145,8 +145,8 @@
     "slug": "gaza_hamas_rozbrojenie",
     "category": "world",
     "lead": false,
-    "title": "Gaza: Hamas warunkuje rozbrojenie, z gruzow Sabry wydobyto 112 kolejnych cial",
-    "body": "Negocjacje pod auspicjami Stanow Zjednoczonych w sprawie przyszlosci Strefy Gazy przyniosly kolejny czesciowy przelom: prezydent Donald Trump oglosil, ze Hamas zgodzil sie na rozbrojenie i wycofanie wojsk izraelskich z enklawy, jednak ugrupowanie zastrzeglo, ze zlozy bron dopiero po wypelnieniu przez Izrael wczesniejszych zobowiazan, w tym dalszego wycofania wojsk. Rownoczesnie, jak podaly Polska Agencja Prasowa oraz zagraniczne agencje cytowane przez Khaleej Times, w gruzach zniszczonej dzielnicy Sabra w miescie Gaza odnaleziono kolejnych 112 cial ofiar wczesniejszych izraelskich nalotow, co miejscowe wladze zdrowia okreslily jako jeden z najwiekszych pojedynczych bilansow od poczatku wojny. Al Jazeera i CNN informuja, ze mimo trwajacych rozmow pokojowych izraelskie naloty w minionych dniach zabily co najmniej dziewiec kolejnych osob, co wywoluje krytyke ze strony organizacji humanitarnych domagajacych sie natychmiastowego i trwalego wstrzymania ognia. Rodziny ofiar oraz mieszkancy Strefy Gazy, cytowani przez agencje, mowia o wyczerpaniu i braku zaufania do trwalosci porozumienia, podczas gdy izraelski rzad podkresla, ze warunkiem pelnego wycofania wojsk pozostaje calkowite rozbrojenie Hamasu.",
+    "title": "Gaza: Izrael ma powazne zastrzezenia do planu rozbrojenia Hamasu, z gruzow Sabry wydobyto 112 kolejnych cial",
+    "body": "Negocjacje pod auspicjami USA w sprawie przyszlosci Strefy Gazy przyniosly kolejny czesciowy przelom: prezydent Donald Trump oglosil, ze Hamas zgodzil sie na rozbrojenie, jednak ugrupowanie zastrzeglo, ze zlozy bron dopiero po wypelnieniu przez Izrael wczesniejszych zobowiazan. W niedziele 2 sierpnia agencja Associated Press, cytowana przez WRAL oraz KRMG, podala, ze biuro izraelskiego premiera przekazalo USA powazne zastrzezenia dotyczace bezpieczenstwa zwiazane z planem rozbrojenia Hamasu, co potwierdzily takze The Washington Times oraz The Times of Israel. Rownoczesnie PAP oraz agencje cytowane przez Khaleej Times podaly, ze w gruzach dzielnicy Sabra w Gazie odnaleziono kolejnych 112 cial, co miejscowe wladze zdrowia okreslily jako jeden z najwiekszych bilansow od poczatku wojny. Al Jazeera informuje, ze mimo rozmow pokojowych izraelskie naloty nadal zabijaja kolejne osoby, co wywoluje krytyke organizacji humanitarnych domagajacych sie trwalego wstrzymania ognia. Mieszkancy Gazy mowia o braku zaufania do porozumienia, a izraelski rzad podkresla, ze warunkiem pelnego wycofania wojsk pozostaje calkowite rozbrojenie Hamasu.",
     "sources": {
       "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know": "Al Jazeera",
       "https://www.cnn.com/2026/07/31/middleeast/trump-hamas-disarmament-announcement-intl": "CNN",
@@ -167,9 +167,11 @@
       "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan": "Al Jazeera",
       "https://www.timesofisrael.com/liveblog-august-2-2026/": "The Times of Israel",
       "https://wiadomosci.wp.pl/strefa-gazy-wciaz-spod-gruzow-wydobywane-sa-ciala-ofiar-7313958193940544a": "WP Wiadomosci",
-      "https://www.khaleejtimes.com/world/mena/gaza-recover-112-bodies-from-rubble-sabra-neighbourhood": "Khaleej Times"
+      "https://www.khaleejtimes.com/world/mena/gaza-recover-112-bodies-from-rubble-sabra-neighbourhood": "Khaleej Times",
+      "https://www.washingtontimes.com/news/2026/aug/2/serious-concerns-linger-israel-hamas-disarmament-deal/": "Washington Times",
+      "https://www.wral.com/news/ap/72b14-israel-says-it-has-serious-concerns-with-hamas-disarmament-deal/": "AP via WRAL"
     },
-    "last_updated": "2026-08-02 16:20"
+    "last_updated": "2026-08-02 17:18"
   },
   {
     "slug": "rosja_atak_lwow_krzywy_rog",
