@@ -239,5 +239,20 @@
       "https://warszawa.naszemiasto.pl/warszawa-oddaje-hold-bohaterom-trwaja-obchody-82-rocznicy-wybuchu-powstania-warszawskiego/ar/c1p2-29229343": "naszemiasto.pl"
     },
     "last_updated": "2026-08-02 03:30"
+  },
+  {
+    "slug": "rosja_moskwa_wybuch_restauracja_general",
+    "category": "world",
+    "lead": false,
+    "title": "Eksplozja w restauracji w Moskwie: zamach bombowy na urodzinach generala, trzy ofiary smiertelne",
+    "body": "W sobote 1 sierpnia w centrum Moskwy doszlo do wybuchu w restauracji, w ktorej odbywalo sie prywatne przyjecie urodzinowe wysokiego rangą rosyjskiego generala. Jak podaly niezaleznie CNN i Al Jazeera, w eksplozji zginely co najmniej trzy osoby, a od kilkunastu do ponad dwudziestu zostalo rannych. CNN ustalilo, powolujac sie na rosyjskie sluzby, ze wsrod ofiar smiertelnych jest kobieta podejrzewana o dostarczenie do lokalu urzadzenia wybuchowego, co wskazuje na zaplanowany zamach, a nie wypadek czy awarie instalacji gazowej. Polskie media, w tym rp.pl, RMF24 i TVN24, potwierdzily zagraniczne doniesienia, dodajac za nieoficjalnymi zrodlami, ze w restauracji swietowano urodziny generala rosyjskiej armii, co upodabnia atak do wczesniejszych zamachow na wysokich rangą wojskowych zwiazanych z wojna w Ukrainie. Rosyjskie sluzby wszczely postepowanie w sprawie charakteru wybuchu, na razie nie potwierdzajac wprost wersji o zamachu terrorystycznym. Reakcje w Rosji sa powsciagliwe, panstwowe media unikaja spekulacji o sprawcach, a zachodni komentatorzy wskazuja na rosnaca liczbe niewyjasnionych, gwaltownych incydentow wymierzonych w rosyjskich wojskowych od poczatku wojny w Ukrainie.",
+    "sources": {
+      "https://www.cnn.com/2026/08/01/europe/moscow-explosion-restaurant-latam-intl": "CNN",
+      "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three": "Al Jazeera",
+      "https://www.rp.pl/przestepczosc/art44925841-eksplozja-w-moskiewskiej-restauracji-sa-ofiary-smiertelne-i-ranni": "rp.pl",
+      "https://www.rmf24.pl/fakty/swiat/news-sa-zabici-i-ranni-eksplozja-w-restauracji-w-centrum-moskwy,nIdn,1012205": "RMF24",
+      "https://tvn24.pl/swiat/eksplozja-w-moskwie-sa-doniesienia-o-ofiarach-st9169638": "TVN24"
+    },
+    "last_updated": "2026-08-02 09:20"
   }
 ]
