@@ -155,8 +155,8 @@
     "slug": "rosja_atak_lwow_krzywy_rog",
     "category": "world",
     "lead": false,
-    "title": "Rosja przeprowadza kolejne masowe ataki na Ukraine: bilans ofiar w Kijowie wzrosl do dziesieciu zabitych",
-    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie kolejne fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo okolo dwudziestu osob, a na Lubelszczyznie polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie w nocy z piatku na sobote Rosja od okolo pierwszej w nocy czasu lokalnego przez ponad dwie godziny ostrzeliwala Kijow rakietami balistycznymi, trafiajac w dzielnice Aloszijiwska, Darnicka, Szewczenkiwska i Solomianska. Jak podaly Kyiv Independent, Al Jazeera oraz The Moscow Times, bilans ofiar w stolicy Ukrainy wzrosl do co najmniej dziesieciu zabitych, a rannych zostalo kilkadziesiat osob, w tym czworo dzieci; w dzielnicy Szewczenkiwskiej zawalily sie dwie kondygnacje budynku mieszkalnego, wybuchly tez pozary magazynow i parkingow. Kyiv Independent zwraca uwage, ze Ukrainie brakuje pociskow przechwytujacych do systemow Patriot, a prezydent Trump wycofal sie z wczesniejszej propozycji udzielenia Ukrainie licencji na ich produkcje, co ogranicza mozliwosci obrony przed kolejnymi nalotami.",
+    "title": "Rosja atakuje Kijow rakietami: co najmniej dziewiec ofiar smiertelnych, uszkodzona ambasada Litwy",
+    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie kolejne fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo okolo dwudziestu osob, a na Lubelszczyznie polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie w nocy z piatku na sobote Rosja przez ponad dwie godziny ostrzeliwala Kijow rakietami balistycznymi i manewrujacymi; jak niezaleznie podaly WP Wiadomosci, TVN24, TVP Info oraz Gosc Niedzielny, w ataku zginelo co najmniej dziewiec osob, a kilkadziesiat zostalo rannych, bilans wciaz rosnie. Jeden z pociskow uszkodzil budynek ambasady Litwy w Kijowie, co potwierdzil resort spraw zagranicznych w Wilnie, zadajac od Rosji odszkodowania i zapowiadajac zdecydowana reakcje dyplomatyczna wobec Moskwy. TVN24 podalo, ze w obronie Kijowa zabraklo pociskow do systemow Patriot, co pozwolilo czesci rosyjskich rakiet dotrzec do celu. Wladze Ukrainy zaapelowaly do sojusznikow z NATO o pilne dostawy amunicji przeciwlotniczej, ostrzegajac przed kolejnymi nocnymi atakami rakietowymi w najblizszych dniach.",
     "sources": {
       "https://www.pap.pl/aktualnosci/nocny-atak-rosyjskich-dronow-na-kijow-sa-zabici-i-ranni": "PAP",
       "https://www.rmf24.pl/fakty/polska/news-polska-poderwala-mysliwce-mieszkancow-lublina-obudzily-syren,nIdn,1011892": "RMF24",
@@ -170,15 +170,17 @@
       "https://www.pravda.com.ua/eng/news/2026/08/01/8046802/": "Ukrainska Prawda",
       "https://wiadomosci.wp.pl/rosyjski-atak-na-kijow-ambasada-litwy-uszkodzona-7313710170273792a": "WP Wiadomosci",
       "https://www.pap.pl/aktualnosci/ukraina-co-najmniej-dziewiec-osob-zginelo-w-rosyjskim-ataku-rakietowym-na-kijow": "PAP",
-      "https://www.gosc.pl/doc/9829464.Dziewiec-osob-zginelo-w-rosyjskich-atakach-uszkodzona-ambasada": "Gość Niedzielny",
+      "https://www.gosc.pl/doc/9829464.Dziewiec-osob-zginelo-w-rosyjskich-atakach-uszkodzona-ambasada": "Gosc Niedzielny",
       "https://www.tvp.info/94633433/ukraina-rosyjski-atak-rakietowy-na-kijow-co-najmniej-dziewiec-ofiar-smiertelnych-i-kilkudziesieciu-rannych-pocisk-uszkodzil-ambasade-litwy": "TVP Info",
       "https://www.bankier.pl/wiadomosc/Zabraklo-rakiet-do-Patriotow-Atak-na-Kijow-Pocisk-spadl-przy-ambasadzie-Litwy-9176719.html": "Bankier.pl",
       "https://tvn24.pl/swiat/wojna-w-ukrainie-atak-na-kijow-zabraklo-pociskow-do-systemow-patriot-10-osob-nie-zyje-st9168750": "TVN24",
       "https://www.euronews.com/my-europe/2026/08/01/russian-ballistic-missile-strikes-on-kyiv-kill-nine-and-injure-more-than-30": "Euronews",
       "https://kyivindependent.com/kyiv-hammered-by-ballistic-missiles-as-russia-launches-2nd-major-attack-in-48-hours/": "Kyiv Independent",
-      "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392": "The Moscow Times"
+      "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392": "The Moscow Times",
+      "https://www.rmf24.pl/regiony/lublin/news-atak-rakietowy-na-lwow-i-krzywy-rog-polskie-samoloty-w-p,nIdn,1010200": "RMF24",
+      "https://www.bankier.pl/wiadomosc/Litwa-zada-odszkodowania-i-zapowiada-odwet-Ostra-reakcja-na-atak-w-Kijowie-9176772.html": "Bankier.pl"
     },
-    "last_updated": "2026-08-02 00:20"
+    "last_updated": "2026-08-02 04:30"
   },
   {
     "slug": "japonia_trzesienie_ziemi_kumamoto",
