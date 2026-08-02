@@ -165,8 +165,8 @@
     "slug": "rosja_atak_lwow_krzywy_rog",
     "category": "world",
     "lead": false,
-    "title": "Rosja atakuje Kijow rakietami: bilans wzrosl do dziesieciu ofiar smiertelnych, uszkodzona ambasada Litwy",
-    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo okolo dwudziestu osob, a nad Lubelszczyzna polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie z piatku na sobote Rosja przez ponad dwie godziny ostrzeliwala Kijow rakietami balistycznymi i manewrujacymi; jak niezaleznie podaly WP Wiadomosci, TVN24, TVP Info oraz Gosc Niedzielny, zginelo co najmniej dziesiec osob, a kilkadziesiat zostalo rannych. Jeden pocisk uszkodzil budynek ambasady Litwy w Kijowie, co potwierdzil resort spraw zagranicznych w Wilnie, zadajac od Rosji odszkodowania. TVN24 podalo, ze w obronie Kijowa zabraklo pociskow do systemow Patriot. Rownoczesnie, jak podaly WP Wiadomosci oraz rp.pl, Ukraina odpowiedziala seria nocnych atakow dronowych w glab Rosji, trafiajac w rafinerie ropy naftowej i wstrzymujac na kilka godzin dzialanie lotniska Pulkowo w Petersburgu. Wladze Ukrainy zaapelowaly do sojusznikow z NATO o pilne dostawy amunicji przeciwlotniczej.",
+    "title": "Rosja atakuje Kijow rakietami: bilans wzrosl do trzynastu ofiar smiertelnych, uszkodzona ambasada Litwy",
+    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo od dwudziestu do trzydziestu kilku osob, a nad Lubelszczyzna polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie z piatku na sobote Rosja przez ponad dwie godziny ostrzeliwala Kijow rakietami balistycznymi i manewrujacymi; jak poinformowal mer stolicy Witalij Kliczko, cytowany przez PAP i niezaleznie potwierdzony przez United24 Media, bilans ofiar wzrosl do co najmniej trzynastu osob zabitych, a ponad osiemdziesiat zostalo rannych; ratownicy do rana wydobywali ludzi spod gruzow zawalonego bloku mieszkalnego. Jeden pocisk uszkodzil budynek ambasady Litwy w Kijowie, co potwierdzil resort spraw zagranicznych w Wilnie, zadajac od Rosji odszkodowania. TVN24 podalo, ze w obronie Kijowa zabraklo pociskow do systemow Patriot. Rownoczesnie Ukraina odpowiedziala seria nocnych atakow dronowych w glab Rosji, trafiajac w rafinerie ropy naftowej. Wladze Ukrainy zaapelowaly do sojusznikow z NATO o pilne dostawy amunicji przeciwlotniczej.",
     "sources": {
       "https://www.pap.pl/aktualnosci/nocny-atak-rosyjskich-dronow-na-kijow-sa-zabici-i-ranni": "PAP",
       "https://www.rmf24.pl/fakty/polska/news-polska-poderwala-mysliwce-mieszkancow-lublina-obudzily-syren,nIdn,1011892": "RMF24",
@@ -190,9 +190,11 @@
       "https://www.rmf24.pl/regiony/lublin/news-atak-rakietowy-na-lwow-i-krzywy-rog-polskie-samoloty-w-p,nIdn,1010200": "RMF24",
       "https://www.bankier.pl/wiadomosc/Litwa-zada-odszkodowania-i-zapowiada-odwet-Ostra-reakcja-na-atak-w-Kijowie-9176772.html": "Bankier.pl",
       "https://wiadomosci.wp.pl/rosja-plonie-ukrainskie-drony-zaatakowaly-rafinerie-i-lotnisko-7314008652421184a": "WP Wiadomosci",
-      "https://www.rp.pl/konflikty-zbrojne/art44865401-rosja-plonie-po-nocnych-atakach-ukrainy-lotnisko-w-petersburgu-wstrzymalo-dzialanie": "rp.pl"
+      "https://www.rp.pl/konflikty-zbrojne/art44865401-rosja-plonie-po-nocnych-atakach-ukrainy-lotnisko-w-petersburgu-wstrzymalo-dzialanie": "rp.pl",
+      "https://www.pap.pl/aktualnosci/mer-kijowa-w-nocnych-atakach-zginelo-13-osob-ponad-80-jest-rannych": "PAP",
+      "https://united24media.com/war-in-ukraine/kyiv-residential-building-partially-collapses-after-russian-attack-people-trapped-inside-20458": "United24 Media"
     },
-    "last_updated": "2026-08-02 12:17"
+    "last_updated": "2026-08-02 13:22"
   },
   {
     "slug": "japonia_trzesienie_ziemi_kumamoto",
