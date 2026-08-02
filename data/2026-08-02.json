@@ -336,5 +336,23 @@
       "https://wydarzenia.interia.pl/ukraina-rosja/news-ogromne-kleby-dymu-nad-rosja-potezny-atak-ukrainy-wiele-celo,nId,23523185": "Interia"
     },
     "last_updated": "2026-08-02 21:20"
+  },
+  {
+    "slug": "grecja_pozary_zderzenie_smiglowcow",
+    "category": "world",
+    "lead": false,
+    "title": "Grecja: dwa smiglowce gasnicze zderzyly sie w powietrzu pod Atenami, zgineli czlonkowie zalog",
+    "body": "W niedziele 2 sierpnia w poblizu Aten doszlo do zderzenia dwoch smiglowcow gasniczych bioracych udzial w akcji gaszenia rozleglych pozarow lasow, ktore podczas fali upalow trawia Grecje. Jak niezaleznie potwierdzily Al Jazeera, The Jerusalem Post oraz The National, w wypadku zginely dwie osoby, czlonkowie zalog obu maszyn, a ich ciala zostaly pozniej odnalezione przez ratownikow. Wedlug greckich sluzb do zderzenia doszlo w powietrzu podczas zrzutu wody nad plonacymi wzgorzami pod stolica, gdzie od kilku dni z ogniem zmagaja sie setki strazakow wspieranych przez wojsko. Rownoczesnie, jak podaje rp.pl powolujac sie na greckie media, trudna sytuacja panowala takze na wyspie Kefalonia, skad ewakuowano mieszkancow i turystow z kilku miejscowosci i hoteli zagrozonych przez ogien. Zderzenie smiglowcow oraz skale pozarow potwierdzily rowniez polskie media: RMF24, Interia, TVN24 Meteo oraz PolsatNews.pl, powolujac sie na greckie sluzby ratunkowe. Grecki rzad zapowiedzial postepowanie wyjasniajace przyczyny wypadku, podkreslajac, ze upaly i silny wiatr utrudniaja tegoroczna akcje gaszenia pozarow, a kolejne osrodki turystyczne pozostaja w gotowosci.",
+    "sources": {
+      "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires": "Al Jazeera",
+      "https://www.jpost.com/international/article-904345": "The Jerusalem Post",
+      "https://www.thenationalnews.com/news/europe/2026/08/02/two-crew-members-killed-as-helicopters-collide-while-fighting-fires-near-athens/": "The National",
+      "https://www.rp.pl/kleski-zywiolowe/art44927211-dramat-podczas-akcji-gasniczej-w-grecji-zderzyly-sie-dwa-smiglowce": "rp.pl",
+      "https://www.rmf24.pl/fakty/swiat/news-zderzenie-smiglowcow-gasniczych-pod-atenami,nIdn,1012247": "RMF24",
+      "https://wydarzenia.interia.pl/zagranica/news-tragedia-podczas-gaszenia-pozarow-w-grecji-zderzyly-sie-dwa,nId,23523304": "Interia",
+      "https://tvn24.pl/tvnmeteo/swiat/pozary-w-grecji-pod-atenami-i-na-kefalonii-sytuacja-jest-bardzo-trudna-zderzyly-sie-dwa-smiglowce-gasnicze-st9169774": "TVN24 Meteo",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-02/smiglowce-zderzyly-sie-w-powietrzu-dramatyczny-wypadek-podczas-gaszenia-pozarow/": "PolsatNews.pl"
+    },
+    "last_updated": "2026-08-02 22:20"
   }
 ]
