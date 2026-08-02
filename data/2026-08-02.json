@@ -321,5 +321,20 @@
       "https://www.se.pl/wiadomosci/swiat/tragedia-w-peru-samolot-z-turystami-runal-na-ziemie-nikt-nie-przezyl-aa-MAxR-JUL2-amMJ.html": "Super Express"
     },
     "last_updated": "2026-08-02 14:20"
+  },
+  {
+    "slug": "ukraina_atak_dronow_saratow_engels",
+    "category": "world",
+    "lead": false,
+    "title": "Ukraina zaatakowała rosyjską rafinerię w Saratowie i bazę lotniczą Engels-2",
+    "body": "W nocy z soboty na niedzielę, 1 na 2 sierpnia, ukraińskie siły zbrojne uderzyły dronami w rafinerię ropy naftowej w Saratowie, sąsiadującą z nią bazę lotnictwa strategicznego Engels-2 oraz magazyn logistyczny sieci Wildberries. Sztab Generalny Ukrainy potwierdził atak, co niezależnie opisały Ukraińska Prawda i Kyiv Independent, a w Polsce RMF24, WP Wiadomości i Interia. Świadkowie oraz rosyjskie kanały informacyjne donosiły o serii eksplozji i pożarach w rejonie obu obiektów, a lokalne władze potwierdziły wstrzymanie ruchu na pobliskim lotnisku cywilnym z powodu zagrożenia. Ukraiński wywiad wojskowy podkreśla, że rafineria w Saratowie oraz baza Engels-2, skąd startują rosyjskie bombowce strategiczne używane do ataków rakietowych na Ukrainę, są celami priorytetowymi w kampanii osłabiania rosyjskiego potencjału militarnego. Rosja twierdzi, że obrona powietrzna zestrzeliła większość dronów, jednak niezależne źródła wskazują na poważne uszkodzenia infrastruktury. Atak zbiegł się w czasie z równoległym, zmasowanym rosyjskim uderzeniem na Kijów, Lwów i Krzywy Róg, co ukraińscy urzędnicy określają jako obraz wzajemnie eskalującej się wojny dronowej między obiema stronami.",
+    "sources": {
+      "https://www.pravda.com.ua/eng/news/2026/08/02/8046879/": "Ukrainska Prawda",
+      "https://kyivindependent.com/russian-oil-refinery-airbase-reportedly-struck-by-ukrainian-forces/": "Kyiv Independent",
+      "https://www.rmf24.pl/fakty/swiat/news-zmasowany-atak-ukrainskich-dronow-rosja-donosi-o-rekordowych,nIdn,1012249": "RMF24",
+      "https://wiadomosci.wp.pl/rosja-plonie-ukrainskie-drony-zaatakowaly-rafinerie-i-lotnisko-7314008652421184a": "WP Wiadomości",
+      "https://wydarzenia.interia.pl/ukraina-rosja/news-ogromne-kleby-dymu-nad-rosja-potezny-atak-ukrainy-wiele-celo,nId,23523185": "Interia"
+    },
+    "last_updated": "2026-08-02 21:20"
   }
 ]
