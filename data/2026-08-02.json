@@ -100,7 +100,7 @@
     "category": "world",
     "lead": true,
     "title": "USA wstrzymuja atak na Iran: Trump mowi o zarysie porozumienia, Teheran grozi odwetem",
-    "body": "Konflikt zbrojny miedzy Stanami Zjednoczonymi i Izraelem a Iranem trwa od kilku miesiecy, a w sobote i niedziele, 1 i 2 sierpnia, doszlo do nagłego zwrotu akcji. Prezydent Donald Trump oswiadczyl, ze wstrzymuje zaplanowany na ten weekend atak na iranska infrastrukture energetyczna, po tym jak Teheran i inne kraje regionu poprosily o wstrzymanie dzialan. Jak podaly niezaleznie Bloomberg, CBS News, CNN oraz ABC News, strony uzgodnily wstepne warunki porozumienia, obejmujace otwarcie Ciesniny Ormuz dla zeglugi oraz zakonczenie iranskiego zagrozenia nuklearnego. Trump zastrzegl, ze USA pozostaja w pelnej gotowosci bojowej i uzyja sily na skale niewidziana od II wojny swiatowej, jesli porozumienie nie zostanie szybko sfinalizowane. Al Jazeera w niedzielnej relacji na zywo podala, ze wladze w Teheranie zapowiedzialy zdecydowana odpowiedz na dalsza amerykanska agresje. Wczesniej, w piatek, Korpus Straznikow Rewolucji Islamskiej odpowiedzial na amerykanskie naloty uderzeniami na instalacje USA w Kuwejcie. Reakcje sa mieszane: czesc komentatorow mowi o przelomie dyplomatycznym, inni ostrzegaja, ze zawieszenie ataku moze byc chwilowe i zalezy od tempa dalszych negocjacji.",
+    "body": "Konflikt zbrojny miedzy Stanami Zjednoczonymi i Izraelem a Iranem trwa od kilku miesiecy, a w sobote i niedziele, 1 i 2 sierpnia, doszlo do nagłego zwrotu akcji. Prezydent Donald Trump oswiadczyl, ze wstrzymuje zaplanowany na ten weekend atak na iranska infrastrukture energetyczna, po tym jak Teheran i inne kraje regionu poprosily o wstrzymanie dzialan. Jak podaly niezaleznie Bloomberg, CBS News, CNN, ABC News oraz Al Jazeera w niedzielnej relacji na zywo z 2 sierpnia, strony uzgodnily wstepne warunki porozumienia, obejmujace otwarcie Ciesniny Ormuz dla zeglugi oraz zakonczenie iranskiego zagrozenia nuklearnego. Trump zastrzegl, ze USA pozostaja w pelnej gotowosci bojowej i uzyja sily na skale niewidziana od II wojny swiatowej, jesli porozumienie nie zostanie szybko sfinalizowane. Al Jazeera podala, ze wladze w Teheranie zapowiedzialy zdecydowana odpowiedz na dalsza amerykanska agresje, mimo zawieszenia ataku. Wczesniej, w piatek, Korpus Straznikow Rewolucji Islamskiej odpowiedzial na amerykanskie naloty uderzeniami na instalacje USA w Kuwejcie. Reakcje sa mieszane: czesc komentatorow mowi o przelomie dyplomatycznym, inni ostrzegaja, ze zawieszenie moze byc chwilowe i zalezy od tempa dalszych negocjacji.",
     "sources": {
       "https://www.bloomberg.com/news/articles/2026-07-31/trump-orders-attacks-on-iran-as-soon-as-this-weekend-wsj-says": "Bloomberg",
       "https://www.cnn.com/2026/07/31/world/live-news/iran-war-trump": "CNN",
@@ -126,9 +126,10 @@
       "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal": "Bloomberg",
       "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/": "CBS News",
       "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405": "ABC News",
-      "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression": "Al Jazeera"
+      "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression": "Al Jazeera",
+      "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached": "Al Jazeera"
     },
-    "last_updated": "2026-08-02 05:20"
+    "last_updated": "2026-08-02 06:20"
   },
   {
     "slug": "gaza_hamas_rozbrojenie",
