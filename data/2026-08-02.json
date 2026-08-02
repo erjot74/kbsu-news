@@ -10,7 +10,8 @@
       "https://www.radiopik.pl/3,140869,dwa-smiertelne-wypadki-w-tatrach-zgineli-turysta-i-taternik": "Polskie Radio PiK",
       "https://gazetakrakowska.pl/czarna-sobota-w-tatrach-dwa-smiertelne-wypadki-w-jednym-dniu/ar/c1p2-29231889": "Gazeta Krakowska",
       "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11283716,czarna-sobota-w-tatrach-ratownicy-topr-dwa-razy-transportowali-ciala.html": "GazetaPrawna.pl",
-      "https://goniec.pl/tragiczny-poczatek-sierpnia-w-polskich-tatrach-nie-zyja-dwie-osoby-dramatyczne-ustalenia-wk-wpd-010826": "Goniec.pl"
+      "https://goniec.pl/tragiczny-poczatek-sierpnia-w-polskich-tatrach-nie-zyja-dwie-osoby-dramatyczne-ustalenia-wk-wpd-010826": "Goniec.pl",
+      "https://www.rp.pl/wypadki/art44842121-tlumy-wrocily-w-tatry-topr-interweniowal-15-razy-jednego-dnia": "rp.pl"
     },
     "last_updated": "2026-08-02 00:20"
   },
@@ -102,8 +103,8 @@
     "slug": "iran_wojna_eskalacja",
     "category": "world",
     "lead": true,
-    "title": "USA wstrzymuja atak na Iran: Trump mowi o zarysie porozumienia, Teheran grozi odwetem",
-    "body": "Konflikt zbrojny miedzy Stanami Zjednoczonymi i Izraelem a Iranem trwa od kilku miesiecy, a w weekend 1 i 2 sierpnia doszlo do kolejnego zwrotu. Prezydent Donald Trump oswiadczyl w sobote, ze odwoluje zaplanowany na ten weekend atak na iranska infrastrukture energetyczna, powolujac sie na wstepny zarys porozumienia negocjowanego z sojusznikami z Zatoki Perskiej, obejmujacego otwarcie Ciesniny Ormuz dla zeglugi. Jak niezaleznie podaly Bloomberg, CBS News, ABC News oraz Al Jazeera w niedzielnych relacjach na zywo z 2 sierpnia, Trump zastrzegl, ze USA uzyja sily na skale niewidziana od II wojny swiatowej, jesli porozumienie nie zostanie szybko sfinalizowane. Tego samego dnia szef irariskiej dyplomacji Abbas Araghczi w rozmowach z Pakistanem i Turcja ostrzegl USA przed dalsza agresja, zapowiadajac zdecydowana odpowiedz Teheranu, co potwierdzila Al Jazeera. Wczesniej, w nocy z piatku na sobote, kuwejcka obrona przeciwlotnicza zestrzelila irariskie drony wymierzone w obiekty na polnocy kraju w rejonie wyspy Bubiyan, jak poinformowalo ministerstwo obrony Kuwejtu. Reakcje sa mieszane: jedni mowia o szansie na przelom, inni ostrzegaja, ze zawieszenie ataku moze byc chwilowe.",
+    "title": "USA wstrzymuja atak na Iran, Trump stawia warunek szybkiego porozumienia",
+    "body": "Prezydent USA Donald Trump w nocy z soboty na niedziele poinformowal, ze wstrzymuje szykowane, potezne uderzenie na Iran, stawiajac Teheranowi warunek: szybkie zawarcie porozumienia konczacego trwajaca od dwoch tygodni eskalacje wokol Ciesniny Ormuz i iranskiego programu nuklearnego. Jak niezaleznie podaly Polska Agencja Prasowa, rp.pl, Dziennik.pl, ESKA.pl oraz Super Express, Trump uzasadnil decyzje slowami, ze robi to dla dobra swiata, zapowiadajac zarazem, ze w razie braku szybkich postepow w rozmowach USA sa gotowe wznowic przygotowania do ataku. Wladze w Teheranie, cytowane przez Iran International oraz Al Jazeera, przyjely deklaracje z rezerwa, ostrzegajac, ze kazda proba wymuszenia ustepstw sila spotka sie z odwetem, w tym mozliwymi uderzeniami na amerykanskie bazy w regionie i dalszymi atakami na tankowce w Ciesninie Ormuz. Sojusznicy USA w regionie, w tym Izrael, poparli twarde stanowisko Waszyngtonu, podczas gdy Rosja i Chiny wezwaly do deeskalacji i powrotu do dyplomacji. Analitycy cytowani przez Bloomberga podkreslaja, ze rynki ropy naftowej pozostaja niestabilne wobec niepewnosci co do dalszego przebiegu kryzysu, a mieszkancy regionu z niepokojem sledza kolejne dni negocjacji.",
     "sources": {
       "https://www.bloomberg.com/news/articles/2026-07-31/trump-orders-attacks-on-iran-as-soon-as-this-weekend-wsj-says": "Bloomberg",
       "https://www.cnn.com/2026/07/31/world/live-news/iran-war-trump": "CNN",
@@ -132,16 +133,20 @@
       "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression": "Al Jazeera",
       "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached": "Al Jazeera",
       "https://www.aa.com.tr/en/americas/kuwait-downs-iranian-drones-targeting-country-s-north-bubiyan-island/4015613": "Anadolu Agency",
-      "https://www.indiatvnews.com/news/world/iran-warns-us-against-adventurous-action-vows-decisive-response-to-aggression-in-talks-with-pakistan-turkey-2026-08-02-1050120": "India TV News"
+      "https://www.indiatvnews.com/news/world/iran-warns-us-against-adventurous-action-vows-decisive-response-to-aggression-in-talks-with-pakistan-turkey-2026-08-02-1050120": "India TV News",
+      "https://www.pap.pl/aktualnosci/usa-trump-odwolalem-uderzenie-na-iran-pod-warunkiem-szybkiego-zawarcia-porozumienia": "PAP",
+      "https://www.rp.pl/konflikty-zbrojne/art44926131-trump-odwolal-atak-na-iran-jedna-rozmowa-miala-zmienic-wszystko": "rp.pl",
+      "https://wiadomosci.dziennik.pl/swiat/artykuly/11283760,trump-wstrzymuje-potezne-uderzenie-na-iran-dla-dobra-swiata.html": "Dziennik.pl",
+      "https://www.eska.pl/news/swiat/donald-trump-nie-uderzy-na-iran-prezydent-usa-postawil-jednak-twardy-warunek-aa-X6Xy-TvsR-n64H.html": "ESKA.pl"
     },
-    "last_updated": "2026-08-02 12:17"
+    "last_updated": "2026-08-02 16:20"
   },
   {
     "slug": "gaza_hamas_rozbrojenie",
     "category": "world",
     "lead": false,
-    "title": "Trump oglasza rozbrojenie Hamasu w Gazie, mimo porozumienia izraelskie naloty zabily dziewiec osob",
-    "body": "W czwartek 30 i piatek 31 lipca prezydent USA Donald Trump ogłosil, ze Rada Pokoju dla Gazy osiagnela porozumienie z Hamasem w sprawie rozbrojenia ugrupowania w ramach planu odbudowy Strefy Gazy, co potwierdzily rp.pl oraz PCH24, choc wedlug CNN i Al Jazeera plan wciaz zawiera zastrzezenia co do harmonogramu i nadzoru. Mimo ogloszonego porozumienia, w niedziele 2 sierpnia izraelskie naloty zabily co najmniej dziewiec osob w Strefie Gazy, co niezaleznie potwierdzily NBC News, Al Jazeera oraz izraelski dziennik The Times of Israel. Izraelski minister, cytowany przez NBC News, oswiadczyl, ze nie ma zadnej umowy nakazujacej wstrzymanie atakow, a premier Beniamin Netanjahu mial polecic wojsku dalsze zdecydowane uderzenia, co poddaje w watpliwosc gotowosc Hamasu do rozbrojenia. Wczesniej JNS podawal, ze IDF uderzylo w skladowiska broni Hamasu, w tym w meczet sluzacy jako magazyn uzbrojenia. Reakcje pozostaja podzielone: administracja Trumpa przedstawia porozumienie jako przelom, a strona izraelska i palestynska oskarzaja sie wzajemnie o brak realizacji ustalen, co komplikuje perspektywy trwalego zawieszenia broni.",
+    "title": "Gaza: Hamas warunkuje rozbrojenie, z gruzow Sabry wydobyto 112 kolejnych cial",
+    "body": "Negocjacje pod auspicjami Stanow Zjednoczonych w sprawie przyszlosci Strefy Gazy przyniosly kolejny czesciowy przelom: prezydent Donald Trump oglosil, ze Hamas zgodzil sie na rozbrojenie i wycofanie wojsk izraelskich z enklawy, jednak ugrupowanie zastrzeglo, ze zlozy bron dopiero po wypelnieniu przez Izrael wczesniejszych zobowiazan, w tym dalszego wycofania wojsk. Rownoczesnie, jak podaly Polska Agencja Prasowa oraz zagraniczne agencje cytowane przez Khaleej Times, w gruzach zniszczonej dzielnicy Sabra w miescie Gaza odnaleziono kolejnych 112 cial ofiar wczesniejszych izraelskich nalotow, co miejscowe wladze zdrowia okreslily jako jeden z najwiekszych pojedynczych bilansow od poczatku wojny. Al Jazeera i CNN informuja, ze mimo trwajacych rozmow pokojowych izraelskie naloty w minionych dniach zabily co najmniej dziewiec kolejnych osob, co wywoluje krytyke ze strony organizacji humanitarnych domagajacych sie natychmiastowego i trwalego wstrzymania ognia. Rodziny ofiar oraz mieszkancy Strefy Gazy, cytowani przez agencje, mowia o wyczerpaniu i braku zaufania do trwalosci porozumienia, podczas gdy izraelski rzad podkresla, ze warunkiem pelnego wycofania wojsk pozostaje calkowite rozbrojenie Hamasu.",
     "sources": {
       "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know": "Al Jazeera",
       "https://www.cnn.com/2026/07/31/middleeast/trump-hamas-disarmament-announcement-intl": "CNN",
@@ -160,16 +165,18 @@
       "https://www.pbs.org/newshour/amp/world/hamas-says-it-will-disarm-if-israel-halts-strikes-and-withdraws-from-gaza-but-obstacles-remain": "PBS NewsHour",
       "https://www.nbcnews.com/world/gaza/israeli-strikes-kill-nine-gaza-israeli-minister-no-deal-rcna590436": "NBC News",
       "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan": "Al Jazeera",
-      "https://www.timesofisrael.com/liveblog-august-2-2026/": "The Times of Israel"
+      "https://www.timesofisrael.com/liveblog-august-2-2026/": "The Times of Israel",
+      "https://wiadomosci.wp.pl/strefa-gazy-wciaz-spod-gruzow-wydobywane-sa-ciala-ofiar-7313958193940544a": "WP Wiadomosci",
+      "https://www.khaleejtimes.com/world/mena/gaza-recover-112-bodies-from-rubble-sabra-neighbourhood": "Khaleej Times"
     },
-    "last_updated": "2026-08-02 14:20"
+    "last_updated": "2026-08-02 16:20"
   },
   {
     "slug": "rosja_atak_lwow_krzywy_rog",
     "category": "world",
     "lead": false,
-    "title": "Rosja atakuje Kijow rakietami: bilans wzrosl do trzynastu ofiar smiertelnych, uszkodzona ambasada Litwy",
-    "body": "W nocy z 30 na 31 lipca oraz z 31 lipca na 1 sierpnia Rosja przeprowadzila dwie fale masowych atakow rakietowo dronowych na Ukraine. W pierwszym nalocie rakiety uderzyly we Lwow i Krzywy Rog, co potwierdzily PAP, RMF24, TVN24 oraz Interia; rannych zostalo od dwudziestu do trzydziestu kilku osob, a nad Lubelszczyzna polskie wojsko podnioslo w powietrze mysliwce. W wiekszym nalocie z piatku na sobote Rosja przez ponad dwie godziny ostrzeliwala Kijow rakietami balistycznymi i manewrujacymi; jak poinformowal mer stolicy Witalij Kliczko, cytowany przez PAP i niezaleznie potwierdzony przez United24 Media, bilans ofiar wzrosl do co najmniej trzynastu osob zabitych, a ponad osiemdziesiat zostalo rannych; ratownicy do rana wydobywali ludzi spod gruzow zawalonego bloku mieszkalnego. Jeden pocisk uszkodzil budynek ambasady Litwy w Kijowie, co potwierdzil resort spraw zagranicznych w Wilnie, zadajac od Rosji odszkodowania. TVN24 podalo, ze w obronie Kijowa zabraklo pociskow do systemow Patriot. Rownoczesnie Ukraina odpowiedziala seria nocnych atakow dronowych w glab Rosji, trafiajac w rafinerie ropy naftowej. Wladze Ukrainy zaapelowaly do sojusznikow z NATO o pilne dostawy amunicji przeciwlotniczej.",
+    "title": "Rosja atakuje Ukraine: 13 ofiar smiertelnych, mer Lwowa mowi o 20 rannych",
+    "body": "W nocy z soboty na niedziele Rosja przeprowadzila kolejny zmasowany atak rakietowo dronowy na Ukraine, celujac miedzy innymi w Kijow, Lwow oraz Krzywy Rog. Jak potwierdzily niezaleznie Polska Agencja Prasowa, RMF24, TVN24, Interia oraz Al Jazeera, bilans ofiar smiertelnych w calym kraju wzrosl do trzynastu osob, a w samym Lwowie uszkodzeniu ulegl budynek mieszkalny i pobliska ambasada Litwy. Mer Lwowa Andrij Sadowyj poinformowal, cytowany przez PAP, ze w miescie rannych zostalo okolo dwudziestu osob, a pod gruzami zniszczonego bloku mogli wciaz znajdowac sie ludzie, co wymusilo kontynuacje akcji ratunkowej przez straz pozarna i sluzby ratownicze. TVP Info oraz Ukrainska Prawda podaja, ze rownolegle ostrzelany zostal Krzywy Rog, gdzie takze odnotowano ofiary i zniszczenia infrastruktury cywilnej. Litewskie MSZ zlozylo protest w zwiazku z uszkodzeniem placowki dyplomatycznej, a polskie MSZ potepilo atak na ludnosc cywilna. Ukrainscy urzednicy apeluja do sojusznikow o przyspieszenie dostaw systemow obrony powietrznej, podkreslajac, ze skala rosyjskich atakow na miasta cywilne w ostatnich dniach wyraznie wzrosla.",
     "sources": {
       "https://www.pap.pl/aktualnosci/nocny-atak-rosyjskich-dronow-na-kijow-sa-zabici-i-ranni": "PAP",
       "https://www.rmf24.pl/fakty/polska/news-polska-poderwala-mysliwce-mieszkancow-lublina-obudzily-syren,nIdn,1011892": "RMF24",
@@ -195,9 +202,10 @@
       "https://wiadomosci.wp.pl/rosja-plonie-ukrainskie-drony-zaatakowaly-rafinerie-i-lotnisko-7314008652421184a": "WP Wiadomosci",
       "https://www.rp.pl/konflikty-zbrojne/art44865401-rosja-plonie-po-nocnych-atakach-ukrainy-lotnisko-w-petersburgu-wstrzymalo-dzialanie": "rp.pl",
       "https://www.pap.pl/aktualnosci/mer-kijowa-w-nocnych-atakach-zginelo-13-osob-ponad-80-jest-rannych": "PAP",
-      "https://united24media.com/war-in-ukraine/kyiv-residential-building-partially-collapses-after-russian-attack-people-trapped-inside-20458": "United24 Media"
+      "https://united24media.com/war-in-ukraine/kyiv-residential-building-partially-collapses-after-russian-attack-people-trapped-inside-20458": "United24 Media",
+      "https://www.pap.pl/aktualnosci/ukraina-mer-lwowa-okolo-20-rannych-w-miescie-po-rosyjskim-ataku-rakietowym": "PAP"
     },
-    "last_updated": "2026-08-02 13:22"
+    "last_updated": "2026-08-02 16:20"
   },
   {
     "slug": "japonia_trzesienie_ziemi_kumamoto",
