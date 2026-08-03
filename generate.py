@@ -31,7 +31,7 @@ def is_polish_source(name):
                        "Nettg","Wgospodarce","Polskie Radio","Agroprofil","Defence24",
                        "Demagog","Episkopat","IPN","OKO.press","Lowcyburz","histmag",
                        "WNP.pl","Super Biznes","Konflikty","Wszystko co najwazniejsze",
-                       "Wszystko co najważniejsze"]
+                       "Wszystko co najważniejsze","TVN","Dzien Dobry"]
     return any(m.lower() in name.lower() for m in polish_markers)
 
 def render_sources(sources):
