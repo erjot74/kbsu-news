@@ -557,5 +557,18 @@
       "https://www.nowezyciepabianic.pl/2026/08/03/smiertelny-wypadek-na-s8-3/": "Nowe Życie Pabianic"
     },
     "last_updated": "2026-08-03 22:18"
+  },
+  {
+    "slug": "wall-street-rekord-sierpien-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Wall Street bije rekordy: Dow, S&P 500 i Nasdaq na historycznych szczytach",
+    "body": "W poniedziałek 3 sierpnia główne indeksy nowojorskiej giełdy zanotowały historyczne maksima: przemysłowy Dow Jones wzrósł o blisko siedemset punktów, ustanawiając rekordowe zamknięcie, a S&P 500 oraz Nasdaq Composite podążyły w jego ślady dzięki silnym wzrostom akcji największych spółek technologicznych, jak podaje CNBC. Yahoo Finance dodaje, że dodatkowym motorem rajdu były spadające ceny ropy naftowej, powiązane z odnowieniem rozmów między Waszyngtonem a Teheranem w sprawie irańskiego programu nuklearnego, co złagodziło obawy inwestorów o eskalację konfliktu na Bliskim Wschodzie. Zdaniem TheStreet inwestorzy pozytywnie zareagowali także na kolejny tydzień sezonu wyników finansowych spółek z indeksu S&P 500, w większości przebijających prognozy analityków. Dobre nastroje na Wall Street przełożyły się na wzrosty również na innych rynkach globalnych, co zbiegło się w czasie z własnym wieloletnim rekordem warszawskiego WIG20 tego samego dnia. Analitycy ostrzegają jednak, że wyceny części spółek technologicznych są już bardzo wysokie, a nagły zwrot w rozmowach z Iranem mógłby równie szybko odwrócić obecny optymizm rynkowy inwestorów na całym świecie.",
+    "sources": {
+      "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html": "CNBC",
+      "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html": "Yahoo Finance",
+      "https://www.thestreet.com/stock-market-today/stock-market-today-aug-3-2026-dow-futures-climb-as-oil-slides-on-renewed-iran-talks": "TheStreet"
+    },
+    "last_updated": "2026-08-03 23:20"
   }
 ]
