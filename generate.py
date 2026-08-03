@@ -40,7 +40,7 @@ def render_sources(sources):
         translate = ""
         if not is_polish_source(name):
             enc = urllib.parse.quote(url, safe="")
-            translate = f' <a class="translate-link" href="https://translate.google.com/translate?sl=auto&tl=pl&u={enc}">tlumacz</a>'
+            translate = f' <a class="translate-link" href="https://translate.google.com/translate?sl=auto&tl=pl&u={enc}">tłumacz</a>'
         parts.append(f'<a href="{url}" target="_blank" rel="noopener">{name}</a>{translate}')
     return " &middot; ".join(parts)
 
@@ -52,7 +52,7 @@ def render_story(x):
     return f'''    <article class="{cls}">
       <h3>{title}</h3>
       <p>{body}</p>
-      <div class="src">Zrodlo(a): {src_html}</div>
+      <div class="src">Źródło(a): {src_html}</div>
     </article>'''
 
 def category_html(cat_key):
@@ -75,16 +75,22 @@ def category_html(cat_key):
 pl_html, pl_total, pl_shown = category_html("pl")
 world_html, world_total, world_shown = category_html("world")
 
-now = datetime.now(WARSAW) if WARSAW else datetime.now()
-meta_line = f"Aktualizacja: {pl_date_str(now)}, {now.strftime('%H:%M')}, wygenerowano automatycznie"
+most_recent = max((x["last_updated"] for x in data), default=None)
+if most_recent:
+    now = datetime.strptime(most_recent, "%Y-%m-%d %H:%M")
+    time_part = now.strftime('%H:%M')
+else:
+    now = datetime.now(WARSAW) if WARSAW else datetime.now()
+    time_part = now.strftime('%H:%M')
+meta_line = f"Aktualizacja: {pl_date_str(now)}, {time_part}, wygenerowano automatycznie"
 
 html = f'''<!DOCTYPE html>
 <html lang="pl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Podsumowanie dnia: Polska i Swiat</title>
-<meta name="description" content="Regularnie aktualizowane, zweryfikowane podsumowanie najwazniejszych wiadomosci z Polski i swiata.">
+<title>Podsumowanie dnia: Polska i Świat</title>
+<meta name="description" content="Regularnie aktualizowane, zweryfikowane podsumowanie najważniejszych wiadomości z Polski i świata.">
 <style>
   :root{{--bg:#0b0d10;--panel:#14171c;--panel-2:#1b1f26;--border:#262b33;--text:#eef1f5;--text-dim:#9aa4b2;--accent:#e6473a;--accent-2:#3aa6e6;--maxw:920px;}}
   *{{box-sizing:border-box;}}
@@ -118,25 +124,25 @@ html = f'''<!DOCTYPE html>
 </head>
 <body>
 <header class="site"><div class="wrap">
-  <div class="brand"><h1>Podsumowanie dnia <span>: Polska i Swiat</span></h1></div>
+  <div class="brand"><h1>Podsumowanie dnia <span>: Polska i Świat</span></h1></div>
   <div class="meta-line">{meta_line}</div>
-  <div class="verified-badge">zweryfikowane w co najmniej dwoch niezaleznych, wiarygodnych zrodlach</div>
-  <div class="meta-line" style="margin-top:8px;"><a href="https://erjot74.github.io/kbsu-news/archive/" target="_blank" rel="noopener">Archiwum poprzednich wydan (30 dni)</a></div>
+  <div class="verified-badge">zweryfikowane w co najmniej dwóch niezależnych, wiarygodnych źródłach</div>
+  <div class="meta-line" style="margin-top:8px;"><a href="https://erjot74.github.io/kbsu-news/archive/" target="_blank" rel="noopener">Archiwum poprzednich wydań (30 dni)</a></div>
 </div></header>
 <main>
   <section class="category">
-    <div class="cat-header"><span class="cat-tag pl">Polska</span><h2>Najwazniejsze wydarzenia z kraju</h2></div>
+    <div class="cat-header"><span class="cat-tag pl">Polska</span><h2>Najważniejsze wydarzenia z kraju</h2></div>
 {pl_html}
   </section>
   <section class="category">
-    <div class="cat-header"><span class="cat-tag world">Swiat</span><h2>Najwazniejsze wydarzenia ze swiata</h2></div>
+    <div class="cat-header"><span class="cat-tag world">Świat</span><h2>Najważniejsze wydarzenia ze świata</h2></div>
 {world_html}
   </section>
 </main>
 <footer class="site"><div class="wrap">
-  <div>Tresc generowana automatycznie, weryfikowana i sprawdzana pod katem falszywych informacji w co najmniej dwoch niezaleznych, wiarygodnych zrodlach przed publikacja.</div>
-  <div>Strona aktualizowana automatycznie co godzine, z zachowaniem pelnej listy newsow z calego dnia.</div>
-  <div><a href="https://erjot74.github.io/kbsu-news/archive/" target="_blank" rel="noopener">Zobacz archiwum poprzednich wydan</a></div>
+  <div>Treść generowana automatycznie, weryfikowana i sprawdzana pod kątem fałszywych informacji w co najmniej dwóch niezależnych, wiarygodnych źródłach przed publikacją.</div>
+  <div>Strona aktualizowana automatycznie co godzinę, z zachowaniem pełnej listy newsów z całego dnia.</div>
+  <div><a href="https://erjot74.github.io/kbsu-news/archive/" target="_blank" rel="noopener">Zobacz archiwum poprzednich wydań</a></div>
 </div></footer>
 </body>
 </html>
