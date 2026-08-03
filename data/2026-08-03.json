@@ -321,5 +321,19 @@
       "https://biznes.interia.pl/gospodarka/news-nowe-cla-trumpa-maja-objac-dziesiatki-krajow-doradcy-obawiaj,nId,23517738": "biznes.interia.pl"
     },
     "last_updated": "2026-08-03 11:18"
+  },
+  {
+    "slug": "peru_katastrofa_samolotu_nazca",
+    "category": "world",
+    "lead": false,
+    "title": "Katastrofa samolotu turystycznego w Peru, nikt z trzynastu osob na pokladzie nie przezyl",
+    "body": "W Peru w rejonie slynnych linii Nazca rozbil sie w niedziele, 2 sierpnia, maly samolot turystyczny linii Aerodiana, wiozac osoby podziwiajace z powietrza starozytne geoglify wpisane na liste UNESCO. Na pokladzie bylo trzynascie osob, w tym pilot, i nikt nie przezyl katastrofy, co potwierdzily miejscowa policja oraz wladze lotnicze Peru. Wsrod ofiar bylo co najmniej jedenascioro turystow z Europy, jak podaje CNN powolujac sie na peruwianskie sluzby, chociaz pelnej listy narodowosci ofiar oficjalnie jeszcze nie opublikowano. Wedlug ustalen CNN i Associated Press, cytowanych przez lokalne media, maszyna mogla zglaszac problemy techniczne tuz przed uderzeniem w ziemie, choc dokladna przyczyna wypadku pozostaje przedmiotem dochodzenia peruwianskich sledczych. Wladze lotnicze Peru wszczely postepowanie wyjasniajace i zapowiedzialy kontrole stanu technicznego floty malych samolotow do lotow widokowych nad Nazca, jednej z najpopularniejszych atrakcji turystycznych w kraju. Tragedia wywolala fale wspolczucia w panstwach, skad pochodzily ofiary, a lokalne linie oferujace loty nad geoglifami czasowo wstrzymaly operacje do wyjasnienia okolicznosci wypadku.",
+    "sources": {
+      "https://www.cnn.com/2026/08/02/americas/nazca-plane-crash-dead-intl-latam": "CNN",
+      "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes": "Al Jazeera",
+      "https://tvn24.pl/swiat/peru-katastrofa-samolotu-z-turystami-z-europy-wszyscy-zgineli-st9169716": "TVN24",
+      "https://www.rmf24.pl/fakty/swiat/news-katastrofa-samolotu-w-peru-nikt-nie-przezyl,nIdn,1012209": "RMF24"
+    },
+    "last_updated": "2026-08-03 12:19"
   }
 ]
