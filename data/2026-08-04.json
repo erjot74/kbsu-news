@@ -223,5 +223,19 @@
       "https://www.tvp.info/94669118/pomorskie-wypadek-na-przejezdzie-kolejowym-w-czarlinie-rolnik-wjechal-po-opadnieciu-rogatek": "TVP Info"
     },
     "last_updated": "2026-08-04 14:25"
+  },
+  {
+    "slug": "pse_alert_przywolania_rynku_mocy_upaly_4_sierpnia",
+    "category": "pl",
+    "lead": false,
+    "title": "PSE oglasza stan przywolania na rynku mocy z powodu upalow",
+    "body": "Polskie Sieci Elektroenergetyczne (PSE) ogłosiły we wtorek 4 sierpnia stan przywołania na rynku mocy, obowiązujący na terenie całego kraju od godziny 17:00 do 19:00. Decyzja to efekt rekordowych upałów, które w ostatnich dniach uderzyły w krajowy system energetyczny: kilka bloków węglowych ograniczyło produkcję z powodu zbyt wysokiej temperatury wody chłodzącej, a jednocześnie gwałtownie wzrosło zapotrzebowanie na prąd, między innymi z powodu masowego użycia klimatyzacji. Rezerwa mocy w Krajowym Systemie Elektroenergetycznym spadła w efekcie do niebezpiecznie niskiego poziomu, co zmusiło operatora do uruchomienia awaryjnego mechanizmu apelującego do dużych odbiorców przemysłowych o dobrowolne ograniczenie poboru energii w godzinach szczytu. PSE zapewnia, że to środek zapobiegawczy, a nie zapowiedź wyłączeń prądu u odbiorców indywidualnych, jednak eksperci ostrzegają, że kolejne dni upałów mogą wymusić podobne decyzje. Na giełdzie zareagowały akcje spółek energetycznych: kursy PGE, Enei i Tauronu wzrosły w reakcji na doniesienia o napiętej sytuacji w systemie. To kolejny w tym roku alarm związany z ekstremalnymi temperaturami w Polsce.",
+    "sources": {
+      "https://www.money.pl/gospodarka/prawie-cala-polska-w-alertach-pse-oglaszaja-system-przywolania-7314781900482560a.html": "Money.pl",
+      "https://energia.rp.pl/elektroenergetyka/art44935441-kilka-blokow-weglowych-ograniczylo-produkcje-pse-oglosily-alarmowy-okres": "rp.pl",
+      "https://biznes.interia.pl/gospodarka/news-pse-uruchamiaja-awaryjny-mechanizm-powodem-sa-wysokie-temper,nId,23524047": "Interia Biznes",
+      "https://www.stockwatch.pl/wiadomosci/rekordowe-upaly-testuja-polska-energetyke-pse-oglasza-przywolanie-spolki-zyskuja-na-gieldzie,akcje,377449": "StockWatch"
+    },
+    "last_updated": "2026-08-04 15:20"
   }
 ]
