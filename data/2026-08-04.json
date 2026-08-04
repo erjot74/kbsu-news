@@ -153,5 +153,20 @@
       "https://www.pbs.org/newshour/world/cubans-seek-relief-from-crippling-blackouts-and-summer-heat": "PBS News"
     },
     "last_updated": "2026-08-04 08:35"
+  },
+  {
+    "slug": "wenezuela_maduro_areszt_rozmowy_opozycja_sierpien",
+    "category": "world",
+    "lead": false,
+    "title": "Wieziony Maduro popiera rozmowy rzadu z opozycja w Wenezueli",
+    "body": "Nicolas Maduro, obalony i przetrzymywany przez wladze USA po schwytaniu w trakcie amerykanskiej operacji wojskowej w Wenezueli, w liscie przekazanym z aresztu poparl podjecie rozmow miedzy rzadem w Caracas a opozycja, mowiac o potrzebie porozumienia miedzy Wenezuelczykami i otwartosci na wszelkie drogi dialogu w kraju. Wedlug Washington Post oraz Al Jazeery nowa runda negocjacji, wspierana przez administracje Donalda Trumpa, ma sie odbyc w pierwszych dniach sierpnia i dotyczyc wytyczenia sciezki do przeprowadzenia wolnych wyborow. Z ustalen WNP.pl i RadioMaryja.pl wynika, ze w rozmowach nie bierze udzialu liderka opozycji Maria Corina Machado, ktora wczesniej deklarowala, ze to jej obozowi nalezy sie przejecie wladzy po upadku rezimu Maduro, co budzi pytania o legitymacje calego procesu. Wenezuelczycy, cytowani przez Washington Post, obserwuja rozmowy z ostroznym optymizmem, pamietajac o wielu wczesniejszych nieudanych probach dialogu miedzy establishmentem a opozycja. Analitycy podkreslaja, ze wlaczenie Maduro w proces z aresztu to precedens budzacy kontrowersje, a ostateczny ksztalt i harmonogram wyborow pozostaja niejasne, podobnie jak rola USA w nadzorowaniu procesu przejsciowego.",
+    "sources": {
+      "https://www.washingtonpost.com/world/2026/08/01/venezuela-government-opposition-talks-trump-administration/e4c3df10-8daf-11f1-8912-d71e69d679d7_story.html": "Washington Post",
+      "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections": "Al Jazeera",
+      "https://www.upi.com/Top_News/World-News/2026/08/03/latam-venezuela-maduro-backs-opposition-talks/8861785775107/": "UPI",
+      "https://www.wnp.pl/rynki/wenezuela-negocjacje-pomiedzy-rzadem-a-opozycja-bez-udzialu-marii-coriny-machado,1086508.html": "WNP.pl",
+      "https://www.bankier.pl/wiadomosc/Nadzieja-na-polityczne-zmiany-w-Wenezueli-Maduro-poparl-negocjacje-9176956.html": "Bankier.pl"
+    },
+    "last_updated": "2026-08-04 09:21"
   }
 ]
