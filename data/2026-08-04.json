@@ -120,5 +120,21 @@
       "https://tvn24.pl/biznes/ze-swiata/capital-one-ponad-300-kont-trump-organization-zamknieto-po-kontroli-ws-prania-pieniedzy-st9171869": "TVN24 Biznes"
     },
     "last_updated": "2026-08-04 02:20"
+  },
+  {
+    "slug": "tusk_nawrocki_ustawa_paliwowa_trybunal_konstytucyjny",
+    "category": "pl",
+    "lead": false,
+    "title": "Tusk kontra Nawrocki: prezydent zablokował ustawę o podatku od zysków koncernów paliwowych",
+    "body": "Prezydent Karol Nawrocki odmówił podpisania uchwalonej przez rządzącą koalicję ustawy wprowadzającej podatek od nadzwyczajnych zysków koncernów paliwowych i skierował ją do Trybunału Konstytucyjnego, co w praktyce zamroziło jej wejście w życie. Minister finansów Andrzej Domański poinformował, że decyzja prezydenta zablokowała wpływy do budżetu szacowane na cztery miliardy złotych, o czym informują Polsat News i TVN24 Biznes. Premier Donald Tusk nazwał ruch prezydenta szokującą decyzją i ciosem wymierzonym we wszystkich polskich kierowców, apelując by wyborcy pamiętali o tym przy dystrybutorach paliw, co relacjonują Interia i RMF24. Wprost i Infor.pl piszą o otwartej wojnie politycznej między Belwederem a rządem o cztery miliardy złotych i ceny paliw, przypominając że kancelaria prezydenta uzasadniła decyzję działaniem prawa wstecz oraz ryzykiem podniesienia cen na stacjach. Kancelaria prezydenta odpiera zarzuty, wskazując że to rząd napisał wadliwą ustawę dającą de facto prezent koncernom paliwowym, na co zwraca uwagę Wprost. Spór trafi teraz do Trybunału Konstytucyjnego, a obie strony obwiniają się nawzajem o wzrost cen paliw przed jesienią.",
+    "sources": {
+      "https://www.polsatnews.pl/wiadomosc/2026-07-24/prezydent-skierowal-ustawe-do-trybunalu-konstytucyjnego-minister-finansow-zablokowal-4-mld-zl/": "Polsat News",
+      "https://tvn24.pl/biznes/z-kraju/podatek-od-nadzwyczajnych-zyskow-firm-paliwowych-donald-tusk-krytykuje-decyzje-prezydenta-karola-nawrockiego-st9158283": "TVN24 Biznes",
+      "https://wydarzenia.interia.pl/kraj/news-donald-tusk-uderza-w-prezydenta-szokujaca-decyzja,nId,23519542": "Interia",
+      "https://www.rmf24.pl/fakty/polityka/news-szokujaca-decyzja-donald-tusk-o-ruchu-karola-nawrockiego,nIdn,1011337": "RMF24",
+      "https://www.wprost.pl/kraj/12397119/tusk-o-zablokowanej-ustawie-paliwowej-nawrocki-skierowal-ja-do-tk-rzad-mowi-o-4-mld-zl.html": "Wprost",
+      "https://ksiegowosc.infor.pl/wiadomosci/7631757,tusk-kontra-nawrocki-wojna-o-4-miliardy-zlotych-i-ceny-paliw.html": "Infor.pl"
+    },
+    "last_updated": "2026-08-04 03:20"
   }
 ]
