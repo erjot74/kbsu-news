@@ -3,18 +3,21 @@
     "slug": "gaza_izrael_eskalacja_atakow_25_zabitych_weekend",
     "category": "world",
     "lead": false,
-    "title": "Izrael ignoruje plan pokojowy Trumpa i eskaluje ataki na Strefe Gazy",
-    "body": "Izrael od soboty do wtorku kontynuował intensywne bombardowania Strefy Gazy, ignorując forsowany przez administrację Donalda Trumpa plan pokojowy zakładający rozbrojenie Hamasu w zamian za wycofanie wojsk. Według lokalnych służb medycznych, Al Jazeery i serwisu ONZ News w atakach w trakcie weekendu zginęło ponad dwadzieścia kilka osób, w tym dzieci, a izraelski minister mówił publicznie o konieczności ponownej okupacji enklawy. Podsumowanie Al Jazeery opublikowane we wtorek wskazuje, że mimo zapowiadanego przez Trumpa przełomu w rozmowach izraelskie naloty nie ustały, a Al-Monitor donosi o kolejnych zabitych już w poniedziałek i wtorek. Hamas przekazał pośrednikom z Kataru i Egiptu, że jest gotów złożyć broń pod warunkiem, że Izrael najpierw wywiąże się ze swoich zobowiązań dotyczących wycofania wojsk i odbudowy Gazy, co strona izraelska odrzuca jako niewystarczające gwarancje bezpieczeństwa. Reakcje międzynarodowe pozostają podzielone: część państw arabskich i europejskich krytykuje eskalację jako sprzeczną z duchem rozejmu, podczas gdy Waszyngton podtrzymuje, że plan pokojowy pozostaje w mocy, a analitycy oceniają, że rozejm z Hamasem jest najbardziej zagrożony od miesięcy.",
+    "title": "Rada Pokoju apeluje o wstrzymanie atakow na Gaze, Izrael nie ustepuje",
+    "body": "Izrael od soboty do wtorku kontynuowal bombardowania Strefy Gazy, ignorujac plan pokojowy administracji Donalda Trumpa zakladajacy rozbrojenie Hamasu w zamian za wycofanie wojsk. Wedlug lokalnych sluzb medycznych i Al Jazeery w atakach w trakcie weekendu zginelo ponad dwadziescia kilka osob, w tym dzieci. We wtorek 4 sierpnia szef powolanej przez Trumpa Rady Pokoju spotkal sie w Jerozolimie z premierem Netanjahu i, jak podaly agencja AP, Xinhua, UPI oraz Washington Post, zaapelowal o wstrzymanie izraelskich atakow na Gaze w ramach realizacji planu rozbrojenia Hamasu. Izraelski urzednik przekazal jednak, ze armia nie wycofa sie z obecnej linii, dopoki Hamas nie zlozy broni, a naloty byly kontynuowane rowniez we wtorek. Hamas przekazal wczesniej posrednikom z Kataru i Egiptu, ze jest gotow zlozyc bron, jesli Izrael najpierw wywiaze sie ze swoich zobowiazan dotyczacych wycofania wojsk i odbudowy Gazy. Reakcje pozostaja podzielone: czesc panstw arabskich i europejskich krytykuje eskalacje, a Rada Pokoju ubolewa nad atakami mimo negocjacji, podczas gdy strona izraelska podtrzymuje warunki bezpieczenstwa. Analitycy oceniaja rozejm z Hamasem jako najbardziej kruchy od tygodni.",
     "sources": {
       "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza": "Al Jazeera",
       "https://www.rp.pl/konflikty-zbrojne/art44928151-izrael-bombarduje-strefe-gazy-minister-mowi-o-koniecznosci-jej-okupacji": "rp.pl",
       "https://kresy.pl/wydarzenia/media-hamas-zgodzil-sie-na-plan-rozbrojenia-strefy-gazy-postawil-jednak-warunek-izraelowi/": "Kresy.pl",
       "https://www.bankier.pl/wiadomosc/Hamas-gotow-oddac-bron-Doniesienia-o-postepie-w-negocjacjach-9175939.html": "Bankier.pl",
-      "https://www.wnp.pl/rynki/strefa-gazy-hamas-zlozymy-bron-jezeli-izrael-najpierw-wywiaze-sie-ze-swoich-zobowiazan,1086439.html": "WNP.pl",
       "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal": "Al Jazeera",
-      "https://news.un.org/en/story/2026/08/1168067": "UN News"
+      "https://news.un.org/en/story/2026/08/1168067": "UN News",
+      "https://thehill.com/homenews/ap/ap-international/ap-board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes/": "The Hill (AP)",
+      "https://english.news.cn/20260804/daadfb02dcef41f4a18a5ed7bb07a057/c.html": "Xinhua",
+      "https://www.upi.com/Top_News/World-News/2026/08/04/Board-of-Peace-Benjamin-Netanyahu/8931785824366/": "UPI",
+      "https://www.washingtonpost.com/world/2026/08/03/mideast-gaza-disarmament-hamas-netanyahu/28ac67ae-8f6f-11f1-9fdc-0a725c989a7b_story.html": "Washington Post"
     },
-    "last_updated": "2026-08-04 11:19"
+    "last_updated": "2026-08-04 20:28"
   },
   {
     "slug": "iran_usa_negocjacje_poniedzialek",
@@ -253,5 +256,20 @@
       "https://www.polsatnews.pl/wiadomosc/2026-08-04/dwie-elektrownie-zmniejszaja-moc-winna-pogoda/": "PolsatNews"
     },
     "last_updated": "2026-08-04 19:18"
+  },
+  {
+    "slug": "wlochy_trzesienie_ziemi_toskania_piza_sierpien",
+    "category": "world",
+    "lead": false,
+    "title": "Trzesienie ziemi kolo Pizy we Wloszech, wstrzasy odczuwalne w calej Toskanii",
+    "body": "We wtorek 4 sierpnia rano silny wstrzas sejsmiczny o magnitudzie 4.3 nawiedzil polnocne Wlochy, z epicentrum okolo siedmiu kilometrow na zachod od Pizy, w rejonie parku San Rossore, jak podal oficjalny wloski instytut sejsmologiczny INGV. Do trzesienia doszlo okolo godziny 10:15 czasu lokalnego, a wstrzas byl odczuwalny w calej polnocnej Toskanii, miedzy innymi w Lukce, Massa Carrara, Wersylii oraz az we Florencji i na terenach Apeninu modenskiego. Krotko po glownym wstrzasie zanotowano tez wtorny wstrzas o sile 3.2. Wedlug wloskiego dziennika ekonomicznego Il Sole 24 Ore oraz lokalnych mediow, w tym La Nazione i PisaToday, trzesienie spowodowalo chwilowe zaklocenia w ruchu kolejowym w czesci regionu, mieszkancy w popłochu wybiegali z domow i miejsc pracy, jednak wloskie sluzby nie odnotowaly na razie ofiar smiertelnych ani powaznych zniszczen budynkow. Straz pozarna i obrona cywilna prowadzily wieczorem kontrole stanu najstarszych, zabytkowych budynkow w centrum Pizy i pobliskich miejscowosci. Eksperci INGV zaznaczaja, ze region Toskanii lezy w strefie umiarkowanej aktywnosci sejsmicznej i nie wykluczaja kolejnych, slabszych wstrzasow wtornych w najblizszych dniach.",
+    "sources": {
+      "https://terremoti.ingv.it/event/46769822": "INGV (oficjalny instytut sejsmologiczny Wloch)",
+      "https://en.ilsole24ore.com/art/an-earthquake-measuring-43-on-the-richter-scale-was-felt-in-lucca-pisa-and-massa-carrara-AJ7WUOe": "Il Sole 24 Ore",
+      "https://www.wantedinrome.com/news/italys-tuscany-hit-by-43-magnitude-earthquake.html": "Wanted in Rome",
+      "https://www.florencedailynews.com/2026/08/04/magnitude-4-3-earthquake-strikes-near-pisa-felt-across-northern-tuscany/amp/": "Florence Daily News",
+      "https://www.3bmeteo.com/giornale-meteo/terremoto-toscana-scossa-magnitudo-4-3-pisa-san-rossore-tutti-dettagli-100852063": "3B Meteo"
+    },
+    "last_updated": "2026-08-04 20:28"
   }
 ]
