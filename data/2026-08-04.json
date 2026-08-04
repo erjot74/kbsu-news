@@ -15,9 +15,11 @@
       "https://thehill.com/homenews/ap/ap-international/ap-board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes/": "The Hill (AP)",
       "https://english.news.cn/20260804/daadfb02dcef41f4a18a5ed7bb07a057/c.html": "Xinhua",
       "https://www.upi.com/Top_News/World-News/2026/08/04/Board-of-Peace-Benjamin-Netanyahu/8931785824366/": "UPI",
-      "https://www.washingtonpost.com/world/2026/08/03/mideast-gaza-disarmament-hamas-netanyahu/28ac67ae-8f6f-11f1-9fdc-0a725c989a7b_story.html": "Washington Post"
+      "https://www.washingtonpost.com/world/2026/08/03/mideast-gaza-disarmament-hamas-netanyahu/28ac67ae-8f6f-11f1-9fdc-0a725c989a7b_story.html": "Washington Post",
+      "https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/": "Time",
+      "https://www.middleeastmonitor.com/20260803-board-of-peace-envoy-urges-netanyahu-to-halt-attacks-in-gaza-report/": "Middle East Monitor"
     },
-    "last_updated": "2026-08-04 20:28"
+    "last_updated": "2026-08-04 21:20"
   },
   {
     "slug": "iran_usa_negocjacje_poniedzialek",
@@ -271,5 +273,19 @@
       "https://www.3bmeteo.com/giornale-meteo/terremoto-toscana-scossa-magnitudo-4-3-pisa-san-rossore-tutti-dettagli-100852063": "3B Meteo"
     },
     "last_updated": "2026-08-04 20:28"
+  },
+  {
+    "slug": "gpw_rekordy_wig_150tys_wig20_sierpien",
+    "category": "pl",
+    "lead": false,
+    "title": "GPW bije rekordy: WIG przebil 150 tys. punktow, WIG20 najwyzej od 2007 roku",
+    "body": "Warszawska Gielda Papierow Wartosciowych we wtorek 4 sierpnia kontynuowala hosse trwajaca od tygodni: wedlug Parkiet.com i Strefainwestorow.pl indeks WIG20 wzrosl na zamknieciu o 1,35 procent, a szeroki indeks WIG po raz pierwszy w historii przebil psychologiczny poziom 150 tysiecy punktow, podczas gdy WIG20 siegnal ponad 3970 punktow, najwyzej od 2007 roku. Wzrostom przewodzily spolki energetyczne, w tym PGE, Enea i Tauron, ktorych kursy zyskaly w reakcji na napieta sytuacje w Krajowym Systemie Elektroenergetycznym podczas fali upalow, a takze Orlen i Zabka. Zwyzkom nie przeszkodzilo odciecie dywidendy od akcji PKO BP, ktore chwilowo obciazylo notowania WIG20, jednak wedlug Stockwatch.pl i WNP.pl indeks i tak zdolal ustanowic kolejny rekord wszech czasow. Analitycy cytowani przez Parkiet.com wskazuja na naplyw kapitalu zagranicznego do regionu Europy Srodkowej oraz dobre wyniki finansowe polskich spolek jako glowne motory hossy trwajacej od poczatku roku. Inwestorzy indywidualni i fundusze pozostaja ostroznie optymistyczni, choc czesc ekspertow ostrzega przed korekta po tak dynamicznych wzrostach, a rynek uwaznie obserwuje kolejne dni notowan.",
+    "sources": {
+      "https://www.parkiet.com/gielda/art44939031-byki-pedza-na-zlamanie-karku": "Parkiet.com",
+      "https://strefainwestorow.pl/wiadomosci/20260804/dzien-na-gpw-glowne-wskazniki-zwyzkuja-za-wyjatkiem-wig20-indeks-bez-dywidendy": "Strefainwestorow.pl",
+      "https://www.stockwatch.pl/wiadomosci/wig20-z-nowym-rekordem-wszech-czasow-w-grze-orlen-pko-bp-i-auto-partner,akcje,377344": "Stockwatch.pl",
+      "https://www.wnp.pl/rynki/hossa-na-polskiej-gieldzie-trwa-w-najlepsze-padly-nowe-rekordy-na-gpw,1087235.html": "WNP.pl"
+    },
+    "last_updated": "2026-08-04 21:20"
   }
 ]
