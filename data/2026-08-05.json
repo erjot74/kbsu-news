@@ -317,5 +317,20 @@
       "https://expressbydgoski.pl/zawieszono-funkcjonowanie-oddzialu-chorob-wewnetrznych-w-bydgoskim-szpitalu/ar/c1p2-29230967": "Express Bydgoski"
     },
     "last_updated": "2026-08-05 10:30"
+  },
+  {
+    "slug": "wenezuela_maduro_wiezienie_poparcie_dialog_transformacja",
+    "category": "world",
+    "lead": false,
+    "title": "Uwięziony Maduro popiera dialog ws. transformacji Wenezueli, opozycja bojkotuje rozmowy",
+    "body": "Nicolas Maduro, przetrzymywany od stycznia 2026 roku w areszcie w Nowym Jorku po schwytaniu go podczas amerykańskiej operacji w Wenezueli, przekazał na początku sierpnia pisemne przesłanie do rodaków, popierając wszelkie drogi dialogu prowadzące do politycznej transformacji kraju. Jak podały UPI oraz South China Morning Post 3 sierpnia 2026 roku, były prezydent napisał z aresztu, że popiera porozumienie między Wenezuelczykami, tuż przed startem wspieranych przez USA rozmów między rządem w Caracas a częścią opozycji ws. drogi do wyborów. Jak informuje Al Jazeera, rozmowy ruszyły pod koniec lipca, a administracją kieruje wiceprezydentka Delcy Rodríguez, pełniąca obowiązki głowy państwa po usunięciu Maduro z władzy. Liderka opozycji Maria Corina Machado zbojkotowała negocjacje, odrzucając udział w rozmowach uznawanych przez część komentatorów za kontrolowane przez Waszyngton, co potwierdzają World Politics Review oraz Latin America Reports. Manila Times donosi, że kolejna runda rozmów planowana jest na najbliższe dni. Krytycy wskazują, że słowa Maduro z aresztu mogą być próbą zachowania wpływów mimo utraty władzy, a podział w opozycji utrudnia wypracowanie planu zmian ustrojowych.",
+    "sources": {
+      "https://www.upi.com/Top_News/World-News/2026/08/03/latam-venezuela-maduro-backs-opposition-talks/8861785775107/": "UPI",
+      "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks": "South China Morning Post",
+      "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections": "Al Jazeera",
+      "https://www.worldpoliticsreview.com/venezuela-negotiations-maria-corina-machado/": "World Politics Review",
+      "https://www.manilatimes.net/2026/08/03/world/americas-emea/venezuela-transition-talks-to-start-next-week/2396543": "Manila Times"
+    },
+    "last_updated": "2026-08-05 16:23"
   }
 ]
