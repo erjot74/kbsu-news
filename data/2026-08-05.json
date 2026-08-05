@@ -284,5 +284,33 @@
       "https://rollcall.com/2026/08/03/bipartisan-stopgap-spending-bill-inches-forward-in-senate/": "Roll Call"
     },
     "last_updated": "2026-08-05 07:19"
+  },
+  {
+    "slug": "mobywatel_certyfikaty_termin_5_sierpnia",
+    "category": "pl",
+    "lead": false,
+    "title": "mObywatel z pilnym komunikatem: trzeba zalogować się do 5 sierpnia",
+    "body": "Ministerstwo Cyfryzacji oraz twórcy aplikacji mObywatel wystosowali pod koniec lipca 2026 roku pilny komunikat do użytkowników, informując, że muszą zalogować się do aplikacji najpóźniej do środy, 5 sierpnia 2026 roku, aby zachować ważność cyfrowych dokumentów, w tym mDowodu. Jak podaje RMF24, powodem jest planowana aktualizacja certyfikatów bezpieczeństwa w systemie, a osoby, które nie zalogują się w wyznaczonym terminie, po 5 sierpnia będą musiały ponownie zweryfikować swoją tożsamość, co może wiązać się z dodatkowymi krokami weryfikacyjnymi. Serwisy natemat.pl oraz Gazeta Prawna doprecyzowują, że problem dotyczy głównie osób, które rzadko otwierają aplikację, a po utracie ważności certyfikatu dokumenty w mObywatelu przestaną być akceptowane jako potwierdzenie tożsamości, na przykład podczas kontroli. Portal rp.pl oraz WP Wiadomości przypominają, że z mObywatela korzystają miliony Polaków jako z odpowiednika dowodu osobistego, prawa jazdy czy Karty Dużej Rodziny, dlatego ministerstwo apeluje o niezwłoczne zalogowanie się, ostrzegając przed utrudnieniami w korzystaniu z usług publicznych i prywatnych honorujących cyfrowe dokumenty.",
+    "sources": {
+      "https://www.rmf24.pl/fakty/polska/news-pilny-komunikat-polacy-musza-zalogowac-sie-do-mobywatela-do-,nIdn,1011490": "RMF24",
+      "https://natemat.pl/663220,mobywatel-z-waznym-komunikatem-zaloguj-sie-do-5-sierpnia-potem-beda-schody": "naTemat.pl",
+      "https://www.gazetaprawna.pl/urzad/administracja/artykuly/11283317,wazny-termin-dla-uzytkownikow-mobywatela-trzeba-zdazyc-do-5-sierpnia.html": "Gazeta Prawna",
+      "https://www.rp.pl/w-sadzie-i-w-urzedzie/art44890601-wazny-komunikat-w-mobywatelu-czas-do-5-sierpnia": "rp.pl",
+      "https://wiadomosci.wp.pl/masz-czas-do-5-sierpnia-wazny-komunikat-ministerstwa-7311972676594017a": "WP Wiadomości"
+    },
+    "last_updated": "2026-08-05 10:30"
+  },
+  {
+    "slug": "bydgoszcz_szpital_zawieszenie_oddzialu_interny",
+    "category": "pl",
+    "lead": false,
+    "title": "Szpital w Bydgoszczy zawiesza oddział chorób wewnętrznych, zabrakło porozumienia z lekarzami",
+    "body": "Dyrekcja Szpitala Klinicznego im. dr. Emila Warmińskiego Politechniki Bydgoskiej poinformowała na przełomie lipca i sierpnia 2026 roku o zawieszeniu Oddziału Klinicznego Chorób Wewnętrznych placówki w Bydgoszczy. Jak podaje Polskie Radio PiK, powodem jest brak porozumienia między dyrekcją a zespołem lekarzy internistów w sprawie wynagrodzeń, po tym jak część personelu odeszła lub zapowiedziała odejście z oddziału. Portal rynekzdrowia.pl doprecyzowuje, że rozmowy płacowe trwały od kilku tygodni i zakończyły się fiaskiem, co zmusiło dyrekcję do wstrzymania przyjęć na internę. Express Bydgoski informuje, że pacjenci wymagający hospitalizacji na oddziale chorób wewnętrznych są kierowani do innych placówek w regionie kujawsko-pomorskim, co obciąża okoliczne szpitale, zwłaszcza w szczycie wakacyjnym, gdy część personelu medycznego przebywa na urlopach. Związkowcy i część lekarzy krytykują dyrekcję za brak elastyczności w negocjacjach, ostrzegając, że podobny scenariusz może powtórzyć się w innych oddziałach, jeśli szpital nie zaproponuje konkurencyjnych warunków zatrudnienia. Sprawa wpisuje się w powtarzający się problem niedoboru internistów i napięć płacowych w służbie zdrowia.",
+    "sources": {
+      "https://www.radiopik.pl/2,140850,szpital-kliniczny-politechniki-bydgoskiej-zawiesza-oddzial-kliniczny-chorob-wewnetrznych-nie-osi": "Polskie Radio PiK",
+      "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Szpital-w-Bydgoszczy-bez-interny-Dyrekcja-nie-dogadala-sie-z-lekarzami-poszlo-o-wynagrodzenia,287377,1.html": "rynekzdrowia.pl",
+      "https://expressbydgoski.pl/zawieszono-funkcjonowanie-oddzialu-chorob-wewnetrznych-w-bydgoskim-szpitalu/ar/c1p2-29230967": "Express Bydgoski"
+    },
+    "last_updated": "2026-08-05 10:30"
   }
 ]
