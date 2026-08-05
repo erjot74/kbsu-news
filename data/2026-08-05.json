@@ -383,5 +383,20 @@
       "https://biznes.wprost.pl/twoj-portfel/12314478/zrownanie-wieku-emerytalnego-do-62-lat-decyzja-sejmowej-komisji.html": "Wprost Biznes"
     },
     "last_updated": "2026-08-05 19:19"
+  },
+  {
+    "slug": "usa_karolina_polnocna_strzelanina_caswell_county",
+    "category": "world",
+    "lead": false,
+    "title": "Strzelanina rodzinna w Karolinie Północnej, zginęły trzy osoby",
+    "body": "W środę 5 sierpnia 2026 roku w Prospect Hill w hrabstwie Caswell w Karolinie Północnej doszło do strzelaniny w prywatnym domu rodzinnym, w wyniku której zginęły trzy osoby, w tym sam sprawca, a jedna osoba została ranna. Jak poinformował szeryf hrabstwa Caswell, cytowany przez NBC News, WRAL oraz lokalną telewizję WFMY News 2, do ataku doszło w gronie najbliższej rodziny, a napastnik zginął na miejscu razem z dwiema innymi osobami. Śledztwo w sprawie motywu zbrodni przejęło Biuro Śledcze Stanu Karolina Północna, SBI, wspierające lokalną policję, co potwierdzają FOX8 WGHP oraz CBS17. Część lokalnych mediów wiąże zdarzenie z wcześniejszym incydentem tego samego dnia, w którym miał zostać postrzelony zastępca szeryfa doręczający nakaz sądowy, po czym doszło do wielogodzinnego oblężenia jednego z domów w okolicy, choć służby oficjalnie nie potwierdziły związku między tymi zdarzeniami. Prospect Hill to niewielka miejscowość wiejska w rolniczym regionie na północy stanu, niedaleko granicy z Wirginią. Tragedia wywołała poruszenie w lokalnej społeczności, władze zapowiedziały wyjaśnienie okoliczności oraz wsparcie dla bliskich ofiar, a szczegóły śledztwa mają być podawane w kolejnych dniach.",
+    "sources": {
+      "https://www.nbcnews.com/news/us-news/north-carolina-mass-shooting-leaves-multiple-fatalities-officials-say-rcna591016": "NBC News",
+      "https://www.wral.com/news/local/caswell-mass-shooting-august-2026/": "WRAL",
+      "https://www.wfmynews2.com/article/news/crime/multiple-people-shot-in-caswell-county-deputies/83-fb9e30c2-1f07-402a-8651-6c76dc3452ad": "WFMY News 2",
+      "https://myfox8.com/news/north-carolina/caswell/nsbi-assisting-after-several-shot-in-caswell-county/": "FOX8 WGHP",
+      "https://www.cbs17.com/news/north-carolina-news/multiple-killed-1-hurt-in-caswell-county-shooting/": "CBS17"
+    },
+    "last_updated": "2026-08-05 20:35"
   }
 ]
