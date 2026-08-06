@@ -102,7 +102,7 @@
     "category": "pl",
     "lead": true,
     "title": "Fala upałów w Polsce zebrała już setki ofiar, IMGW ostrzega przed nadciągającymi burzami z gradem",
-    "body": "Fala upałów, która od początku sierpnia 2026 roku ogarnęła Polskę, osiągnęła kolejne apogeum 6 sierpnia: w Sulejowie w województwie łódzkim padł lokalny rekord gorąca, termometry o 12:00 pokazywały ponad 37 stopni, podaje Piotrkowski24. IMGW utrzymuje w wielu regionach ostrzeżenia III, najwyższego stopnia przed upałem, z temperaturami sięgającymi nawet 40 stopni, informują rp.pl i BiznesInfo. Niepokój budzą dane Ministerstwa Zdrowia, przekazane przez Polsat News i Rynek Zdrowia: w ciągu trzech dni poprzedniej fali ratownicy stwierdzili aż 477 zgonów, a Portal Samorządowy informuje o paraliżu wielu szpitalnych oddziałów ratunkowych z powodu napływu pacjentów z przegrzaniem i odwodnieniem. ABC Zdrowie podaje, że w szczycie kolejnej fali stwierdzono niemal 170 zgonów w ciągu jednej doby. RMF24 ostrzega, że po najgorętszych dniach pogoda gwałtownie się zmieni, a synoptycy zapowiadają silne burze z gradem w kilku województwach, w tym łódzkim i na Pomorzu. Służby apelują o nieczekanie z wezwaniem karetki przy objawach przegrzania oraz ostrożność wobec podwójnego zagrożenia: wysokiej temperatury i ryzyka gwałtownych burz w kolejnych godzinach.",
+    "body": "Fala upałów, która od początku sierpnia 2026 roku ogarnęła Polskę, osiągnęła kolejne apogeum 6 sierpnia: w Sulejowie w województwie łódzkim padł lokalny rekord gorąca, termometry o 12:00 pokazywały ponad 37 stopni, podaje Piotrkowski24. IMGW utrzymuje w wielu regionach ostrzeżenia III, najwyższego stopnia przed upałem, z temperaturami sięgającymi nawet 40 stopni, informują rp.pl i BiznesInfo. Niepokój budzą dane Ministerstwa Zdrowia, przekazane przez Polsat News i Rynek Zdrowia: w ciągu trzech dni poprzedniej fali ratownicy stwierdzili aż 477 zgonów, a Portal Samorządowy informuje o paraliżu wielu szpitalnych oddziałów ratunkowych z powodu napływu pacjentów z przegrzaniem i odwodnieniem. ABC Zdrowie podaje, że w szczycie kolejnej fali stwierdzono niemal 170 zgonów w ciągu jednej doby. Po południu 6 sierpnia zapowiadane od rana burze z gradem faktycznie dotarły nad Polskę: Gazeta Krakowska informuje o alertach IMGW dla Małopolski, gdzie oprócz ekstremalnych temperatur możliwe są ulewy i grad, a Express Bydgoski i lokalne komunikaty gminne, w tym ostrzeżenie meteorologiczne numer 77, potwierdzają podobne zagrożenie w regionie kujawsko-pomorskim i dolnośląskim. Służby apelują o nieczekanie z wezwaniem karetki przy objawach przegrzania oraz ostrożność wobec podwójnego zagrożenia: wysokiej temperatury i ryzyka gwałtownych burz w kolejnych godzinach.",
     "sources": {
       "https://www.rp.pl/kraj/art44942221-prawie-cala-polska-na-czerwono-w-apogeum-upalow-nawet-40-stopni-celsjusza": "Rzeczpospolita",
       "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-sierpien-2026-upaly-w-polsce-prognoza-dlugoterminowa-na-druga-polowe-wakacji-na-mapach-widac-duzo-czerwieni-st9163958": "TVN Meteo",
@@ -113,9 +113,11 @@
       "https://trojmiasto.eska.pl/potezne-burze-grad-i-ekstremalne-upaly-uderza-w-polske-imgw-wydal-alerty-aa-yiK2-f99o-tu8Q.html": "ESKA Trójmiasto",
       "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Paraliz-na-SOR-ach-477-zgonow-w-3-dni-Nadchodzi-kolejna-fala,287292,14.html": "Rynek Zdrowia",
       "https://www.polsatnews.pl/wiadomosc/2026-08-04/fala-upalow-w-polsce-mz-podalo-dane-prawie-500-zgonow/": "Polsat News",
-      "https://portal.abczdrowie.pl/fala-upalow-zbiera-zniwo-niemal-170-zgonow-w-jedna-dobe/7314759791556608a": "ABC Zdrowie"
+      "https://portal.abczdrowie.pl/fala-upalow-zbiera-zniwo-niemal-170-zgonow-w-jedna-dobe/7314759791556608a": "ABC Zdrowie",
+      "https://gazetakrakowska.pl/imgw-ostrzega-przed-burzami-w-malopolsce-ekstremalne-temperatury-a-po-poludniu-mozliwe-ulewy-i-grad/ar/c1p2-29244659": "Gazeta Krakowska",
+      "https://expressbydgoski.pl/kolejny-alarm-pogodowy-dla-bydgoszczy-i-regionu-burze-z-gradem-i-upal-zagroza-mieszkancom/ar/c1p2-29241633": "Express Bydgoski"
     },
-    "last_updated": "2026-08-06 08:25"
+    "last_updated": "2026-08-06 13:23"
   },
   {
     "slug": "gpw_wig20_rekord_2007_hossa_sierpien",
@@ -303,5 +305,20 @@
       "https://www.nik.gov.pl/aktualnosci/nik-o-dzialalnosci-warszawskiego-szpitala-poludniowego.html": "NIK.gov.pl"
     },
     "last_updated": "2026-08-06 12:30"
+  },
+  {
+    "slug": "baltyk_bakteria_vibrio_zgony_niemcy_ostrzezenia_sierpien",
+    "category": "pl",
+    "lead": false,
+    "title": "Groźna mięsożerna bakteria w Bałtyku, w Niemczech zmarły dwie osoby, ostrzeżenia obejmują polskie kąpieliska",
+    "body": "Od końca lipca 2026 roku niemieckie władze sanitarne informują o dwóch zgonach po kontakcie z wodami Bałtyku zakażonymi bakterią Vibrio vulnificus, nazywaną potocznie mięsożerną, ustaliły Polsat News i Euronews Polska w publikacjach z 29 lipca. Jak informuje RMF24, do zakażenia dochodzi zwykle przez otwarte rany lub zadrapania mające kontakt z ciepłą, słonawą wodą, a przebieg infekcji bywa gwałtowny i może prowadzić do sepsy oraz martwicy tkanek w ciągu kilkudziesięciu godzin. Dziennik.pl podaje, że fala upałów, jaka objęła region w sierpniu, dodatkowo sprzyja namnażaniu się bakterii, ponieważ ocieplone wody przybrzeżne stanowią dla niej optymalne środowisko. Rynek Zdrowia opublikował 6 sierpnia zaktualizowaną prognozę zagrożenia, według której na mapie szczególnie widoczne są rejony Świnoujścia, Puckiej i Gdańska, choć nie odnotowano tam dotąd zakażeń śmiertelnych jak w Niemczech. Lekarze cytowani przez Strefę Zdrowia apelują przede wszystkim do seniorów, osób z osłabioną odpornością, cukrzyków oraz osób z przewlekłymi chorobami wątroby o unikanie kąpieli z otwartymi ranami i o natychmiastową konsultację lekarską w razie gorączki lub zaczerwienienia skóry po kontakcie z wodą. Władze sanitarne w regionie nadmorskim monitorują sytuację i nie wykluczają kolejnych ostrzeżeń dla kąpielisk w najbliższych dniach, jeśli upały się utrzymają.",
+    "sources": {
+      "https://www.polsatnews.pl/wiadomosc/2026-07-29/miesozerna-bakteria-w-baltyku-niemcy-informuja-o-smierci-dwoch-osob/": "Polsat News",
+      "https://pl.euronews.com/europa/2026/07/29/niebezpieczne-bakterie-w-baltyku-sa-juz-dwie-ofiary-smiertelne": "Euronews Polska",
+      "https://www.rmf24.pl/fakty/swiat/news-tragedia-po-kapieli-w-baltyku-miesozerna-bakteria-zabila-pac,nIdn,1011807": "RMF24",
+      "https://wiadomosci.dziennik.pl/swiat/artykuly/11282265,smierc-po-kapieli-w-baltyku-miesozerna-bakteria-znow-atakuje-w-upaly.html": "Dziennik.pl",
+      "https://www.rynekzdrowia.pl/Polska-i-swiat/Nowe-prognozy-o-bakteriach-w-Baltyku-6-sierpnia-Swinoujscie-Puck-i-Gdansk-swieca-na-mapie,287440,15.html": "Rynek Zdrowia"
+    },
+    "last_updated": "2026-08-06 13:23"
   }
 ]
