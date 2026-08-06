@@ -106,8 +106,8 @@
     "slug": "upaly_alert_imgw_iii_stopnia_sierpien",
     "category": "pl",
     "lead": true,
-    "title": "Fala upałów w Polsce zebrała już setki ofiar, IMGW ostrzega przed nadciągającymi burzami z gradem",
-    "body": "Fala upałów, która od początku sierpnia 2026 roku ogarnęła Polskę, osiągnęła kolejne apogeum 6 sierpnia: w Sulejowie w województwie łódzkim padł lokalny rekord gorąca, termometry o 12:00 pokazywały ponad 37 stopni, podaje Piotrkowski24. IMGW utrzymuje w wielu regionach ostrzeżenia III, najwyższego stopnia przed upałem, z temperaturami sięgającymi nawet 40 stopni, informują rp.pl i BiznesInfo. Niepokój budzą dane Ministerstwa Zdrowia, przekazane przez Polsat News i Rynek Zdrowia: w ciągu trzech dni poprzedniej fali ratownicy stwierdzili aż 477 zgonów, a Portal Samorządowy informuje o paraliżu wielu szpitalnych oddziałów ratunkowych z powodu napływu pacjentów z przegrzaniem i odwodnieniem. ABC Zdrowie podaje, że w szczycie kolejnej fali stwierdzono niemal 170 zgonów w ciągu jednej doby. Po południu 6 sierpnia zapowiadane od rana burze z gradem faktycznie dotarły nad Polskę: Gazeta Krakowska informuje o alertach IMGW dla Małopolski, gdzie oprócz ekstremalnych temperatur możliwe są ulewy i grad, a Express Bydgoski i lokalne komunikaty gminne, w tym ostrzeżenie meteorologiczne numer 77, potwierdzają podobne zagrożenie w regionie kujawsko-pomorskim i dolnośląskim. Służby apelują o nieczekanie z wezwaniem karetki przy objawach przegrzania oraz ostrożność wobec podwójnego zagrożenia: wysokiej temperatury i ryzyka gwałtownych burz w kolejnych godzinach.",
+    "title": "Fala upałów w Polsce zebrała już setki ofiar, grad wielkości pięści zniszczył dachy na Warmii i Mazurach",
+    "body": "Fala upałów, która od początku sierpnia 2026 roku ogarnęła Polskę, osiągnęła apogeum szóstego sierpnia, a wieczorem tego dnia falę gorąca przełamały gwałtowne burze, potwierdzają RMF24 i Polsat News. W Sulejowie w województwie łódzkim padł lokalny rekord gorąca, temperatury sięgały ponad 37 stopni, informuje Piotrkowski24, a IMGW utrzymywało w wielu regionach ostrzeżenia trzeciego, najwyższego stopnia przed upałem. Niepokój budzą dane Ministerstwa Zdrowia: w ciągu trzech dni poprzedniej fali ratownicy stwierdzili aż 477 zgonów, informuje Rynek Zdrowia, a ABC Zdrowie podaje, że w szczycie kolejnej fali stwierdzono niemal 170 zgonów w ciągu jednej doby. Wieczorem sytuację pogorszyły zapowiadane od rana nawałnice: RMF24 podaje, że nad Warmię i Mazury spadł grad o średnicy nawet siedmiu centymetrów, niszcząc dachy budynków i samochody, co potwierdzają Polsat News, WP Wiadomości oraz ESKA Olsztyn. Rządowe Centrum Bezpieczeństwa wydało alert dla czternastu województw, ostrzegając przed silnym wiatrem do 100 kilometrów na godzinę i ulewami, informuje RMF24, a strażacy w województwie łódzkim odnotowali w nocy blisko sto interwencji związanych z połamanymi drzewami i zalanymi piwnicami, podaje Radio Łódź. Służby apelują o ostrożność wobec podwójnego zagrożenia: upałów w ciągu dnia i gwałtownych burz wieczorami.",
     "sources": {
       "https://www.rp.pl/kraj/art44942221-prawie-cala-polska-na-czerwono-w-apogeum-upalow-nawet-40-stopni-celsjusza": "Rzeczpospolita",
       "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-sierpien-2026-upaly-w-polsce-prognoza-dlugoterminowa-na-druga-polowe-wakacji-na-mapach-widac-duzo-czerwieni-st9163958": "TVN Meteo",
@@ -120,9 +120,14 @@
       "https://www.polsatnews.pl/wiadomosc/2026-08-04/fala-upalow-w-polsce-mz-podalo-dane-prawie-500-zgonow/": "Polsat News",
       "https://portal.abczdrowie.pl/fala-upalow-zbiera-zniwo-niemal-170-zgonow-w-jedna-dobe/7314759791556608a": "ABC Zdrowie",
       "https://gazetakrakowska.pl/imgw-ostrzega-przed-burzami-w-malopolsce-ekstremalne-temperatury-a-po-poludniu-mozliwe-ulewy-i-grad/ar/c1p2-29244659": "Gazeta Krakowska",
-      "https://expressbydgoski.pl/kolejny-alarm-pogodowy-dla-bydgoszczy-i-regionu-burze-z-gradem-i-upal-zagroza-mieszkancom/ar/c1p2-29241633": "Express Bydgoski"
+      "https://expressbydgoski.pl/kolejny-alarm-pogodowy-dla-bydgoszczy-i-regionu-burze-z-gradem-i-upal-zagroza-mieszkancom/ar/c1p2-29241633": "Express Bydgoski",
+      "https://www.rmf24.pl/regiony/olsztyn/news-grad-mial-nawet-7-cm-srednicy-potezne-burze-nad-warmia-i-maz,nIdn,1012763": "RMF24",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-06/potezne-burze-nad-warmia-i-mazurami-pokazali-grad-o-wielkosci-piesci/": "Polsat News",
+      "https://wiadomosci.wp.pl/grad-wielkosci-piesci-oplakane-skutki-poteznej-nawalnicy-7315571587012608a": "WP Wiadomości",
+      "https://olsztyn.eska.pl/nawalnice-nad-polska-ogromny-grad-niszczy-dachy-i-auta-na-mazurach-aa-nJMH-cL4z-ipVf.html": "ESKA Olsztyn",
+      "https://radiolodz.pl/kolejne-ostrzezenie-imgw-burze-ulewny-deszcz,657642/": "Radio Łódź"
     },
-    "last_updated": "2026-08-06 13:23"
+    "last_updated": "2026-08-06 21:30"
   },
   {
     "slug": "gpw_wig20_rekord_2007_hossa_sierpien",
@@ -143,8 +148,8 @@
     "slug": "iga_swiatek_toronto_awans_3_runda_bejlek_sierpien",
     "category": "pl",
     "lead": false,
-    "title": "Iga Świątek pokonała Sarę Bejlek 6:0, 6:3 w Toronto, w 3. rundzie zagra z Viktoriją Golubic",
-    "body": "Iga Świątek wygrała swój mecz drugiej rundy turnieju WTA 1000 w Toronto na początku sierpnia 2026 roku, pokonując Czeszkę Sarę Bejlek 6:0, 6:3 i awansując do trzeciej rundy zawodów, co potwierdza serwis rp.pl w relacji z kortu. Portal Goniec podkreśla, że była to pierwsza wygrana Igi Świątek po przerwie w rywalizacji trwającej około miesiąca, a Sport Interia opisuje przebieg spotkania, wskazując, że w pierwszym secie Polka zaprezentowała się znakomicie, wygrywając go do zera, natomiast w drugiej partii pojawiły się chwilowe trudności, zanim ostatecznie domknęła zwycięstwo. Sportowe Fakty WP opisują mecz jako pokaz dobrej dyspozycji Polki mimo miesięcznej przerwy startowej, ale zwracają uwagę na moment zaskakującego zwrotu akcji w drugim secie. Eurosport.tvn24.pl i Super Sport podają, że w trzeciej rundzie Świątek zmierzy się z doświadczoną Szwajcarką Viktoriją Golubic, a Sportowe Fakty WP informują, że poznano już dokładną godzinę tego spotkania. Awans do trzeciej rundy w Toronto to ważny sygnał formy przed zbliżającym się US Open i kolejnymi turniejami wielkoszlemowymi jesiennego sezonu, a kibice liczą na dalsze postępy Świątek w tym turnieju.",
+    "title": "Iga Świątek awansowała do 4. rundy WTA Toronto po rozprawieniu się z Golubic",
+    "body": "Iga Świątek wygrała swój mecz drugiej rundy turnieju WTA 1000 w Toronto na początku sierpnia 2026 roku, pokonując Czeszkę Sarę Bejlek 6:0, 6:3, a następnie w trzeciej rundzie, szóstego sierpnia, rozprawiła się ze Szwajcarką Viktoriją Golubic, awansując do czwartej rundy zawodów, co potwierdza oficjalny serwis WTA Tennis. Zgodnie z relacją Eurosportu TVN24 mecz z Golubic trwał zaledwie 66 minut i zakończył się wygraną Polki w dwóch setach, a Sport Interia opisuje końcówkę spotkania jako prawdziwy pogrom w wykonaniu liderki rankingu. Portal Sportowy24 podaje, że za zwycięstwo Świątek otrzyma nagrodę w wysokości 81800 dolarów, a kanadyjska stacja TSN podkreśla, że Polka wygrała w dwóch setach bez większych problemów po stronie rywalki. Wcześniej, po miesięcznej przerwie startowej, Polka pokonała w drugiej rundzie Sarę Bejlek 6:0, 6:3, co dobrze wróżyło przed kolejnymi meczami tego turnieju. Świątek nie straciła dotąd seta w Toronto, co eksperci cytowani przez Super Sport oceniają jako sygnał bardzo dobrej formy przed zbliżającym się US Open. Kibice czekają teraz na wyłonienie kolejnej rywalki Polki w czwartej rundzie kanadyjskiego turnieju.",
     "sources": {
       "https://eurosport.tvn24.pl/tenis/wta-toronto/2026/iga-swiatek-sara-bejlek-w-2.-rundzie-turnieju-wta-1000-w-toronto.-wynik-na-zywo-i-relacja-live_sto23325322/story.shtml": "Eurosport TVN24",
       "https://goniec.pl/iga-swiatek-wygrala-mecz-po-miesiecznej-przerwie-wta-wydala-wazny-komunikat-jest-potwierdzenie-js-wpd-040826": "Goniec",
@@ -152,9 +157,14 @@
       "https://sportowefakty.wp.pl/tenis/wideo/51491/popis-igi-swiatek-w-pierwszym-secie-potem-byly-problemy": "Sportowe Fakty WP",
       "https://sport.rp.pl/tenis/art44941261-toronto-zwycieski-powrot-igi-swiatek-szybkie-pozegnanie-mai-chwalinskiej": "Rzeczpospolita (sport.rp.pl)",
       "https://www.eska.pl/news/sport/iga-swiatek-w-trzeciej-rundzie-wta-w-toronto-z-kim-zmierzy-sie-reprezentantka-polski-aa-BYuV-2cNC-Cm6U.html": "ESKA.pl",
-      "https://supersport.se.pl/tenis/wta/kiedy-gra-iga-swiatek-z-viktorija-golubic-o-ktorej-godzinie-mecz-w-3-rundzie-wta-toronto-aa-9z2Q-gWNA-8Cnd.html": "Super Sport"
+      "https://supersport.se.pl/tenis/wta/kiedy-gra-iga-swiatek-z-viktorija-golubic-o-ktorej-godzinie-mecz-w-3-rundzie-wta-toronto-aa-9z2Q-gWNA-8Cnd.html": "Super Sport",
+      "https://www.wtatennis.com/news/4555339/swiatek-enjoys-66-minute-victory-over-golubic-to-make-toronto-last-16": "WTA Tennis",
+      "https://eurosport.tvn24.pl/tenis/wta-toronto/2026/iga-swiatek-viktorija-golubic-wynik-meczu-na-zywo-i-relacja-live-3.-runda-turnieju-wta-1000-w-toronto_sto23325899/story.shtml": "Eurosport TVN24",
+      "https://sport.interia.pl/iga-swiatek/news-66-minut-meczu-swiatek-i-bohaterki-z-warszawy-o-4-runde-wta,nId,23525535": "Sport Interia",
+      "https://sportowy24.pl/demolka-na-korcie-w-toronto-iga-swiatek-wybila-tenisa-szwajcarce-viktorij-golubic-w-nagrode-dostanie-premie-w-wysokosci-81-800-dolarow/ar/c2p2-29247151": "Sportowy24",
+      "https://www.tsn.ca/tennis/video/2026/08/06/swiatek-defeats-golubic-in-straight-sets-to-reach-quarters-in-toronto/": "TSN"
     },
-    "last_updated": "2026-08-06 02:25"
+    "last_updated": "2026-08-06 21:30"
   },
   {
     "slug": "ceny_paliw_tusk_regulacja_decyzja_48h_sierpien",
@@ -360,5 +370,21 @@
       "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina": "Al Jazeera"
     },
     "last_updated": "2026-08-06 15:27"
+  },
+  {
+    "slug": "polskie_kluby_pucharowe_liga_europy_konferencji_6_sierpnia",
+    "category": "pl",
+    "lead": false,
+    "title": "Lech, Raków, Jagiellonia i GKS Katowice rozegrały mecze el. europejskich pucharów",
+    "body": "W czwartek, szóstego sierpnia 2026 roku, cztery polskie kluby piłkarskie rozegrały pierwsze mecze trzeciej rundy eliminacji do fazy ligowej Ligi Europy i Ligi Konferencji Europy, informuje Eurosport TVN24. Lech Poznań pokonał na własnym stadionie farerski KI Klaksvik 1:0 w meczu eliminacji Ligi Europy, co potwierdzają Polsat Sport i klubowy serwis KKSLECH.com, opisujący spotkanie jako ucieczkę od wielkiego wstydu po trudnym poprzednim meczu. Raków Częstochowa pokonał cypryjską Omonię Nikozja i awansował na wiceliderowanie w tabeli fazy ligowej Ligi Konferencji, informuje Soccerway, a Jagiellonia Białystok przetrwała trudny wyjazdowy mecz w Alkmaar, remisując z miejscowym zespołem. Sport Interia donosi również o sensacji w Katowicach: GKS Katowice odrobił straty w końcówce spotkania i awansował dalej w rozgrywkach Ligi Konferencji dzięki golom strzelonym w ostatnich minutach meczu. Serwis Weszło podkreśla, że czwartkowy wieczór był wyjątkowo udany dla polskich klubów w europejskich pucharach, a kibice czekają teraz na rewanżowe spotkania, które zdecydują o awansie do kolejnej rundy eliminacji bądź fazy ligowej.",
+    "sources": {
+      "https://eurosport.tvn24.pl/pilka-nozna/liga-europy/2026-2027/lech-jagiellonia-rakow-i-gks-graja-w-czwartek-w-europejskich-pucharach.-z-kim-i-o-ktorej-dzisiaj-ich-mecze-3.-rundy-ligi-europy-i-ligi-konferencji_sto23325282/story.shtml": "Eurosport TVN24",
+      "https://kkslech.com/2026/08/06/na-zywo-lech-ki-klaksvik-prosto-z-bulgarskiej-juz-od-1720/": "KKSLECH.com",
+      "https://www.polsatsport.pl/wiadomosc/2026-08-06/lech-poznan-klaksvik-wynik-meczu-kto-wygral-mecz-lech-poznan-klaksvik-liga-europy/": "Polsat Sport",
+      "https://sport.interia.pl/pilka-nozna/liga-konferencji/news-katowice-w-ekstazie-magiczne-trzy-minuty-gol-z-nozyc-jest-aw,nId,23522264": "Sport Interia",
+      "https://pl.soccerway.com/wiadomosci/pi-ka-nozna-liga-konferencji-rakow-wiceliderem-ligi-konferencji-po-ograniu-omonii-jagiellonia-przetrwa-a-w-alkmaar/GnZ5HU1D": "Soccerway",
+      "https://weszlo.com/graja-jagiellonia-lech-rakow-i-gks-wynik-i-relacja-live/": "Weszło"
+    },
+    "last_updated": "2026-08-06 21:30"
   }
 ]
