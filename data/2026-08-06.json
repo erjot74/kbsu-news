@@ -101,8 +101,8 @@
     "slug": "upaly_alert_imgw_iii_stopnia_sierpien",
     "category": "pl",
     "lead": true,
-    "title": "Fala upałów w Polsce osiąga apogeum, IMGW ostrzega też przed nadciągającymi burzami z gradem",
-    "body": "Fala upałów, która od początku sierpnia 2026 roku ogarnęła Polskę, osiągnęła kolejne apogeum 6 sierpnia: jak podaje Piotrkowski24, w Sulejowie w województwie łódzkim padł lokalny rekord gorąca, a termometry o 12:00 pokazywały ponad 37 stopni Celsjusza. IMGW utrzymuje w wielu regionach ostrzeżenia III, najwyższego stopnia przed upałem, o czym wcześniej informowały rp.pl i BiznesInfo, wskazując temperatury sięgające nawet 40 stopni w apogeum fali. Równocześnie RMF24 w materiale zatytułowanym Tropikalna noc, a potem grad ostrzega, że po najgorętszych dniach pogoda gwałtownie się zmieni, a synoptycy zapowiadają silne burze z gradem. ESKA Trójmiasto oraz Dziennik Łódzki donoszą, że IMGW wydał nowe alerty łączące ostrzeżenia przed upałem z ostrzeżeniami przed burzami i gradem w kilku województwach, w tym w regionie łódzkim i na Pomorzu. Służby apelują o ostrożność wobec podwójnego zagrożenia: wysokiej temperatury w dzień oraz ryzyka gwałtownych zjawisk pogodowych w kolejnych godzinach. Meteorolodzy podkreślają, że tak gwałtowna zmiana pogody bywa niebezpieczna dla kierowców i osób na wolnym powietrzu, a IMGW zaleca śledzenie bieżących komunikatów meteorologicznych.",
+    "title": "Fala upałów w Polsce zebrała już setki ofiar, IMGW ostrzega przed nadciągającymi burzami z gradem",
+    "body": "Fala upałów, która od początku sierpnia 2026 roku ogarnęła Polskę, osiągnęła kolejne apogeum 6 sierpnia: w Sulejowie w województwie łódzkim padł lokalny rekord gorąca, termometry o 12:00 pokazywały ponad 37 stopni, podaje Piotrkowski24. IMGW utrzymuje w wielu regionach ostrzeżenia III, najwyższego stopnia przed upałem, z temperaturami sięgającymi nawet 40 stopni, informują rp.pl i BiznesInfo. Niepokój budzą dane Ministerstwa Zdrowia, przekazane przez Polsat News i Rynek Zdrowia: w ciągu trzech dni poprzedniej fali ratownicy stwierdzili aż 477 zgonów, a Portal Samorządowy informuje o paraliżu wielu szpitalnych oddziałów ratunkowych z powodu napływu pacjentów z przegrzaniem i odwodnieniem. ABC Zdrowie podaje, że w szczycie kolejnej fali stwierdzono niemal 170 zgonów w ciągu jednej doby. RMF24 ostrzega, że po najgorętszych dniach pogoda gwałtownie się zmieni, a synoptycy zapowiadają silne burze z gradem w kilku województwach, w tym łódzkim i na Pomorzu. Służby apelują o nieczekanie z wezwaniem karetki przy objawach przegrzania oraz ostrożność wobec podwójnego zagrożenia: wysokiej temperatury i ryzyka gwałtownych burz w kolejnych godzinach.",
     "sources": {
       "https://www.rp.pl/kraj/art44942221-prawie-cala-polska-na-czerwono-w-apogeum-upalow-nawet-40-stopni-celsjusza": "Rzeczpospolita",
       "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-sierpien-2026-upaly-w-polsce-prognoza-dlugoterminowa-na-druga-polowe-wakacji-na-mapach-widac-duzo-czerwieni-st9163958": "TVN Meteo",
@@ -110,9 +110,12 @@
       "https://www.lrt.lt/pl/wiadomosci/1261/3006261/fala-upalow-w-polsce-nawet-36degc-i-czerwone-alerty-imgw": "LRT",
       "https://www.piotrkowski24.pl/na-godzine-1200-rekord-goraca-padl-w-sulejowie-termometry-pokazaly-ponad-37-stopni/": "Piotrkowski24",
       "https://www.rmf24.pl/fakty/pogoda/news-tropikalna-noc-a-potem-grad-pogoda-w-polsce-calkowicie-oszal,nIdn,1011661": "RMF24",
-      "https://trojmiasto.eska.pl/potezne-burze-grad-i-ekstremalne-upaly-uderza-w-polske-imgw-wydal-alerty-aa-yiK2-f99o-tu8Q.html": "ESKA Trójmiasto"
+      "https://trojmiasto.eska.pl/potezne-burze-grad-i-ekstremalne-upaly-uderza-w-polske-imgw-wydal-alerty-aa-yiK2-f99o-tu8Q.html": "ESKA Trójmiasto",
+      "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Paraliz-na-SOR-ach-477-zgonow-w-3-dni-Nadchodzi-kolejna-fala,287292,14.html": "Rynek Zdrowia",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-04/fala-upalow-w-polsce-mz-podalo-dane-prawie-500-zgonow/": "Polsat News",
+      "https://portal.abczdrowie.pl/fala-upalow-zbiera-zniwo-niemal-170-zgonow-w-jedna-dobe/7314759791556608a": "ABC Zdrowie"
     },
-    "last_updated": "2026-08-06 03:18"
+    "last_updated": "2026-08-06 08:25"
   },
   {
     "slug": "gpw_wig20_rekord_2007_hossa_sierpien",
