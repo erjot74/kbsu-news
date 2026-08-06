@@ -153,8 +153,8 @@
     "slug": "ceny_paliw_tusk_regulacja_decyzja_48h_sierpien",
     "category": "pl",
     "lead": false,
-    "title": "Rząd wstrzymuje decyzję ws. cen paliw mimo zapowiedzi 48 godzin, rozważa obniżkę VAT",
-    "body": "Premier Donald Tusk zapowiedział na początku sierpnia 2026 roku, że rząd zaproponuje regulowane ceny paliw na czas masowych powrotów z wakacji, jeśli notowania ropy naftowej wzrosną, a decyzja miała zapaść w ciągu 48 godzin od jego wypowiedzi z 3 sierpnia, informowało energia.rp.pl. Do 5 sierpnia decyzji jednak nie ogłoszono: minister finansów Andrzej Domański powiedział w rozmowie cytowanej przez Money.pl, że decyzja w sprawie interwencji na rynku paliw jeszcze nie zapadła. RMF24 potwierdza, że rząd wciąż analizuje możliwość powrotu osłon na rynku paliw, a energia.rp.pl podaje, że wśród rozważanych wariantów jest obniżka VAT na paliwa, przy czym kluczowe dla ostatecznej decyzji mają być ostatnie tygodnie wakacji i poziom cen na stacjach w tym okresie. Interia Biznes i Globenergia opisują, że rząd nie wyklucza powrotu regulowanych cen ani mechanizmu przypominającego dawny CPN, a Eska.pl ostrzega, że bez interwencji cena paliwa może zbliżyć się do 8 złotych za litr. Zwolennicy interwencji wskazują na ochronę kierowców przed skokiem cen w szczycie sezonu urlopowego, przeciwnicy, w tym część ekonomistów, ostrzegają przed zakłóceniem mechanizmów rynkowych i kosztami dla budżetu państwa.",
+    "title": "Rząd wciąż bez decyzji ws. cen paliw, minister energii nie wyklucza powrotu programu CPN",
+    "body": "Premier Donald Tusk zapowiedział na początku sierpnia 2026 roku, że rząd zaproponuje regulowane ceny paliw na czas masowych powrotów z wakacji, jeśli notowania ropy naftowej wzrosną, a decyzja miała zapaść w ciągu 48 godzin od jego wypowiedzi z 3 sierpnia, informowało energia.rp.pl. Do 6 sierpnia twardej decyzji wciąż nie ogłoszono, ale spór o kształt interwencji przeniósł się na poziom resortu energii: minister Miłosz Motyka powiedział w porannej rozmowie RMF24, że nie jest wykluczone, iż wróci program Ceny Paliwa Niżej, choć według dorzeczy.pl rozmowy wciąż trwają i nie zapadła ostateczna decyzja co do terminu. Równolegle, jak podaje Interia Biznes i Bankier.pl, resort rozmawia z Orlenem o rozszerzeniu stacyjnych promocji i wskazuje na zbyt niskie marże paliwowe koncernu, a money.pl informuje, że z rządu popłynął sygnał oczekujący obniżek cen na stacjach Orlenu. StockWatch.pl ocenia, że decyzja w sprawie ewentualnego powrotu CPN może zapaść w drugiej połowie sierpnia. Zwolennicy interwencji wskazują na ochronę kierowców przed skokiem cen w szczycie wakacji, przeciwnicy ostrzegają przed zakłóceniem mechanizmów rynkowych i kosztami dla budżetu.",
     "sources": {
       "https://www.farmer.pl/fakty/polska/tusk-zaproponujemy-regulowane-ceny-paliw-na-czas-powrotow-z-wakacji-jesli-ceny-ropy-wzrosna,180959.html": "Farmer.pl",
       "https://polskieradio24.pl/pieniadze/rzad-obnizy-ceny-paliw-w-sierpniu-donald-tusk-zapowiada-nastepce-cpn": "Polskie Radio 24",
@@ -164,9 +164,15 @@
       "https://www.money.pl/finanse/rzad-zainterweniuje-na-rynku-paliw-domanski-decyzja-nie-zapadla-7315271171545152a.html": "Money.pl",
       "https://www.rmf24.pl/fakty/polska/news-co-z-decyzja-ws-powrotu-oslon-na-rynku-paliw-domanski-inform,nIdn,1012643": "RMF24",
       "https://energia.rp.pl/paliwa/art44949131-rzad-nie-wyklucza-regulowanych-cen-paliw-kluczowe-beda-ostatnie-tygodnie-wakacji": "Rzeczpospolita (energia.rp.pl)",
-      "https://www.eska.pl/news/biznes/paliwo-po-8-zl-staje-sie-realne-rzad-donalda-tuska-wstrzymuje-decyzje-o-powrocie-pakietu-cpn-aa-cwbN-PiHu-434V.html": "ESKA.pl"
+      "https://www.eska.pl/news/biznes/paliwo-po-8-zl-staje-sie-realne-rzad-donalda-tuska-wstrzymuje-decyzje-o-powrocie-pakietu-cpn-aa-cwbN-PiHu-434V.html": "ESKA.pl",
+      "https://www.rmf24.pl/rozmowy/poranna-rozmowa/news-motyka-o-cenach-paliw-nie-jest-wykluczone-ze-wroci-cpn,nIdn,1012437": "RMF24",
+      "https://dorzeczy.pl/ekonomia/923992/tansze-paliwo-w-polsce-motyka-prowadzimy-rozmowy-ws-powrotu-programu-cpn.html": "Dorzeczy",
+      "https://biznes.interia.pl/finanse/news-trwaja-rozmowy-o-promocjach-na-orlenie-minister-widzi-sposob,nId,23523631": "Interia Biznes",
+      "https://www.bankier.pl/wiadomosc/Zakres-promocji-Orlenu-dot-cen-paliw-wymaga-pewnego-rozszerzenia-Motyka-ME-9177133.html": "Bankier.pl",
+      "https://www.money.pl/gospodarka/orlen-obnizy-swoje-ceny-poszedl-sygnal-z-rzadu-7314455686309952a.html": "Money.pl",
+      "https://www.stockwatch.pl/wiadomosci/program-cpn-ceny-paliwa-nizej-sierpien-2026,surowce,377370": "StockWatch.pl"
     },
-    "last_updated": "2026-08-06 02:25"
+    "last_updated": "2026-08-06 12:30"
   },
   {
     "slug": "mobywatel_certyfikaty_termin_5_sierpnia_wygasniecie",
@@ -280,5 +286,22 @@
       "https://biznes.interia.pl/gospodarka/news-usa-oglosily-cla-na-partnerow-handlowych-wsrod-nich-unia-eur,nId,23518955": "Interia Biznes"
     },
     "last_updated": "2026-08-06 06:18"
+  },
+  {
+    "slug": "szpital_poludniowy_afera_audyt_trzaskowski_sledztwa",
+    "category": "pl",
+    "lead": false,
+    "title": "Afera w Szpitalu Południowym: Trzaskowski przedstawił wyniki audytu, ruszają dwa nowe śledztwa",
+    "body": "Ratusz w Warszawie opublikował 5 sierpnia 2026 roku wyniki wewnętrznego audytu w Warszawskim Szpitalu Południowym, którego wcześniejsza kontrola Najwyższej Izby Kontroli ujawniła liczne nieprawidłowości, informuje TVN24. Prezydent stolicy Rafał Trzaskowski przedstawił wnioski dotyczące między innymi niemal pięciodniowych dyżurów części lekarzy, podwójnych wypłat wynagrodzeń oraz stanowisk, na których zatrudnione osoby faktycznie nie świadczyły pracy, co Wprost i GazetaPrawna.pl określają jako podstawę dwóch nowych postępowań przygotowawczych. Wcześniej NIK opisywała w raporcie tak zwane dyżury widma i przeciążenie części personelu, a prokuratura zajęła się już wątkiem kosztownego reprezentacyjnego saloniku w placówce, o czym pisała Interia. Była prezeska szpitala Anna Łukasik, odwołana wraz z całym zarządem, odpiera zarzuty i twierdzi według rp.pl oraz Niezalezna.pl, że o części nieprawidłowości wiedziała już rok wcześniej i informowała o nich przełożonych. Ratusz przyznał odwołanym członkom zarządu odprawy, których wysokość ujawnił portal zero.pl, co dodatkowo podgrzało dyskusję o odpowiedzialności za placówkę finansowaną z pieniędzy podatników.",
+    "sources": {
+      "https://tvn24.pl/zdrowie/afera-w-szpitalu-poludniowym-byla-dyrektorka-zabrala-glos-trzaskowski-przedstawil-wyniki-audytu-st9173907": "TVN24",
+      "https://www.wprost.pl/kraj/12405192/afera-w-szpitalu-poludniowym-w-warszawie-sa-wnioski-z-audytu-i-dwa-nowe-sledztwa.html": "Wprost",
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11284040,afera-w-szpitalu-poludniowym-audyt-trzaskowski-prokuratura-nik-2026.html": "GazetaPrawna.pl",
+      "https://wydarzenia.interia.pl/mazowieckie/news-afera-w-szpitalu-poludniowym-w-warszawie-jest-ruch-prokuratu,nId,23498179": "Interia",
+      "https://www.rp.pl/ochrona-zdrowia/art44935241-pilnuje-szpitala-dla-trzaskowskiego-byla-prezes-placowki-wspomina-dawida-kacprzyka": "Rzeczpospolita",
+      "https://niezalezna.pl/polska/afera-w-szpitalu-poludniowym-dyrektor-placowki-wiedziala-o-nieprawidlowosciach-juz-rok-temu/573325": "Niezalezna.pl",
+      "https://www.nik.gov.pl/aktualnosci/nik-o-dzialalnosci-warszawskiego-szpitala-poludniowego.html": "NIK.gov.pl"
+    },
+    "last_updated": "2026-08-06 12:30"
   }
 ]
