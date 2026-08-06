@@ -155,8 +155,8 @@
     "slug": "ceny_paliw_tusk_regulacja_decyzja_48h_sierpien",
     "category": "pl",
     "lead": false,
-    "title": "Rząd wciąż bez decyzji ws. cen paliw, minister energii nie wyklucza powrotu programu CPN",
-    "body": "Premier Donald Tusk zapowiedział na początku sierpnia 2026 roku, że rząd zaproponuje regulowane ceny paliw na czas masowych powrotów z wakacji, jeśli notowania ropy naftowej wzrosną, a decyzja miała zapaść w ciągu 48 godzin od jego wypowiedzi z 3 sierpnia, informowało energia.rp.pl. Do 6 sierpnia twardej decyzji wciąż nie ogłoszono, ale spór o kształt interwencji przeniósł się na poziom resortu energii: minister Miłosz Motyka powiedział w porannej rozmowie RMF24, że nie jest wykluczone, iż wróci program Ceny Paliwa Niżej, choć według dorzeczy.pl rozmowy wciąż trwają i nie zapadła ostateczna decyzja co do terminu. Równolegle, jak podaje Interia Biznes i Bankier.pl, resort rozmawia z Orlenem o rozszerzeniu stacyjnych promocji i wskazuje na zbyt niskie marże paliwowe koncernu, a money.pl informuje, że z rządu popłynął sygnał oczekujący obniżek cen na stacjach Orlenu. StockWatch.pl ocenia, że decyzja w sprawie ewentualnego powrotu CPN może zapaść w drugiej połowie sierpnia. Zwolennicy interwencji wskazują na ochronę kierowców przed skokiem cen w szczycie wakacji, przeciwnicy ostrzegają przed zakłóceniem mechanizmów rynkowych i kosztami dla budżetu.",
+    "title": "Rząd podjął decyzję ws. programu CPN, Tusk wskazał termin powrotu regulowanych cen paliw",
+    "body": "Po kilku dniach niepewności rząd Donalda Tuska podjął decyzję w sprawie ewentualnego powrotu do regulowania cen paliw na wzór dawnego programu CPN, informuje Biznes Info, powołując się na wypowiedź premiera. Portal Interia Motoryzacja podaje, że Tusk wskazał konkretny termin, od którego rozwiązanie mogłoby zacząć obowiązywać, wiążąc go z końcem wakacyjnego szczytu ruchu na drogach i ewentualnym wzrostem cen ropy naftowej. Money.pl doprecyzowuje, że chodzi raczej o zapowiedź wygaszenia tymczasowych działań osłonowych niż o twardy harmonogram nowej regulacji, a resort energii nadal prowadzi rozmowy z Orlenem w sprawie promocji na stacjach, o czym pisze Interia Biznes. TVN24 Biznes przypomina, że wcześniej Tusk mówił żartobliwie, iż zamiast CPN mamy teraz nieformalny skrót CKN, nawiązując do doraźnego charakteru interwencji rządu. Kierowcy wciąż nie znają ostatecznych, wiążących stawek na wrzesień, a eksperci cytowani przez Rzeczpospolitą oceniają, że decydujące będą ostatnie tygodnie wakacji i to, czy ceny ropy na rynkach światowych utrzymają się na obecnym poziomie, czy zaczną rosnąć wraz z sezonowym wzrostem popytu.",
     "sources": {
       "https://www.farmer.pl/fakty/polska/tusk-zaproponujemy-regulowane-ceny-paliw-na-czas-powrotow-z-wakacji-jesli-ceny-ropy-wzrosna,180959.html": "Farmer.pl",
       "https://polskieradio24.pl/pieniadze/rzad-obnizy-ceny-paliw-w-sierpniu-donald-tusk-zapowiada-nastepce-cpn": "Polskie Radio 24",
@@ -172,9 +172,13 @@
       "https://biznes.interia.pl/finanse/news-trwaja-rozmowy-o-promocjach-na-orlenie-minister-widzi-sposob,nId,23523631": "Interia Biznes",
       "https://www.bankier.pl/wiadomosc/Zakres-promocji-Orlenu-dot-cen-paliw-wymaga-pewnego-rozszerzenia-Motyka-ME-9177133.html": "Bankier.pl",
       "https://www.money.pl/gospodarka/orlen-obnizy-swoje-ceny-poszedl-sygnal-z-rzadu-7314455686309952a.html": "Money.pl",
-      "https://www.stockwatch.pl/wiadomosci/program-cpn-ceny-paliwa-nizej-sierpien-2026,surowce,377370": "StockWatch.pl"
+      "https://www.stockwatch.pl/wiadomosci/program-cpn-ceny-paliwa-nizej-sierpien-2026,surowce,377370": "StockWatch.pl",
+      "https://www.biznesinfo.pl/zapadla-decyzja-ws-powrotu-programu-cpn-donald-tusk-wskazal-termin-mt-wem-300726": "Biznes Info",
+      "https://motoryzacja.interia.pl/wiadomosci/news-tansze-paliwa-moga-wrocic-donald-tusk-zdradzil-termin,nId,23520397": "Interia Motoryzacja",
+      "https://www.money.pl/mobility/kiedy-koniec-z-pakietem-cpn-tusk-podal-termin-7296406839728128a.html": "Money.pl",
+      "https://tvn24.pl/biznes/z-kraju/tusk-byl-cpn-teraz-mamy-ckn-st9160665": "TVN24 Biznes"
     },
-    "last_updated": "2026-08-06 12:30"
+    "last_updated": "2026-08-06 14:30"
   },
   {
     "slug": "mobywatel_certyfikaty_termin_5_sierpnia_wygasniecie",
@@ -320,5 +324,19 @@
       "https://www.rynekzdrowia.pl/Polska-i-swiat/Nowe-prognozy-o-bakteriach-w-Baltyku-6-sierpnia-Swinoujscie-Puck-i-Gdansk-swieca-na-mapie,287440,15.html": "Rynek Zdrowia"
     },
     "last_updated": "2026-08-06 13:23"
+  },
+  {
+    "slug": "izrael_gaza_wal_ziemny_23km_podzial_sierpien",
+    "category": "world",
+    "lead": false,
+    "title": "Izrael buduje 23-kilometrowy wał ziemny dzielący Strefę Gazy, informuje agencja AP",
+    "body": "Amerykańska agencja AP poinformowała, że izraelska armia po cichu wznosi liczący około 23 kilometrów wał ziemny przecinający Strefę Gazy, co ma na stałe utrwalić podział terytorium na część północną i południową, przekazuje Polskie Radio, powołując się na to doniesienie. Bankier.pl podaje, że budowa prowadzona jest bez oficjalnych ogłoszeń, a jej istnienie potwierdzają zdjęcia satelitarne oraz relacje świadków z okolic konstrukcji. Portale wiara.pl i gosc.pl, cytując tę samą agencję, zwracają uwagę, że wał ma umożliwić izraelskiej armii łatwiejszą kontrolę przepływu ludności cywilnej między obiema częściami enklawy oraz ograniczenie ruchów bojówek. Interia opisuje, że równolegle Izrael nasilił naloty na południową część Strefy Gazy, a inwestycja może w praktyce oznaczać trwały podział terytorium wbrew wcześniejszym zapowiedziom stopniowego wycofywania wojsk po zawieszeniu broni. Strona palestyńska nie przedstawiła jeszcze oficjalnego stanowiska w tej konkretnej sprawie, natomiast organizacje humanitarne od miesięcy alarmują, że ograniczenia w przemieszczaniu się utrudniają dostęp do pomocy medycznej i żywnościowej mieszkańcom Gazy.",
+    "sources": {
+      "https://www.polskieradio.pl/399/7975/Artykul/3710959,agencja-ap-izraelska-armia-buduje-23kilometrowy-wal-ziemny-dzielacy-strefe-gazy": "Polskie Radio",
+      "https://www.bankier.pl/wiadomosc/Izrael-po-cichu-buduje-23-kilometrowy-wal-ziemny-dzielacy-Strefe-Gazy-9171101.html": "Bankier.pl",
+      "https://www.gosc.pl/doc/9818060.Izraelska-armia-buduje-23-kilometrowy-wal-ziemny-dzielacy": "Gość Niedzielny",
+      "https://wydarzenia.interia.pl/bliski-wschod/news-izrael-nasila-ataki-po-cichu-ruszyl-z-budowa-gigantyczna-bar,nId,23517560": "Interia"
+    },
+    "last_updated": "2026-08-06 14:30"
   }
 ]
