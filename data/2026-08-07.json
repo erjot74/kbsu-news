@@ -128,8 +128,8 @@
     "slug": "ceny_paliw_program_cpn_domanski_warunek_sierpien",
     "category": "pl",
     "lead": false,
-    "title": "Tusk: ceny paliw są dramatyczne, rząd zdecyduje o interwencji w ciągu 48 godzin",
-    "body": "Premier Donald Tusk oświadczył w czwartek 6 i w piątek 7 sierpnia 2026 roku, że obecne ceny paliw na polskich stacjach są, jak to ujął, dramatyczne, i zapowiedział, że rząd podejmie decyzję o ewentualnej interwencji w ciągu najbliższych 48 godzin. Jak podaje Polska Agencja Prasowa, premier poprosił o ten czas na analizę sytuacji, wskazując na skokowy wzrost cen ropy naftowej wywołany napięciami wokół wojny Iranu z Izraelem i USA oraz sporem o Cieśninę Ormuz. Portal rp.pl informuje, że rząd rozważa powrót interwencyjnego programu obniżek znanego jako CPN, choć jeszcze kilka dni wcześniej minister finansów Andrzej Domański zapewniał, że program nie jest planowany, dopóki ceny na stacjach spadają. Serwis Interia podaje, że decyzja w sprawie ewentualnego uruchomienia mechanizmu może zapaść już w przyszłym tygodniu. Portal dlahandlu.pl oraz portalspozywczy.pl piszą, że branża transportowa i handlowa domaga się szybkich, systemowych rozwiązań zamiast doraźnych interwencji. Kierowcy i organizacje motoryzacyjne z niepokojem śledzą rozwój sytuacji przed jesiennym wzrostem zapotrzebowania na paliwo.",
+    "title": "Ceny paliw w hurcie mocno spadają, rząd wciąż rozważa interwencję po zapowiedzi Tuska",
+    "body": "Ceny paliw pozostają w centrum uwagi rządu i kierowców w piątek 7 sierpnia 2026 roku. Premier Donald Tusk oświadczył w czwartek i piątek, że obecne ceny na stacjach są, jak to ujął, dramatyczne, i zapowiedział decyzję o ewentualnej interwencji w ciągu 48 godzin, informuje Polska Agencja Prasowa. Money.pl oraz Portal Samorządowy podają, powołując się na notowania hurtowe, że ceny paliw w hurcie mocno spadają, a benzyna Pb95 na stacjach może wkrótce potanieć nawet do 7,21 do 7,36 złotych za litr. Minister finansów Andrzej Domański, jak przypomina Bankier.pl, zastrzegł wcześniej, że rząd nie planuje programu CPN, dopóki ceny same spadają, co sugeruje, że obniżka może nadejść bez decyzji administracyjnej już w połowie sierpnia. rp.pl informuje, że mimo to w rządzie trwają analizy nad przywróceniem regulowanych cen paliw na wypadek wzrostu notowań ropy, związanego z napięciami wokół Cieśniny Ormuz. Interia podaje, że ostateczna decyzja może zapaść w przyszłym tygodniu. Organizacje transportowe, cytowane przez dlahandlu.pl i portalspozywczy.pl, apelują o systemowe rozwiązania zamiast doraźnych interwencji, a kierowcy z niepokojem śledzą sytuację przed jesiennym wzrostem zapotrzebowania na paliwo.",
     "sources": {
       "https://www.bankier.pl/wiadomosc/Domanski-jesli-ceny-paliw-beda-spadac-to-nie-bedziemy-podejmowac-decyzji-o-ich-obnizce-9178682.html": "Bankier.pl",
       "https://wgospodarce.pl/informacje/157593-ceny-paliw-minister-domanski-umywa-rece": "wGospodarce.pl",
@@ -139,9 +139,11 @@
       "https://www.pap.pl/aktualnosci/tusk-prosi-o-48-godzin-w-sprawie-paliw-te-ceny-sa-dramatyczne": "PAP",
       "https://energia.rp.pl/paliwa/art44944161-rzad-obnizy-ceny-paliw-na-powrot-z-wakacji-tusk-decyzje-zapadna-lada-moment": "rp.pl",
       "https://motoryzacja.interia.pl/wiadomosci/news-ceny-paliw-nowy-program-cpn-juz-w-przyszlym-tygodniu-decyzja,nId,23525664": "Interia",
-      "https://www.dlahandlu.pl/raporty-i-analizy/rzad-daje-sobie-48-godzin-na-interwencje-w-sprawie-cen-paliw,173618.html": "dlahandlu.pl"
+      "https://www.dlahandlu.pl/raporty-i-analizy/rzad-daje-sobie-48-godzin-na-interwencje-w-sprawie-cen-paliw,173618.html": "dlahandlu.pl",
+      "https://www.money.pl/mobility/ceny-w-hurcie-mocno-spadaja-oto-ile-moga-potaniec-paliwa-na-stacjach-7315895642359808a.html": "Money.pl",
+      "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/ceny-paliw-w-hurcie-mocno-spadaja-benzyna-95-moze-potaniec-do-7-21-7-36-zl-l,671676.html": "Portal Samorządowy"
     },
-    "last_updated": "2026-08-07 16:27"
+    "last_updated": "2026-08-07 23:20"
   },
   {
     "slug": "trump_iran_wojna_amunicja_zapasy_kontrowersja_6_sierpnia",
@@ -192,5 +194,23 @@
       "https://www.money.pl/gielda/ustawa-ktora-konczy-z-patologia-nawrocki-poparl-pomysl-rzadu-7315887950014528a.html": "Money.pl"
     },
     "last_updated": "2026-08-07 22:19"
+  },
+  {
+    "slug": "senat_usa_sankcje_rosja_iran_graham_ustawa",
+    "category": "world",
+    "lead": false,
+    "title": "Senat USA przyjął ustawę o surowych sankcjach na Rosję i Iran, nazwaną na cześć zmarłego senatora Grahama",
+    "body": "Senat Stanów Zjednoczonych przyjął w piątek 7 sierpnia 2026 roku ustawę wprowadzającą surowe sankcje wobec Rosji i Iranu, nazwaną imieniem zmarłego senatora Lindseya Grahama, który przez lata forsował ten projekt. Jak podają NBC News, CBS News i NPR, ustawa Lindsey O. Graham Sanctioning Russia and Iran Act przeszła w Senacie przytłaczającą większością głosów, co RMF24 i Interia opisują jako sygnał ponadpartyjnego poparcia dla twardszego kursu wobec Moskwy i Teheranu. WP Wiadomości oraz WNP.pl informują, że nowe przepisy przewidują dodatkowe cła i sankcje wtórne wobec podmiotów kupujących rosyjską ropę oraz surowce z Iranu, co ma ograniczyć finansowanie wojny w Ukrainie i irańskiego programu zbrojeniowego. Politycy cytowani przez rp.pl mówili podczas debaty, że dni wojny prowadzonej przez Rosję są policzone, a Ameryka pozostaje po stronie Ukrainy. Ustawa trafi teraz do Izby Reprezentantów, gdzie los dalszych prac pozostaje niepewny, a część komentatorów, w tym Daily Caller, krytykuje projekt jako zbyt ekspansywny wobec uprawnień prezydenta w polityce zagranicznej. Kijów i europejscy sojusznicy przyjęli decyzję Senatu z zadowoleniem, licząc na wzmocnienie presji gospodarczej na Kreml.",
+    "sources": {
+      "https://www.nbcnews.com/politics/congress/senate-passes-sanctions-bill-russia-iran-named-late-sen-lindsey-graham-rcna589949": "NBC News",
+      "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham": "NPR",
+      "https://www.cbsnews.com/news/russia-sanctions-bill-iran-senate-lindsey-graham/": "CBS News",
+      "https://www.rmf24.pl/fakty/swiat/news-senat-usa-przyjal-ustawe-o-piekielnych-sankcjach-grahama-na-,nIdn,1012930": "RMF24",
+      "https://wydarzenia.interia.pl/zagranica/news-senat-usa-zatwierdzil-nowe-sankcje-na-rosje-hold-dla-zmarleg,nId,23526185": "Interia",
+      "https://wiadomosci.wp.pl/senat-usa-podjal-decyzje-przeglosowano-sankcje-na-rosje-i-iran-7315979309324352a": "WP Wiadomości",
+      "https://www.wnp.pl/rynki/senat-usa-za-ostrymi-sankcjami-na-rosje-i-iran-zwyciestwo-zwolennikow-wsparcia-dla-ukrainy,1088358.html": "WNP.pl",
+      "https://www.rp.pl/konflikty-zbrojne/art44903041-senat-usa-wysyla-sygnal-putinowi-dni-wojny-sa-policzone-ameryka-po-stronie-ukrainy": "rp.pl"
+    },
+    "last_updated": "2026-08-07 23:20"
   }
 ]
