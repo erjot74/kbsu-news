@@ -20,7 +20,7 @@
     "category": "world",
     "lead": true,
     "title": "Ukraina uderzyła dronami w rosyjskie rafinerie 700 km od granicy, Rosja odpowiedziała atakiem na port i statek ze zbożem",
-    "body": "W nocy z 5 na 6 sierpnia 2026 roku ukraińskie siły zbrojne przeprowadziły kolejną serię ataków dronowych na cele naftowe głęboko na terytorium Rosji, w tym na rafinerię w Ufie oddaloną o ponad 1300 kilometrów od linii frontu, co rp.pl określił jako jedno z najdalej wysuniętych uderzeń w tej wojnie. Według RMF24 rosyjska obrona informowała o rekordowej liczbie zestrzelonych dronów, jednak część dotarła do celu, wywołując pożary instalacji naftowych, co potwierdza Euronews, pisząc o uderzeniach w rafinerie i infrastrukturę wojskową w głębi kraju. PAP podaje, powołując się na prezydenta Zełenskiego, że celem nalotów były też obiekty w rejonie Moskwy, a ukraiński przywódca oświadczył, że Rosja musi wybrać pokój zamiast dalszej eskalacji. W odwecie Rosja zaatakowała ukraińską infrastrukturę logistyczną, uderzając w stację kolejową oraz cywilny statek ze zbożem w rejonie Morza Czarnego, w wyniku czego, jak podało Polskie Radio 24, zginął jeden z członków załogi. Interia informuje o serii udanych ataków Ukrainy również w pobliżu Moskwy. Strony konfliktu oskarżają się wzajemnie o eskalację, a Kijów apeluje do zachodnich sojuszników o wsparcie w obronie infrastruktury krytycznej i portów eksportowych zboża.",
+    "body": "W nocy z 5 na 6 sierpnia 2026 roku ukraińskie siły zbrojne przeprowadziły kolejną serię ataków dronowych na cele naftowe głęboko na terytorium Rosji, w tym na rafinerię w Ufie oddaloną o ponad 1300 kilometrów od linii frontu, co rp.pl określił jako jedno z najdalej wysuniętych uderzeń w tej wojnie. Według RMF24 rosyjska obrona informowała o rekordowej liczbie zestrzelonych dronów, jednak część dotarła do celu i wywołała pożary instalacji naftowych, co potwierdza Euronews. PAP podaje, powołując się na Zełenskiego, że celem nalotów były też obiekty w rejonie Moskwy, a ukraiński przywódca oświadczył, że Rosja musi wybrać pokój zamiast eskalacji. W odwecie Rosja uderzyła w stację kolejową i cywilny statek ze zbożem na Morzu Czarnym, w wyniku czego, jak podało Polskie Radio 24, zginął jeden z członków załogi. Al Jazeera informuje, że w kolejnych nocnych atakach dronowo rakietowych na Ukrainę zginęło co najmniej sześć osób, mimo że obrona powietrzna przechwyciła setki bezzałogowców, a WP Wiadomości podaje odrębny bilans mówiący o pięciu zabitych i wielu rannych w innym rejonie kraju. Strony oskarżają się wzajemnie o eskalację, a Kijów apeluje do sojuszników o wsparcie w obronie infrastruktury krytycznej i portów zbożowych.",
     "sources": {
       "https://www.euronews.com/my-europe/2026/08/06/ukraine-hits-refineries-deep-inside-russia-as-moscow-strikes-train-station-and-ship": "Euronews",
       "https://www.rmf24.pl/fakty/swiat/news-zmasowany-atak-ukrainskich-dronow-rosja-donosi-o-rekordowych,nIdn,1012249": "RMF24",
@@ -28,9 +28,11 @@
       "https://polskieradio24.pl/swiat/rosjanie-zaatakowali-statek-ze-zbozem-nie-zyje-czlonek-zalogi": "Polskie Radio 24",
       "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-zadala-serie-ciosow-trafienia-pod-moskwa-uderzenia-w,nId,23516380": "Interia",
       "https://www.rp.pl/konflikty-zbrojne/art44950891-ukraincy-zaatakowali-obiekt-oddalony-o-1300-km-od-frontu-wolodymyr-zelenski-rosja-musi-wybrac-pokoj": "rp.pl",
-      "https://www.pap.pl/aktualnosci/zelenski-poinformowal-o-ataku-na-rafinerie-w-rosji-celem-nalotow-byla-tez-min-moskwa": "PAP"
+      "https://www.pap.pl/aktualnosci/zelenski-poinformowal-o-ataku-na-rafinerie-w-rosji-celem-nalotow-byla-tez-min-moskwa": "PAP",
+      "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones": "Al Jazeera",
+      "https://wiadomosci.wp.pl/rosyjskie-drony-poluja-na-ludzi-5-zabitych-wielu-rannych-7315541724358720a": "WP Wiadomości"
     },
-    "last_updated": "2026-08-07 07:25"
+    "last_updated": "2026-08-07 18:24"
   },
   {
     "slug": "gaza_netanjahu_odrzuca_plan_rozbrojenia_hamasu",
