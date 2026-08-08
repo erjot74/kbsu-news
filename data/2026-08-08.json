@@ -105,8 +105,8 @@
     "slug": "ukraina_atak_rafinerie_rosja_1300_km_od_frontu",
     "category": "world",
     "lead": false,
-    "title": "Ukraina uderzyła w bazę lotnictwa strategicznego i kolejną rafinerię w Rosji, ataki nawet 1300 km od frontu",
-    "body": "Siły ukraińskie kontynuują serię ataków dronowych na rosyjskie cele wojskowe i energetyczne w głębi terytorium Rosji. Wcześniej w tym tygodniu Ukraina uderzyła między innymi w bazę lotnictwa strategicznego oraz kolejną rafinerię ropy naftowej, a według doniesień rp.pl, Polskiego Radia 24 oraz Defence24 część z tych ataków sięgała nawet ponad 1300 kilometrów od linii frontu. W piątek, 7 sierpnia, ukraińskie siły przeprowadziły kolejne, jeszcze dalsze uderzenie: dron trafił w magazyn logistyczny rosyjskiego giganta e-commerce Wildberries, położony ponad 2000 kilometrów od granicy Ukrainy, co Al Jazeera i niezależny portal Meduza opisują jako jeden z najgłębszych ataków w całej kampanii. Tego samego dnia w rosyjskich atakach odwetowych na Ukrainę zginęło kilka osób. Strona rosyjska potwierdza pożary w rejonach ataków, ale minimalizuje ich skalę, a lokalne władze informują o ograniczeniach lotów na części lotnisk cywilnych. Ukraińscy urzędnicy podkreślają, że celem nalotów są instalacje zaopatrujące rosyjską armię i gospodarkę wojenną, a analitycy oceniają, że regularność uderzeń zaczyna odbijać się na rosyjskim rynku paliwowym, powodując lokalne niedobory.",
+    "title": "Ukraina wysłała około 400 dronów na rosyjskie rafinerie, ataki sięgają nawet 1300 km od frontu",
+    "body": "Siły ukraińskie kontynuują serię ataków dronowych na rosyjskie cele wojskowe i energetyczne w głębi terytorium Rosji. Wcześniej w tym tygodniu Ukraina uderzyła między innymi w bazę lotnictwa strategicznego oraz kolejną rafinerię ropy naftowej, a według doniesień rp.pl, Polskiego Radia 24 oraz Defence24 część z tych ataków sięgała nawet ponad 1300 kilometrów od linii frontu. W piątek, 7 sierpnia, ukraińskie siły uderzyły jeszcze dalej: dron trafił w magazyn logistyczny rosyjskiego giganta e-commerce Wildberries, ponad 2000 kilometrów od granicy Ukrainy, co Al Jazeera i portal Meduza opisują jako jeden z najgłębszych ataków kampanii. W sobotę, 8 sierpnia, doszło do kolejnej, zmasowanej fali nalotów: jak podają PolsatNews.pl, wiadomości.wp.pl oraz Interia, w kierunku rosyjskich rafinerii i lotniska wysłano około 400 dronów, a świadkowie słyszeli co najmniej kilkanaście wybuchów, są ranni po stronie rosyjskiej. Strona rosyjska potwierdza pożary, ale minimalizuje ich skalę, a lokalne władze informują o ograniczeniach lotów na części lotnisk cywilnych. Analitycy oceniają, że regularność uderzeń odbija się na rosyjskim rynku paliwowym, powodując lokalne niedobory.",
     "sources": {
       "https://www.rp.pl/konflikty-zbrojne/art44950891-ukraincy-zaatakowali-obiekt-oddalony-o-1300-km-od-frontu-wolodymyr-zelenski-rosja-musi-wybrac-pokoj": "rp.pl",
       "https://www.wnp.pl/energia/kolejny-cios-w-przemysl-naftowy-rosji-atak-na-rafinerie-1300-km-od-linii-frontu,1077300.html": "WNP.pl",
@@ -115,9 +115,12 @@
       "https://polskieradio24.pl/swiat/ukraina-przeprowadzila-serie-uderzen-celem-rosyjska-rafineria": "Polskie Radio 24",
       "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/uderzenie-w-baze-rosyjskiego-lotnictwa-strategicznego": "Defence24",
       "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant": "Al Jazeera",
-      "https://meduza.io/en/news/2026/08/07/ukraine-strikes-wildberries-warehouse-more-than-2-000-kilometers-inside-russia": "Meduza"
+      "https://meduza.io/en/news/2026/08/07/ukraine-strikes-wildberries-warehouse-more-than-2-000-kilometers-inside-russia": "Meduza",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-08/zmasowany-atak-na-rosyjskie-rafinerie-slychac-bylo-co-najmniej-10-wybuchow/": "PolsatNews.pl",
+      "https://wiadomosci.wp.pl/zmasowany-atak-ukraincow-na-strategiczne-cele-wyslano-400-dronow-7316170568595520a": "WP Wiadomości",
+      "https://wydarzenia.interia.pl/ukraina-rosja/news-fala-ukrainskich-dronow-wtargnela-do-rosji-eksplozje-plona-r,nId,23526384": "Interia"
     },
-    "last_updated": "2026-08-08 11:25"
+    "last_updated": "2026-08-08 20:20"
   },
   {
     "slug": "nawrocki_rok_prezydentury_21_ustaw_ukraina",
