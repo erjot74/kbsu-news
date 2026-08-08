@@ -256,13 +256,46 @@
     "slug": "imgw_ostrzezenia_upaly_burze_sierpien",
     "category": "pl",
     "lead": false,
-    "title": "IMGW ostrzega przed upałami do 39 stopni i gwałtownymi burzami z gradem",
-    "body": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia trzeciego, najwyższego stopnia przed falą upałów sięgających nawet 39 stopni Celsjusza oraz gwałtownymi burzami z gradem i możliwymi trąbami powietrznymi, obejmujące kilka województw, w tym świętokrzyskie i pomorskie. Jak podają RMF24, PolsatNews, rp.pl i Goniec.pl, meteorolodzy ostrzegają przed nagłymi wzrostami prędkości wiatru w trakcie burz oraz lokalnymi podtopieniami po intensywnych opadach deszczu. Rządowe Centrum Bezpieczeństwa rozesłało do mieszkańców zagrożonych regionów alerty SMS z apelem o zachowanie ostrożności, unikanie przebywania na otwartej przestrzeni podczas burz oraz zabezpieczenie ruchomych przedmiotów na balkonach i posesjach. Synoptycy zapowiadają, że fala upałów i towarzyszące jej gwałtowne zjawiska pogodowe mogą utrzymywać się do soboty i niedzieli, po czym spodziewane jest przejściowe ochłodzenie. Straż pożarna apeluje o zgłaszanie awarii i zerwanych linii energetycznych, a energetycy ostrzegają przed możliwymi przerwami w dostawach prądu w regionach najbardziej narażonych na silny wiatr i wyładowania atmosferyczne.",
+    "title": "IMGW: upały do 39 stopni i burze z gradem ustępują na weekend, wrócą na początku tygodnia",
+    "body": "Instytut Meteorologii i Gospodarki Wodnej wydał w tym tygodniu ostrzeżenia trzeciego, najwyższego stopnia przed falą upałów sięgających nawet 39 stopni Celsjusza oraz gwałtownymi burzami z gradem i trąbami powietrznymi, które objęły kilka województw, w tym świętokrzyskie i pomorskie. Jak podają RMF24, PolsatNews, rp.pl, TVN24 Meteo oraz Goniec.pl, w sobotę i niedzielę fala upałów przejściowo ustępuje, temperatury spadają i w części kraju wraca słońce, jednak synoptycy już zapowiadają, że upały i burze powrócą na początku przyszłego tygodnia, ostrzegając przed kolejnymi alarmami drugiego stopnia. Rządowe Centrum Bezpieczeństwa apelowało do mieszkańców zagrożonych regionów o ostrożność, unikanie przebywania na otwartej przestrzeni podczas burz oraz zabezpieczenie przedmiotów na balkonach i posesjach. Straż pożarna apelowała o zgłaszanie awarii i zerwanych linii energetycznych, a energetycy ostrzegali przed możliwymi przerwami w dostawach prądu w regionach narażonych na silny wiatr. Meteorolodzy podkreślają, że sierpniowa pogoda w Polsce pozostaje wyjątkowo niestabilna, z gwałtownymi wahaniami temperatury i częstymi zjawiskami ekstremalnymi w krótkich odstępach czasu.",
     "sources": {
       "https://www.rmf24.pl/fakty/pogoda/news-zar-z-nieba-burze-i-mozliwy-grad-imgw-wydal-najwyzsze-ostrze,nIdn,1012420": "RMF24",
       "https://www.polsatnews.pl/wiadomosc/2026-08-03/w-pogodzie-niespokojnie-imgw-ostrzega-przed-burzami-i-upalami/": "PolsatNews.pl",
-      "https://www.rp.pl/spoleczenstwo/art44945471-silny-wiatr-ulewy-i-wyladowania-rcb-apeluje-o-ostroznosc": "rp.pl"
+      "https://www.rp.pl/spoleczenstwo/art44945471-silny-wiatr-ulewy-i-wyladowania-rcb-apeluje-o-ostroznosc": "rp.pl",
+      "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-8-9-08-upal-wroci-na-chwile-st9179374": "TVN Meteo",
+      "https://www.rmf24.pl/fakty/pogoda/news-burze-i-upaly-wracaja-do-polski-imgw-ostrzega-przed-goracym-,nIdn,1012960": "RMF24",
+      "https://dziendobry.tvn.pl/newsy/pogoda/kiedy-wroci-upal-imgw-wskazuje-dzien-jest-prognoza-alertow-st9180058": "Dzień Dobry TVN"
     },
-    "last_updated": "2026-08-08 11:25"
+    "last_updated": "2026-08-08 17:20"
+  },
+  {
+    "slug": "rosja_nocny_atak_kijow_dziecko_ofiary_8_sierpnia",
+    "category": "world",
+    "lead": false,
+    "title": "Rosja zaatakowała w nocy Kijów, zginęły cztery osoby, w tym trzyletni chłopiec",
+    "body": "W nocy z piątku na sobotę Rosja przeprowadziła kolejny atak rakietowo-dronowy na Kijów i jego przedmieścia, w wyniku którego zginęły co najmniej cztery osoby, w tym trzyletni chłopiec wraz z dziadkami. Jak informują rp.pl, TVN24, WP Wiadomości oraz Dorzeczy.pl, do ataku doszło w rejonie stolicy Ukrainy, gdzie rosyjski pocisk trafił w budynek mieszkalny, a rodzice i starszy brat zabitego dziecka zostali ranni i trafili do szpitala. Prezydent Wołodymyr Zełenski poinformował w mediach społecznościowych o skali zniszczeń i po raz kolejny zaapelował do sojuszników Ukrainy o wzmocnienie obrony powietrznej kraju oraz przyspieszenie dostaw systemów przeciwrakietowych. W kijowskiej administracji wojskowej podano, że w mieście dwukrotnie ogłaszano alarm przeciwlotniczy, a straż pożarna gasiła pożary w kilku dzielnicach. Strona ukraińska poinformowała, że Rosjanie użyli między innymi rakiet balistycznych typu Iskander. Atak wywołał kolejną falę krytyki wobec Moskwy ze strony zachodnich stolic, a rzecznicy władz Ukrainy podkreślają, że uderzenia w cele cywilne mają łamać morale społeczeństwa przed kolejną rundą rozmów pokojowych.",
+    "sources": {
+      "https://www.rp.pl/konflikty-zbrojne/art44961191-rosjanie-ostrzelali-przedmiescia-kijowa-zginal-trzyletni-chlopiec": "rp.pl",
+      "https://tvn24.pl/swiat/nocny-atak-na-ukraine-rosjanie-zabili-trzy-osoby-w-tym-dziecko-st9179989": "TVN24",
+      "https://wiadomosci.wp.pl/bestialski-atak-rosjan-uderzyli-w-budynek-mieszkalny-zginal-3-latek-7316175595735104a": "WP Wiadomości",
+      "https://dorzeczy.pl/swiat/926227/rosja-zaatakowala-okolice-kijowa-wsrod-ofiar-jest-dziecko.html": "Dorzeczy.pl",
+      "https://www.rmf24.pl/fakty/swiat/news-niespokojna-noc-w-kijowie-wsrod-ofiar-rosyjskiego-ataku-dzie,nIdn,1012937": "RMF24",
+      "https://www.wnp.pl/rynki/ukraina-zelenski-rosja-zabila-w-nocy-cztery-osoby-w-tym-trzyletnie-dziecko,1088427.html": "WNP.pl"
+    },
+    "last_updated": "2026-08-08 17:20"
+  },
+  {
+    "slug": "bulgaria_dron_eksplozja_gazociag_rumunia_8_sierpnia",
+    "category": "world",
+    "lead": false,
+    "title": "Dron eksplodował w Bułgarii w pobliżu gazociągu, nadleciał od strony Rumunii",
+    "body": "W sobotę nad ranem w północno-wschodniej Bułgarii doszło do eksplozji drona, który wleciał w przestrzeń powietrzną kraju od strony sąsiedniej Rumunii i spadł w pobliżu infrastruktury Gazociągu Transbałkańskiego. Jak informują rp.pl, TVN24, PolsatNews.pl oraz Interia, do zdarzenia nie doszło bezpośrednio na terenie instalacji gazowej, a wybuch nie spowodował ofiar w ludziach ani przerw w dostawach gazu, wywołał jednak alarm wśród lokalnych służb i mieszkańców pobliskich miejscowości. Premier Bułgarii Rosen Żelazkow potwierdził incydent i poinformował, że służby analizują szczątki bezzałogowca, aby ustalić jego pochodzenie, choć nieoficjalnie wskazuje się na możliwy związek z trwającymi w regionie rosyjskimi atakami na ukraińską infrastrukturę portową nad Dunajem i Morzem Czarnym. To kolejny w ostatnich miesiącach przypadek przedostania się szczątków drona bojowego w głąb terytorium państwa członkowskiego NATO graniczącego z Rumunią i Ukrainą, co ponownie podnosi pytania o szczelność wschodniej flanki Sojuszu. Władze w Sofii zapowiedziały wzmocnienie monitoringu przestrzeni powietrznej w regionie przygranicznym, a Bukareszt zadeklarował współpracę przy wyjaśnianiu trasy lotu obiektu.",
+    "sources": {
+      "https://www.rp.pl/wypadki/art44961491-eksplozja-drona-w-poblizu-gazociagu-w-bulgarii-nadlecial-znad-rumunii": "rp.pl",
+      "https://tvn24.pl/swiat/eksplozja-drona-w-bulgarii-niedaleko-tloczni-gazu-nadlecial-z-rumunii-st9180462": "TVN24",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-08/eksplozja-drona-w-bulgarii-wybuchl-w-poblizu-gazociagu/": "PolsatNews.pl",
+      "https://wydarzenia.interia.pl/zagranica/news-eksplozja-drona-w-bulgarii-wybuch-w-poblizu-gazociagu,nId,23526416": "Interia"
+    },
+    "last_updated": "2026-08-08 17:20"
   }
 ]
