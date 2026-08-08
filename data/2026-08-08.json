@@ -79,5 +79,32 @@
       "https://www.usnews.com/news/top-news/articles/2026-08-05/us-refunds-100-billion-in-tariffs-struck-down-by-supreme-court-filing-shows": "US News"
     },
     "last_updated": "2026-08-08 01:25"
+  },
+  {
+    "slug": "nawrocki_ulaskawienie_trzy_osoby_staruch_dozywocie",
+    "category": "pl",
+    "lead": false,
+    "title": "Prezydent Nawrocki ułaskawił trzy osoby, w tym skazanego na dożywocie Starucha",
+    "body": "Prezydent Karol Nawrocki skorzystał z konstytucyjnego prawa łaski wobec trzech osób, wśród których znalazł się mężczyzna znany jako Staruch, wcześniej prawomocnie skazany na dożywocie. Kancelaria Prezydenta oraz Ministerstwo Sprawiedliwości potwierdziły w czwartek nazwiska ułaskawionych: Adama Borowskiego, Piotra Pytla oraz osoby określanej pseudonimem Staruch. Decyzja wywołała burzę polityczną: krytycy, w tym politycy koalicji rządzącej, zarzucają prezydentowi, że skorzystał z prerogatywy w sposób nieprzejrzysty i bez wystarczającego uzasadnienia w sprawach budzących poważne wątpliwości społeczne. Rzecznik prezydenta Rafał Leśkiewicz odpierał zarzuty, apelując, by rządzący nie ingerowali w konstytucyjne uprawnienia głowy państwa. Piotr Pytel po ogłoszeniu decyzji przyznał w rozmowie z mediami, że wiadomość go zszokowała. Sprawa odbiła się szerokim echem w mediach społecznościowych, gdzie przeciwnicy prezydenta ironizują, że ułaskawiony był związany ze środowiskiem kibicowskim bliskim głowie państwa. Opozycja zapowiada pytania do Kancelarii Prezydenta o kryteria wyboru, a temat ma być poruszany w Sejmie w najbliższych dniach.",
+    "sources": {
+      "https://www.rp.pl/prawo-karne/art44932331-prezydent-ulaskawil-trzy-osoby-to-adam-borowski-piotr-pytel-i-staruch": "rp.pl",
+      "https://tvn24.pl/polska/prezydent-karol-nawrocki-ulaskawil-trzy-osoby-st9172079": "TVN24",
+      "https://www.gazetaprawna.pl/prawnik/prawo-karne/artykuly/11284347,prezydent-zastosowal-prawo-laski-wiadomo-kogo-objely-decyzje.html": "GazetaPrawna.pl",
+      "https://www.rmf24.pl/fakty/polityka/news-wara-rzadzacym-od-prerogatyw-prezydenta-burza-po-ulaskawieni,nIdn,1012439": "RMF24"
+    },
+    "last_updated": "2026-08-08 01:25"
+  },
+  {
+    "slug": "ukraina_atak_rafinerie_rosja_1300_km_od_frontu",
+    "category": "world",
+    "lead": false,
+    "title": "Ukraina uderzyła w rosyjskie rafinerie nawet 1300 kilometrów od linii frontu",
+    "body": "Siły ukraińskie przeprowadziły w ostatnich dniach serię ataków dronowych na rosyjskie rafinerie ropy naftowej, uderzając w cele oddalone nawet o ponad 1300 kilometrów od linii frontu, co czyni je jednymi z najdalej wysuniętych operacji Kijowa w głąb Rosji od początku wojny. Według doniesień rp.pl, portalu energetyka24 oraz wnp.pl, w ostatnim tygodniu trafiono co najmniej kilka obiektów przemysłu naftowego, w tym instalacje istotne dla zaopatrzenia rosyjskiej armii i eksportu paliw. Prezydent Wołodymyr Zełenski określił te uderzenia jako sprawiedliwą odpowiedź na rosyjskie ataki na ukraińską infrastrukturę cywilną, podkreślając, że Rosja musi wybrać między wojną a pokojem. Rosyjskie władze regionalne potwierdziły pożary i uszkodzenia w kilku rafineriach, choć Moskwa oficjalnie bagatelizuje skalę strat. Analitycy energetyczni oceniają, że powtarzające się ataki na infrastrukturę naftową pogłębiają problemy Rosji z zaopatrzeniem rynku wewnętrznego w paliwo i zwiększają koszty logistyczne eksportu ropy, co uderza w budżet wojenny Kremla. Ukraińskie dowództwo zapowiada kontynuację takich operacji jako elementu strategii osłabiania zdolności Rosji do prowadzenia długotrwałej wojny.",
+    "sources": {
+      "https://www.rp.pl/konflikty-zbrojne/art44950891-ukraincy-zaatakowali-obiekt-oddalony-o-1300-km-od-frontu-wolodymyr-zelenski-rosja-musi-wybrac-pokoj": "rp.pl",
+      "https://www.wnp.pl/energia/kolejny-cios-w-przemysl-naftowy-rosji-atak-na-rafinerie-1300-km-od-linii-frontu,1077300.html": "WNP.pl",
+      "https://energetyka24.com/surowce/ropa/kolejne-dwie-rafinerie-zaatakowane-przez-ukraine-jedna-1300-km-od-linii-frontu": "Energetyka24"
+    },
+    "last_updated": "2026-08-08 01:25"
   }
 ]
