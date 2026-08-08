@@ -162,5 +162,34 @@
       "https://polskieradio24.pl/swiat/przelom-w-wenezueli-ruszyly-rozmowy-rezimu-z-opozycja": "Polskie Radio 24"
     },
     "last_updated": "2026-08-09 00:40"
+  },
+  {
+    "slug": "pogoda_burze_ostrzezenia_niedziela_9_sierpnia",
+    "category": "pl",
+    "lead": false,
+    "title": "Gwałtowne burze i silny wiatr nad Polską, IMGW ostrzega niemal cały kraj, możliwe przerwy w dostawie prądu",
+    "body": "W niedzielę, 9 sierpnia, i w poniedziałek przez Polskę przechodzi fala gwałtownych burz z gradem i silnym wiatrem, zastępująca utrzymujące się od kilku dni upały. Instytut Meteorologii i Gospodarki Wodnej wydał dla niemal całego kraju ostrzeżenia pierwszego i drugiego stopnia przed burzami, opadami deszczu oraz porywami wiatru dochodzącymi lokalnie do 90, a według części prognoz nawet do 100 kilometrów na godzinę. Jak informują Wprost, RMF24, TVN24 Meteo, Interia oraz Super Express, najtrudniejsza sytuacja spodziewana jest we wschodniej i centralnej Polsce, gdzie oprócz silnych wyładowań możliwy jest też grad. Rządowe Centrum Bezpieczeństwa rozsyła mieszkańcom alerty SMS, ostrzegając przed lokalnymi podtopieniami, uszkodzeniami drzew i dachów oraz przerwami w dostawach prądu spowodowanymi zerwanymi liniami energetycznymi. Służby apelują o ograniczenie zbędnych podróży w czasie największego natężenia zjawisk oraz zabezpieczenie przedmiotów, które wiatr może porwać z balkonów i ogrodów. Synoptycy zaznaczają, że po przejściu frontu burzowego temperatury powinny wyraźnie spaść w porównaniu z sierpniowymi upałami odnotowanymi w minionym tygodniu.",
+    "sources": {
+      "https://www.wprost.pl/kraj/10351541/upal-i-burze-imgw-ostrzega-i-podnosi-poziom-alertow-wiatr-90-kmh-lokalnie-grad.html": "Wprost",
+      "https://www.rmf24.pl/fakty/pogoda/news-zar-z-nieba-burze-i-mozliwy-grad-imgw-wydal-najwyzsze-ostrze,nIdn,1012420": "RMF24",
+      "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-burze-w-polsce-w-niedziele-i-poniedzialek-uwaga-na-skwar-i-burze-st9106398": "TVN24 Meteo",
+      "https://www.se.pl/warszawa/gdzie-beda-burze-w-niedziele-i-poniedzialek-imgw-wskazuje-regiony-aa-Ypzi-LBwu-GiZE.html": "Super Express"
+    },
+    "last_updated": "2026-08-09 01:19"
+  },
+  {
+    "slug": "bulgaria_dron_gazociag_wybuch_8_sierpnia",
+    "category": "world",
+    "lead": false,
+    "title": "Dron eksplodował w Bułgarii przy gazociągu transbałkańskim, władze wskazują na ukraińskie pochodzenie maszyny",
+    "body": "W piątek wieczorem lub w sobotę, 8 sierpnia, w południowej Bułgarii doszło do eksplozji drona przy Gazociągu Transbałkańskim, którym tłoczony jest gaz z Turcji do Ukrainy. Jak podają PolsatNews.pl, RMF24, rp.pl oraz WP Wiadomości, bezzałogowiec nadleciał od strony granicy z Rumunią i eksplodował w rejonie rurociągu, nie powodując ofiar ani poważnych uszkodzeń infrastruktury, choć rp.pl podaje, powołując się na źródła zbliżone do służb, że maszyna przenosiła znaczną ilość materiałów wybuchowych. Bułgarski premier wydał oświadczenie, a władze w Sofii wskazują na ukraińskie pochodzenie drona, sugerując, że mógł zboczyć z kursu podczas ataku na cele rosyjskie lub instalacje związane z rosyjskim eksportem energii. Jak informuje RMF24, stanowisko przedstawił też Kijów. Incydent to kolejny w ostatnich miesiącach przypadek, gdy szczątki bezzałogowców związanych z wojną Rosji z Ukrainą trafiają na terytorium państw NATO, co wywołuje niepokój w Bukareszcie, Sofii oraz w Brukseli. Eksperci ds. bezpieczeństwa energetycznego wskazują na rosnące ryzyko dla infrastruktury przesyłowej gazu w regionie Morza Czarnego, apelując o wzmocnienie ochrony newralgicznych rurociągów.",
+    "sources": {
+      "https://www.polsatnews.pl/wiadomosc/2026-08-08/eksplozja-drona-w-bulgarii-wybuchl-w-poblizu-gazociagu/": "PolsatNews.pl",
+      "https://www.rmf24.pl/fakty/swiat/news-eksplozja-drona-w-poblizu-gazociagu-w-bulgarii-jest-stanowis,nIdn,1012991": "RMF24",
+      "https://www.rp.pl/wypadki/art44961491-eksplozja-drona-w-poblizu-gazociagu-w-bulgarii-nadlecial-znad-rumunii": "rp.pl",
+      "https://wiadomosci.wp.pl/dron-wlecial-do-bulgarii-i-eksplodowal-premier-wydal-oswiadczenie-7316219826399232a": "WP Wiadomości",
+      "https://wydarzenia.interia.pl/zagranica/news-eksplozja-drona-w-bulgarii-wybuch-w-poblizu-gazociagu,nId,23526416": "Interia"
+    },
+    "last_updated": "2026-08-09 01:19"
   }
 ]
