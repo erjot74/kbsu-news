@@ -103,14 +103,17 @@
     "slug": "ukraina_atak_rafinerie_rosja_1300_km_od_frontu",
     "category": "world",
     "lead": false,
-    "title": "Ukraina uderzyła w rosyjskie rafinerie nawet 1300 kilometrów od linii frontu",
-    "body": "Siły ukraińskie przeprowadziły w ostatnich dniach serię ataków dronowych na rosyjskie rafinerie ropy naftowej, uderzając w cele oddalone nawet o ponad 1300 kilometrów od linii frontu, co czyni je jednymi z najdalej wysuniętych operacji Kijowa w głąb Rosji od początku wojny. Według doniesień rp.pl, portalu energetyka24 oraz wnp.pl, w ostatnim tygodniu trafiono co najmniej kilka obiektów przemysłu naftowego, w tym instalacje istotne dla zaopatrzenia rosyjskiej armii i eksportu paliw. Prezydent Wołodymyr Zełenski określił te uderzenia jako sprawiedliwą odpowiedź na rosyjskie ataki na ukraińską infrastrukturę cywilną, podkreślając, że Rosja musi wybrać między wojną a pokojem. Rosyjskie władze regionalne potwierdziły pożary i uszkodzenia w kilku rafineriach, choć Moskwa oficjalnie bagatelizuje skalę strat. Analitycy energetyczni oceniają, że powtarzające się ataki na infrastrukturę naftową pogłębiają problemy Rosji z zaopatrzeniem rynku wewnętrznego w paliwo i zwiększają koszty logistyczne eksportu ropy, co uderza w budżet wojenny Kremla. Ukraińskie dowództwo zapowiada kontynuację takich operacji jako elementu strategii osłabiania zdolności Rosji do prowadzenia długotrwałej wojny.",
+    "title": "Ukraina uderzyła w bazę lotnictwa strategicznego i kolejną rafinerię w Rosji, ataki nawet 1300 km od frontu",
+    "body": "Siły ukraińskie kontynuują serię ataków dronowych na rosyjskie cele wojskowe i energetyczne w głębi terytorium Rosji. W nocy z czwartku na piątek Ukraina uderzyła między innymi w bazę lotnictwa strategicznego oraz kolejną rafinerię ropy naftowej, trafiając wcześniej także w skład paliw, co Kijów przedstawia jako element strategii osłabiania rosyjskiego zaplecza wojskowego i przemysłu naftowego. Według doniesień rp.pl, Polskiego Radia 24 oraz Defence24, część z ataków sięga nawet ponad 1300 kilometrów od linii frontu, co czyni je jednymi z najdalej wysuniętych uderzeń Kijowa od początku wojny. Strona rosyjska potwierdza pożary w rejonach ataków, ale minimalizuje ich skalę, a lokalne władze informują o czasowych ograniczeniach lotów na części lotnisk cywilnych. Ukraińscy urzędnicy podkreślają, że celem nalotów są instalacje bezpośrednio zaopatrujące rosyjską armię w paliwo, a nie cele cywilne. Analitycy wojskowi oceniają, że mimo strat Rosja wciąż dysponuje zdolnością do szybkiego odtwarzania części mocy przerobowych, jednak regularność ukraińskich uderzeń zaczyna odbijać się na krajowym rynku paliwowym w Rosji, powodując lokalne niedobory.",
     "sources": {
       "https://www.rp.pl/konflikty-zbrojne/art44950891-ukraincy-zaatakowali-obiekt-oddalony-o-1300-km-od-frontu-wolodymyr-zelenski-rosja-musi-wybrac-pokoj": "rp.pl",
       "https://www.wnp.pl/energia/kolejny-cios-w-przemysl-naftowy-rosji-atak-na-rafinerie-1300-km-od-linii-frontu,1077300.html": "WNP.pl",
-      "https://energetyka24.com/surowce/ropa/kolejne-dwie-rafinerie-zaatakowane-przez-ukraine-jedna-1300-km-od-linii-frontu": "Energetyka24"
+      "https://energetyka24.com/surowce/ropa/kolejne-dwie-rafinerie-zaatakowane-przez-ukraine-jedna-1300-km-od-linii-frontu": "Energetyka24",
+      "https://www.rp.pl/konflikty-zbrojne/art44926241-rosyjskie-zaplecze-wojskowe-pod-ogniem-trafiona-baza-rafineria-i-sklad-paliw": "rp.pl",
+      "https://polskieradio24.pl/swiat/ukraina-przeprowadzila-serie-uderzen-celem-rosyjska-rafineria": "Polskie Radio 24",
+      "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/uderzenie-w-baze-rosyjskiego-lotnictwa-strategicznego": "Defence24"
     },
-    "last_updated": "2026-08-08 01:25"
+    "last_updated": "2026-08-08 06:25"
   },
   {
     "slug": "nawrocki_rok_prezydentury_21_ustaw_ukraina",
@@ -147,13 +150,31 @@
     "slug": "houthi_jemen_eskalacja_atakow_czerwone_morze",
     "category": "world",
     "lead": false,
-    "title": "Huti zapowiadają nowe ataki na tankowce, eskalacja na Morzu Czerwonym",
-    "body": "Jemeńscy rebelianci Huti ogłosili w tym tygodniu, że rozszerzą swoje ataki na statki handlowe o północną część Morza Czerwonego, co analitycy oceniają jako poważną eskalację trwającego od miesięcy konfliktu w regionie. Według doniesień Bloomberga oraz analizy FDD's Long War Journal, ugrupowanie kontynuuje ostrzał jednostek powiązanych z Izraelem, a w ostatnich dniach doszło też do ataków na statki w pobliżu wybrzeży Arabii Saudyjskiej, co skłoniło władze w Rijadzie do przeglądu możliwych opcji odpowiedzi. Serwis PBS NewsHour informował wcześniej o ataku Huti na statek na Morzu Czerwonym, w którym zginęły trzy osoby, po tym jak rebelianci ogłosili wcześniej zatopienie innej jednostki. Amerykańska marynarka wojenna oraz koalicja państw zachodnich monitorują sytuację i rozważają dodatkowe środki ochrony szlaków żeglugowych, kluczowych dla transportu ropy i towarów między Azją a Europą. Eskalacja zbiega się w czasie z trwającymi rozmowami o przyszłości Cieśniny Ormuz, co dodatkowo komplikuje sytuację bezpieczeństwa morskiego na Bliskim Wschodzie i budzi obawy o wzrost cen frachtu oraz stawek ubezpieczeń morskich dla armatorów działających w regionie.",
+    "title": "Huti atakują Arabię Saudyjską, ranni cywile, koalicja saudyjska grozi odpowiedzią",
+    "body": "Sytuacja wokół Jemenu i Morza Czerwonego gwałtownie się zaostrza. W czwartek i piątek rebelianci Huti przeprowadzili nową serię ataków rakietowych i dronowych na cele w Arabii Saudyjskiej, w wyniku których rannych zostało co najmniej jedenaście osób cywilnych, a źródła zbliżone do saudyjskiej armii zapowiedziały, że koalicja pod przywództwem Rijadu nie będzie biernie przyglądać się eskalacji i rozważa odpowiedź militarną. Według relacji Al Jazeery, Times of Israel oraz Middle East Eye, Huti zapowiadają też rozszerzenie ataków na statki handlowe płynące przez Morze Czerwone, co armatorzy i ubezpieczyciele odbierają jako sygnał dalszego wzrostu ryzyka dla żeglugi w regionie. Saudyjska armia wzmacnia obronę powietrzną wzdłuż granicy z Jemenem, a analitycy ostrzegają, że region zbliża się do najpoważniejszej fazy konfliktu od miesięcy. Rebelianci wiążą swoje działania z trwającą wojną Iranu z Izraelem i USA, deklarując solidarność z Teheranem. Firmy żeglugowe ograniczają rejsy przez cieśninę Bab al-Mandab, a ceny frachtu i ubezpieczeń morskich w regionie ponownie rosną w ostatnich dniach.",
     "sources": {
       "https://www.bloomberg.com/news/articles/2026-08-05/yemen-s-houthis-say-they-ll-target-tankers-in-northern-red-sea": "Bloomberg",
       "https://www.longwarjournal.org/archives/2026/08/houthis-escalate-attacks-in-red-sea-and-on-saudi-arabia-riyadh-evaluates-options.php": "FDD's Long War Journal",
-      "https://www.pbs.org/newshour/world/yemens-houthi-rebels-attack-red-sea-ship-killing-3-after-claiming-they-sank-another": "PBS NewsHour"
+      "https://www.pbs.org/newshour/world/yemens-houthi-rebels-attack-red-sea-ship-killing-3-after-claiming-they-sank-another": "PBS NewsHour",
+      "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know": "Al Jazeera",
+      "https://www.timesofisrael.com/liveblog-august-7-2026/": "Times of Israel",
+      "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-army-wont-stand-idly-houthi-attacks-yemen-source-says": "Middle East Eye"
     },
-    "last_updated": "2026-08-08 05:35"
+    "last_updated": "2026-08-08 06:25"
+  },
+  {
+    "slug": "nawrocki_cztery_ustawy_deweloperzy_knf_tk_7_sierpnia",
+    "category": "pl",
+    "lead": false,
+    "title": "Nawrocki podpisał cztery ustawy, w tym o jawności cen mieszkań i opłatach dla KNF, jedna trafi do TK",
+    "body": "Prezydent Karol Nawrocki podjął w piątek decyzje w sprawie czterech ustaw uchwalonych wcześniej przez Sejm. Jak poinformowała Kancelaria Prezydenta na oficjalnej stronie prezydent.pl, głowa państwa podpisała nowelizację ustawy deweloperskiej wprowadzającą większą jawność cen mieszkań, ustawę wprowadzającą opłaty pobierane przez Komisję Nadzoru Finansowego już na etapie składania wniosku, a także przepisy porządkujące rejestr zastawów. Czwartą z ustaw, budzącą kontrowersje konstytucyjne, prezydent skierował do Trybunału Konstytucyjnego w trybie kontroli następczej, zamiast ją podpisać lub zawetować. Zgodnie z relacjami rp.pl, PolsatNews, TVN24 Biznes oraz Interii, decyzja w sprawie tej ustawy wywołała komentarze prawników, którzy zwracają uwagę na rosnącą liczbę spraw kierowanych przez obecnego prezydenta do Trybunału Konstytucyjnego. Kancelaria Prezydenta zapowiada kolejne decyzje w sprawie ustaw czekających na podpis w najbliższych tygodniach. Rząd i opozycja różnie oceniają tempo prac głowy państwa nad ustawami przyjętymi wcześniej przez Sejm, a komentatorzy zwracają uwagę na rosnące napięcie na linii Pałac Prezydencki, rząd.",
+    "sources": {
+      "https://www.prezydent.pl/aktualnosci/wydarzenia/decyzje-prezydenta-ws-4-ustaw,124437": "Prezydent.pl",
+      "https://www.rp.pl/prawo-w-polsce/art44958681-prezydent-karol-nawrocki-podpisal-cztery-ustawy-jedna-trafi-do-trybunalu-konstytucyjnego": "rp.pl",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-07/prezydent-zdecydowal-w-sprawie-czterech-ustaw-jedna-trafila-do-tk/": "PolsatNews.pl",
+      "https://tvn24.pl/biznes/z-kraju/komisja-nadzoru-finansowego-oplata-juz-przy-skladaniu-wniosku-jest-podpis-prezydenta-st9179189": "TVN24 Biznes",
+      "https://wydarzenia.interia.pl/kraj/news-nawrocki-spelnil-zapowiedz-cztery-ustawy-z-podpisem-prezyden,nId,23525948": "Interia"
+    },
+    "last_updated": "2026-08-08 06:25"
   }
 ]
