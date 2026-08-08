@@ -193,5 +193,21 @@
       "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan": "Al Jazeera"
     },
     "last_updated": "2026-08-08 07:20"
+  },
+  {
+    "slug": "wenezuela_rozmowy_wladze_opozycja_maduro_dialog",
+    "category": "world",
+    "lead": false,
+    "title": "Wenezuela: ruszają rozmowy władz z opozycją, Maduro popiera dialog z aresztu w USA",
+    "body": "W Wenezueli ruszyly rozmowy miedzy tymczasowymi wladzami kraju a opozycja, okreslane przez czesc komentatorow jako historyczny przelom po miesiacach kryzysu politycznego, ktory nastapil po schwytaniu i obaleniu Nicolasa Maduro przez sily amerykanskie na poczatku roku. Jak podaja Bankier.pl, WNP.pl oraz RMF24, negocjacje prowadzone w Caracas dotycza warunkow przeprowadzenia wolnych wyborow i przyszlego ksztaltu ustroju panstwa, jednak toczą sie bez bezposredniego udzialu liderki opozycji Marii Coriny Machado, co budzi kontrowersje wsrod czesci jej zwolennikow. Sam Nicolas Maduro, przebywajacy obecnie w areszcie w Stanach Zjednoczonych, wydal komunikat, w ktorym poparl wszelkie drogi dialogu miedzy Wenezuelczykami, co Interia i Polskie Radio 24 opisuja jako zaskakujacy zwrot ze strony obalonego przywodcy. Przedstawiciele dawnego obozu wladzy oraz opozycji mowia o poczatku nowego etapu politycznego dla kraju, choc analitycy cytowani przez WP i zw.lt ostrzegaja, ze droga do stabilnej transformacji ustrojowej pozostaje dluga i niepewna, a kluczowe pytania o termin wyborow oraz gwarancje bezpieczenstwa dla uczestnikow rozmow wciaz pozostaja otwarte.",
+    "sources": {
+      "https://www.bankier.pl/wiadomosc/Wenezuela-na-zakrecie-Tymczasowe-wladze-i-opozycja-rozpoczely-historyczne-negocjacje-9179153.html": "Bankier.pl",
+      "https://www.bankier.pl/wiadomosc/Nadzieja-na-polityczne-zmiany-w-Wenezueli-Maduro-poparl-negocjacje-9176956.html": "Bankier.pl",
+      "https://www.wnp.pl/rynki/wenezuela-maduro-wyrazil-poparcie-dla-wszelkich-drog-dialogu-w-swoim-kraju,1086790.html": "WNP.pl",
+      "https://www.rmf24.pl/fakty/swiat/news-historyczne-rozmowy-w-wenezueli-kraj-moze-przejsc-rewolucje,nIdn,1012801.html": "RMF24",
+      "https://wydarzenia.interia.pl/zagranica/news-obalony-prezydent-zabral-glos-niespodziewany-komunikat-madur,nId,23523367": "Interia",
+      "https://polskieradio24.pl/swiat/przelom-w-wenezueli-ruszyly-rozmowy-rezimu-z-opozycja": "Polskie Radio 24"
+    },
+    "last_updated": "2026-08-08 08:19"
   }
 ]
