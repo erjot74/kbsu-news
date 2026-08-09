@@ -266,5 +266,35 @@
       "https://www.polsatsport.pl/wiadomosc/2026-08-08/polska-japonia-kto-wygral-mecz-jaki-wynik-ms-siatkarek-u-17/": "Polsat Sport"
     },
     "last_updated": "2026-08-09 13:18"
+  },
+  {
+    "slug": "nfz_lekarze_walizkowi_reforma_pazdziernik_2026",
+    "category": "pl",
+    "lead": false,
+    "title": "NFZ ogranicza tak zwane zabiegi walizkowe, nowe zasady dla szpitali od 1 pazdziernika",
+    "body": "Narodowy Fundusz Zdrowia przygotowuje zmiany w finansowaniu świadczeń szpitalnych, które od 1 października 2026 roku mają ograniczyć zjawisko tak zwanych zabiegów walizkowych, czyli operacji wykonywanych przez dojeżdżających do mniejszych, powiatowych szpitali lekarzy specjalistów, którzy po zabiegu wyjeżdżają, nie zapewniając pacjentowi ciągłej opieki pooperacyjnej. Jak informują TVN24, Money.pl, Bankier.pl, Rynek Zdrowia oraz GazetaPrawna.pl, nowe zasady obejmą między innymi zabiegi ortopedyczne, urologiczne oraz operacje kręgosłupa, które od jesieni mają być możliwe przede wszystkim w oddziałach z odpowiednim zapleczem specjalistycznym i możliwością leczenia powikłań na miejscu. Ministerstwo Zdrowia oraz NFZ argumentują, że zmiana ma zwiększyć bezpieczeństwo pacjentów, którzy w razie powikłań po zabiegu walizkowym często nie mieli zapewnionej szybkiej pomocy tego samego specjalisty. Część środowiska lekarskiego oraz dyrektorzy mniejszych szpitali powiatowych ostrzegają jednak, że reforma może ograniczyć dostęp do planowych zabiegów w mniejszych miejscowościach i wydłużyć kolejki do większych ośrodków. Resort zdrowia zapewnia, że celem jest poprawa jakości opieki nad pacjentem.",
+    "sources": {
+      "https://tvn24.pl/zdrowie/nfz-uderza-w-lekarzy-walizkowych-nowe-zasady-od-pazdziernika-jakich-zabiegow-dotycza-st9166442": "TVN24",
+      "https://www.money.pl/finanse/lekarze-walizkowi-znikna-ze-szpitali-nfz-odkrywa-karty-ws-reformy-7315830722930688a.html": "Money.pl",
+      "https://www.bankier.pl/wiadomosc/NFZ-wypowiada-wojne-lekarzom-walizkowym-Rewolucja-na-oddzialach-chirurgii-9175787.html": "Bankier.pl",
+      "https://www.rynekzdrowia.pl/Polityka-zdrowotna/NFZ-ograniczy-tzw-zabiegi-walizkowe-zmiany-od-1-pazdziernika,287528,14.html": "Rynek Zdrowia",
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11285745,zmiany-dla-pacjentow-w-szpitalach-nfz-czesc-zabiegow-tylko-w-oddzialach-specjalistycznych.html": "GazetaPrawna.pl"
+    },
+    "last_updated": "2026-08-09 18:18"
+  },
+  {
+    "slug": "polska_medale_olimpiada_sztucznej_inteligencji_pekin_2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Polscy uczniowie zdobyli osiem medali na Miedzynarodowej Olimpiadzie Sztucznej Inteligencji w Pekinie",
+    "body": "Reprezentacja Polski złożona z ośmiu uczniów szkół średnich zdobyła osiem medali podczas pierwszej Międzynarodowej Olimpiady Sztucznej Inteligencji (IOAI), która odbyła się w sierpniu 2026 roku w Pekinie, plasując Polskę na trzecim miejscu w nieoficjalnej klasyfikacji państw. Jak informują Kuratorium Oświaty we Wrocławiu, Radio Zachód, PulsHR.pl oraz Portal Samorządowy, wśród zdobytych medali były złote, srebrne i brązowe, a każdy z ośmiu polskich reprezentantów wrócił z turnieju z co najmniej jednym trofeum, co organizatorzy określają jako wyjątkowy wynik jak na debiutancki start Polski w tych zawodach. Wśród medalistów znalazł się między innymi uczeń III Liceum Ogólnokształcącego we Wrocławiu, który zdobył złoty medal, co osobno potwierdza lokalny oddział TVP Wrocław. Sukces polskich licealistów zbiega się z rosnącym zainteresowaniem edukacją w zakresie sztucznej inteligencji w polskich szkołach. Kuratoria oświaty oraz Ministerstwo Edukacji Narodowej pogratulowały uczniom i ich trenerom, zapowiadając dalsze wsparcie dla podobnych inicjatyw olimpijskich w kolejnych latach, a szkoły macierzyste medalistów planują uroczyste powitania zwycięzców.",
+    "sources": {
+      "https://www.kuratorium.wroclaw.pl/30743-2/": "Kuratorium Oswiaty we Wroclawiu",
+      "https://zachod.pl/1535288/polscy-uczniowie-zdobyli-osiem-medali-w-miedzynarodowej-olimpiadzie-sztucznej-inteligencji/": "Radio Zachod",
+      "https://www.pulshr.pl/edukacja/pokonali-rywali-z-calego-swiata-polacy-z-medalami-w-olimpiadzie-ai,121022.html": "PulsHR.pl",
+      "https://www.portalsamorzadowy.pl/edukacja/miedzynarodowy-sukces-polskich-uczniow-rozwiazal-sie-worek-ze-zlotymi-medalami,671800.html": "Portal Samorzadowy",
+      "https://wroclaw.tvp.pl/88300393/sukces-na-olimpiadzie-sztucznej-inteligencji-w-pekinie-uczen-iii-lo-we-wroclawiu-ze-zlotym-medalem": "TVP Wroclaw"
+    },
+    "last_updated": "2026-08-09 18:18"
   }
 ]
