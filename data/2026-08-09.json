@@ -208,5 +208,19 @@
       "https://wydarzenia.interia.pl/kraj/news-donald-tusk-uderzyl-w-karola-nawrockiego-top-piec-najgorszyc,nId,23525545": "Interia"
     },
     "last_updated": "2026-08-09 06:17"
+  },
+  {
+    "slug": "trump_republikanie_sondaze_midterms_sierpien_2026",
+    "category": "world",
+    "lead": false,
+    "title": "Trump zapewnia o poparciu wyborców mimo spadku sondaży przed listopadowymi midterms",
+    "body": "Prezydent Stanów Zjednoczonych Donald Trump w wywiadzie, szeroko komentowanym w niedzielę 9 sierpnia, zapewnił, że to Partia Republikańska, a nie on sam, ponosi odpowiedzialność za rosnące niezadowolenie Amerykanów, mówiąc wprost, że wyborcy są bardzo źli na republikanów, ale nie na niego. Prezydent określił się przy tym mianem świetnego blokującego, nawiązując do swojej zdolności powstrzymywania niekorzystnych dla siebie decyzji w Kongresie. Jak podają rp.pl, TVN24 oraz Bankier.pl, wypowiedź pada w momencie, gdy najnowszy sondaż Reuters-Ipsos z sierpnia 2026 roku oraz wcześniejsze badanie CNN wskazują na wyraźny spadek notowań prezydenta, a cytowani przez RMF24 analitycy ostrzegają, że tak złych wyników dla Republikanów nie notowano od 2017 roku. Sondaże wskazują na rosnące ryzyko porażki republikanów w listopadowych wyborach do Kongresu, co niepokoi część otoczenia prezydenta. Demokraci wykorzystują spadające poparcie w kampanii, podkreślając rozczarowanie wyborców polityką gospodarczą i celną administracji. Republikańscy stratedzy przyznają nieoficjalnie, że dystansowanie się Trumpa od partii utrudnia mobilizację elektoratu przed kluczowym starciem o kontrolę nad Izbą Reprezentantów i Senatem.",
+    "sources": {
+      "https://www.rp.pl/polityka/art44961691-trump-zapewnia-ze-ma-poparcie-wyborcow-sa-bardzo-zli-na-republikanow-ale-nie-na-mnie": "rp.pl",
+      "https://tvn24.pl/swiat/donald-trump-wyborcy-sa-zli-na-republikanow-nie-na-mnie-mam-swietna-zdolnosc-blokowania-jestem-swietnym-blokujacym-st9179559": "TVN24",
+      "https://www.bankier.pl/wiadomosc/Trump-Amerykanie-sa-zli-na-Republikanow-ale-nie-na-mnie-9179555.html": "Bankier.pl",
+      "https://www.rmf24.pl/fakty/swiat/news-zle-wiesci-dla-trumpa-i-republikanow-takiego-sondazu-nie-byl,nIdn,1012384": "RMF24"
+    },
+    "last_updated": "2026-08-09 09:19"
   }
 ]
