@@ -56,14 +56,15 @@
     "slug": "rosja-atak-odessa-charkow-sierpien",
     "category": "world",
     "lead": false,
-    "title": "Rosyjskie rakiety uderzyły w Odessę i Charków, są ofiary śmiertelne",
-    "body": "W nocy z soboty na niedzielę rosyjskie siły przeprowadziły zmasowany atak rakietowy i dronowy na obwody odeski i charkowski na Ukrainie, w wyniku którego zginęły cztery osoby, a co najmniej 28 zostało rannych, w tym dzieci. Informację potwierdziły Polska Agencja Prasowa, RMF24 oraz TVN24, powołując się na ukraińskie władze lokalne i obwodowe administracje wojskowe. W Odessie uszkodzona została infrastruktura portowa oraz sieć energetyczna, przez co część miasta pozostała bez prądu i wody; w Charkowie zniszczeniu uległy budynki mieszkalne w centrum miasta. Władze ukraińskie poinformowały, że w odpowiedzi na atak Ukraina przeprowadziła własne uderzenie dronowe na tankowce na Morzu Czarnym, które miały być wykorzystywane do omijania sankcji naftowych nałożonych na Rosję. Prezydent Wołodymyr Zełenski określił atak jako kolejny dowód na to, że Moskwa nie jest zainteresowana zawieszeniem broni, i zaapelował do sojuszników zachodnich o przyspieszenie dostaw systemów obrony powietrznej. Kreml, zgodnie ze zwyczajem, nie skomentował ataku na cele cywilne, a rosyjskie media państwowe informowały jedynie o uderzeniach w infrastrukturę wojskową.",
+    "title": "Rosja spiętrza ataki na Ukrainę: rośnie bilans ofiar, Polska poderwała myśliwce",
+    "body": "W nocy z soboty na niedzielę i w kolejnych godzinach rosyjskie siły zbrojne przeprowadziły serię ataków rakietowych i dronowych na kilka ukraińskich miast, w tym Kijów, Odessę, Charków i Dniepr. RMF24 poinformował, że bilans ofiar wciąż rośnie, a wśród zabitych są dzieci; wcześniejsze doniesienia mówiły o czterech ofiarach śmiertelnych i 28 rannych w obwodach odeskim i charkowskim, jednak agencja Associated Press podała już o co najmniej siedmiu zabitych i wielu rannych w całym kraju, o czym informował też Washington Post. W Odessie uszkodzona została infrastruktura portowa i energetyczna, a w Kijowie i Dnieprze doszło do pożarów budynków po trafieniach szczątkami zestrzelonych rakiet i dronów. Ze względu na skalę nalotu oraz aktywność rosyjskiego lotnictwa w pobliżu granicy polskie Dowództwo Operacyjne poderwało myśliwce w ramach standardowych procedur ochrony przestrzeni powietrznej. Prezydent Wołodymyr Zełenski nazwał atak dowodem na brak woli Rosji do zawieszenia broni i ponowił apel do sojuszników o przyspieszenie dostaw systemów obrony powietrznej. Kreml jak zwykle nie odniósł się do ofiar cywilnych, twierdząc, że celem były wyłącznie obiekty wojskowe.",
     "sources": {
       "https://www.pap.pl/aktualnosci/cztery-osoby-zginely-28-rannych-w-rosyjskich-atakach-w-obwodzie-odeskim-i-charkowskim": "PAP",
-      "https://www.rmf24.pl/fakty/swiat/news-rosyjskie-rakiety-uderzyly-w-charkow-i-odesse-sa-ofiary-i-wi,nIdn,1013003": "RMF24",
-      "https://tvn24.pl/swiat/rosja-przeprowadzila-potezny-atak-na-ukrainskie-miasta-zniszczenia-w-odessie-i-charkowie-st9181057": "TVN24"
+      "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-rosnie-bilans-ofiar-nocnego-ataku-rosjan-zginely-dzieci,nId,8088940": "RMF24",
+      "https://tvn24.pl/swiat/rosja-przeprowadzila-potezny-atak-na-ukrainskie-miasta-zniszczenia-w-odessie-i-charkowie-st9181057": "TVN24",
+      "https://www.washingtonpost.com/world/2026/08/09/russia-ukraine-war-drones-missiles-strikes/9b782e70-93df-11f1-9ef9-1be722184483_story.html": "Washington Post"
     },
-    "last_updated": "2026-08-10 00:21"
+    "last_updated": "2026-08-10 01:22"
   },
   {
     "slug": "huti-atak-aramco-ormuz",
