@@ -75,13 +75,8 @@ def category_html(cat_key):
 pl_html, pl_total, pl_shown = category_html("pl")
 world_html, world_total, world_shown = category_html("world")
 
-most_recent = max((x["last_updated"] for x in data), default=None)
-if most_recent:
-    now = datetime.strptime(most_recent, "%Y-%m-%d %H:%M")
-    time_part = now.strftime('%H:%M')
-else:
-    now = datetime.now(WARSAW) if WARSAW else datetime.now()
-    time_part = now.strftime('%H:%M')
+now = datetime.now(WARSAW) if WARSAW else datetime.now()
+time_part = now.strftime('%H:%M')
 meta_line = f"Aktualizacja: {pl_date_str(now)}, {time_part}, wygenerowano automatycznie"
 
 html = f'''<!DOCTYPE html>
