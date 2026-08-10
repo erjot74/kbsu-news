@@ -210,5 +210,20 @@
       "https://www.rmf24.pl/fakty/swiat/news-nie-jest-dobrze-hunter-biden-o-stanie-zdrowotnym-ojca,nIdn,1012986": "RMF24"
     },
     "last_updated": "2026-08-10 14:31"
+  },
+  {
+    "slug": "usa-iran-negocjacje-ormuz-ropa-sierpien",
+    "category": "world",
+    "lead": false,
+    "title": "USA cicho negocjują z Iranem, rosną ceny ropy w obliczu impasu ws. Ormuz",
+    "body": "Prezydent USA Donald Trump powiedział w niedzielę serwisowi Axios, że Waszyngton celowo prowadzi rozmowy z Iranem w spokojniejszym tonie, określając to jako niską intensywność negocjacji, po doniesieniach, że administracja rozważa wycofanie się z próby szybkiego zawarcia porozumienia nuklearnego z Teheranem. Informacje potwierdziły niezależnie CNN, ABC News, CNBC oraz Axios, powołując się na wypowiedzi prezydenta i źródła zbliżone do Białego Domu. Według CNBC oraz Euronews Business impas dotyczy przede wszystkim Cieśniny Ormuz, kluczowego szlaku transportu ropy naftowej, który Iran sygnalizuje, że może pozostać częściowo zamknięty, co w poniedziałek podbiło ceny ropy Brent i WTI na światowych giełdach. Polskie money.pl oraz energia.rp.pl informują, że inwestorzy z niepokojem obserwują brak przełomu mimo wcześniejszych zapowiedzi bliskiego porozumienia. Pentagon zwrócił się jednocześnie do koncernów zbrojeniowych o zwiększenie produkcji amunicji, co analitycy odczytują jako przygotowanie na przedłużający się impas lub możliwą eskalację. Trump zaprzeczył, jakoby rezygnował z porozumienia, podkreślając, że negocjacje wciąż trwają, choć wolniej niż wcześniej.",
+    "sources": {
+      "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html": "CNBC",
+      "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900": "ABC News",
+      "https://www.axios.com/2026/08/09/trump-iran-interview": "Axios",
+      "https://www.euronews.com/business/2026/08/10/oil-prices-rise-as-traders-assess-us-iran-talks-on-strait-of-hormuz-deal": "Euronews Business",
+      "https://www.money.pl/gospodarka/ropa-naftowa-rosnie-mimo-ze-trump-chwali-sie-przeplywami-przez-ciesnine-ormuz-7314713307682816a.html": "Money.pl"
+    },
+    "last_updated": "2026-08-10 17:22"
   }
 ]
