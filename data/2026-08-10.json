@@ -30,14 +30,15 @@
     "category": "pl",
     "lead": false,
     "title": "Burze z gradem w dziesięciu województwach: IMGW ponawia ostrzeżenia w poniedziałek",
-    "body": "Instytut Meteorologii i Gospodarki Wodnej ponowił w poniedziałek rano ostrzeżenia przed gwałtownymi burzami z gradem i silnym wiatrem, obejmujące już dziesięć województw w Polsce, po niedzielnej fali upałów i nawałnic. Synoptycy ostrzegają przed porywami wiatru do 80 kilometrów na godzinę, gradem oraz możliwymi lokalnymi podtopieniami po przejściu kolejnych frontów burzowych znad zachodu kraju. Informację potwierdziły niezależnie Polska Agencja Prasowa oraz portale Interia i Farmer.pl, powołujące się na komunikat IMGW. Rządowe Centrum Bezpieczeństwa rozesłało do mieszkańców zagrożonych regionów kolejne alerty SMS z zaleceniem zabezpieczenia okien, unikania parkowania pod drzewami i ograniczenia podróży w czasie najsilniejszych opadów. Strażacy i służby energetyczne w kilku województwach pozostają w gotowości po wcześniejszych interwencjach związanych z powalonymi drzewami i podtopieniami piwnic podczas niedzielnej fali burz. Temperatury nadal przekraczają 30 stopni Celsjusza, a meteorolodzy zapowiadają utrzymanie się niestabilnej pogody przez kolejne dni. Służby apelują o ostrożność podczas burz z gradem i śledzenie komunikatów IMGW oraz RCB.",
+    "body": "Instytut Meteorologii i Gospodarki Wodnej utrzymuje w poniedziałek ostrzeżenia przed gwałtownymi burzami z gradem, silnym wiatrem i upałem, obejmujące w ciągu dnia już niemal cały kraj, po niedzielnej fali nawałnic. Synoptycy IMGW ostrzegają przed porywami wiatru do 80 kilometrów na godzinę, gradem oraz temperaturą dochodzącą miejscami do 33 stopni Celsjusza, co w połączeniu z burzami zwiększa ryzyko lokalnych podtopień i przerw w dostawie prądu. Informację potwierdziły niezależnie Polska Agencja Prasowa, Interia, RMF24, Polsat News oraz Farmer.pl, powołujące się na najnowsze komunikaty IMGW aktualizowane w ciągu poniedziałkowego przedpołudnia. Rządowe Centrum Bezpieczeństwa rozesłało kolejne alerty SMS z zaleceniem zabezpieczenia okien, unikania parkowania pod drzewami i ograniczenia podróży w czasie najsilniejszych opadów. Strażacy i służby energetyczne w kilku województwach pozostają w gotowości po wcześniejszych interwencjach związanych z powalonymi drzewami i podtopieniami piwnic podczas niedzielnej fali burz. Meteorolodzy zapowiadają, że niestabilna, gorąca pogoda z burzami utrzyma się w Polsce przez kolejne dni, a service ostrzega przed nagłymi zmianami warunków w różnych regionach kraju.",
     "sources": {
       "https://www.pap.pl/aktualnosci/imgw-ostrzega-przed-burzami-w-dziesieciu-wojewodztwach-1": "PAP",
       "https://wydarzenia.interia.pl/kraj/news-pogoda-nie-odpuszcza-imgw-wydal-ostrzezenia-alerty-niemal-w,nId,23526848": "Interia",
       "https://www.farmer.pl/fakty/imgw-ostrzega-burze-i-ulewy-w-10-wojewodztwach-lokalnie-grad-i-wiatr-do-80-km-h,180920.html": "Farmer.pl",
-      "https://pogoda.dziennik.pl/aktualnosci/artykuly/11285968,nadciagaja-gwaltowne-burze-i-upaly-imgw-wydaje-ostrzezenia-drugiego-stopnia.html": "Dziennik.pl"
+      "https://www.rmf24.pl/fakty/pogoda/news-burze-z-gradem-ale-tez-33-stopnie-alerty-imgw-dla-wiekszosci,nIdn,1013055": "RMF24",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-10/niebezpieczne-zjawiska-zdominuja-polske-alerty-dla-wiekszosci-kraju/": "Polsat News"
     },
-    "last_updated": "2026-08-10 03:20"
+    "last_updated": "2026-08-10 11:30"
   },
   {
     "slug": "izrael-odrzuca-plan-trumpa-gaza",
