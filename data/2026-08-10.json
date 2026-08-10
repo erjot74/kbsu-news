@@ -216,16 +216,18 @@
     "category": "world",
     "lead": false,
     "title": "USA cicho negocjują z Iranem, rosną ceny ropy w obliczu impasu ws. Ormuz",
-    "body": "Prezydent USA Donald Trump powiedział w niedzielę serwisowi Axios, że Waszyngton celowo prowadzi rozmowy z Iranem w spokojniejszym tonie, określając to jako niską intensywność negocjacji, po doniesieniach o rozważanym wycofaniu się z próby szybkiego zawarcia porozumienia nuklearnego z Teheranem. Informacje potwierdziły niezależnie CNN, ABC News, CNBC oraz Axios, powołując się na wypowiedzi prezydenta i źródła zbliżone do Białego Domu. Według CNBC oraz Euronews Business impas dotyczy głównie Cieśniny Ormuz, kluczowego szlaku transportu ropy naftowej. W poniedziałek rp.pl poinformował, powołując się na doniesienia z Teheranu i Maskatu, że Iran i Oman są bliskie porozumienia w sprawie nowego szlaku żeglugowego przez Ormuz, jednak Teheran zastrzega, że cieśnina pozostanie częściowo zamknięta, dopóki Stany Zjednoczone nie skorygują swojego postępowania wobec Iranu. Polskie money.pl informuje, że inwestorzy z niepokojem obserwują brak przełomu, co w poniedziałek podbiło ceny ropy Brent i WTI. Trump zaprzeczył, jakoby rezygnował z porozumienia, podkreślając, że negocjacje wciąż trwają, choć wolniej niż wcześniej.",
+    "body": "Prezydent USA Donald Trump powiedział w niedzielę serwisowi Axios, że Waszyngton celowo prowadzi rozmowy z Iranem w spokojniejszym tonie, określając to jako niską intensywność negocjacji. W poniedziałek doniesienia Bloomberga oraz Al Jazeery poszły dalej: Trump zasygnalizował, że USA stawiają teraz głównie na presję gospodarczą i sankcje wobec Iranu, rezygnując na razie z kolejnych uderzeń wojskowych. Informacje potwierdziły niezależnie CNN, ABC News, CNBC, Axios, Bloomberg oraz Al Jazeera, powołując się na wypowiedzi prezydenta i źródła zbliżone do Białego Domu. Według CNBC oraz Euronews Business impas dotyczy głównie Cieśniny Ormuz, kluczowego szlaku transportu ropy naftowej. Rp.pl poinformował, powołując się na doniesienia z Teheranu i Maskatu, że Iran i Oman są bliskie porozumienia w sprawie nowego szlaku żeglugowego przez Ormuz, jednak Teheran zastrzega, że cieśnina pozostanie częściowo zamknięta, dopóki USA nie skorygują postępowania wobec Iranu. Money.pl informuje, że inwestorzy z niepokojem obserwują brak przełomu, co podbiło ceny ropy Brent i WTI, a analitycy cytowani przez Al Jazeerę oceniają, że zmiana strategii Trumpa może wydłużyć impas zamiast szybko go zakończyć.",
     "sources": {
       "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html": "CNBC",
       "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900": "ABC News",
       "https://www.axios.com/2026/08/09/trump-iran-interview": "Axios",
       "https://www.euronews.com/business/2026/08/10/oil-prices-rise-as-traders-assess-us-iran-talks-on-strait-of-hormuz-deal": "Euronews Business",
       "https://www.money.pl/gospodarka/ropa-naftowa-rosnie-mimo-ze-trump-chwali-sie-przeplywami-przez-ciesnine-ormuz-7314713307682816a.html": "Money.pl",
-      "https://www.rp.pl/polityka/art44965011-iran-mowi-o-porozumieniu-ws-ciesniny-ormuz-stawia-jednak-warunki-usa": "rp.pl"
+      "https://www.rp.pl/polityka/art44965011-iran-mowi-o-porozumieniu-ws-ciesniny-ormuz-stawia-jednak-warunki-usa": "rp.pl",
+      "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes": "Al Jazeera",
+      "https://www.bloomberg.com/news/articles/2026-08-10/trump-hints-us-will-let-economic-pressure-on-iran-do-the-work": "Bloomberg"
     },
-    "last_updated": "2026-08-10 19:21"
+    "last_updated": "2026-08-10 20:19"
   },
   {
     "slug": "afera-powodz-ko-karr-sierpien-2026",
@@ -246,7 +248,7 @@
     "category": "world",
     "lead": true,
     "title": "Silne trzęsienie ziemi w Kolumbii, magnituda 7,4, dziesiątki ofiar śmiertelnych",
-    "body": "W poniedziałek po południu czasu lokalnego silne trzęsienie ziemi o magnitudzie 7,4 nawiedziło zachodnią Kolumbię. Epicentrum znajdowało się w pobliżu miejscowości San Jose del Palmar w górzystym departamencie Choco, na płytkiej głębokości, co spotęgowało skutki wstrząsu. Amerykański USGS ogłosił alert w kolorze pomarańczowym, sygnalizujący możliwe znaczne straty. Wstrząsy odczuwalne były w stolicy Bogocie, a także w sąsiednim Ekwadorze i Wenezueli. W kilku miastach zawaliły się budynki, w tym część terminalu lotniska w Pereirze, przez co wstrzymano ruch lotniczy w regionie. Według władz lokalnych oraz relacji na żywo CNN dotychczas potwierdzono co najmniej 20, a według najnowszych doniesień nawet 29 ofiar śmiertelnych, liczba wciąż rośnie w miarę postępu akcji ratunkowej. Wielu rannych trafiło do szpitali, część mieszkańców pozostaje uwięziona pod gruzami zawalonych domów. Władze ogłosiły ewakuacje w najbardziej zagrożonych rejonach i uruchomiły sztaby kryzysowe, apelując o pomoc dla poszkodowanych regionów.",
+    "body": "W poniedziałek po południu czasu lokalnego silne trzęsienie ziemi o magnitudzie 7,4 nawiedziło zachodnią Kolumbię, z epicentrum w pobliżu miejscowości San Jose del Palmar w górzystym departamencie Choco, na płytkiej głębokości, co spotęgowało skutki wstrząsu. Amerykański USGS ogłosił alert w kolorze pomarańczowym, sygnalizujący możliwe znaczne straty. Wstrząsy odczuwalne były w stolicy Bogocie, a także w sąsiednim Ekwadorze i Wenezueli. W kilku miastach zawaliły się budynki, w tym część zabytkowej katedry oraz terminal lotniska w Pereirze, przez co wstrzymano ruch lotniczy w regionie. W ciągu wieczora liczba potwierdzonych ofiar śmiertelnych gwałtownie rosła: o ile wczesne relacje mówiły o co najmniej 20 do 29 zabitych, o tyle najnowsze dane przekazywane przez CNN oraz CNBC wskazują już na co najmniej 77 do 80 ofiar śmiertelnych, a liczba może dalej rosnąć w miarę postępu akcji ratunkowej. Wielu rannych trafiło do szpitali, część mieszkańców pozostaje uwięziona pod gruzami zawalonych domów. Władze ogłosiły ewakuacje w najbardziej zagrożonych rejonach i uruchomiły sztaby kryzysowe, apelując o pomoc dla poszkodowanych regionów oraz wsparcie międzynarodowe w akcji poszukiwawczo ratowniczej.",
     "sources": {
       "https://www.cnn.com/2026/08/10/world/live-news/colombia-earthquake-san-jose-del-palmar": "CNN",
       "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20": "Al Jazeera",
@@ -254,9 +256,10 @@
       "https://www.rmf24.pl/fakty/swiat/news-silne-trzesienie-ziemi-w-kolumbii-naplywaja-tragiczne-wiesci,nIdn,1013161": "RMF24",
       "https://www.cbsnews.com/news/colombia-earthquake-western-region-evacuations/": "CBS News",
       "https://wydarzenia.interia.pl/zagranica/news-silne-trzesienie-ziemi-w-kolumbii-runely-budynki-co-najmniej,nId,23527227": "Interia",
-      "https://www.rp.pl/kleski-zywiolowe/art44968501-silne-trzesienie-ziemi-w-kolumbii-sa-ofiary-i-powazne-zniszczenia": "rp.pl"
+      "https://www.rp.pl/kleski-zywiolowe/art44968501-silne-trzesienie-ziemi-w-kolumbii-sa-ofiary-i-powazne-zniszczenia": "rp.pl",
+      "https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html": "CNBC"
     },
-    "last_updated": "2026-08-10 19:21"
+    "last_updated": "2026-08-10 20:19"
   },
   {
     "slug": "usa-cyberatak-wodociagi-iran-podejrzany",
