@@ -44,28 +44,31 @@
     "category": "world",
     "lead": true,
     "title": "Netanjahu odrzuca 15-punktowy plan pokojowy Trumpa dla Gazy",
-    "body": "Premier Izraela Benjamin Netanjahu oświadczył w niedzielę, że jego rząd odrzuca przedstawiony przez administrację Donalda Trumpa piętnastopunktowy plan pokojowy dla Strefy Gazy, zapowiadając jednocześnie, że izraelskie wojsko nie wycofa się z terytorium enklawy, dopóki Hamas nie zostanie rozbrojony. Decyzję potwierdziły niezależnie od siebie CNN, NBC News, Washington Post oraz izraelski dziennik Haaretz, powołujące się na oświadczenia biura premiera oraz źródła w administracji amerykańskiej. Plan, przygotowany przy współpracy tak zwanej Rady Pokoju, zakładał między innymi stopniowe wycofanie sił izraelskich w zamian za rozbrojenie Hamasu i przekazanie administracji cywilnej nad Gazą siłom międzynarodowym. Decyzja Netanjahu wywołała napięcia na linii Waszyngton, Jerozolima; część amerykańskich urzędników wyraziła rozczarowanie brakiem elastyczności izraelskiego rządu. Hamas nie odniósł się jeszcze oficjalnie do stanowiska Izraela, a przedstawiciele Rady Pokoju podkreślają, że pełne i zweryfikowane wdrożenie planu pozostaje jedyną gwarancją, by nie doszło do powtórki wydarzeń z 7 października. Analitycy ostrzegają, że impas może przedłużyć konflikt na kolejne miesiące.",
+    "body": "Premier Izraela Benjamin Netanjahu oświadczył w niedzielę, że jego rząd odrzuca przedstawiony przez administrację Donalda Trumpa piętnastopunktowy plan pokojowy dla Strefy Gazy, zapowiadając, że izraelskie wojsko nie wycofa się z enklawy, dopóki Hamas nie zostanie rozbrojony. Decyzję potwierdziły niezależnie CNN, NBC News, Washington Post oraz Haaretz. Sytuację komplikuje stanowisko Hamasu, który zgodnie z doniesieniami Euronews oraz wnp.pl zadeklarował gotowość złożenia broni, ale postawił warunek: rozbrojenie ma nastąpić dopiero po tym, jak Izrael wywiąże się ze swoich zobowiązań, w tym wycofa wojska z części Strefy Gazy. Plan przygotowany przy udziale Rady Pokoju zakładał stopniowe wycofanie sił izraelskich w zamian za rozbrojenie Hamasu i przekazanie administracji cywilnej nad Gazą siłom międzynarodowym. Decyzja Netanjahu wywołała napięcia na linii Waszyngton, Jerozolima; część amerykańskich urzędników wyraziła rozczarowanie brakiem elastyczności izraelskiego rządu. Przedstawiciele Rady Pokoju podkreślają, że pełne wdrożenie planu pozostaje jedyną gwarancją uniknięcia powtórki wydarzeń z 7 października. Analitycy ostrzegają, że wzajemne stawianie warunków może przedłużyć impas.",
     "sources": {
       "https://www.cnn.com/2026/08/09/middleeast/israel-gaza-trump-netanyahu-plan-intl": "CNN",
       "https://www.nbcnews.com/world/israel/israel-rejects-trumps-15-point-plan-gaza-pm-benjamin-netanyahu-says-rcna591555": "NBC News",
       "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza/": "Washington Post",
-      "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas": "NPR"
+      "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas": "NPR",
+      "https://www.euronews.com/2026/08/09/israel-rejects-the-us-ceasefire-plan-for-gaza-accepted-by-hamas": "Euronews",
+      "https://www.wnp.pl/rynki/strefa-gazy-hamas-zlozymy-bron-jezeli-izrael-najpierw-wywiaze-sie-ze-swoich-zobowiazan,1086439.html": "WNP.pl"
     },
-    "last_updated": "2026-08-10 00:21"
+    "last_updated": "2026-08-10 07:23"
   },
   {
     "slug": "rosja-atak-odessa-charkow-sierpien",
     "category": "world",
     "lead": false,
-    "title": "Rosja spiętrza ataki na Ukrainę: bilans nocnego ataku na Kijów rośnie do 13 ofiar",
-    "body": "W nocy z soboty na niedzielę rosyjskie siły zbrojne przeprowadziły jedną z najintensywniejszych od tygodni serię ataków rakietowych i dronowych na kilka ukraińskich miast, w tym Kijów, Odessę, Charków i Dniepr. Polska Agencja Prasowa poinformowała, powołując się na mera Kijowa Witalija Kliczkę, że w nocnych atakach na stolicę Ukrainy zginęło już 13 osób, a ponad 80 zostało rannych, w tym dzieci. Niezależnie potwierdziła to stacja Euronews, podając zbliżony bilans 13 zabitych i 90 rannych w całym kraju, a TVN24 opisywał rosnącą liczbę ofiar jako co najmniej kilkanaście. W Odessie uszkodzona została infrastruktura portowa i energetyczna, a w Kijowie i Dnieprze wybuchły pożary budynków po trafieniach szczątkami zestrzelonych rakiet i dronów. CNN zwraca uwagę, że obie strony konfliktu nasiliły ostatnio ataki lotnicze, a najwyższą cenę płacą cywile. Polskie Dowództwo Operacyjne poderwało myśliwce w ramach standardowych procedur ochrony przestrzeni powietrznej. Zełenski ponownie zaapelował o przyspieszenie dostaw systemów obrony powietrznej, a Kreml nie odniósł się do ofiar cywilnych, twierdząc, że celem były wyłącznie obiekty wojskowe.",
+    "title": "Rosja spiętrza ataki na Ukrainę: bilans nocnego ataku na Kijów rośnie do 14 ofiar",
+    "body": "W nocy z soboty na niedzielę rosyjskie siły zbrojne przeprowadziły jedną z najintensywniejszych od tygodni serii ataków rakietowych i dronowych na kilka ukraińskich miast, w tym Kijów, Odessę, Charków i Dniepr. Zaktualizowany bilans, potwierdzony niezależnie przez PAP, TVN24 oraz RMF24 powołujące się na władze miejskie i służby ratunkowe, mówi już o co najmniej 14 zabitych i kilkudziesięciu rannych w samym Kijowie, w tym dzieciach, a poszukiwania osób pod gruzami wciąż trwają. Euronews podaje zbliżony łączny bilans dla całego kraju, mówiąc o około 90 rannych. W Odessie uszkodzona została infrastruktura portowa i energetyczna, a w Kijowie i Dnieprze wybuchły pożary budynków po trafieniach szczątkami zestrzelonych rakiet i dronów. CNN zwraca uwagę, że obie strony konfliktu nasiliły ataki lotnicze, a najwyższą cenę płacą cywile. Polskie Dowództwo Operacyjne poderwało myśliwce w ramach standardowych procedur ochrony przestrzeni powietrznej. Zełenski zaapelował o przyspieszenie dostaw systemów obrony powietrznej, a Kreml nie odniósł się do ofiar cywilnych, twierdząc, że celem były wyłącznie obiekty wojskowe. Ratownicy kontynuują akcję w zawalonych budynkach, więc bilans może jeszcze wzrosnąć.",
     "sources": {
       "https://www.pap.pl/aktualnosci/mer-kijowa-w-nocnych-atakach-zginelo-13-osob-ponad-80-jest-rannych": "PAP",
       "https://www.euronews.com/2026/08/09/13-killed-in-ukraine-and-90-injured-as-russia-intensifies-overnight-bombardment-campaign-o": "Euronews",
       "https://tvn24.pl/swiat/nocny-atak-na-kijow-rosnie-liczba-zabitych-co-najmniej-kilkanascie-ofiar-st9174087": "TVN24",
-      "https://www.cnn.com/2026/08/09/europe/russia-ukraine-escalation-aerial-strikes-intl-vis": "CNN"
+      "https://www.cnn.com/2026/08/09/europe/russia-ukraine-escalation-aerial-strikes-intl-vis": "CNN",
+      "https://www.rmf24.pl/fakty/swiat/news-rosja-uderzyla-w-serce-ukrainy-tragiczny-bilans-nocnego-atak,nIdn,1012536": "RMF24"
     },
-    "last_updated": "2026-08-10 05:30"
+    "last_updated": "2026-08-10 07:23"
   },
   {
     "slug": "huti-atak-aramco-ormuz",
@@ -92,5 +95,32 @@
       "https://dorzeczy.pl/kraj/923965/nowy-sondaz-pis-traci-poparcie-rozwoj-plus-morawieckiego-przekracza-prog-wyborczy.html": "Dorzeczy"
     },
     "last_updated": "2026-08-10 05:30"
+  },
+  {
+    "slug": "tusk-nawrocki-spor-asesorzy-sierpien-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Tusk podpisał nominacje 200 asesorów bez kontrasygnaty prezydenta, zarzuca Nawrockiemu złamanie konstytucji",
+    "body": "Premier Donald Tusk podpisał w Warszawie nominacje na stanowiska asesorskie dla ponad dwustu prawników, mimo że prezydent Karol Nawrocki nie złożył wcześniej wymaganej przez rząd kontrasygnaty na dokumentach nominacyjnych. Premier ogłosił decyzję na konferencji w Kancelarii Premiera, oskarżając głowę państwa o naruszenie konstytucji poprzez blokowanie obsady wakatów w sądach, co w ocenie rządu wydłuża czas rozpatrywania spraw przez obywateli czekających na wyroki. Informację potwierdziły niezależnie rp.pl, TVN24 oraz GazetaPrawna.pl, powołując się na oświadczenia Kancelarii Premiera i komunikat na stronie gov.pl. Otoczenie prezydenta odpowiada, że to Tusk łamie procedurę, obchodząc konstytucyjny wymóg kontrasygnaty dla aktów nominacyjnych, a minister w Kancelarii Prezydenta Zbigniew Bogucki zarzucił premierowi nadużycie prawa. Spór, trwający od kilku dni, wpisuje się w szerszy konflikt kompetencyjny między Pałacem Prezydenckim a rządem Tuska, obejmujący też inne ustawy kierowane ostatnio do Trybunału Konstytucyjnego. Prawnicy są podzieleni co do tego, czyja interpretacja przepisów jest prawidłowa, a sprawa może ostatecznie trafić przed sąd administracyjny.",
+    "sources": {
+      "https://www.rp.pl/polityka/art44943281-donald-tusk-zarzuca-prezydentowi-zlamanie-konstytucji-ws-asesorow": "rp.pl",
+      "https://tvn24.pl/polska/donald-tusk-podpisal-nominacje-na-asesorow-powiedzial-o-obowiazku-karola-nawrockiego-st9174387": "TVN24",
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11285029,kontrasygnata-premiera-mianowanie-asesorow-tusk-nawrocki-spor.html": "GazetaPrawna.pl"
+    },
+    "last_updated": "2026-08-10 07:23"
+  },
+  {
+    "slug": "syria-rosja-porozumienie-bazy-wojskowe",
+    "category": "world",
+    "lead": false,
+    "title": "Syria i Rosja porozumiały się ws. przyszłości baz wojskowych Chmeimim i Tartus",
+    "body": "Władze Syrii poinformowały w niedzielę, że osiągnęły z Rosją porozumienie w sprawie przyszłości dwóch kluczowych rosyjskich baz wojskowych na Morzu Śródziemnym, bazy lotniczej Chmeimim oraz bazy morskiej w Tartusie, stanowiących od lat filar rosyjskiej obecności wojskowej na Bliskim Wschodzie. Zgodnie z ustaleniami obie instalacje mają zostać przekształcone we wspólne syryjsko-rosyjskie centra szkoleniowe, a Damaszek odzyska częściową kontrolę nad terenami wcześniej dzierżawionymi wyłącznie przez Moskwę. Informację potwierdziły niezależnie CNN, Washington Post, Al Jazeera oraz Bloomberg, powołując się na oświadczenia syryjskiego ministerstwa obrony i źródła dyplomatyczne zaznajomione z negocjacjami po upadku rządu Baszara al Asada. Porozumienie ma duże znaczenie strategiczne, ponieważ obie bazy pozwalały Rosji utrzymywać wpływy wojskowe w regionie i wspierać operacje w Afryce; nowy rząd w Damaszku od miesięcy naciskał na renegocjację warunków obecności rosyjskich wojsk. Waszyngton i sojusznicy śledzą sytuację, licząc na ograniczenie rosyjskich wpływów w regionie, natomiast Moskwa podkreśla trwałość partnerstwa z nowymi władzami syryjskimi.",
+    "sources": {
+      "https://www.cnn.com/2026/08/09/middleeast/syria-deal-russia-mediterranean-bases-intl": "CNN",
+      "https://www.washingtonpost.com/world/2026/08/09/syria-russia-latakia-tartus-bases-hmeimem-deal/bce2da12-93fb-11f1-9ef9-1be722184483_story.html": "Washington Post",
+      "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases": "Al Jazeera",
+      "https://www.bloomberg.com/news/articles/2026-08-09/syria-says-russian-mediterranean-bases-to-shift-to-joint-control": "Bloomberg"
+    },
+    "last_updated": "2026-08-10 07:23"
   }
 ]
