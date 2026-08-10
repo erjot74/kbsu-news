@@ -189,5 +189,32 @@
       "https://biznes.interia.pl/gospodarka/news-inflacja-w-lipcu-poszla-w-gore-widac-efekt-konca-cpn,nId,23522398": "Interia"
     },
     "last_updated": "2026-08-10 09:30"
+  },
+  {
+    "slug": "nawrocki-podatek-paliwowy-tk-sierpien-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Nawrocki skierował ustawę o podatku od zysków firm paliwowych do TK, Tusk mówi o ciosie w kierowców",
+    "body": "Prezydent Karol Nawrocki skierował do Trybunału Konstytucyjnego ustawę wprowadzającą podatek od nadzwyczajnych zysków koncernów paliwowych, blokując tym samym jej wejście w życie i wpływy do budżetu szacowane przez rząd na około cztery miliardy złotych. Decyzję prezydent uzasadnił wątpliwościami co do zgodności przepisów z konstytucją, powołując się na opinie prawników Kancelarii Prezydenta RP. Informację potwierdziły niezależnie rp.pl, TVN24 Biznes oraz Interia, powołujące się na komunikat Kancelarii Prezydenta i wypowiedzi przedstawicieli rządu. Premier Donald Tusk ostro skrytykował decyzję na konferencji prasowej, nazywając ją ciosem wymierzonym we wszystkich polskich kierowców i zapowiadając, że rząd będzie bronił przepisów przed Trybunałem, wskazując przy tym na precedensy z czasów rządów Prawa i Sprawiedliwości. Politycy PiS bronią decyzji prezydenta, argumentując że nowy podatek uderzyłby ostatecznie w ceny paliw na stacjach. Spór dokłada się do serii napięć na linii Pałac Prezydencki, rząd Donalda Tuska, obejmującej już wcześniej ustawy o deweloperach i asesorach sądowych. Ministerstwo Finansów ostrzega, że opóźnienie wpływów może skomplikować tegoroczny budżet.",
+    "sources": {
+      "https://www.rp.pl/budzet-i-podatki/art44884231-nie-bedzie-na-razie-podatku-od-zyskow-spolek-paliwowych-prezydent-skierowal-ustawe-do-tk": "rp.pl",
+      "https://tvn24.pl/biznes/z-kraju/podatek-od-nadzwyczajnych-zyskow-firm-paliwowych-donald-tusk-krytykuje-decyzje-prezydenta-karola-nawrockiego-st9158283": "TVN24",
+      "https://wydarzenia.interia.pl/kraj/news-donald-tusk-uderza-w-prezydenta-szokujaca-decyzja,nId,23519542": "Interia"
+    },
+    "last_updated": "2026-08-10 14:31"
+  },
+  {
+    "slug": "biden-rak-rozprzestrzenil-sie-sierpien-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Hunter Biden: nowotwór byłego prezydenta USA rozprzestrzenił się dalej, jest bardzo bolesny",
+    "body": "Hunter Biden poinformował w wywiadzie opublikowanym w niedzielę, że nowotwór prostaty jego ojca, byłego prezydenta USA Joe Bidena, rozprzestrzenił się dalej i wszedł w bardzo bolesną, wyniszczającą fazę czwartego stadium choroby. Syn byłego prezydenta powiedział, że ojciec przechodzi obecnie radioterapię i pozostaje pod stałą opieką lekarską, ale odmówił podania szczegółowych rokowań. Informację potwierdziły niezależnie od siebie CBS News, NBC News, CNN oraz Washington Post, cytujące fragmenty wywiadu, a w Polsce doniesienia opisały między innymi TVN24, rp.pl, RMF24 oraz PolsatNews, powołujące się na amerykańskie źródła. Diagnozę zaawansowanego raka prostaty z przerzutami do kości u Joe Bidena ujawniono publicznie w maju 2025 roku, a rodzina od tego czasu regularnie informuje opinię publiczną o stanie zdrowia byłego prezydenta. Politycy obu amerykańskich partii, w tym prezydent Donald Trump, przekazali życzenia szybkiego powrotu do zdrowia. Komentatorzy zwracają uwagę, że pogorszenie stanu zdrowia Bidena ponownie ożywia dyskusję o jego decyzji z 2024 roku o ubieganiu się o reelekcję mimo zaawansowanego wieku i problemów zdrowotnych.",
+    "sources": {
+      "https://www.cbsnews.com/news/joe-biden-cancer-has-spread-hunter-biden-says/": "CBS News",
+      "https://www.nbcnews.com/politics/politics-news/hunter-biden-joe-biden-prostate-cancer-spreading-rcna591499": "NBC News",
+      "https://tvn24.pl/swiat/usa-rak-joe-bidena-przerzucil-sie-dalej-hunter-biden-o-stanie-zdrowia-ojca-st9180845": "TVN24",
+      "https://www.rmf24.pl/fakty/swiat/news-nie-jest-dobrze-hunter-biden-o-stanie-zdrowotnym-ojca,nIdn,1012986": "RMF24"
+    },
+    "last_updated": "2026-08-10 14:31"
   }
 ]
