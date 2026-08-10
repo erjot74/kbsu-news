@@ -216,15 +216,16 @@
     "category": "world",
     "lead": false,
     "title": "USA cicho negocjują z Iranem, rosną ceny ropy w obliczu impasu ws. Ormuz",
-    "body": "Prezydent USA Donald Trump powiedział w niedzielę serwisowi Axios, że Waszyngton celowo prowadzi rozmowy z Iranem w spokojniejszym tonie, określając to jako niską intensywność negocjacji, po doniesieniach, że administracja rozważa wycofanie się z próby szybkiego zawarcia porozumienia nuklearnego z Teheranem. Informacje potwierdziły niezależnie CNN, ABC News, CNBC oraz Axios, powołując się na wypowiedzi prezydenta i źródła zbliżone do Białego Domu. Według CNBC oraz Euronews Business impas dotyczy przede wszystkim Cieśniny Ormuz, kluczowego szlaku transportu ropy naftowej, który Iran sygnalizuje, że może pozostać częściowo zamknięty, co w poniedziałek podbiło ceny ropy Brent i WTI na światowych giełdach. Polskie money.pl oraz energia.rp.pl informują, że inwestorzy z niepokojem obserwują brak przełomu mimo wcześniejszych zapowiedzi bliskiego porozumienia. Pentagon zwrócił się jednocześnie do koncernów zbrojeniowych o zwiększenie produkcji amunicji, co analitycy odczytują jako przygotowanie na przedłużający się impas lub możliwą eskalację. Trump zaprzeczył, jakoby rezygnował z porozumienia, podkreślając, że negocjacje wciąż trwają, choć wolniej niż wcześniej.",
+    "body": "Prezydent USA Donald Trump powiedział w niedzielę serwisowi Axios, że Waszyngton celowo prowadzi rozmowy z Iranem w spokojniejszym tonie, określając to jako niską intensywność negocjacji, po doniesieniach o rozważanym wycofaniu się z próby szybkiego zawarcia porozumienia nuklearnego z Teheranem. Informacje potwierdziły niezależnie CNN, ABC News, CNBC oraz Axios, powołując się na wypowiedzi prezydenta i źródła zbliżone do Białego Domu. Według CNBC oraz Euronews Business impas dotyczy głównie Cieśniny Ormuz, kluczowego szlaku transportu ropy naftowej. W poniedziałek rp.pl poinformował, powołując się na doniesienia z Teheranu i Maskatu, że Iran i Oman są bliskie porozumienia w sprawie nowego szlaku żeglugowego przez Ormuz, jednak Teheran zastrzega, że cieśnina pozostanie częściowo zamknięta, dopóki Stany Zjednoczone nie skorygują swojego postępowania wobec Iranu. Polskie money.pl informuje, że inwestorzy z niepokojem obserwują brak przełomu, co w poniedziałek podbiło ceny ropy Brent i WTI. Trump zaprzeczył, jakoby rezygnował z porozumienia, podkreślając, że negocjacje wciąż trwają, choć wolniej niż wcześniej.",
     "sources": {
       "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html": "CNBC",
       "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900": "ABC News",
       "https://www.axios.com/2026/08/09/trump-iran-interview": "Axios",
       "https://www.euronews.com/business/2026/08/10/oil-prices-rise-as-traders-assess-us-iran-talks-on-strait-of-hormuz-deal": "Euronews Business",
-      "https://www.money.pl/gospodarka/ropa-naftowa-rosnie-mimo-ze-trump-chwali-sie-przeplywami-przez-ciesnine-ormuz-7314713307682816a.html": "Money.pl"
+      "https://www.money.pl/gospodarka/ropa-naftowa-rosnie-mimo-ze-trump-chwali-sie-przeplywami-przez-ciesnine-ormuz-7314713307682816a.html": "Money.pl",
+      "https://www.rp.pl/polityka/art44965011-iran-mowi-o-porozumieniu-ws-ciesniny-ormuz-stawia-jednak-warunki-usa": "rp.pl"
     },
-    "last_updated": "2026-08-10 17:22"
+    "last_updated": "2026-08-10 19:21"
   },
   {
     "slug": "afera-powodz-ko-karr-sierpien-2026",
@@ -251,9 +252,11 @@
       "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20": "Al Jazeera",
       "https://tvn24.pl/tvnmeteo/swiat/silne-trzesienie-ziemi-w-kolumbii-gubernator-o-rannych-i-powaznych-zniszczeniach-st9183026": "TVN24",
       "https://www.rmf24.pl/fakty/swiat/news-silne-trzesienie-ziemi-w-kolumbii-naplywaja-tragiczne-wiesci,nIdn,1013161": "RMF24",
-      "https://www.cbsnews.com/news/colombia-earthquake-western-region-evacuations/": "CBS News"
+      "https://www.cbsnews.com/news/colombia-earthquake-western-region-evacuations/": "CBS News",
+      "https://wydarzenia.interia.pl/zagranica/news-silne-trzesienie-ziemi-w-kolumbii-runely-budynki-co-najmniej,nId,23527227": "Interia",
+      "https://www.rp.pl/kleski-zywiolowe/art44968501-silne-trzesienie-ziemi-w-kolumbii-sa-ofiary-i-powazne-zniszczenia": "rp.pl"
     },
-    "last_updated": "2026-08-10 18:28"
+    "last_updated": "2026-08-10 19:21"
   },
   {
     "slug": "usa-cyberatak-wodociagi-iran-podejrzany",
