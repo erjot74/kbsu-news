@@ -241,5 +241,18 @@
       "https://wydarzenia.interia.pl/kraj/news-tusk-ostro-dzialaniach-prezydenta-i-trybunalu-padly-slowa-o,nId,23524714": "Interia"
     },
     "last_updated": "2026-08-11 11:30"
+  },
+  {
+    "slug": "terafab-tesla-spacex-fabryka-chipow-teksas-sierpien-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Musk zapowiada budowe najwiekszego budynku swiata, fabryki chipow Terafab w Teksasie",
+    "body": "Elon Musk oglosil na poczatku sierpnia 2026 roku, ze SpaceX i Tesla zainwestuja w pierwszej fazie szesnascie i osiem dziesiatych miliarda dolarow w budowe fabryki polprzewodnikow Terafab w hrabstwie Grimes w Teksasie, ktora ma stac sie najwiekszym pojedynczym budynkiem na Ziemi, wieksza niz dotychczasowe najwieksze hale przemyslowe swiata. Produkcja ma objac zaawansowane uklady scalone wykorzystywane w humanoidalnych robotach Optimus, systemach autonomicznej jazdy Tesli oraz w rakietach i satelitach SpaceX. Musk podkreslil, ze celem jest uniezaleznienie obu firm od zagranicznych dostawcow polprzewodnikow, glownie z Azji, i skrocenie lancuchow dostaw wobec rosnacego globalnego popytu na chipy do sztucznej inteligencji. Lokalni mieszkancy i organizacje ekologiczne wyrazaja obawy dotyczace ogromnego zuzycia wody i energii elektrycznej oraz wplywu budowy na okoliczne tereny rolnicze, podczas gdy wladze hrabstwa Grimes podkreslaja spodziewane korzysci podatkowe i tysiace nowych miejsc pracy. Analitycy rynkowi wskazuja, ze projekt wpisuje sie w szerszy wyscig amerykanskich gigantow technologicznych o niezaleznosc produkcji chipow AI, obok podobnych inicjatyw Nvidii i innych koncernow.",
+    "sources": {
+      "https://cyfrowa.rp.pl/globalne-interesy/art44962541-powstanie-najwieksza-budowla-na-ziemi-musk-chce-pobic-rekord-chin": "rp.pl",
+      "https://tvn24.pl/biznes/tech/musk-to-bedzie-najwiekszy-budynek-swiata-st9180723": "TVN24 Biznes",
+      "https://forsal.pl/gospodarka/aktualnosci/artykuly/11286323,elon-musk-zbuduje-najwieksza-fabryke-chipow-na-swiecie-spacex-i-tesla-na-poczatku-zainwestuja-168-mld-dolarow.html": "Forsal.pl"
+    },
+    "last_updated": "2026-08-11 14:35"
   }
 ]
