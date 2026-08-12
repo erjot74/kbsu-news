@@ -215,5 +215,22 @@
       "https://www.konflikty.pl/aktualnosci/wiadomosci/gaza-izrael-rozbrojenie-hamasu/": "Konflikty.pl"
     },
     "last_updated": "2026-08-12 13:24"
+  },
+  {
+    "slug": "cpn-powrot-cen-paliw-decyzja-sierpien-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Rzad rozwaza powrot programu CPN, decyzja ws. tanszych paliw w tym tygodniu",
+    "body": "Rzad Donalda Tuska analizuje powrot programu Ceny Paliw Nizej (CPN), wygaszonego pod koniec lipca 2026 roku, co od 21 lipca doprowadzilo do wzrostu cen benzyny i oleju napedowego na stacjach. Jak informuja GazetaPrawna.pl, Biznes Wprost oraz agroprofil.pl w wydaniach z 11 i 12 sierpnia, w rzadzie trwaja rozmowy o obnizeniu VAT na paliwa i nowym mechanizmie wsparcia kierowcow, a decyzja ma zapasc jeszcze w tym tygodniu. Minister energii Milosz Motyka, cytowany przez dorzeczy.pl, potwierdzil trwajace rozmowy ws. powrotu pakietu, wskazujac na wysokie ceny ropy naftowej i rosnace ceny diesla jako glowny problem budzetow kierowcow. Wedlug Money.pl oraz BiznesInfo.pl premier Tusk zapowiedzial wskazanie terminu wejscia w zycie nowych rozwiazan majacych zastapic CPN. Analitycy cytowani przez Forsal.pl ostrzegaja, ze koszt programu dla budzetu panstwa moze wynosic nawet kilka miliardow zlotych kwartalnie, co budzi krytyke czesci ekonomistow. Zapowiedzi powrotu regulowanych cen paliw wczesniej negatywnie wplynely na notowania Orlenu na GPW. Tymczasem na stacjach w Plocku hurtownicy podnosza ceny oleju napedowego i benzyny, wyprzedzajac ewentualna decyzje rzadu.",
+    "sources": {
+      "https://www.gazetaprawna.pl/biznes/transport/artykuly/11289183,paliwo-moze-staniec-pod-koniec-wakacji-decyzja-ma-zapasc-w-ciagu-kilk.html": "GazetaPrawna.pl",
+      "https://biznes.wprost.pl/gospodarka/12412581/ceny-paliw-w-sierpniu-2026-rzad-rozwaza-powrot-programu-cpn.html": "Wprost",
+      "https://agroprofil.pl/wiadomosci/ceny-paliw-12-08-2026-o-ile-spadnie-on-po-ewentualnym-przywroceniu-tarczy-cpn-plock-mocno-podnosi-hurt-rzad-obiecuje-decyzje-w-tym-tygodniu/": "Agroprofil.pl",
+      "https://dorzeczy.pl/kraj/927682/polacy-zaplaca-mniej-za-paliwo-motyka-decyzja-ws-cpn-w-ciagu-kilku-dni.html": "Dorzeczy.pl",
+      "https://www.money.pl/mobility/problemem-jest-nie-tylko-wysoka-cena-ropy-minister-o-powrocie-pakietu-cpn-7317383742056448a.html": "Money.pl",
+      "https://www.biznesinfo.pl/rzad-zapowiada-tansze-paliwo-dobre-wiesci-dla-kierowcow-padla-data-ki-wks-050826": "BiznesInfo.pl",
+      "https://forsal.pl/gospodarka/aktualnosci/artykuly/11289091,powrot-programu-ceny-paliw-nizej-cpn-tansze-paliwo-od-tego-momentu.html": "Forsal.pl"
+    },
+    "last_updated": "2026-08-12 17:25"
   }
 ]
