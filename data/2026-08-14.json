@@ -1,73 +1,88 @@
 [
-  {
-    "slug": "dzien-wolny-14-sierpnia-administracja-14-sierpnia-2026",
-    "category": "pl",
-    "lead": true,
-    "title": "14 sierpnia dniem wolnym od pracy dla administracji, ale nie dla wszystkich",
-    "body": "Piatek 14 sierpnia 2026 jest dniem wolnym od pracy dla administracji rzadowej i wiekszosci urzedow panstwowych, w tym placowek ZUS, NFZ oraz urzedow skarbowych, na mocy zarzadzenia premiera Donalda Tuska, informuja zgodnie rp.pl, GazetaPrawna.pl, Forsal.pl, PulsHR.pl, Interia, Polskie Radio 24 oraz RMF24. Decyzja rekompensuje fakt, ze przypadajace 15 sierpnia swieto Wniebowziecia Najswietszej Maryi Panny oraz Swieto Wojska Polskiego wypada w tym roku w sobote, co bez dodatkowego zarzadzenia oznaczaloby brak wolnego dla urzednikow. Jak podkreslaja rp.pl i PortalSamorzadowy.pl, decyzja obejmuje przede wszystkim urzedy panstwowe i czesc samorzadow, nie dotyczy natomiast automatycznie pracownikow sektora prywatnego, gdzie o dniu wolnym decyduje indywidualnie pracodawca. Dla wielu Polakow oznacza to jednak faktyczny czterodniowy dlugi weekend liczony razem z sobota i niedziela. Interia oraz Newsmax Polska ostrzegaja, ze w piatek nie zalatwimy wielu spraw urzedowych, a RMF24 przypomina, ze czesc placowek, jak wybrane sklepy wielkopowierzchniowe czy poczty, moze dzialac na zwyklych zasadach, dlatego warto sprawdzic godziny otwarcia przed wizyta.",
-    "sources": {
-      "https://www.rp.pl/praca-emerytury-i-renty/art44974071-14-sierpnia-dniem-wolnym-od-pracy-ale-nie-dla-wszystkich": "rp.pl",
-      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11286267,14-sierpnia-2026-dniem-wolnym-od-pracy-kto-ma-wolne-i-ktore-urzedy-beda-zamkniete.html": "GazetaPrawna.pl",
-      "https://forsal.pl/kraj/aktualnosci/artykuly/11216277,premier-zdecydowal-piatek-14-sierpnia-wolny-od-pracy-ale-nie-dla-wszystkich-niektorzy-musza-sprawdzic-swoj-termin-gov-kalendarz-kodeks-pracy-2026.html": "Forsal.pl",
-      "https://www.rmf24.pl/fakty/polska/news-14-sierpnia-2026-zamkniete-urzedy-zus-i-nfz-gdzie-w-piatek-n,nIdn,1013525": "RMF24",
-      "https://wydarzenia.interia.pl/kraj/news-tego-dnia-wiele-urzedow-bedzie-zamknietych-nie-tylko-zus-i-s,nId,23527948": "Interia"
+    {
+        "slug": "dzien-wolny-14-sierpnia-administracja-14-sierpnia-2026",
+        "category": "pl",
+        "lead": true,
+        "title": "14 sierpnia dniem wolnym od pracy dla administracji, ale nie dla wszystkich",
+        "body": "Piatek 14 sierpnia 2026 jest dniem wolnym od pracy dla administracji rzadowej i wiekszosci urzedow panstwowych, w tym placowek ZUS, NFZ oraz urzedow skarbowych, na mocy zarzadzenia premiera Donalda Tuska, informuja zgodnie rp.pl, GazetaPrawna.pl, Forsal.pl, PulsHR.pl, Interia, Polskie Radio 24 oraz RMF24. Decyzja rekompensuje fakt, ze przypadajace 15 sierpnia swieto Wniebowziecia Najswietszej Maryi Panny oraz Swieto Wojska Polskiego wypada w tym roku w sobote, co bez dodatkowego zarzadzenia oznaczaloby brak wolnego dla urzednikow. Jak podkreslaja rp.pl i PortalSamorzadowy.pl, decyzja obejmuje przede wszystkim urzedy panstwowe i czesc samorzadow, nie dotyczy natomiast automatycznie pracownikow sektora prywatnego, gdzie o dniu wolnym decyduje indywidualnie pracodawca. Dla wielu Polakow oznacza to jednak faktyczny czterodniowy dlugi weekend liczony razem z sobota i niedziela. Interia oraz Newsmax Polska ostrzegaja, ze w piatek nie zalatwimy wielu spraw urzedowych, a RMF24 przypomina, ze czesc placowek, jak wybrane sklepy wielkopowierzchniowe czy poczty, moze dzialac na zwyklych zasadach, dlatego warto sprawdzic godziny otwarcia przed wizyta.",
+        "sources": {
+            "https://www.rp.pl/praca-emerytury-i-renty/art44974071-14-sierpnia-dniem-wolnym-od-pracy-ale-nie-dla-wszystkich": "rp.pl",
+            "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11286267,14-sierpnia-2026-dniem-wolnym-od-pracy-kto-ma-wolne-i-ktore-urzedy-beda-zamkniete.html": "GazetaPrawna.pl",
+            "https://forsal.pl/kraj/aktualnosci/artykuly/11216277,premier-zdecydowal-piatek-14-sierpnia-wolny-od-pracy-ale-nie-dla-wszystkich-niektorzy-musza-sprawdzic-swoj-termin-gov-kalendarz-kodeks-pracy-2026.html": "Forsal.pl",
+            "https://www.rmf24.pl/fakty/polska/news-14-sierpnia-2026-zamkniete-urzedy-zus-i-nfz-gdzie-w-piatek-n,nIdn,1013525": "RMF24",
+            "https://wydarzenia.interia.pl/kraj/news-tego-dnia-wiele-urzedow-bedzie-zamknietych-nie-tylko-zus-i-s,nId,23527948": "Interia"
+        },
+        "last_updated": "2026-08-14 00:45"
     },
-    "last_updated": "2026-08-14 00:45"
-  },
-  {
-    "slug": "afera-powodziowa-kierwinski-cba-wniosek-14-sierpnia-2026",
-    "category": "pl",
-    "lead": false,
-    "title": "Afera powodziowa: PiS zlozylo wniosek do CBA, rosnie presja na Kierwinskiego",
-    "body": "Sprawa nieprawidlowosci przy rozdysponowaniu pomocy dla ofiar zeszlorocznej powodzi na Dolnym Slasku eskaluje: Prawo i Sprawiedliwosc zlozylo formalny wniosek do Centralnego Biura Antykorupcyjnego o zbadanie sprawy, informuje Interia w oparciu o ustalenia wlasne oraz depesze zwiazane z dzialaniami klubu poselskiego. Zgodnie z ustaleniami rp.pl atak na ministra spraw wewnetrznych i administracji Marcina Kierwinskiego ma pochodzic nie tylko z opozycji, ale i z wewnatrz Koalicji Obywatelskiej, co komentatorzy okreslaja jako proba oslabienia jego pozycji przed jesiennymi rozgrywkami personalnymi w partii. Wedlug ustalen PolsatNews.pl w centrum afery pozostaje zawieszona dzialaczka KO Anna Konieczynska, byla wiceprezeska Karkonoskiej Agencji Rozwoju Regionalnego, ktorej dotyczyc mial jeden z przypadkow przyznania kilku milionow zlotych pomocy za szkody powodziowe w lokalizacji, gdzie wedlug ustalen powodz w ogole nie wystapila. WP Wiadomosci przypomina, ze MSWiA zapewnia o pelnej wspolpracy z organami scigania i zapowiada wewnetrzny audyt procedur przyznawania pomocy, a sprawa moze miec konsekwencje personalne w rzadzie jeszcze przed jesienia.",
-    "sources": {
-      "https://www.rp.pl/polityka/art44973791-trwa-polowanie-na-marcina-kierwinskiego-ataki-maja-pochodzic-z-wewnatrz-ko": "rp.pl",
-      "https://wydarzenia.interia.pl/kraj/news-pis-w-ofensywie-jest-wniosek-do-cba-chodzi-o-afere-powodziow,nId,23527510": "Interia",
-      "https://www.polsatnews.pl/wiadomosc/2026-08-10/afera-z-milionami-dla-powodzian-polityk-ko-zawieszona/": "PolsatNews.pl",
-      "https://wiadomosci.wp.pl/afera-z-pieniedzmi-dla-powodzian-jest-odpowiedz-ws-kierwinskiego-7317562736894529v": "WP Wiadomosci"
+    {
+        "slug": "afera-powodziowa-kierwinski-cba-wniosek-14-sierpnia-2026",
+        "category": "pl",
+        "lead": false,
+        "title": "Afera powodziowa: Kierwinski zostaje, ale presja na ministra rosnie",
+        "body": "Sprawa nieprawidlowosci przy rozdysponowaniu pomocy dla ofiar zeszlorocznej powodzi na Dolnym Slasku nadal sie rozwija. PiS zlozylo formalny wniosek do CBA, a poslowie tej partii domagaja sie dymisji ministra spraw wewnetrznych Marcina Kierwinskiego, zarzucajac mu brak kontroli nad sluzbami, informuje Polska Agencja Prasowa. MSWiA odpowiada, ze dzialanie resortu bylo prawidlowe, a Sejm w srode odrzucil wniosek opozycji i Kierwinski pozostal na stanowisku, ustalil Forsal.pl. Zgodnie z ustaleniami rp.pl atak na ministra ma pochodzic nie tylko z opozycji, ale i z wewnatrz Koalicji Obywatelskiej, a Interia cytuje rozmowcow z partii mowiacych wprost, ze ktos ze srodka chce mu zaszkodzic przed jesiennymi rozgrywkami personalnymi. W centrum afery pozostaje zawieszona dzialaczka KO Anna Konieczynska, byla wiceprezeska Karkonoskiej Agencji Rozwoju Regionalnego, ktorej dotyczyc mial jeden z przypadkow przyznania kilku milionow zlotych pomocy powodziowej tam, gdzie powodz w ogole nie wystapila. WP Wiadomosci podaje, ze partia zapowiedziala konsekwencje wobec dzialaczki, a MSWiA deklaruje wspolprace z organami scigania i wewnetrzny audyt procedur.",
+        "sources": {
+            "https://www.pap.pl/aktualnosci/politycy-pis-minister-kierwinski-powinien-podac-sie-do-dymisji-bo-nie-panuje-nad": "PAP",
+            "https://forsal.pl/kraj/aktualnosci/artykuly/11260609,szef-mswia-marcin-kierwinski-zostaje-na-stanowisku-poslowie-zadecydowali.html": "Forsal.pl",
+            "https://www.rp.pl/polityka/art44973791-trwa-polowanie-na-marcina-kierwinskiego-ataki-maja-pochodzic-z-wewnatrz-ko": "rp.pl",
+            "https://wydarzenia.interia.pl/kraj/news-media-o-polowaniu-na-kierwinskiego-ktos-ze-srodka-chce-mu-za,nId,23528259": "Interia",
+            "https://wiadomosci.wp.pl/afera-z-pieniedzmi-dla-powodzian-jest-odpowiedz-ws-kierwinskiego-7317562736894529v": "WP Wiadomosci"
+        },
+        "last_updated": "2026-08-14 01:35"
     },
-    "last_updated": "2026-08-14 00:45"
-  },
-  {
-    "slug": "iran-usa-ormuz-blokada-wojna-14-sierpnia-2026",
-    "category": "world",
-    "lead": true,
-    "title": "Trump twierdzi, ze USA kontroluja Ciesnine Ormuz, Iran temu zaprzecza",
-    "body": "Prezydent USA Donald Trump oswiadczyl, ze Stany Zjednoczone kontroluja Ciesnine Ormuz i moga utrzymywac morska blokade Iranu bezterminowo, co wywolalo ostry sprzeciw Teheranu, informuja zgodnie CNN, Al Jazeera, ABC News oraz katarski portal The National. Wedlug relacji Al Jazeery iranski rzad odrzucil amerykanskie twierdzenia o kontroli nad kluczowym szlakiem, ktorym przeplywa okolo jednej piatej swiatowego ropy naftowej, a szef iranskiej dyplomacji Abbas Araghczi ocenil, cytowany przez ABC News, ze Waszyngton dopuscil sie powaznych bledow wywiadowczych, co przedluza konflikt. Sytuacje dodatkowo zaostrzyl atak Huti na Morzu Czerwonym, w ktorym zginelo szesc osob, co potwierdza CNBC, powolujac sie na doniesienia wojskowe USA i Jemenu; Trump okreslil dzialania Huti jako dowod na to, ze Iran nie kontroluje juz w pelni wspieranych przez siebie ugrupowan. The National podkresla, ze nadzieje na porozumienie ws. Ciesniny Ormuz gasna, a obie strony wymieniaja sprzeczne oswiadczenia bez wyraznych sygnalow deeskalacji, co niepokoi rynki energetyczne i moze przekladac sie na ceny ropy oraz paliw rowniez w Europie.",
-    "sources": {
-      "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control": "Al Jazeera",
-      "https://www.cnn.com/2026/08/12/world/live-news/iran-war-trump": "CNN",
-      "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900": "ABC News",
-      "https://www.thenationalnews.com/news/mena/2026/08/13/live-us-iran-war-trump-control-strait-of-hormuz/": "The National",
-      "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html": "CNBC"
+    {
+        "slug": "iran-usa-ormuz-blokada-wojna-14-sierpnia-2026",
+        "category": "world",
+        "lead": true,
+        "title": "Iranska armia: Trump klamie ws. kontroli nad Ciesnina Ormuz",
+        "body": "Prezydent USA Donald Trump podtrzymuje, ze Stany Zjednoczone sprawuja pelna kontrole nad Ciesnina Ormuz i moga utrzymywac morska blokade Iranu bezterminowo, jednak iranskie wladze wojskowe okreslily te twierdzenia jako klamstwa, informuja zgodnie Euronews, CNN, Al Jazeera oraz ABC News. Wedlug Euronews iranska armia oswiadczyla wprost, ze Ciesnina Ormuz pozostaje zablokowana, a ruch statkow w tym kluczowym szlaku, ktorym przeplywa okolo jednej piatej swiatowego handlu ropa naftowa, spadl do najnizszego poziomu od okolo trzech miesiecy, co potwierdza CNBC. Szef iranskiej dyplomacji Abbas Araghczi ocenil, cytowany przez ABC News, ze Waszyngton dopuscil sie powaznych bledow wywiadowczych, co przedluza konflikt. Sytuacje zaostrzyl wczesniejszy atak Huti na Morzu Czerwonym, w ktorym zginelo szesc osob, co potwierdza CNBC powolujac sie na doniesienia wojskowe USA i Jemenu. The National podkresla, ze nadzieje na porozumienie ws. Ciesniny Ormuz gasna, obie strony wymieniaja sprzeczne oswiadczenia bez wyraznych sygnalow deeskalacji, co niepokoi rynki energetyczne i moze przekladac sie na ceny ropy oraz paliw rowniez w Europie.",
+        "sources": {
+            "https://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies": "Euronews",
+            "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control": "Al Jazeera",
+            "https://www.cnn.com/2026/08/12/world/live-news/iran-war-trump": "CNN",
+            "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900": "ABC News",
+            "https://www.thenationalnews.com/news/mena/2026/08/13/live-us-iran-war-trump-control-strait-of-hormuz/": "The National",
+            "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html": "CNBC"
+        },
+        "last_updated": "2026-08-14 01:35"
     },
-    "last_updated": "2026-08-14 00:45"
-  },
-  {
-    "slug": "kolumbia-trzesienie-ziemi-kobieta-uratowana-14-sierpnia-2026",
-    "category": "world",
-    "lead": false,
-    "title": "Kolumbia: kobieta uratowana po 36 godzinach pod gruzami, rosnie bilans ofiar",
-    "body": "Kilka dni po poteznym trzesieniu ziemi, ktore nawiedzilo Kolumbie, ratownikom udalo sie wydobyc zywa kobiete spod gruzow zawalonego budynku po 36 godzinach uwiezienia, informuje PolsatNews.pl, powolujac sie na sluzby ratunkowe kraju. Wedlug rp.pl liczba potwierdzonych ofiar smiertelnych kataklizmu przekroczyla juz 250 osob, a wladze podtrzymuja stan wyjatkowy w najbardziej dotknietych regionach, gdzie zawalilo sie kilkadziesiat budynkow. RMF24 opisuje sceny okreslane przez swiadkow jako apokaliptyczne, z calymi dzielnicami zamienionymi w rumowiska, a Interia podaje, ze wciaz trwa poszukiwanie osob zaginionych, mimo iz szanse na odnalezienie kolejnych ocalalych malej z kazda godzina. Sluzby korzystaja ze specjalistycznego sprzetu, w tym psow ratowniczych i kamer termowizyjnych, aby dotrzec do osob uwiezionych pod gruzami w trudno dostepnych miejscach. Miedzynarodowa pomoc humanitarna, w tym zespoly ratownicze z panstw sasiednich, dociera do najbardziej zniszczonych prowincji, a rzad w Bogocie zapowiedzial program odbudowy infrastruktury, ktorego koszt szacowany jest wstepnie na miliardy pesos kolumbijskich.",
-    "sources": {
-      "https://www.polsatnews.pl/wiadomosc/2026-08-13/trzesienie-ziemi-w-kolumbii-nowe-informacje-kobieta-ocalala-po-36-godzinach-pod-gruzami/": "PolsatNews.pl",
-      "https://www.rp.pl/kleski-zywiolowe/art44978581-kataklizm-w-kolumbii-rosnie-liczba-ofiar-poteznego-trzesienia-ziemi": "rp.pl",
-      "https://www.rmf24.pl/fakty/swiat/news-apokaliptyczne-sceny-w-kolumbii-rosnie-bilans-ofiar-po-potez,nIdn,1013220": "RMF24",
-      "https://wydarzenia.interia.pl/zagranica/news-silne-trzesienie-ziemi-w-kolumbii-rosnie-bilans-ofiar-zarzad,nId,23527227": "Interia"
+    {
+        "slug": "kolumbia-trzesienie-ziemi-kobieta-uratowana-14-sierpnia-2026",
+        "category": "world",
+        "lead": false,
+        "title": "Kolumbia: kobieta uratowana po 36 godzinach pod gruzami, rosnie bilans ofiar",
+        "body": "Kilka dni po poteznym trzesieniu ziemi, ktore nawiedzilo Kolumbie, ratownikom udalo sie wydobyc zywa kobiete spod gruzow zawalonego budynku po 36 godzinach uwiezienia, informuje PolsatNews.pl, powolujac sie na sluzby ratunkowe kraju. Wedlug rp.pl liczba potwierdzonych ofiar smiertelnych kataklizmu przekroczyla juz 250 osob, a wladze podtrzymuja stan wyjatkowy w najbardziej dotknietych regionach, gdzie zawalilo sie kilkadziesiat budynkow. RMF24 opisuje sceny okreslane przez swiadkow jako apokaliptyczne, z calymi dzielnicami zamienionymi w rumowiska, a Interia podaje, ze wciaz trwa poszukiwanie osob zaginionych, mimo iz szanse na odnalezienie kolejnych ocalalych malej z kazda godzina. Sluzby korzystaja ze specjalistycznego sprzetu, w tym psow ratowniczych i kamer termowizyjnych, aby dotrzec do osob uwiezionych pod gruzami w trudno dostepnych miejscach. Miedzynarodowa pomoc humanitarna, w tym zespoly ratownicze z panstw sasiednich, dociera do najbardziej zniszczonych prowincji, a rzad w Bogocie zapowiedzial program odbudowy infrastruktury, ktorego koszt szacowany jest wstepnie na miliardy pesos kolumbijskich.",
+        "sources": {
+            "https://www.polsatnews.pl/wiadomosc/2026-08-13/trzesienie-ziemi-w-kolumbii-nowe-informacje-kobieta-ocalala-po-36-godzinach-pod-gruzami/": "PolsatNews.pl",
+            "https://www.rp.pl/kleski-zywiolowe/art44978581-kataklizm-w-kolumbii-rosnie-liczba-ofiar-poteznego-trzesienia-ziemi": "rp.pl",
+            "https://www.rmf24.pl/fakty/swiat/news-apokaliptyczne-sceny-w-kolumbii-rosnie-bilans-ofiar-po-potez,nIdn,1013220": "RMF24",
+            "https://wydarzenia.interia.pl/zagranica/news-silne-trzesienie-ziemi-w-kolumbii-rosnie-bilans-ofiar-zarzad,nId,23527227": "Interia"
+        },
+        "last_updated": "2026-08-14 00:45"
     },
-    "last_updated": "2026-08-14 00:45"
-  },
-  {
-    "slug": "epstein-akta-doj-sad-14-sierpnia-2026",
-    "category": "world",
-    "lead": false,
-    "title": "USA: DOJ tlumaczy sie w sadzie z zaczernien w aktach Epsteina",
-    "body": "Departament Sprawiedliwosci USA stanal przed sadem, aby odpowiedziec na zarzuty dotyczace nadmiernych zaczernien w dokumentach zwiazanych ze sprawa Jeffreya Epsteina, informuje Forbes, powolujac sie na przebieg rozprawy z 13 sierpnia. Rownolegle, jak podaje Bloomberg, akta dotyczace ofiar Epsteina zostaly dopuszczone do publikacji mimo sprzeciwu prawnikow Ghislaine Maxwell, ktora argumentowala, ze ujawnienie czesci dokumentow moze naruszac prywatnosc osob pokrzywdzonych. CNN przypomina, ze sprawa akt Epsteina od miesiecy jest przedmiotem politycznego sporu w Waszyngtonie, a administracja Trumpa byla wielokrotnie krytykowana zarowno za zbyt powolne tempo ujawniania dokumentow, jak i za selektywne odtajnianie fragmentow korzystnych dla okreslonych narracji politycznych. PBS NewsHour w swoim programie omowil najnowsza partie ujawnionych materialow, wskazujac na nowe szczegoly dotyczace kontaktow Epsteina z wplywowymi osobami z roznych srodowisk, choc czesc nazwisk pozostaje utajniona ze wzgledu na trwajace postepowania. Sprawa nadal wywoluje silne emocje w amerykanskiej opinii publicznej i jest pilnie sledzona przez media z uwagi na mozliwe dalsze polityczne konsekwencje.",
-    "sources": {
-      "https://www.forbes.com/sites/alisondurkee/2026/08/13/will-more-epstein-files-come-out-trump-doj-to-answer-for-redactions-in-court-today/": "Forbes",
-      "https://www.bloomberg.com/news/articles/2026-08-12/epstein-victim-files-cleared-for-release-over-maxwell-s-protest": "Bloomberg",
-      "https://www.cnn.com/politics/epstein-files": "CNN"
+    {
+        "slug": "epstein-akta-doj-sad-14-sierpnia-2026",
+        "category": "world",
+        "lead": false,
+        "title": "USA: DOJ tlumaczy sie w sadzie z zaczernien w aktach Epsteina",
+        "body": "Departament Sprawiedliwosci USA stanal przed sadem, aby odpowiedziec na zarzuty dotyczace nadmiernych zaczernien w dokumentach zwiazanych ze sprawa Jeffreya Epsteina, informuje Forbes, powolujac sie na przebieg rozprawy z 13 sierpnia. Rownolegle, jak podaje Bloomberg, akta dotyczace ofiar Epsteina zostaly dopuszczone do publikacji mimo sprzeciwu prawnikow Ghislaine Maxwell, ktora argumentowala, ze ujawnienie czesci dokumentow moze naruszac prywatnosc osob pokrzywdzonych. CNN przypomina, ze sprawa akt Epsteina od miesiecy jest przedmiotem politycznego sporu w Waszyngtonie, a administracja Trumpa byla wielokrotnie krytykowana zarowno za zbyt powolne tempo ujawniania dokumentow, jak i za selektywne odtajnianie fragmentow korzystnych dla okreslonych narracji politycznych. PBS NewsHour w swoim programie omowil najnowsza partie ujawnionych materialow, wskazujac na nowe szczegoly dotyczace kontaktow Epsteina z wplywowymi osobami z roznych srodowisk, choc czesc nazwisk pozostaje utajniona ze wzgledu na trwajace postepowania. Sprawa nadal wywoluje silne emocje w amerykanskiej opinii publicznej i jest pilnie sledzona przez media z uwagi na mozliwe dalsze polityczne konsekwencje.",
+        "sources": {
+            "https://www.forbes.com/sites/alisondurkee/2026/08/13/will-more-epstein-files-come-out-trump-doj-to-answer-for-redactions-in-court-today/": "Forbes",
+            "https://www.bloomberg.com/news/articles/2026-08-12/epstein-victim-files-cleared-for-release-over-maxwell-s-protest": "Bloomberg",
+            "https://www.cnn.com/politics/epstein-files": "CNN"
+        },
+        "last_updated": "2026-08-14 00:45"
     },
-    "last_updated": "2026-08-14 00:45"
-  }
+    {
+        "slug": "ukraina-drony-atak-rosja-osrodek-petrochemiczny-14-sierpnia-2026",
+        "category": "world",
+        "lead": false,
+        "title": "Ukraina dronami uderzyla w rosyjski osrodek petrochemiczny, sa ofiary",
+        "body": "Ukrainskie sily zbrojne przeprowadzily jeden z najbardziej dotkliwych atakow dronowych na terytorium Rosji od poczatku wojny, uderzajac w rosyjski osrodek petrochemiczny; zginelo co najmniej 13 osob, a okolo 40 zostalo rannych, informuja zgodnie Portal i.pl oraz Kresy.pl, powolujac sie na rosyjskie zrodla lokalne i relacje swiadkow. Dorzeczy.pl podaje, ze byl to jeden z najwiekszych jak dotad atakow dronowych Ukrainy wymierzonych w infrastrukture przemyslowa w glebi Rosji, a znaczna czesc zakladu zostala zniszczona lub powaznie uszkodzona w wyniku pozaru i eksplozji. Wedlug Portalu i.pl Moskwa zapowiedziala odwet za atak, co budzi obawy o kolejna eskalacje dzialan po obu stronach frontu jeszcze przed koncem sierpnia. Atak wpisuje sie w trwajaca od miesiecy wymiane uderzen dalekiego zasiegu, w ktorej Ukraina regularnie razi rafinerie, zaklady zbrojeniowe i infrastrukture energetyczna w Rosji, a Rosja odpowiada seriami atakow rakietowych i dronowych na ukrainskie miasta, w tym Kijow. Kreml nie skomentowal oficjalnie dokladnej skali zniszczen, jednak lokalne wladze rosyjskie potwierdzily ofiary smiertelne oraz trwajaca na miejscu akcje ratownicza i gasnicza.",
+        "sources": {
+            "https://i.pl/najbardziej-zabojczy-atak-ukrainskich-dronow-na-rosje-trzynastu-zabitych-40-rannych-rannych-i-zapowiedz-moskwy-straszliwego-odwetu/ar/c1p2-29256079": "Portal i.pl",
+            "https://kresy.pl/wydarzenia/ukrainskie-drony-uderzyly-w-rosyjski-osrodek-petrochemiczny-13-zabitych-39-rannych-video/": "Kresy.pl",
+            "https://dorzeczy.pl/swiat/926953/ukraina-atakuje-dronami-rosje-w-najwiekszym-ataku-zginelo-13-osob.html": "Dorzeczy.pl"
+        },
+        "last_updated": "2026-08-14 01:35"
+    }
 ]
