@@ -314,5 +314,35 @@
       "https://www.kpbs.org/news/international/2026/08/07/besieged-sudanese-city-faces-relentless-drone-strikes-and-risk-of-mass-atrocities-u-n-warns": "KPBS (AP)"
     },
     "last_updated": "2026-08-13 08:35"
+  },
+  {
+    "slug": "orp-wicher-miecznik-chrzest-wodowanie-13-sierpnia-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Chrzest i wodowanie ORP Wicher, pierwszej fregaty programu Miecznik",
+    "body": "W srode 12 sierpnia w Stoczni Wojennej PGZ w Gdyni odbyla sie uroczystosc chrztu i wodowania fregaty ORP Wicher, pierwszej jednostki budowanej w ramach programu Miecznik majacego wzmocnic polska Marynarke Wojenna, informuja Wprost, TVN24, RMF24 oraz Interia GeekWeek. W wydarzeniu wzieli udzial prezydent Karol Nawrocki oraz przedstawiciele rzadu i dowodztwa Marynarki Wojennej, a prezydent okreslil realizacje programu Miecznik mianem kamienia milowego dla bezpieczenstwa morskiego Polski w obliczu narastajacego zagrozenia ze strony Rosji na Baltyku. ORP Wicher to pierwsza z trzech planowanych fregat wielozadaniowych, ktore maja trafic do sluzby w najblizszych latach i znaczaco zwiekszyc zdolnosci Polski do obrony wybrzeza oraz ochrony infrastruktury krytycznej, w tym podmorskich kabli i gazociagow. Portal Lublin112 oraz WNP.pl podkreslaja, ze budowa okretu byla czesciowo opozniona wzgledem pierwotnego harmonogramu, jednak samo wodowanie odebrano jako wazny sygnal postepu prac stoczniowych. Kolejne etapy obejmuja wyposazenie jednostki w systemy uzbrojenia i testy morskie przed przekazaniem okretu do sluzby operacyjnej.",
+    "sources": {
+      "https://www.wprost.pl/kraj/12412701/gdynia-chrzest-i-wodowanie-orp-wicher-prezydent-nawrocki-projekt-miecznik-to-kamien-milowy.html": "Wprost",
+      "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-w-kamienicy-przy-nowym-swiecie-podczas-prac-budowlanych-zawalily-sie-dwa-stropy-akcja-sluzb-st9186297": "TVN24",
+      "https://www.rmf24.pl/fakty/polska/news-orp-wicher-ochrzczony-historyczna-chwila-w-pgz-stoczni-wojen,nIdn,1013419": "RMF24",
+      "https://geekweek.interia.pl/militaria/news-orp-wicher-gotowy-chrzest-i-wodowanie-pierwszego-miecznika,nId,23527902": "Interia GeekWeek",
+      "https://www.lublin112.pl/orp-wicher-ochrzczony-i-zwodowany-w-gdyni-pierwsza-fregata-programu-miecznik-rozpoczyna-nowy-etap/": "Lublin112",
+      "https://www.wnp.pl/rynki/gdynia-w-srode-chrzest-fregaty-orp-wicher,1089229.html": "WNP.pl"
+    },
+    "last_updated": "2026-08-13 09:22"
+  },
+  {
+    "slug": "warszawa-nowy-swiat-katastrofa-budowlana-13-sierpnia-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Zawalily sie dwa stropy w zabytkowej kamienicy przy Nowym Swiecie w Warszawie",
+    "body": "W srode 12 sierpnia w zabytkowej kamienicy przy ulicy Nowy Swiat w warszawskim Srodmiesciu doszlo do katastrofy budowlanej: podczas prac remontowych zawalily sie dwa stropy, na pierwszym i drugim pietrze budynku, informuja TVN24 Warszawa, WP Wiadomosci, Nasze Miasto Warszawa oraz Super Express. Na miejscu natychmiast pojawily sie zastepy strazy pozarnej, policja oraz pogotowie ratunkowe, ktore prowadzily akcje ewakuacji i zabezpieczania terenu wokol zniszczonej konstrukcji. Wedlug relacji swiadkow jeden z pracownikow budowlanych spadl z wysokosci w momencie zawalenia sie stropu i zostal ranny, a Super Express podaje, ze wsrod poszkodowanych mogl znalezc sie takze nastoletni chlopak przebywajacy w poblizu budynku. Ulica Nowy Swiat, jedna z najbardziej reprezentacyjnych arterii stolicy, zostala czesciowo zamknieta dla ruchu na czas akcji ratowniczej, co spowodowalo utrudnienia komunikacyjne w centrum Warszawy. Nadzor budowlany ma zbadac przyczyny katastrofy oraz sprawdzic, czy prace remontowe byly prowadzone zgodnie z obowiazujacymi przepisami i zatwierdzona dokumentacja techniczna, a wyniki kontroli moga miec konsekwencje dla wykonawcy inwestycji.",
+    "sources": {
+      "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-w-kamienicy-przy-nowym-swiecie-podczas-prac-budowlanych-zawalily-sie-dwa-stropy-akcja-sluzb-st9186297": "TVN24 Warszawa",
+      "https://informacje.wp.pl/wiadomosci/katastrofa-budowlana-na-nowym-swiecie-w-srodmiesciu-zawalily-sie-dwa-stropy-w-remontowanej-kamienicy-7317666815256768a": "WP Wiadomosci",
+      "https://warszawa.naszemiasto.pl/katastrofa-budowlana-w-warszawie-zawalily-sie-dwa-stropy-w-kamienicy-przy-nowym-swiecie-jeden-z-pracownikow-spadl-z-wysokosci/ar/c16p2-29261585": "Nasze Miasto Warszawa",
+      "https://www.se.pl/warszawa/katastrofa-budowlana-w-centrum-warszawy-dwa-stropy-runely-na-parter-ranny-nastolatek-aa-eTvh-w7UC-X7fd.html": "Super Express"
+    },
+    "last_updated": "2026-08-13 09:22"
   }
 ]
