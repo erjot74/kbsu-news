@@ -270,5 +270,20 @@
       "https://www.eska.pl/news/sport/iga-swiatek-triumfuje-w-toronto-przelamanie-po-miesiacach-wyboistej-drogi-aa-AxD1-3uCX-rs6g.html": "ESKA.pl"
     },
     "last_updated": "2026-08-14 15:57"
+  },
+  {
+    "slug": "mig29-ukraina-drony-wymiana-tomczyk-14-sierpnia-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Wraca sprawa MiG-29 dla Ukrainy, MON tlumaczy warunki wymiany na drony",
+    "body": "Powraca temat mozliwego przekazania Ukrainie polskich mysliwcow MiG-29 w zamian za ukrainskie technologie dronowe. Jak poinformowaly w czwartek i piatek TVN24, rp.pl oraz Interia, wiceminister obrony narodowej Cezary Tomczyk ujawnil kulisy rozmow z Kijowem, tlumaczac, ze Polska nie przekazala jeszcze samolotow, poniewaz strona ukrainska nie wywiazala sie w pelni z warunkami wczesniejszych ustalen. Wedlug ustalen Bankier.pl oraz Portalu Obronnego, Ukraina zlozyla Warszawie nowa, konkretna oferte, proponujac w zamian za MiG-i dostep do swoich technologii bezzalogowcow sprawdzonych w walce z Rosja. MON analizuje ta propozycje, a decyzja zalezy takze od gotowosci Kijowa do pokrycia czesci kosztow remontu i przygotowania maszyn do lotu. Tomczyk podkreslil, ze sprawa nie jest zamknieta, choc resort wspominal wczesniej rowniez o alternatywnym scenariuszu opartym na systemie obrony powietrznej. Temat wraca regularnie od miesiecy i wywoluje emocje w mediach oraz wsrod komentatorow wojskowych, ktorzy wskazuja na strategiczne znaczenie takiej wymiany zarowno dla obronnosci Ukrainy, jak i dla mozliwosci pozyskania przez Polske sprawdzonych w boju technologii bezzalogowych.",
+    "sources": {
+      "https://tvn24.pl/biznes/ze-swiata/wsparcie-dla-ukrainy-polskie-mysliwce-mig-29-za-ukrainskie-drony-wiceminister-obrony-cezary-tomczyk-o-kulisach-rozmow-st9113522": "TVN24 Biznes",
+      "https://www.rp.pl/wojsko/art44692591-wraca-pomysl-przekazania-ukrainie-mig-ow-29-postawiono-warunek": "rp.pl",
+      "https://wydarzenia.interia.pl/kraj/news-polska-nie-przekazala-ukrainie-mig-ow-wiceszef-mon-wskazal-w,nId,23496607": "Interia",
+      "https://www.bankier.pl/wiadomosc/Polska-wysle-MiG-i-Ukraina-przekaze-drony-MON-analizuje-propozycje-Kijowa-9175382.html": "Bankier.pl",
+      "https://www.wnp.pl/bezpieczenstwo/ukraina-wraca-do-negocjacji-ws-mig-ow-za-drony-na-stole-jest-oferta,1085744.html": "WNP.pl"
+    },
+    "last_updated": "2026-08-14 16:40"
   }
 ]
