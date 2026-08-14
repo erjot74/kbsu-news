@@ -2,7 +2,7 @@
   {
     "slug": "dzien-wolny-14-sierpnia-administracja-14-sierpnia-2026",
     "category": "pl",
-    "lead": true,
+    "lead": false,
     "title": "14 sierpnia dniem wolnym od pracy dla administracji, ale nie dla wszystkich",
     "body": "Piatek 14 sierpnia 2026 jest dniem wolnym od pracy dla administracji rzadowej i wiekszosci urzedow panstwowych, w tym placowek ZUS, NFZ oraz urzedow skarbowych, na mocy zarzadzenia premiera Donalda Tuska, informuja zgodnie rp.pl, GazetaPrawna.pl, Forsal.pl, PulsHR.pl, Interia, Polskie Radio 24 oraz RMF24. Decyzja rekompensuje fakt, ze przypadajace 15 sierpnia swieto Wniebowziecia Najswietszej Maryi Panny oraz Swieto Wojska Polskiego wypada w tym roku w sobote, co bez dodatkowego zarzadzenia oznaczaloby brak wolnego dla urzednikow. Jak podkreslaja rp.pl i PortalSamorzadowy.pl, decyzja obejmuje przede wszystkim urzedy panstwowe i czesc samorzadow, nie dotyczy natomiast automatycznie pracownikow sektora prywatnego, gdzie o dniu wolnym decyduje indywidualnie pracodawca. Dla wielu Polakow oznacza to jednak faktyczny czterodniowy dlugi weekend liczony razem z sobota i niedziela. Interia oraz Newsmax Polska ostrzegaja, ze w piatek nie zalatwimy wielu spraw urzedowych, a RMF24 przypomina, ze czesc placowek, jak wybrane sklepy wielkopowierzchniowe czy poczty, moze dzialac na zwyklych zasadach, dlatego warto sprawdzic godziny otwarcia przed wizyta.",
     "sources": {
@@ -330,5 +330,20 @@
       "https://sportowefakty.wp.pl/la/1267670/polska-ma-trzeci-medal-me-mimo-to-spadla-w-tabeli": "WP SportoweFakty"
     },
     "last_updated": "2026-08-14 20:18"
+  },
+  {
+    "slug": "wyciek-danych-mydr-pesel-19-mln-14-sierpnia-2026",
+    "category": "pl",
+    "lead": true,
+    "title": "Ogromny wyciek danych: PESEL blisko 19 mln Polakow trafil w niepowolane rece",
+    "body": "Minister cyfryzacji Krzysztof Gawkowski poinformowal 14 sierpnia 2026 roku o gigantycznym wycieku danych osobowych z systemu MyDr, uzywanego przez tysiace przychodni i placowek medycznych. Jak podala PAP, w rece nieuprawnionych osob mogly trafic dane nawet blisko 19 milionow Polakow, w tym numery PESEL, imiona i nazwiska, adresy zamieszkania, a czesto takze wrazliwe informacje medyczne o stanie zdrowia pacjentow. Gawkowski okreslil incydent jako niebywaly i jeden z najwiekszych w historii kraju, apelujac o natychmiastowe zastrzezenie numeru PESEL przez aplikacje mObywatel lub bank. Wedlug RMF24 wyciek dotyczy bazy systemu MyDr wykorzystywanego przez placowki ochrony zdrowia, a resort cyfryzacji wspolnie z UODO i CERT Polska prowadzi postepowanie majace ustalic skale i przyczyny ataku. Money.pl i Forsal.pl podaja, ze przychodnie korzystajace z systemu zostaly zobowiazane do zgloszenia incydentu i poinformowania pacjentow o zagrozeniu. W rzadzie trwaja rozmowy o zaostrzeniu przepisow o ochronie danych medycznych, a eksperci ostrzegaja przed fala prob wyludzen. Sprawa wywolala krytyke opozycji, ktora zarzuca rzadowi zaniedbania w zabezpieczeniu systemow panstwowych i placowek medycznych.",
+    "sources": {
+      "https://www.pap.pl/aktualnosci/gigantyczny-wyciek-danych-polakow-gawkowski-niebywaly-i-bardzo-duzy-incydent": "PAP",
+      "https://www.rmf24.pl/fakty/polska/news-wyciekly-dane-19-mln-polakow-z-mydr-to-musi-zrobic-twoja-prz,nIdn,1013629": "RMF24",
+      "https://tvn24.pl/plus/programy/fakty-po-faktach/minister-cyfryzacji-krzysztof-gawkowski-o-gigantycznym-wycieku-danych-vc9186227": "TVN24",
+      "https://www.money.pl/gospodarka/wielki-wyciek-danych-19-milionow-polakow-7317656934754496a.html": "Money.pl",
+      "https://forsal.pl/kraj/aktualnosci/artykuly/11289587,nowe-informacje-w-sprawie-wycieku-danych-pacjentow-chodzi-o-dane-19-mln-polakow.html": "Forsal.pl"
+    },
+    "last_updated": "2026-08-14 21:30"
   }
 ]
