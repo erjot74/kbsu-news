@@ -4,14 +4,17 @@
     "category": "pl",
     "lead": true,
     "title": "Wyciek danych z MyDr: prokuratura nadzoruje śledztwo ws. 19 mln Polaków",
-    "body": "Z systemów firmy MyDr, dostawcy oprogramowania dla przychodni i platform medycznych, wyciekły dane osobowe i medyczne blisko dziewiętnastu milionów Polaków, w tym numery PESEL, adresy i informacje o leczeniu. Sprawa wyszła na jaw w tygodniu poprzedzającym, a od tego czasu warszawska prokuratura nadzoruje dochodzenie prowadzone przez policję i CERT Polska. Premier Donald Tusk potwierdził w piątek, że śledczy zakładają motywację kryminalną sprawców i próbę wyłudzenia okupu od firmy, co wskazywałoby na atak grupy ransomware. Rząd zaapelował do obywateli o czujność wobec podejrzanych wiadomości oraz ostrożność przy udostępnianiu danych w internecie. Urząd Ochrony Danych Osobowych prowadzi równolegle własne postępowanie wyjaśniające wobec spółki MyDr, która ma odpowiedzieć za ewentualne zaniedbania w zabezpieczeniu systemów. Eksperci ds. cyberbezpieczeństwa ostrzegają, że skala wycieku może być jedną z największych w historii Polski i grozić falami phishingu oraz prób wyłudzeń na podstawie skradzionych danych medycznych przez najbliższe miesiące.",
+    "body": "Z systemów firmy MyDr, dostawcy oprogramowania dla przychodni i platform medycznych, wyciekły dane osobowe i medyczne blisko dziewiętnastu milionów Polaków, w tym numery PESEL, adresy i informacje o leczeniu. Warszawska prokuratura nadzoruje dochodzenie prowadzone przez policję i CERT Polska. Premier Donald Tusk potwierdził, że śledczy zakładają motywację kryminalną sprawców i próbę wyłudzenia okupu od firmy, co wskazywałoby na atak grupy ransomware. RMF24 informuje, że część poszkodowanych zgłasza już bezpośredni kontakt ze strony cyberprzestępców, którzy powołują się na skradzione dane medyczne, co eksperci oceniają jako zapowiedź fali phishingu i prób wyłudzeń. TVN24 Biznes podaje, że spółka MyDr wydała nowy komunikat dla klientów, w którym opisuje dotychczasowe działania naprawcze podjęte po ataku. Urząd Ochrony Danych Osobowych prowadzi równolegle własne postępowanie wobec firmy, której może grozić rekordowa w historii Polski kara finansowa za zaniedbania w zabezpieczeniu systemów. Rząd apeluje do obywateli o czujność wobec podejrzanych wiadomości i telefonów podszywających się pod placówki medyczne oraz o niepodawanie danych osobowych nieznanym rozmówcom.",
     "sources": {
       "https://www.polsatnews.pl/wiadomosc/2026-08-13/wyciekly-dane-19-mln-polakow-sa-pierwsze-tropy-proba-wyludzenia-okupu/": "PolsatNews",
       "https://tvn24.pl/polska/wyciek-danych-z-firmy-mydr-prokuratura-nadzoruje-dochodzenie-st9188468": "TVN24",
       "https://wydarzenia.interia.pl/kraj/news-wyciek-danych-z-firmy-mydr-ruch-prokuratury,nId,23528710": "Interia",
-      "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/11289762,wyciek-danych-z-mydr-premier-motywacja-kryminalna-chec-wyludzenia-okupu.html": "Dziennik.pl"
+      "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/11289762,wyciek-danych-z-mydr-premier-motywacja-kryminalna-chec-wyludzenia-okupu.html": "Dziennik.pl",
+      "https://www.rmf24.pl/fakty/polska/news-skontaktowali-sie-ze-mna-cyberprzestepcy-skutki-wycieku-dany,nIdn,1013481": "RMF24",
+      "https://tvn24.pl/biznes/z-kraju/wyciek-danych-milionow-osob-nowy-komunikat-firmy-st9187638": "TVN24 Biznes",
+      "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/po-historycznym-wycieku-mydr-moze-grozic-historyczna-kara": "CyberDefence24"
     },
-    "last_updated": "2026-08-15 09:25"
+    "last_updated": "2026-08-15 11:17"
   },
   {
     "slug": "rzad-przywraca-cpn-tansze-paliwo-17-sierpnia-2026",
