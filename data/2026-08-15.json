@@ -175,5 +175,34 @@
       "https://www.fox2detroit.com/news/this-situation-is-heartbreaking-6-found-dead-including-suspect-northern-michigan-community": "FOX 2 Detroit"
     },
     "last_updated": "2026-08-15 13:19"
+  },
+  {
+    "slug": "indonezja-trzesienie-ziemi-flores-tsunami-15-sierpnia-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Silne trzęsienie ziemi u wybrzeży Indonezji, zginęło co najmniej 38 osób",
+    "body": "W sobotę nad ranem czasu lokalnego trzęsienie ziemi o magnitudzie 7,7 nawiedziło wody u wybrzeży indonezyjskiej wyspy Flores, powodując zawalenie się budynków i poważne zniszczenia w kilku nadmorskich miejscowościach regionu Nusa Tenggara Wschodnia. Agencje Al Jazeera i NBC News podają, że w wyniku kataklizmu zginęło dotychczas co najmniej trzydzieści osiem osób, a bilans może jeszcze wzrosnąć, bo służby ratownicze wciąż przeszukują gruzy zawalonych domów i hoteli. Indonezyjska agencja meteorologiczna wydała ostrzeżenie przed tsunami dla części wybrzeża, które po kilku godzinach częściowo odwołano, gdy fale okazały się mniejsze niż wstępnie szacowano. Polskie media, w tym Interia i PolsatNews, informują, że mieszkańcy wybrzeża w panice uciekali na wyżej położone tereny w obawie przed falą tsunami. Lokalne szpitale przyjęły dziesiątki rannych, część w stanie ciężkim, a władze oceniają skalę zniszczeń dróg i sieci energetycznej, utrudnioną przez odczuwane od rana wstrząsy wtórne. Indonezja leży na Pacyficznym Pierścieniu Ognia i regularnie nawiedzana jest przez trzęsienia ziemi, co skłania władze do apeli o czujność wobec kolejnych wstrząsów w najbliższych dniach.",
+    "sources": {
+      "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia": "Al Jazeera",
+      "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638": "NBC News",
+      "https://www.cnbc.com/2026/08/15/twenty-dead-after-indonesias-magnitude-7point7-earthquake-rescuers-say.html": "CNBC",
+      "https://wydarzenia.interia.pl/zagranica/news-silne-trzesienie-ziemi-nawiedzilo-indonezje-gruzy-spadaly-na,nId,23529151": "Interia",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-15/silne-trzesienie-ziemi-w-indonezji-pierwsze-informacje-o-ofiarach/": "PolsatNews"
+    },
+    "last_updated": "2026-08-15 16:19"
+  },
+  {
+    "slug": "putin-moldawia-nato-ue-destabilizacja-plan-nyt-15-sierpnia-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Putin chce rozbić NATO i UE od wewnątrz, kluczowym celem ma być Mołdawia",
+    "body": "Dziennik The New York Times, powołując się na źródła zaznajomione z ustaleniami zachodnich służb wywiadowczych, poinformował, że prezydent Rosji Władimir Putin wyznaczył na 2026 rok cel destabilizacji NATO i Unii Europejskiej od wewnątrz, a kluczową rolę w tym planie ma odegrać Mołdawia. Według ustaleń gazety Kreml liczy na wykorzystanie napięć politycznych i wpływów prorosyjskich sił w tym kraju do wywołania kryzysu, który mógłby posłużyć jako pretekst do dalszej ingerencji w regionie i osłabienia jedności Zachodu wobec Rosji. Informację, powołując się na amerykański dziennik, opisały w sobotę polskie redakcje RMF24, Interia, Wprost oraz Dorzeczy, podkreślając, że plan zakłada łączenie działań dezinformacyjnych, gospodarczych i wywiadowczych. Komentatorzy oceniają, że Mołdawia od miesięcy pozostaje pod presją hybrydową Moskwy, w tym prób ingerencji w tamtejsze wybory i kampanie dezinformacyjne w mediach społecznościowych. Władze w Kiszyniowie i przedstawiciele Unii Europejskiej dotąd oficjalnie nie odnieśli się do rewelacji NYT, jednak zachodni dyplomaci od dawna ostrzegają przed ryzykiem destabilizacji krajów Europy Wschodniej przez Rosję w toku przedłużającej się wojny w Ukrainie.",
+    "sources": {
+      "https://www.rmf24.pl/fakty/swiat/news-putin-wyznaczyl-cel-roku-2026-zniszczyc-nato-jeden-kraj-kluc,nIdn,1013761": "RMF24",
+      "https://wydarzenia.interia.pl/zagranica/news-media-putin-chce-rozbic-zachod-od-wewnatrz-kluczem-ma-byc-mo,nId,23529134": "Interia",
+      "https://www.wprost.pl/swiat/12415014/putin-chce-rozbic-nato-od-srodka-moldawia-kluczowa.html": "Wprost",
+      "https://dorzeczy.pl/swiat/928888/putin-chce-rozbic-nato-i-ue-od-wewnatrz-moldawia-ma-byc-kluczowa.html": "Dorzeczy"
+    },
+    "last_updated": "2026-08-15 16:19"
   }
 ]
