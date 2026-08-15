@@ -4,164 +4,151 @@
     "category": "pl",
     "lead": true,
     "title": "Wyciek danych z MyDr: prokuratura nadzoruje śledztwo ws. 19 mln Polaków",
-    "body": "W połowie sierpnia 2026 roku ujawniono jeden z największych w historii Polski wycieków danych osobowych. Firma MyDr, dostawca oprogramowania dla przychodni i gabinetów lekarskich, padła ofiarą cyberataku, w wyniku którego w ręce przestępców mogły trafić dane nawet 19 milionów Polaków, w tym numery PESEL, informacje o receptach oraz przebytych chorobach. Minister cyfryzacji Krzysztof Gawkowski określił incydent jako niebywały i jeden z najpoważniejszych w historii kraju, a premier Donald Tusk wydał oficjalny komunikat w tej sprawie. Prokuratura nadzoruje śledztwo, sprawdzając między innymi tropy wskazujące na próbę wyłudzenia okupu od firmy. Prawnicy ostrzegają, że kary za naruszenie RODO mogą dotknąć tysięcy przychodni korzystających z systemu MyDr, co budzi obawy o kondycję małych placówek medycznych. Rządowa strona bezpiecznedane.gov.pl, na której obywatele sprawdzają, czy ich dane wyciekły, w pierwszych dniach miała problemy techniczne i regularnie się zawieszała, co wywołało krytykę wobec resortu cyfryzacji. Eksperci apelują o zastrzeganie numerów PESEL i ostrożność wobec nieznanych połączeń powołujących się na instytucje państwowe, ostrzegając przed falą wyłudzeń rozciągniętą na wiele miesięcy.",
+    "body": "Z systemów firmy MyDr, dostawcy oprogramowania dla przychodni i platform medycznych, wyciekły dane osobowe i medyczne blisko dziewiętnastu milionów Polaków, w tym numery PESEL, adresy i informacje o leczeniu. Sprawa wyszła na jaw w tygodniu poprzedzającym, a od tego czasu warszawska prokuratura nadzoruje dochodzenie prowadzone przez policję i CERT Polska. Premier Donald Tusk potwierdził w piątek, że śledczy zakładają motywację kryminalną sprawców i próbę wyłudzenia okupu od firmy, co wskazywałoby na atak grupy ransomware. Rząd zaapelował do obywateli o czujność wobec podejrzanych wiadomości oraz ostrożność przy udostępnianiu danych w internecie. Urząd Ochrony Danych Osobowych prowadzi równolegle własne postępowanie wyjaśniające wobec spółki MyDr, która ma odpowiedzieć za ewentualne zaniedbania w zabezpieczeniu systemów. Eksperci ds. cyberbezpieczeństwa ostrzegają, że skala wycieku może być jedną z największych w historii Polski i grozić falami phishingu oraz prób wyłudzeń na podstawie skradzionych danych medycznych przez najbliższe miesiące.",
     "sources": {
+      "https://www.polsatnews.pl/wiadomosc/2026-08-13/wyciekly-dane-19-mln-polakow-sa-pierwsze-tropy-proba-wyludzenia-okupu/": "PolsatNews",
       "https://tvn24.pl/polska/wyciek-danych-z-firmy-mydr-prokuratura-nadzoruje-dochodzenie-st9188468": "TVN24",
-      "https://www.rp.pl/polityka/art44979481-mozliwy-wyciek-danych-19-mln-polakow-pilna-reakcja-rzadu": "rp.pl",
-      "https://www.rmf24.pl/fakty/polska/news-ogromny-wyciek-danych-z-mydr-chodzi-o-nawet-19-mln-osob,nIdn,1013452": "RMF24",
-      "https://www.pap.pl/aktualnosci/gigantyczny-wyciek-danych-polakow-gawkowski-niebywaly-i-bardzo-duzy-incydent": "PAP",
-      "https://www.rp.pl/dane-osobowe/art44987521-wyciek-danych-medycznych-19-mln-polakow-kary-groza-tysiacom-przychodni": "rp.pl",
-      "https://biznes.interia.pl/gospodarka/news-gawkowski-zdradzil-skale-cyberataku-wyciek-danych-blisko-19,nId,23528187": "Interia Biznes"
+      "https://wydarzenia.interia.pl/kraj/news-wyciek-danych-z-firmy-mydr-ruch-prokuratury,nId,23528710": "Interia",
+      "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/11289762,wyciek-danych-z-mydr-premier-motywacja-kryminalna-chec-wyludzenia-okupu.html": "Dziennik.pl"
     },
-    "last_updated": "2026-08-15 04:40"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "rzad-przywraca-cpn-tansze-paliwo-17-sierpnia-2026",
     "category": "pl",
     "lead": false,
     "title": "Rząd przywraca program CPN, tańsze paliwo na stacjach od 17 sierpnia",
-    "body": "Premier Donald Tusk ogłosił, że rząd przywraca istotną część programu Ceny Paliw Niżej, znanego jako CPN, dzięki czemu od poniedziałku 17 sierpnia 2026 roku kierowcy na polskich stacjach zapłacą za paliwo mniej. Minister energii opublikował obwieszczenie z nowymi cenami maksymalnymi, litr benzyny ma kosztować maksymalnie 6,41 złotego, a litr oleju napędowego 7,37 złotego, czyli wyraźnie mniej niż ceny rynkowe z ostatnich tygodni. Decyzję tłumaczono zbliżającym się końcem wakacji i spodziewanym wzmożonym ruchem związanym z powrotami z urlopów, kiedy popyt na paliwo, a wraz z nim i ceny, tradycyjnie rosną. Decyzja spotkała się z mieszanymi reakcjami, kierowcy i organizacje motoryzacyjne przyjęły ją z zadowoleniem, natomiast część ekonomistów i komentatorów zwraca uwagę na koszty takich interwencji dla budżetu państwa oraz na wcześniejsze, tymczasowe wygaszanie programu w poprzednich miesiącach. Branża paliwowa ocenia, że powrót CPN może ponownie wywołać spory między sieciami stacji a rządem o rekompensaty, podobnie jak podczas wcześniejszych edycji programu. To kolejna odsłona interwencji rządu Tuska na rynku paliw w 2026 roku, mająca złagodzić wzrost cen w szczycie sezonu urlopowego.",
+    "body": "Premier Donald Tusk ogłosił w czwartek powrót rządowego programu Ceny Paliwa Niżej, znanego jako CPN, który obniży ceny benzyny i oleju napędowego na stacjach w całym kraju. Nowe stawki mają obowiązywać od poniedziałku, 17 sierpnia. Program był wcześniej zawieszony, a premier wprost obarczył odpowiedzialnością za przerwę prezydenta Karola Nawrockiego, mówiąc o jego, jak to określił, fatalnej decyzji, która opóźniała wznowienie mechanizmu dopłat. Według rządu obniżka ma złagodzić skutki wakacyjnego wzrostu cen paliw i wesprzeć kierowców przed długim weekendem związanym ze świętem Wojska Polskiego. Resort finansów zapewnia, że mechanizm został skonstruowany tak, by nie obciążać nadmiernie budżetu państwa, a dopłaty będą rozliczane bezpośrednio z operatorami stacji paliw. Opozycja krytykuje program jako doraźny i kosztowny gest przed wyborami samorządowymi, podczas gdy kierowcy i przewoźnicy w większości przyjęli zapowiedź z ulgą, licząc na realne oszczędności przy tankowaniu w najbliższych tygodniach.",
     "sources": {
-      "https://www.pap.pl/aktualnosci/tusk-przywracamy-istotna-czesc-programu-cpn-na-czas-powrotow-z-wakacji": "PAP",
-      "https://energia.rp.pl/paliwa/art44996921-maksymalne-ceny-paliw-poniedzialek-17-sierpnia-benzyna-diesel": "rp.pl",
-      "https://biznes.interia.pl/gospodarka/news-cpn-wraca-znamy-nowe-maksymalne-ceny-paliw-tyle-zaplacimy-w,nId,23528933": "Interia Biznes",
-      "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-poniedzialek-17-sierpnia-takie-beda-stawki-po-przywroceniu-cpn-u-obwieszenie-ministra-energii-st9189489": "TVN24 Biznes",
-      "https://www.polsatnews.pl/wiadomosc/2026-08-14/nowe-maksymalne-ceny-paliw-wiadomo-ile-beda-kosztowac/": "Polsat News"
+      "https://www.biznesinfo.pl/donald-tusk-oglosil-decyzje-ws-cen-paliwa-wazne-wiesci-dla-kierowcow-jb-wks-130826": "BiznesInfo",
+      "https://www.rmf24.pl/fakty/polska/news-co-dalej-z-cenami-paliw-jest-decyzja-rzadu-ws-cpn,nIdn,1013602": "RMF24",
+      "https://obserwatorlogistyczny.pl/2026/08/14/wraca-program-ceny-paliwa-nizej-tusk-podjal-decyzje/": "Obserwator Logistyczny",
+      "https://shareinfo.pl/rzad-zdecydowal-ws-cen-paliw-tusk-gdyby-nie-fatalna-decyzja-nawrockiego/": "ShareInfo"
     },
-    "last_updated": "2026-08-15 04:40"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "trump-cla-100-procent-drony-import-14-sierpnia-2026",
     "category": "world",
     "lead": false,
     "title": "Trump nałożył 100-procentowe cła na importowane drony, uderza też w sojuszników",
-    "body": "Prezydent Stanów Zjednoczonych Donald Trump podpisał rozporządzenie wprowadzające cła w wysokości do 100 procent na import cięższych, uznawanych za wrażliwe dronów oraz 25 procent na mniejsze urządzenia i ich komponenty, ogłoszone 13 i 14 sierpnia 2026 roku. Decyzję potwierdził Biały Dom, tłumacząc ją względami bezpieczeństwa narodowego oraz chęcią ograniczenia zależności amerykańskiego przemysłu od zagranicznych, przede wszystkim chińskich, dostawców kluczowych dla produkcji bezzałogowych statków powietrznych. Nowe taryfy uderzą nie tylko w Chiny, uznawane za głównego dostawcę tanich dronów cywilnych i komercyjnych, ale pośrednio również w sojuszników Stanów Zjednoczonych, w tym kraje Unii Europejskiej oraz Tajwan. Chińskie media państwowe oceniły decyzję jako pogłębienie napięć handlowych między oboma krajami. Akcje amerykańskiego producenta dronów powiązanego z synem prezydenta, Donaldem Trumpem juniorem, wyraźnie zwyżkowały po ogłoszeniu ceł, co zwróciło uwagę komentatorów rynkowych. Europejscy producenci ostrzegają przed wzrostem kosztów i zakłóceniami w łańcuchach dostaw, a analitycy nie wykluczają kolejnej rundy sporów handlowych między Waszyngtonem a Unią Europejską w najbliższych miesiącach.",
+    "body": "Prezydent Stanów Zjednoczonych Donald Trump podpisał decyzję o wprowadzeniu ceł w wysokości stu procent na importowane drony oraz ich kluczowe komponenty. Biały Dom argumentuje decyzję względami bezpieczeństwa narodowego, wskazując na to, co administracja nazywa strategicznymi słabościami amerykańskiego łańcucha dostaw i uzależnieniem od zagranicznych, w tym chińskich, producentów podzespołów. Nowe stawki celne obejmą również Unię Europejską i innych bliskich sojuszników Waszyngtonu, co wywołało zaskoczenie i krytykę ze strony europejskich producentów oraz przedstawicieli przemysłu obronnego, którzy ostrzegają przed wzrostem kosztów i zakłóceniami w dostawach sprzętu wykorzystywanego między innymi na Ukrainie. Analitycy gospodarczy podkreślają, że to kolejny w tym roku ruch administracji Trumpa w ramach szerszej polityki protekcjonistycznej, mającej wymusić przenoszenie produkcji strategicznych technologii z powrotem do USA. Rynki finansowe zareagowały ostrożnie, a przedstawiciele Komisji Europejskiej zapowiedzieli analizę możliwych środków odwetowych w najbliższych tygodniach.",
     "sources": {
-      "https://www.rmf24.pl/fakty/swiat/news-strategiczne-slabosci-trump-nalozyl-cla-na-drony-sprowadzane,nIdn,1013667": "RMF24",
-      "https://www.rp.pl/gospodarka/art44994191-trump-oglosil-cla-na-drony-maja-zabezpieczyc-dominacje-usa": "rp.pl",
       "https://www.bankier.pl/wiadomosc/Trump-uderza-w-import-dronow-Cla-siegna-nawet-100-proc-9182195.html": "Bankier.pl",
-      "https://www.bloomberg.com/news/articles/2026-08-13/trump-imposes-100-tariffs-on-certain-drones-countering-china": "Bloomberg",
-      "https://www.france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones": "France 24"
+      "https://www.money.pl/gospodarka/cla-w-wysokosci-100-proc-na-drony-trump-zdecydowal-7318251479816384a.html": "Money.pl",
+      "https://www.rp.pl/gospodarka/art44994191-trump-oglosil-cla-na-drony-maja-zabezpieczyc-dominacje-usa": "rp.pl",
+      "https://www.rmf24.pl/fakty/swiat/news-strategiczne-slabosci-trump-nalozyl-cla-na-drony-sprowadzane,nIdn,1013667": "RMF24"
     },
-    "last_updated": "2026-08-15 04:40"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "berek-odchodzi-z-rzadu-trybunal-konstytucyjny-15-sierpnia-2026",
     "category": "pl",
     "lead": false,
     "title": "Maciej Berek odchodzi z rządu, ma kandydować do Trybunału Konstytucyjnego",
-    "body": "Minister w Kancelarii Prezesa Rady Ministrów Maciej Berek, uznawany za jednego z najbliższych współpracowników premiera Donalda Tuska, odchodzi z rządu i będzie kandydował na stanowisko sędziego Trybunału Konstytucyjnego, co osobiście potwierdził premier. Berek przez lata odpowiadał w rządzie za sprawy prawne i legislacyjne, a premier określił go jako osobę, która ma zaprowadzić porządek w Trybunale. Decyzja wywołała ostrą krytykę części prawników i środowisk sędziowskich. Konstytucjonalista profesor Marcin Matczak ocenił, że nominacja będzie kpiną z ludzi, którzy tysiącami wychodzili na ulice w obronie niezależności sądownictwa, a prezes stowarzyszenia sędziów Iustitia podkreślił, że standardy niezależności powinny obowiązywać niezależnie od tego, kto zgłasza kandydata. Politycy Prawa i Sprawiedliwości, w tym Zbigniew Bogucki i Jacek Sasin, komentują sprawę z ironią, przypominając wcześniejsze kontrowersyjne nominacje do TK za rządów Zjednoczonej Prawicy. Kontrowersje komplikują też sytuację w koalicji rządzącej, gdzie część polityków, w tym z Lewicy, wyraża sprzeciw wobec kandydatury. Sprawa nabiera znaczenia w kontekście wieloletniego sporu o skład i legalność Trybunału Konstytucyjnego.",
+    "body": "Premier Donald Tusk potwierdził, że minister Maciej Berek, dotychczas członek Rady Ministrów, zostanie kandydatem koalicji rządzącej na sędziego Trybunału Konstytucyjnego. Oznacza to jego odejście z rządu i rozpoczęcie procedury wyboru w Sejmie. Decyzja wywołała natychmiastową falę krytyki ze strony środowisk prawniczych. Prezes Stowarzyszenia Sędziów Polskich Iustitia zwrócił uwagę, że standardy niezależności władzy sądowniczej powinny obowiązywać niezależnie od tego, która strona sceny politycznej desygnuje kandydata, sugerując że przejście urzędującego ministra wprost do TK budzi wątpliwości konstytucyjne. Część prawników cytowanych przez media mówi wprost o oburzeniu, przypominając, że koalicja rządowa krytykowała wcześniej podobne praktyki upolitycznienia trybunału za rządów Zjednoczonej Prawicy. Politycy opozycji oskarżają Tuska o niekonsekwencję i podważanie własnych deklaracji o naprawie praworządności. Kancelaria premiera broni wyboru, podkreślając kompetencje i doświadczenie prawnicze Berka, który wcześniej kierował Rządowym Centrum Legislacji.",
     "sources": {
-      "https://www.rp.pl/sady-i-trybunaly/art44990271-maciej-berek-odchodzi-z-rzadu-bedzie-kandydowal-do-trybunalu-konstytucyjnego": "rp.pl",
       "https://tvn24.pl/polska/kandydatura-macieja-berka-do-trybunalu-konstytucyjnego-budzi-kontrowersje-prezes-iustitii-o-standardach-mowimy-w-odniesieniu-do-kazdej-strony-sceny-politycznej-st9188698": "TVN24",
-      "https://polskieradio24.pl/polska/minister-odchodzi-z-rzadu-i-ma-trafic-do-trybunalu-konstytucyjnego-tusk-potwierdza": "Polskie Radio 24",
-      "https://www.wprost.pl/kraj/12412128/maciej-berek-odszedl-z-rzadu-media-ma-trafic-do-trybunalu-konstytucyjnego.html": "Wprost",
-      "https://www.rp.pl/sady-i-trybunaly/art44998351-z-rzadu-do-trybunalu-konstytucyjnego-prawnicy-oburzeni-kandydatura-macieja-berka": "rp.pl"
+      "https://www.rp.pl/sady-i-trybunaly/art44998351-z-rzadu-do-trybunalu-konstytucyjnego-prawnicy-oburzeni-kandydatura-macieja-berka": "rp.pl",
+      "https://wydarzenia.interia.pl/kraj/news-jaki-plan-dla-macieja-berka-donald-tusk-potwierdza,nId,23528708": "Interia",
+      "https://dorzeczy.pl/kraj/928684/berek-kandydatem-na-sedziego-tk-tusk-brnie-w-zla-decyzje.html": "Do Rzeczy"
     },
-    "last_updated": "2026-08-15 04:40"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "swieto-wojska-polskiego-defilada-warszawa-parada-morska-gdynia-15-sierpnia-2026",
     "category": "pl",
     "lead": false,
     "title": "Święto Wojska Polskiego: największa defilada w historii, parada morska w Gdyni",
-    "body": "W sobotę 15 sierpnia 2026 roku Polska obchodziła Święto Wojska Polskiego, upamiętniające rocznicę Bitwy Warszawskiej z 1920 roku, zbiegające się z uroczystością Wniebowzięcia Najświętszej Maryi Panny. Centralne obchody pod hasłem Polska Safe, Bezpieczna Polska odbyły się w Warszawie, gdzie ulicami stolicy przeszła największa w historii kraju defilada wojskowa z udziałem około 1800 żołnierzy, ponad 300 pojazdów lądowych oraz około 60 statków powietrznych, w tym myśliwców F-35. Równolegle w Gdyni na Skwerze Kościuszki odbyła się Wielka Parada Morska z udziałem około 20 okrętów, widoczna także z Gdańska, a w całym kraju zorganizowano wojskowe pikniki rodzinne. Tuż przed świętem prezydent Karol Nawrocki zaakceptował nominacje generalskie i admiralskie dla 21 oficerów Wojska Polskiego. Wydarzenia odbyły się w cieniu podwyższonych wydatków obronnych w ramach unijnego programu SAFE, wartego 43,7 miliarda euro, oraz napiętej sytuacji na wschodniej granicy NATO związanej z wojną w Ukrainie. Według relacji na żywo z Warszawy defilada przebiegła bez zakłóceń i zakończyła się w południe, a organizacja obchodów wiązała się z dużymi, wcześniej zapowiadanymi utrudnieniami w ruchu w Warszawie i Trójmieście.",
+    "body": "W sobotę, w Święto Wojska Polskiego przypadające w rocznicę Bitwy Warszawskiej 1920 roku, w stolicy odbywa się defilada wojskowa określana przez organizatorów jako jedna z największych w powojennej historii kraju. Na trasie wzdłuż Wisłostrady prezentuje się kilka tysięcy żołnierzy oraz około trzystu pojazdów, w tym czołgi, wyrzutnie rakiet i sprzęt zakupiony w ramach modernizacji armii, a nad Warszawą przelatują samoloty wielozadaniowe F-35, które Polska dopiero niedawno wprowadziła do służby. Równolegle w Gdyni odbywa się parada morska z udziałem okrętów Marynarki Wojennej. Uroczystości otwiera Prezydent RP Karol Nawrocki wraz z kierownictwem Ministerstwa Obrony Narodowej, a towarzyszy im motto tegorocznych obchodów Polska SAFE, Bezpieczna Polska, nawiązujące do europejskiego programu zbrojeniowego. W wielu miastach organizowane są dodatkowo pikniki wojskowe, pokazy sprzętu i rekonstrukcje historyczne nawiązujące do Bitwy Warszawskiej. Wydarzenie ściąga na ulice stolicy tłumy mieszkańców i turystów mimo ograniczeń w ruchu drogowym.",
     "sources": {
-      "https://samorzad.pap.pl/kategoria/aktualnosci/swieto-wojska-polskiego-2026-w-warszawie-lista-atrakcji-i-program-obchodow": "PAP Samorząd",
-      "https://www.rdc.pl/aktualnosci/warszawa/swieto-wojska-polskiego-2026-w-warszawie-odbedzie-sie-wielka-defilada-05-08_2njNQB5ubT02KKfmIUhp": "Radio dla Ciebie",
-      "https://www.gov.pl/web/obrona-narodowa/program-centralnych-obchodow-swieta-wojska-polskiego-2026-polska-safe---bezpieczna-polska---parametry-do-odbioru-sygnalu-telewizyjnego": "gov.pl / MON",
-      "https://www.rp.pl/wojsko/art44990871-jest-decyzja-karola-nawrockiego-ws-nominacji-generalskich-prezydent-wskazal-21-oficerow": "rp.pl",
-      "https://tvn24.pl/tvnwarszawa/srodmiescie/swieto-wojska-polskiego-uroczystosci-relacja-na-zywo-st8600494": "TVN24 Warszawa"
+      "https://www.rp.pl/wojsko/art44990141-defilada-z-okazji-swieta-wojska-polskiego-siedem-rzeczy-ktore-warto-zobaczyc": "rp.pl",
+      "https://historia.org.pl/2026/08/14/swieto-wojska-polskiego-2026-defilada-parada-morska-i-rekonstrukcja-bitwy-warszawskiej-program-na-15-i-16-sierpnia/": "Histmag",
+      "https://www.portalsamorzadowy.pl/wydarzenia-lokalne/tysiace-zolnierzy-i-potezny-sprzet-tak-bedzie-wygladac-defilada-wojskowa-i-parada-morska,672408.html": "Portal Samorządowy",
+      "https://www.gov.pl/web/obrona-narodowa/swieto-wojska-polskiego-2026": "gov.pl / MON"
     },
-    "last_updated": "2026-08-15 07:18"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "kolumbia-trzesienie-ziemi-ofiary-de-la-espriella-14-sierpnia-2026",
     "category": "world",
     "lead": true,
     "title": "Trzęsienie ziemi w Kolumbii: ponad 260 ofiar, pierwszy kryzys nowego prezydenta",
-    "body": "Trzęsienie ziemi o sile 7,4 stopnia w skali Richtera nawiedziło zachodnią Kolumbię w rejonie departamentu Choco, w okolicach miejscowości San Jose del Palmar, na przełomie 8 i 10 sierpnia 2026 roku. Liczba potwierdzonych ofiar śmiertelnych systematycznie rosła w kolejnych dniach, z niespełna dwustu do przekraczającej 260, a według części doniesień nawet 281 osób, przy czym setki mieszkańców wciąż pozostawały zaginione, a ponad 12 tysięcy domów zostało zniszczonych. W kolejnych dniach po katastrofie ratownikom udało się wydobyć spod gruzów kolejne osoby, w tym kobietę uratowaną po 36 godzinach oraz niemowlę, co media określiły jako kolejny cud. Katastrofa stała się pierwszym poważnym kryzysem dla nowego, skrajnie prawicowego prezydenta Kolumbii Abelardo de la Espriella, który objął urząd zaledwie kilka dni wcześniej po Gustavo Petro. Rząd początkowo odmówił przyjęcia międzynarodowej pomocy poszukiwawczo ratowniczej, co wywołało ostrą krytykę opozycji, jednak po kilku dniach prezydent wycofał się z tej decyzji i zezwolił zagranicznym ekipom ratunkowym na wjazd do kraju. Akcje ratunkowe wciąż trwają, a organizacje międzynarodowe koordynują pomoc humanitarną dla poszkodowanych regionów.",
+    "body": "Silne trzęsienie ziemi, które nawiedziło Kolumbię w poniedziałek, pochłonęło według najnowszego bilansu podanego przez władze i przytaczanego przez Polską Agencję Prasową co najmniej dwieście sześćdziesiąt pięć ofiar śmiertelnych, a niemal pięćset osób wciąż pozostaje zaginionych. Ratownicy od kilku dni prowadzą akcje poszukiwawcze w zawalonych budynkach, korzystając ze sprzętu specjalistycznego i psów tropiących, a media lokalne opisują przypadki osób wydobytych żywych spod gruzów po ponad trzydziestu sześciu godzinach. Najbardziej ucierpiały rejony górskie i miejscowości o słabszej infrastrukturze budowlanej, gdzie zawaliło się kilkadziesiąt budynków mieszkalnych. Dla nowego prezydenta Kolumbii, Rodrigo de la Espriella, który objął urząd zaledwie kilka tygodni wcześniej, kataklizm stanowi pierwszy poważny sprawdzian zarządzania kryzysowego, władze ogłosiły stan wyjątkowy w najbardziej dotkniętych regionach i zaapelowały o międzynarodową pomoc humanitarną. Organizacje kościelne, w tym Watykan, wystosowały apele o wsparcie dla poszkodowanych, określając zdarzenie najsilniejszym trzęsieniem ziemi w tym kraju od początku wieku.",
     "sources": {
-      "https://www.cnn.com/2026/08/10/world/live-news/colombia-earthquake-san-jose-del-palmar": "CNN",
-      "https://abcnews.com/International/colombia-earthquake-rescue-operations-continue-224-dead/story?id=135571163": "ABC News",
-      "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates": "NPR",
-      "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government": "Al Jazeera",
-      "https://wiadomosci.wp.pl/nowy-bilans-ofiar-trzesienia-ziemi-w-kolumbii-spod-gruzow-wydobyto-niemowle-7317828563179648a": "WP Wiadomości",
-      "https://wiadomosci.wp.pl/kolejny-cud-w-kolumbii-kobieta-uratowana-z-gruzow-po-36-godzinach-7317896794212480a": "WP Wiadomości"
+      "https://www.pap.pl/aktualnosci/kolumbia-265-ofiar-smiertelnych-496-zaginionych-po-poniedzialkowym-trzesieniu-ziemi": "PAP",
+      "https://www.rp.pl/kleski-zywiolowe/art44978581-kataklizm-w-kolumbii-rosnie-liczba-ofiar-poteznego-trzesienia-ziemi": "rp.pl",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-13/trzesienie-ziemi-w-kolumbii-nowe-informacje-kobieta-ocalala-po-36-godzinach-pod-gruzami/": "PolsatNews",
+      "https://www.vaticannews.va/pl/swiat/news/2026-08/kolumbia-najsilniejsze-trzesienie-ziemi-w-xxi-wieku-ponad-100.html": "Vatican News"
     },
-    "last_updated": "2026-08-15 04:55"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "ukraina-dniepropetrowsk-kontrofensywa-rosja-eskalacja-14-sierpnia-2026",
     "category": "world",
     "lead": false,
     "title": "Ukraina odzyskuje obwód dniepropetrowski, Rosja nasila ataki rakietowe",
-    "body": "Siły ukraińskie poinformowały w połowie sierpnia 2026 roku o odzyskaniu większości terenów obwodu dniepropetrowskiego zajętych wcześniej przez Rosję, wyzwalając w toku kontrofensywy dziesiątki miejscowości i kilkaset kilometrów kwadratowych terytorium, w tym około 26 wsi na kierunku oleksandrowskim. W odpowiedzi Rosja nasiliła ataki rakietowe i balistyczne na Ukrainę, uderzając między innymi w obwód zaporoski, gdzie w połowie sierpnia zginęło kilkanaście osób. Prezydent Ukrainy Wołodymyr Zełenski ostrzegł, że Władimir Putin przygotowuje eskalację konfliktu, sprowadzając do Rosji kolejny sprzęt wojskowy i pociski z Korei Północnej, informując również o starciach między wojskami ukraińskimi a północnokoreańskimi. Zełenski wyznaczył cel zadania siłom rosyjskim strat na poziomie 30 tysięcy żołnierzy w sierpniu i ponownie zaapelował do sojuszników o dostarczenie kolejnych zestawów obrony powietrznej Patriot. Sytuacja na froncie pozostaje napięta mimo wcześniejszych rozmów dyplomatycznych między Waszyngtonem a Moskwą, a plany kolejnego szczytu pokojowego, wcześniej rozważanego w Budapeszcie, pozostają zawieszone po tym, jak Rosja przedstawiła twarde żądania wobec Ukrainy jesienią 2025 roku.",
+    "body": "Na froncie wschodnim trwają intensywne walki o obwód dniepropetrowski, gdzie ukraińskie siły prowadzą działania kontrofensywne mające odeprzeć rosyjskie próby wejścia na ten teren. Strona rosyjska twierdzi, że jej oddziały wkroczyły już do obwodu dniepropetrowskiego, jednak ukraiński Sztab Generalny stanowczo temu zaprzecza, określając te doniesienia jako część rosyjskiej propagandy informacyjnej. Analitycy wojskowi cytowani przez portale branżowe podkreślają, że sytuacja na tym odcinku frontu pozostaje płynna i trudna do jednoznacznej weryfikacji ze względu na sprzeczne komunikaty obu stron. Równocześnie Rosja nasiliła w ostatnich dniach ataki rakietowe i dronowe na cele w głębi Ukrainy, uderzając między innymi w infrastrukturę energetyczną przed zbliżającą się jesienią. Ukraińskie władze informują o zniszczeniach i ofiarach cywilnych w wyniku ostrzałów, apelując do sojuszników zachodnich o przyspieszenie dostaw systemów obrony powietrznej. Sytuacja pozostaje pod bacznym nadzorem zachodnich stolic w kontekście równolegle prowadzonych rozmów dyplomatycznych dotyczących ewentualnego rozejmu.",
     "sources": {
-      "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks": "Al Jazeera",
-      "https://kyivindependent.com/ukraine-pushes-russian-forces-out-of-most-of-dnipropetrovsk-oblast-after-weeks-of-counterattacks/": "Kyiv Independent",
-      "https://www.pbs.org/newshour/world/russian-attacks-kill-10-in-ukraine-as-zelenskyy-says-moscow-is-getting-more-north-korean-missiles": "PBS",
-      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html": "CNBC"
+      "https://www.yahoo.com/news/russia-claims-entry-dnipropetrovsk-oblast-125034616.html": "Yahoo News / AP",
+      "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/ukrainska-kontrofensywa-postepuje": "Defence24",
+      "https://www.magnapolonia.org/wojna-rosyjsko-ukrainska-raport-14-08-2026/": "Magna Polonia"
     },
-    "last_updated": "2026-08-15 04:40"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "trump-ciesnina-ormuz-terytorium-usa-iran-14-sierpnia-2026",
     "category": "world",
     "lead": false,
     "title": "Trump zapowiada uznanie Cieśniny Ormuz za terytorium USA, blokada Iranu",
-    "body": "Prezydent Stanów Zjednoczonych Donald Trump oświadczył 14 sierpnia 2026 roku, że zamierza wkrótce uznać Cieśninę Ormuz za terytorium Stanów Zjednoczonych, co byłoby bezprecedensowym krokiem w trwającym od miesięcy konflikcie zbrojnym między Stanami Zjednoczonymi i Izraelem a Iranem. Waszyngton rozważa również wprowadzenie bezterminowej blokady morskiej wybrzeży Iranu, a amerykańskie okręty utrzymują już obecność w Zatoce Perskiej ograniczającą irański eksport ropy. Wcześniej, na początku sierpnia, Trump zapowiadał, że warunkiem podjęcia rozmów z Teheranem będzie wypłata odszkodowań przez stronę irańską, natomiast Pakistan informował o zbliżaniu się Stanów Zjednoczonych i Iranu do porozumienia pokojowego. Cieśnina Ormuz to kluczowy szlak transportu ropy naftowej dla światowej gospodarki, a groźba jej blokady lub przejęcia budzi niepokój na globalnych rynkach surowcowych i wśród sojuszników USA w regionie Zatoki Perskiej, obawiających się dalszej eskalacji trwającego konfliktu zbrojnego w regionie.",
+    "body": "Prezydent Donald Trump oświadczył, że w najbliższym czasie zamierza ogłosić Cieśninę Ormuz, jeden z najważniejszych szlaków transportu ropy naftowej na świecie, częścią terytorium Stanów Zjednoczonych. Wypowiedź padła podczas publicznego wystąpienia i natychmiast wywołała międzynarodowe poruszenie, ponieważ cieśnina znajduje się w strefie wód terytorialnych i wyłącznej strefy ekonomicznej Iranu oraz Omanu, a nie jest terenem podlegającym jurysdykcji amerykańskiej. Władze w Teheranie odpowiedziały ostro, wzywając Waszyngton, aby, jak to ujęto, pogodził się z rzeczywistością, i określając zapowiedź jako pozbawioną podstaw prawnych prowokację. Analitycy stosunków międzynarodowych oceniają słowa Trumpa jako część szerszej strategii nacisku na Iran w kontekście sporu o program nuklearny oraz kontrolę nad kluczowymi szlakami żeglugowymi, przez które przechodzi znaczna część światowego eksportu ropy. Rynki energetyczne zareagowały nerwowo na doniesienia, obawiając się eskalacji napięć w Zatoce Perskiej, która mogłaby zakłócić dostawy surowca i podbić ceny paliw na świecie.",
     "sources": {
-      "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory": "Al Jazeera",
-      "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade": "Al Jazeera",
-      "https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump": "CNN",
-      "https://www.jpost.com/middle-east/iran-news/2026-08-11/live-updates-905132": "Jerusalem Post"
+      "https://tvn24.pl/swiat/donald-trump-niedlugo-oglosze-ciesnine-ormuz-terytorium-usa-st9190560": "TVN24",
+      "https://wydarzenia.interia.pl/bliski-wschod/news-natychmiast-odpowiedzieli-na-zakusy-usa-pogodzcie-sie-z-rzec,nId,23529150": "Interia",
+      "https://www.rp.pl/konflikty-zbrojne/art45001951-trump-zapowiada-przejecie-ciesniny-ormuz-wkrotce-oglosze-ja-terytorium-usa": "rp.pl",
+      "https://www.rmf24.pl/fakty/swiat/news-trump-oglosze-ciesnine-ormuz-terytorium-usa,nIdn,1013789": "RMF24"
     },
-    "last_updated": "2026-08-15 04:40"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "huragan-lala-hawaje-ostrzezenie-15-sierpnia-2026",
     "category": "world",
     "lead": false,
     "title": "Huragan Lala zagraża Hawajom, pierwsze takie uderzenie od dziesięcioleci",
-    "body": "Tropikalny sztorm Lala wzmacniał się w połowie sierpnia 2026 roku, zagrażając Hawajom pierwszym od dziesięcioleci bezpośrednim uderzeniem huraganu. Amerykańska służba meteorologiczna wydała ostrzeżenie huraganowe dla Big Island oraz obserwację sztormu tropikalnego dla hrabstwa Maui, a alerty pogodowe objęły praktycznie cały archipelag Hawajów. W sobotę 15 sierpnia zewnętrzne pasma sztormu dotarły już do wschodniego wybrzeża Hawajów, przynosząc pierwsze opady deszczu i wzmożone fale przybrzeżne, a meteorolodzy prognozowali dalsze wzmocnienie sztormu do siły huraganu kategorii pierwszej jeszcze w ciągu dnia. Władze stanowe wezwały mieszkańców i turystów do przygotowania zapasów oraz śledzenia oficjalnych komunikatów, przypominając, że Hawaje rzadko doświadczają bezpośrednich trafień huraganów ze względu na specyfikę prądów oceanicznych w regionie Pacyfiku. Synoptycy powiązali nietypową siłę i trasę sztormu z rosnącą temperaturą wód Oceanu Spokojnego, ostrzegając przed możliwym nasileniem się podobnych zjawisk pogodowych w kolejnych latach w związku ze zmianami klimatu na świecie. Według stanu na sobotę rano nie zgłaszano ofiar ani poważnych zniszczeń.",
+    "body": "Sztorm tropikalny Lala wzmocnił się i według amerykańskiego Centrum Huraganów zbliżał się do Hawajów jako huragan pierwszej kategorii, co może oznaczać pierwsze bezpośrednie uderzenie huraganu w te wyspy od kilkudziesięciu lat. Największe zagrożenie dotyczy Big Island, dla którego wydano ostrzeżenie huraganowe, podczas gdy dla wyspy Maui i Oahu obowiązuje ostrzeżenie o sztormie tropikalnym. Lokalne władze otworzyły schrony ewakuacyjne, zamknęły część szkół i instytucji publicznych oraz zaapelowały do mieszkańców o zaopatrzenie się w wodę, żywność i środki pierwszej pomocy. Synoptycy ostrzegają przed silnymi opadami, wysoką falą sztormową oraz ryzykiem osuwisk na terenach górskich wysp. Gubernator stanu Hawaje zapowiedział mobilizację służb ratunkowych i Gwardii Narodowej w gotowości na wypadek konieczności akcji ratowniczych. Media amerykańskie podkreślają wyjątkowość sytuacji, przypominając, że bezpośrednie trafienie huraganu w Hawaje zdarza się niezwykle rzadko ze względu na typowe dla regionu warunki atmosferyczne odsuwające tego typu sztormy od archipelagu.",
     "sources": {
+      "https://www.hawaiinewsnow.com/2026/08/14/hawaii-island-under-hurricane-warning-maui-county-under-tropical-storm-watch-lala-nears/": "Hawaii News Now",
       "https://www.cnn.com/2026/08/13/weather/tropical-storm-lala-hawaii-climate": "CNN",
-      "https://www.pbs.org/newshour/nation/hurricane-warning-issued-for-the-big-island-of-hawaii": "PBS",
-      "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/": "CBS News",
-      "https://www.hawaiinewsnow.com/2026/08/15/tropical-storm-lalas-outer-bands-reach-east-hawaii/": "Hawaii News Now",
-      "https://www.foxweather.com/weather-news/tropical-storm-lala-takes-aim-at-hawaii-threatening-flooding-rain-monster-surf": "Fox Weather"
+      "https://mauinow.com/2026/08/14/lala-friday-updates-lala-advances-hurricane-status-expected-on-approach-to-big-island-of-hawai%CA%BBi/": "Maui Now",
+      "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP2+html/130840.shtml": "National Hurricane Center"
     },
-    "last_updated": "2026-08-15 04:55"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "wiceminister-ras-mikrokawalerki-konflikt-interesow-15-sierpnia-2026",
     "category": "pl",
     "lead": false,
     "title": "Wiceminister Raś pod ostrzałem: kupował mikrokawalerki, teraz pisze o nich ustawę",
-    "body": "Wiceminister rozwoju i technologii Ireneusz Raś, wcześniej odpowiedzialny w rządzie za turystykę, znalazł się w połowie sierpnia 2026 roku w centrum politycznej burzy po publikacjach ujawniających, że on i osoby z jego najbliższego otoczenia inwestowali w tak zwane mikrokawalerki, czyli niewielkie lokale mieszkalne przeznaczone pod krótkoterminowy najem, podczas gdy jako wiceminister współtworzy przepisy regulujące właśnie ten rynek najmu. Dziennikarze wskazali na potencjalny konflikt interesów, co wywołało falę krytyki ze strony opozycji oraz części komentatorów, żądających jego natychmiastowej dymisji i mówiących o kompromitacji rządu Donalda Tuska. Sam Raś odpiera zarzuty, nazywając doniesienia manipulacją, i opublikował oświadczenie majątkowe, twierdząc że nie ma nic do ukrycia i że jego inwestycje były w pełni legalne i jawne. Mimo publicznej presji, wiceminister Jakub Rutnicki ocenił jego wyjaśnienia jako wystarczające i zapowiedział, że do dymisji Rasia nie dojdzie. Sprawa odbija się szerokim echem w mediach społecznościowych i podsyca dyskusję o etyce oraz przejrzystości wśród członków koalicji rządzącej.",
+    "body": "Wiceminister rozwoju i technologii Ireneusz Raś znalazł się pod ostrzałem krytyki po ustaleniach dziennikarzy Money.pl, którzy ujawnili, że on i jego rodzina inwestowali w mikrokawalerki przeznaczone pod wynajem krótkoterminowy, podczas gdy on sam jest współautorem rządowego projektu ustawy regulującej właśnie ten rynek najmu. Krytycy, w tym samorządowcy z dużych miast, mówią o wyraźnym konflikcie interesów i domagają się odwołania wiceministra ze stanowiska, argumentując, że przepisy mogą być kształtowane pod kątem prywatnych korzyści finansowych. Cytowani w mediach działacze miejscy oceniają, że Raś, jak to ujęto, ma gdzieś mieszkańców miast zmagających się z niedoborem mieszkań na wynajem długoterminowy, ponieważ mikrokawalerki pod najem turystyczny zaostrzają kryzys mieszkaniowy w centrach miast. Sam wiceminister odpiera zarzuty, twierdząc, że nie naruszył żadnych przepisów ani nie miał wpływu na kształt kluczowych zapisów ustawy w sposób dający mu osobistą korzyść. Sprawa trafiła już pod obrady sejmowej komisji, która ma zbadać okoliczności przygotowania projektu.",
     "sources": {
-      "https://www.rmf24.pl/fakty/polityka/news-nie-mam-nic-do-ukrycia-ireneusz-ras-wydal-oswiadczenie,nIdn,1011524": "RMF24",
-      "https://wiadomosci.wp.pl/minister-ras-kupowal-mikrokawalerki-na-wynajem-dzis-pisze-o-nich-ustawe-7311607458994560a": "WP Wiadomości",
-      "https://www.polsatnews.pl/wiadomosc/2026-07-27/ireneusz-ras-odpowiada-na-zarzuty-ws-kawalerek-to-manipulacje/": "Polsat News",
       "https://www.rp.pl/polityka/art44890841-mikrokawalerki-w-rodzinie-rasia-wiceminister-nie-dostrzega-konfliktu-interesow": "rp.pl",
-      "https://radiolodz.pl/nie-bedzie-dymisji-wiceministra-rasia-jakub-rutnicki-jego-wyjasnienia-sa-wystarczajace,655471/": "Radio Łódź"
+      "https://biznes.interia.pl/nieruchomosci/news-chca-odwolania-wiceministra-ze-stanowiska-ras-ma-gdzies-mies,nId,23520315": "Interia Biznes",
+      "https://tvn24.pl/biznes/z-kraju/male-mieszkania-duze-problemy-wiceminister-odpiera-zarzuty-o-konflikt-interesow-st9160783": "TVN24 Biznes"
     },
-    "last_updated": "2026-08-15 04:55"
+    "last_updated": "2026-08-15 09:25"
   },
   {
     "slug": "elemental-holding-smieciowa-mafia-superwizjer-dotacja-15-sierpnia-2026",
     "category": "pl",
     "lead": false,
     "title": "Miliardowa dotacja dla firmy z zarzutami o fikcyjny obrót odpadami",
-    "body": "Reportaż Superwizjera, magazynu śledczego TVN24, ujawniony w połowie sierpnia 2026 roku, opisał zarzuty wobec spółki Elemental Holding, giełdowej firmy zajmującej się recyklingiem elektroodpadów, dotyczące podejrzeń o fikcyjny obrót odpadami elektronicznymi oraz nieprawidłowości związane z otrzymaną od państwa dotacją sięgającą miliarda złotych. Dziennikarze wskazali, że ciężarówki zgłaszane jako transportujące odpady w rzeczywistości bywały puste, co budzi wątpliwości co do rzetelności rozliczeń w ramach programu wsparcia gospodarki obiegu zamkniętego. Sprawą zainteresowały się ministerstwa klimatu i finansów, minister klimatu Paulina Hennig-Kloska przyznała, że problem mafii śmieciowej jest realny, a resorty zapewniły, że żadna złotówka spornego wsparcia nie zostanie wypłacona do czasu wyjaśnienia sytuacji, Elemental Holding odpiera zarzuty dziennikarzy, zapowiadając szczegółową odpowiedź i tłumacząc swoją działalność zgodnością z przepisami. Sprawa wywołała falę komentarzy politycznych, a część opozycji wykorzystała ją do krytyki ministra finansów Andrzeja Domańskiego, który był pytany o sprawę przez reportera TVN.",
+    "body": "Reportaż Superwizjer TVN24 opisał mechanizm, w którym spółka Elemental Holding, działająca w branży recyklingu elektroodpadów, miała uczestniczyć w procederze określanym przez dziennikarzy jako śmieciowa mafia, polegającym na fikcyjnym obrocie odpadami elektronicznymi na potrzeby sprawozdawczości i uzyskania korzyści finansowych. Sprawa nabrała szczególnego znaczenia, ponieważ w tle znajduje się dotacja od państwa sięgająca miliarda złotych, którą firma otrzymała na rozwój działalności recyklingowej. Dziennikarze próbowali uzyskać komentarz ministra finansów Andrzeja Domańskiego w sprawie kontroli nad wydatkowaniem środków publicznych, jednak, jak relacjonuje wpolityce.pl, minister unikał odpowiedzi na pytania reportera. Elemental Holding zdecydowanie zaprzecza zarzutom, określając je jako nieprawdziwe i krzywdzące dla spółki, oraz zapowiada wystąpienie na drogę sądową przeciwko autorom materiału, wskazując na naruszenie dobrego imienia firmy. Sprawa wywołała szeroką dyskusję w mediach społecznościowych i wśród ekspertów rynku odpadów o skuteczności nadzoru państwa nad wydatkowaniem środków publicznych przeznaczonych na cele ekologiczne.",
     "sources": {
-      "https://tvn24.pl/polska/fikcyjny-obrot-odpadami-miliardowa-dotacja-reportaz-superwizjera-st9183164": "TVN24",
-      "https://tvn24.pl/biznes/z-kraju/ministerstwa-reaguja-na-material-superwizjera-zadna-zlotowka-nie-zostanie-wyplacona-st9184158": "TVN24 Biznes",
+      "https://tvn24.pl/polska/fikcyjny-obrot-odpadami-miliardowa-dotacja-reportaz-superwizjera-st9183164": "TVN24 / Superwizjer",
       "https://www.money.pl/gospodarka/afera-smieciowa-elemental-holding-odpowiada-7317365371713536a.html": "Money.pl",
-      "https://wydarzenia.interia.pl/kraj/news-miliardowa-dotacja-i-pytania-o-fikcyjny-obrot-odpadami-jest,nId,23527632": "Interia Wydarzenia",
-      "https://www.wnp.pl/przemysl/zarzuty-o-fikcyjne-odpady-wobec-spolki-elemental-holding-w-tle-miliardowa-dotacja-od-panstwa,1089073.html": "WNP.pl"
+      "https://www.wnp.pl/przemysl/elemental-reaguje-na-oskarzenia-o-udzial-w-mafii-smieciowej-polska-spolka-zapowiada-pozew,1089185.html": "WNP.pl",
+      "https://wpolityce.pl/gospodarka/miliard-dla-mafii-smieciowej-domanski-czmycha-przed-reporterem-tvn,229575": "wPolityce"
     },
-    "last_updated": "2026-08-15 04:55"
+    "last_updated": "2026-08-15 09:25"
   }
 ]
