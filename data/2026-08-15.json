@@ -21,14 +21,15 @@
     "category": "pl",
     "lead": false,
     "title": "Rząd przywraca program CPN, tańsze paliwo na stacjach od 17 sierpnia",
-    "body": "Premier Donald Tusk ogłosił w czwartek powrót rządowego programu Ceny Paliwa Niżej, znanego jako CPN, który obniży ceny benzyny i oleju napędowego na stacjach w całym kraju. Nowe stawki mają obowiązywać od poniedziałku, 17 sierpnia. Program był wcześniej zawieszony, a premier wprost obarczył odpowiedzialnością za przerwę prezydenta Karola Nawrockiego, mówiąc o jego, jak to określił, fatalnej decyzji, która opóźniała wznowienie mechanizmu dopłat. Według rządu obniżka ma złagodzić skutki wakacyjnego wzrostu cen paliw i wesprzeć kierowców przed długim weekendem związanym ze świętem Wojska Polskiego. Resort finansów zapewnia, że mechanizm został skonstruowany tak, by nie obciążać nadmiernie budżetu państwa, a dopłaty będą rozliczane bezpośrednio z operatorami stacji paliw. Opozycja krytykuje program jako doraźny i kosztowny gest przed wyborami samorządowymi, podczas gdy kierowcy i przewoźnicy w większości przyjęli zapowiedź z ulgą, licząc na realne oszczędności przy tankowaniu w najbliższych tygodniach.",
+    "body": "Premier Donald Tusk ogłosił w czwartek powrót rządowego programu Ceny Paliwa Niżej, znanego jako CPN, który obniży ceny benzyny i oleju napędowego na stacjach w całym kraju o około złotówkę na litrze. Minister energii opublikował już obwieszczenie z nowymi maksymalnymi cenami paliw, które mają obowiązywać od poniedziałku, 17 sierpnia. Program był wcześniej zawieszony, a premier wprost obarczył odpowiedzialnością za przerwę prezydenta Karola Nawrockiego, mówiąc o jego, jak to określił, fatalnej decyzji, która opóźniała wznowienie mechanizmu dopłat. Według rządu obniżka ma złagodzić skutki wakacyjnego wzrostu cen paliw i wesprzeć kierowców przed długim weekendem związanym ze świętem Wojska Polskiego. Resort finansów zapewnia, że mechanizm został skonstruowany tak, by nie obciążać nadmiernie budżetu państwa, a dopłaty będą rozliczane bezpośrednio z operatorami stacji paliw. Opozycja krytykuje program jako doraźny i kosztowny gest przed wyborami samorządowymi, podczas gdy kierowcy i przewoźnicy w większości przyjęli zapowiedź z ulgą, licząc na realne oszczędności przy tankowaniu w najbliższych tygodniach, gdy nowe stawki wejdą w życie w poniedziałek.",
     "sources": {
       "https://www.biznesinfo.pl/donald-tusk-oglosil-decyzje-ws-cen-paliwa-wazne-wiesci-dla-kierowcow-jb-wks-130826": "BiznesInfo",
       "https://www.rmf24.pl/fakty/polska/news-co-dalej-z-cenami-paliw-jest-decyzja-rzadu-ws-cpn,nIdn,1013602": "RMF24",
       "https://obserwatorlogistyczny.pl/2026/08/14/wraca-program-ceny-paliwa-nizej-tusk-podjal-decyzje/": "Obserwator Logistyczny",
-      "https://shareinfo.pl/rzad-zdecydowal-ws-cen-paliw-tusk-gdyby-nie-fatalna-decyzja-nawrockiego/": "ShareInfo"
+      "https://shareinfo.pl/rzad-zdecydowal-ws-cen-paliw-tusk-gdyby-nie-fatalna-decyzja-nawrockiego/": "ShareInfo",
+      "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-poniedzialek-17-sierpnia-takie-beda-stawki-po-przywroceniu-cpn-u-obwieszenie-ministra-energii-st9189489": "TVN24 Biznes"
     },
-    "last_updated": "2026-08-15 09:25"
+    "last_updated": "2026-08-15 14:25"
   },
   {
     "slug": "trump-cla-100-procent-drony-import-14-sierpnia-2026",
@@ -62,15 +63,18 @@
     "slug": "swieto-wojska-polskiego-defilada-warszawa-parada-morska-gdynia-15-sierpnia-2026",
     "category": "pl",
     "lead": false,
-    "title": "Święto Wojska Polskiego: największa defilada w historii, parada morska w Gdyni",
-    "body": "W sobotę, w Święto Wojska Polskiego przypadające w rocznicę Bitwy Warszawskiej 1920 roku, w stolicy odbywa się defilada wojskowa określana przez organizatorów jako jedna z największych w powojennej historii kraju. Na trasie wzdłuż Wisłostrady prezentuje się kilka tysięcy żołnierzy oraz około trzystu pojazdów, w tym czołgi, wyrzutnie rakiet i sprzęt zakupiony w ramach modernizacji armii, a nad Warszawą przelatują samoloty wielozadaniowe F-35, które Polska dopiero niedawno wprowadziła do służby. Równolegle w Gdyni odbywa się parada morska z udziałem okrętów Marynarki Wojennej. Uroczystości otwiera Prezydent RP Karol Nawrocki wraz z kierownictwem Ministerstwa Obrony Narodowej, a towarzyszy im motto tegorocznych obchodów Polska SAFE, Bezpieczna Polska, nawiązujące do europejskiego programu zbrojeniowego. W wielu miastach organizowane są dodatkowo pikniki wojskowe, pokazy sprzętu i rekonstrukcje historyczne nawiązujące do Bitwy Warszawskiej. Wydarzenie ściąga na ulice stolicy tłumy mieszkańców i turystów mimo ograniczeń w ruchu drogowym.",
+    "title": "Święto Wojska Polskiego: defilada w Warszawie zakończona, Nawrocki pojednawczo",
+    "body": "W sobotę, w Święto Wojska Polskiego przypadające w rocznicę Bitwy Warszawskiej 1920 roku, w stolicy odbyła się defilada wojskowa określana przez organizatorów jako jedna z największych w powojennej historii kraju. Na trasie wzdłuż Wisłostrady zaprezentowano kilka tysięcy żołnierzy oraz około trzystu pojazdów, w tym czołgi, wyrzutnie rakiet i sprzęt zakupiony w ramach modernizacji armii, a nad Warszawą przeleciały samoloty F-35, które Polska niedawno wprowadziła do służby. Równolegle w Gdyni odbyła się parada morska Marynarki Wojennej. Uroczystościom przewodniczył prezydent Karol Nawrocki, który mówił, że duch tego narodu zna cenę wolności i wojen, a jego ton oceniono w mediach jako zaskakująco pojednawczy wobec rządu, pod hasłem Polska SAFE, Bezpieczna Polska. Szef MSZ Radosław Sikorski odpowiedział prezydentowi ironicznym komentarzem, co komentatorzy odczytali jako polityczną szpilę mimo świątecznego charakteru dnia. W wielu miastach odbyły się dodatkowo pikniki wojskowe i rekonstrukcje historyczne nawiązujące do Bitwy Warszawskiej, a wydarzenie w stolicy ściągnęło tłumy mieszkańców mimo ograniczeń w ruchu drogowym.",
     "sources": {
       "https://www.rp.pl/wojsko/art44990141-defilada-z-okazji-swieta-wojska-polskiego-siedem-rzeczy-ktore-warto-zobaczyc": "rp.pl",
       "https://historia.org.pl/2026/08/14/swieto-wojska-polskiego-2026-defilada-parada-morska-i-rekonstrukcja-bitwy-warszawskiej-program-na-15-i-16-sierpnia/": "Histmag",
       "https://www.portalsamorzadowy.pl/wydarzenia-lokalne/tysiace-zolnierzy-i-potezny-sprzet-tak-bedzie-wygladac-defilada-wojskowa-i-parada-morska,672408.html": "Portal Samorządowy",
-      "https://www.gov.pl/web/obrona-narodowa/swieto-wojska-polskiego-2026": "gov.pl / MON"
+      "https://www.gov.pl/web/obrona-narodowa/swieto-wojska-polskiego-2026": "gov.pl / MON",
+      "https://www.wprost.pl/kraj/12415419/defilada-w-warszawie-nawrocki-zaskakujaco-pojednawczo-podczas-wystapienia.html": "Wprost",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-15/duch-tego-narodu-zna-cene-wojen-karol-nawrocki-w-swieto-wojska-polskiego/": "PolsatNews",
+      "https://natemat.pl/664810,sikorski-wbil-szpile-nawrockiemu-za-slowa-o-wojsku-jednym-zdaniem-wkurzy-caly-pis": "naTemat"
     },
-    "last_updated": "2026-08-15 09:25"
+    "last_updated": "2026-08-15 14:25"
   },
   {
     "slug": "kolumbia-trzesienie-ziemi-ofiary-de-la-espriella-14-sierpnia-2026",
