@@ -4,28 +4,29 @@
     "category": "pl",
     "lead": true,
     "title": "Wyciek danych z MyDr: prokuratura nadzoruje śledztwo ws. 19 mln Polaków",
-    "body": "W połowie sierpnia 2026 roku ujawniono jeden z największych w historii Polski wycieków danych osobowych. Firma MyDr, dostawca oprogramowania wykorzystywanego przez przychodnie i gabinety lekarskie, padła ofiarą cyberataku, w wyniku którego w ręce przestępców mogły trafić dane nawet 19 milionów Polaków, w tym numery PESEL, informacje o wystawionych receptach oraz przebytych chorobach. Sprawę jako pierwszy potwierdził wicepremier odpowiedzialny za cyfryzację, nazywając incydent jednym z najpoważniejszych w historii kraju, a premier Donald Tusk wydał w tej sprawie oficjalny komunikat. Warszawska prokuratura nadzoruje wszczęte dochodzenie, a śledczy badają pierwsze tropy wskazujące na próbę wyłudzenia okupu od poszkodowanej firmy. Rząd uruchomił stronę bezpiecznedane.gov.pl, na której obywatele mieli sprawdzić, czy ich dane wyciekły, jednak serwis w pierwszych godzinach po starcie miał poważne problemy techniczne, co wywołało falę krytyki. Eksperci ds. cyberbezpieczeństwa ostrzegają, że skala wycieku oznacza ryzyko prób wyłudzeń i oszustw metodą na pracownika banku czy urzędnika przez wiele kolejnych miesięcy, apelując o czujność wobec nieznanych połączeń i wiadomości powołujących się na instytucje państwowe.",
+    "body": "W połowie sierpnia 2026 roku ujawniono jeden z największych w historii Polski wycieków danych osobowych. Firma MyDr, dostawca oprogramowania dla przychodni i gabinetów lekarskich, padła ofiarą cyberataku, w wyniku którego w ręce przestępców mogły trafić dane nawet 19 milionów Polaków, w tym numery PESEL, informacje o receptach oraz przebytych chorobach. Sprawę potwierdził wicepremier odpowiedzialny za cyfryzację, nazywając incydent jednym z najpoważniejszych w historii kraju, a premier Donald Tusk wydał oficjalny komunikat. Warszawska prokuratura nadzoruje dochodzenie, a śledczy badają tropy wskazujące na próbę wyłudzenia okupu od firmy. Rządowa strona bezpiecznedane.gov.pl, na której obywatele sprawdzają, czy ich dane wyciekły, w pierwszych dniach miała problemy techniczne i regularnie się zawieszała pod naporem użytkowników, co wywołało krytykę wobec resortu cyfryzacji. Po kilku dniach serwis zaczął działać stabilniej, choć część internautów nadal zgłasza trudności z logowaniem. Eksperci ostrzegają, że skala wycieku oznacza ryzyko wyłudzeń metodą na pracownika banku czy urzędnika przez wiele miesięcy, apelując o czujność wobec nieznanych połączeń powołujących się na instytucje państwowe.",
     "sources": {
       "https://www.polsatnews.pl/wiadomosc/2026-08-13/wyciekly-dane-19-mln-polakow-sa-pierwsze-tropy-proba-wyludzenia-okupu/": "Polsat News",
       "https://tvn24.pl/polska/wyciek-danych-z-firmy-mydr-prokuratura-nadzoruje-dochodzenie-st9188468": "TVN24",
       "https://www.rp.pl/spoleczenstwo/art44984991-wyciekly-dane-19-milionow-polakow-rzad-odsyla-do-strony-ktora-nie-dziala": "rp.pl",
-      "https://wydarzenia.interia.pl/kraj/news-wyciek-danych-z-firmy-mydr-ruch-prokuratury,nId,23528710": "Interia"
+      "https://wydarzenia.interia.pl/kraj/news-wyciek-danych-z-firmy-mydr-ruch-prokuratury,nId,23528710": "Interia",
+      "https://tysol.pl/wiadomosci/wyciekly-dane-milionow-polakow-rzadowa-strona-bezpiecznedanepl-juz-dziala,195341": "Tysol.pl"
     },
-    "last_updated": "2026-08-15 00:25"
+    "last_updated": "2026-08-15 00:35"
   },
   {
     "slug": "rzad-przywraca-cpn-tansze-paliwo-17-sierpnia-2026",
     "category": "pl",
     "lead": false,
     "title": "Rząd przywraca program CPN, tańsze paliwo na stacjach od 17 sierpnia",
-    "body": "Premier Donald Tusk ogłosił, że rząd przywraca istotną część rządowego programu Ceny Paliw Niżej, znanego jako CPN, dzięki czemu od poniedziałku 17 sierpnia 2026 roku kierowcy na polskich stacjach paliw zapłacą za paliwo nawet o złotówkę mniej za litr. Decyzję ogłoszono w Warszawie, tłumacząc ją zbliżającym się końcem wakacji i spodziewanym wzmożonym ruchem związanym z powrotami z urlopów, kiedy popyt na paliwo, a wraz z nim i ceny, tradycyjnie rosną. Rząd opublikował już nowe ceny maksymalne obowiązujące na stacjach, informując, ile realnie zapłacą kierowcy za benzynę i olej napędowy w najbliższych dniach. Decyzja spotkała się z mieszanymi reakcjami: kierowcy i organizacje motoryzacyjne przyjęły ją z zadowoleniem, natomiast część ekonomistów i przedstawicieli opozycji zwraca uwagę na koszty takich interwencji dla budżetu państwa oraz na wcześniejsze, tymczasowe zawieszanie programu w poprzednich miesiącach. Branża paliwowa ocenia, że powrót CPN może ponownie wywołać spory między sieciami stacji a rządem o rekompensaty, podobnie jak podczas wcześniejszych edycji programu. To kolejna odsłona interwencji rządu Tuska na rynku paliw w 2026 roku, mająca złagodzić odczuwalny dla gospodarstw domowych wzrost cen w szczycie sezonu urlopowego.",
+    "body": "Premier Donald Tusk ogłosił, że rząd przywraca istotną część programu Ceny Paliw Niżej, znanego jako CPN, dzięki czemu od poniedziałku 17 sierpnia 2026 roku kierowcy na polskich stacjach zapłacą za paliwo mniej. Minister energii opublikował obwieszczenie z nowymi cenami maksymalnymi: litr benzyny ma kosztować maksymalnie 6,41 zł, a litr oleju napędowego 7,37 zł, czyli wyraźnie mniej niż ceny rynkowe z ostatnich tygodni. Decyzję tłumaczono zbliżającym się końcem wakacji i spodziewanym wzmożonym ruchem związanym z powrotami z urlopów, kiedy popyt na paliwo, a wraz z nim i ceny, tradycyjnie rosną. Decyzja spotkała się z mieszanymi reakcjami: kierowcy i organizacje motoryzacyjne przyjęły ją z zadowoleniem, natomiast część ekonomistów i opozycji zwraca uwagę na koszty takich interwencji dla budżetu państwa oraz na wcześniejsze, tymczasowe zawieszanie programu. Branża paliwowa ocenia, że powrót CPN może ponownie wywołać spory między sieciami stacji a rządem o rekompensaty, podobnie jak podczas wcześniejszych edycji programu. To kolejna odsłona interwencji rządu Tuska na rynku paliw w 2026 roku, mająca złagodzić wzrost cen w szczycie sezonu urlopowego.",
     "sources": {
       "https://www.pap.pl/aktualnosci/tusk-przywracamy-istotna-czesc-programu-cpn-na-czas-powrotow-z-wakacji": "PAP",
-      "https://energia.rp.pl/paliwa/art44989871-rzad-oglosil-powrot-programu-cpn-ceny-paliw-znow-maja-byc-nizsze": "rp.pl",
+      "https://energia.rp.pl/paliwa/art44996921-maksymalne-ceny-paliw-poniedzialek-17-sierpnia-benzyna-diesel": "rp.pl",
       "https://biznes.interia.pl/gospodarka/news-cpn-wraca-znamy-nowe-maksymalne-ceny-paliw-tyle-zaplacimy-w,nId,23528933": "Interia Biznes",
-      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11289899,obnizka-vat-paliwa-program-cpn-tusk-ceny-paliw.html": "GazetaPrawna.pl"
+      "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-poniedzialek-17-sierpnia-takie-beda-stawki-po-przywroceniu-cpn-u-obwieszenie-ministra-energii-st9189489": "TVN24 Biznes"
     },
-    "last_updated": "2026-08-15 00:25"
+    "last_updated": "2026-08-15 00:35"
   },
   {
     "slug": "putin-zaprosil-trumpa-moskwa-kolejne-spotkanie-14-sierpnia-2026",
@@ -54,5 +55,19 @@
       "https://www.wnp.pl/rynki/usa-trump-oglosil-cla-na-drony-importowane-m-in-z-ue,1089927.html": "WNP.pl"
     },
     "last_updated": "2026-08-15 00:25"
+  },
+  {
+    "slug": "berek-odchodzi-z-rzadu-trybunal-konstytucyjny-15-sierpnia-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Maciej Berek odchodzi z rządu, ma kandydować do Trybunału Konstytucyjnego",
+    "body": "Minister w Kancelarii Prezesa Rady Ministrów Maciej Berek, uznawany za jednego z najbliższych współpracowników premiera Donalda Tuska, ogłosił odejście z rządu. Według zgodnych doniesień kilku redakcji ma kandydować na stanowisko sędziego Trybunału Konstytucyjnego, co potwierdził sam premier Tusk. Berek przez lata odpowiadał w rządzie za sprawy prawne i legislacyjne, a bliskie relacje z premierem sprawiły, że bywał nazywany jego prawą ręką. Wiadomość o kandydaturze wywołała falę krytyki ze strony opozycji oraz części prawników i środowisk sędziowskich, którzy wskazują na możliwy konflikt interesów i upolitycznienie wyboru sędziów TK, czego rząd Tuska wcześniej deklarował unikać. Prezes stowarzyszenia sędziów Iustitia podkreślił, że standardy niezależności powinny obowiązywać niezależnie od tego, kto zgłasza kandydata. Kontrowersje komplikują też sytuację w koalicji rządzącej, gdzie część polityków, w tym z Lewicy, wyraża sprzeciw. Sprawa nabiera znaczenia w kontekście trwającego od lat sporu o skład i legalność Trybunału Konstytucyjnego po zmianach z czasów rządów Zjednoczonej Prawicy.",
+    "sources": {
+      "https://www.rp.pl/sady-i-trybunaly/art44990271-maciej-berek-odchodzi-z-rzadu-bedzie-kandydowal-do-trybunalu-konstytucyjnego": "rp.pl",
+      "https://tvn24.pl/polska/kandydatura-macieja-berka-do-trybunalu-konstytucyjnego-budzi-kontrowersje-prezes-iustitii-o-standardach-mowimy-w-odniesieniu-do-kazdej-strony-sceny-politycznej-st9188698": "TVN24",
+      "https://polskieradio24.pl/polska/minister-odchodzi-z-rzadu-i-ma-trafic-do-trybunalu-konstytucyjnego-tusk-potwierdza": "Polskie Radio 24",
+      "https://www.wprost.pl/kraj/12412128/maciej-berek-odszedl-z-rzadu-media-ma-trafic-do-trybunalu-konstytucyjnego.html": "Wprost"
+    },
+    "last_updated": "2026-08-15 00:35"
   }
 ]
