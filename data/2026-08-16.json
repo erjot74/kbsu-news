@@ -2,7 +2,7 @@
   {
     "slug": "wyciek-danych-mydr-prokuratura-sledztwo-14-sierpnia-2026",
     "category": "pl",
-    "lead": true,
+    "lead": false,
     "title": "Wyciek danych z MyDr: prokuratura nadal nadzoruje śledztwo, UODO bada sprawę kary",
     "body": "Firma MyDr, dostawca oprogramowania używanego przez przychodnie i gabinety lekarskie w Polsce, padła ofiarą cyberataku, w wyniku którego wyciekły dane osobowe i medyczne nawet 19 milionów Polaków. Sprawą nadal zajmuje się prokuratura, która nadzoruje śledztwo prowadzone wspólnie z policją; wcześniej ustalono tropy wskazujące na próbę wyłudzenia okupu od poszkodowanej spółki, a nie na działanie obcego wywiadu. Premier Donald Tusk komentował sprawę publicznie, podkreślając kryminalną, a nie polityczną motywację sprawców. Rząd apeluje do obywateli o czujność wobec prób wyłudzeń i phishingu wykorzystujących wyciekłe dane, w tym numery PESEL i informacje o leczeniu. Urząd Ochrony Danych Osobowych prowadzi własne postępowanie wobec MyDr, sprawdzając, czy spółka dopełniła obowiązku zabezpieczenia danych i czy zgłosiła incydent w terminie; eksperci CyberDefence24 ostrzegają o groźbie rekordowo wysokiej kary finansowej. Eksperci oceniają, że skala wycieku jest jedną z największych w historii Polski i może prowadzić do fali oszustw wykorzystujących dane medyczne milionów pacjentów, dlatego poszkodowani powinni zachować ostrożność wobec nietypowych wiadomości podszywających się pod placówki medyczne.",
     "sources": {
@@ -155,8 +155,8 @@
     "slug": "trump-ciesnina-ormuz-terytorium-usa-iran-14-sierpnia-2026",
     "category": "world",
     "lead": false,
-    "title": "Iran i Oman blisko porozumienia ws. Ormuzu, ale cieśnina wciąż zamknięta",
-    "body": "Spór o Cieśninę Ormuz wchodzi w nową fazę. Po tym, jak prezydent Donald Trump postawił Iranowi 48-godzinne ultimatum ws. ponownego otwarcia szlaku dla żeglugi międzynarodowej, pojawiły się pierwsze sygnały przełomu: Iran i Oman są bliscy porozumienia w sprawie nowej trasy dla statków przepływających do Zatoki Perskiej, a Teheran miałby uzyskać realną kontrolę nad tym, kto może korzystać z cieśniny. Polska Agencja Prasowa oraz Rzeczpospolita podają, powołując się na źródła dyplomatyczne, że są to wstępne informacje o ustępstwach USA wobec Iranu, co część komentatorów nazywa jednym z największych ustępstw wobec Teheranu od początku konfliktu. Iran zastrzega jednak, że sama umowa z Omanem nie oznacza automatycznego otwarcia cieśniny; władze w Teheranie powtarzają, że szlak pozostanie zamknięty, dopóki Stany Zjednoczone nie skorygują swojego postępowania w regionie. Równolegle nierozwiązany pozostaje spór o trzech irańskich pilotów wojskowych, których zdaniem Teheranu przetrzymuje Katar; Doha temu zaprzecza. Analitycy ostrzegają, że mimo doniesień o zbliżającym się porozumieniu sytuacja w kluczowej dla światowych dostaw ropy Zatoce Perskiej pozostaje napięta i niepewna.",
+    "title": "Cieśnina Ormuz: ZEA oskarża Iran o ataki dronami na tankowce, Teheran zaprzecza",
+    "body": "Kryzys wokół Cieśniny Ormuz nabiera nowej dynamiki. Zjednoczone Emiraty Arabskie oskarżyły Iran o przeprowadzenie ataków dronowych na dwa tankowce należące do koncernu ADNOC, przepływające przez cieśninę; do ataków nie doszły ofiary w ludziach, ale sprawa podnosi napięcie w regionie kluczowym dla światowych dostaw ropy. Iran odrzucił oskarżenia formułowane wcześniej przez prezydenta Donalda Trumpa dotyczące odpowiedzialności za incydenty w Ormuzie, a media, w tym CNBC, informują o kolejnym doniesieniu o ataku na statek w cieśninie. Wcześniej Trump postawił Iranowi 48-godzinne ultimatum ws. ponownego otwarcia szlaku dla żeglugi międzynarodowej, a Teheran i Oman prowadziły rozmowy o nowej trasie dla statków płynących do Zatoki Perskiej, w ramach których Iran miałby zyskać większą kontrolę nad ruchem morskim; strona irańska zastrzega jednak, że cieśnina pozostanie zamknięta, dopóki Stany Zjednoczone nie skorygują swojej polityki wobec regionu. Nierozwiązany pozostaje też spór o trzech irańskich pilotów wojskowych, których zdaniem Teheranu przetrzymuje Katar, czemu Doha zaprzecza. Zachodnie media, w tym Al Jazeera, Washington Post i The Hill, ostrzegają przed ryzykiem dalszej eskalacji morskiej w newralgicznym dla światowego handlu regionie.",
     "sources": {
       "https://www.pap.pl/aktualnosci/ruch-statkow-w-ciesninie-ormuz-sa-wstepne-informacje-o-porozumieniu-usa-iran": "PAP",
       "https://www.rp.pl/dyplomacja/art44949561-usa-ustepuja-iranowi-teheran-ma-miec-kontrole-nad-tym-kto-przeplywa-ciesnine-ormuz": "Rzeczpospolita",
@@ -164,9 +164,13 @@
       "https://biznes.interia.pl/gospodarka/news-iran-mowi-o-porozumieniu-w-sprawie-ormuzu-stawia-warunki-usa,nId,23526560": "Interia Biznes",
       "https://www.rmf24.pl/fakty/swiat/news-iran-stawia-warunki-ciesnina-ormuz-zamknieta-dopoki-usa-nie-,nIdn,1013001": "RMF24",
       "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots": "Al Jazeera",
-      "https://www.wnp.pl/energia/iran-wynegocjowal-z-omanem-kontrole-nad-ruchem-przychodzacym-do-zatoki-perskiej,1087707.html": "WNP.pl"
+      "https://www.wnp.pl/energia/iran-wynegocjowal-z-omanem-kontrole-nad-ruchem-przychodzacym-do-zatoki-perskiej,1087707.html": "WNP.pl",
+      "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz": "Al Jazeera",
+      "https://www.washingtonpost.com/business/2026/08/14/iran-uae-us-strait-hormuz-august-14-2026/d0e3173a-97bf-11f1-9ef9-1be722184483_story.html": "Washington Post",
+      "https://thehill.com/policy/international/6029490-uae-blames-iran-hormuz-strikes/": "The Hill",
+      "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html": "CNBC"
     },
-    "last_updated": "2026-08-16 08:19"
+    "last_updated": "2026-08-16 09:20"
   },
   {
     "slug": "michigan-strzelanina-missaukee-hickman-15-sierpnia-2026",
@@ -248,16 +252,19 @@
     "category": "world",
     "lead": false,
     "title": "Ukraina odzyskuje ponad 700 km2 w obwodzie dniepropetrowskim, Rosja nasila ataki rakietowe",
-    "body": "Ukraińskie siły zbrojne ogłosiły wyzwolenie 26 miejscowości i ponad 700 kilometrów kwadratowych terytorium w ramach kontrofensywy w obwodzie dniepropetrowskim, co jest jednym z największych postępów Kijowa od miesięcy; Instytut Badań nad Wojną (ISW) potwierdził odzyskanie co najmniej 400 kilometrów kwadratowych tego obszaru. W odpowiedzi Rosja zintensyfikowała ataki rakietowo-dronowe na ukraińskie miasta i cele cywilne, co strona ukraińska ocenia jako próbę odwrócenia uwagi od strat na froncie; Ukraina odpowiada seriami nalotów dronowych na rosyjskie regiony przygraniczne i obiekty infrastrukturalne. Równolegle Ukraina przekazała Stanom Zjednoczonym własne propozycje dotyczące wznowienia rozmów pokojowych z Rosją, licząc na dodatkową presję administracji Donalda Trumpa na Moskwę; Niemcy, Francja i Wielka Brytania pracują też nad własnym formatem rozmów pokojowych. Analitycy wojskowi, w tym cytowani przez Defence24, oceniają, że sukcesy na południu mogą wzmocnić pozycję negocjacyjną Kijowa, choć ostrzegają przed ryzykiem dalszej rosyjskiej eskalacji w odpowiedzi na utratę terenu. Kijów podkreśla, że ewentualne ustępstwa terytorialne muszą wiązać się z twardymi gwarancjami bezpieczeństwa.",
+    "body": "Ukraińskie siły zbrojne ogłosiły wyzwolenie 26 miejscowości i ponad 700 kilometrów kwadratowych terytorium w ramach kontrofensywy w obwodzie dniepropetrowskim, co jest jednym z największych postępów Kijowa od miesięcy; Instytut Badań nad Wojną (ISW) potwierdził odzyskanie co najmniej 400 kilometrów kwadratowych tego obszaru. W nocy z 15 na 16 sierpnia Rosja przeprowadziła kolejny zmasowany atak dronowy, uderzając między innymi w rejon moskiewski setkami bezzałogowców, a eksplozje słyszalne były też w Kijowie; w wyniku ataku na Ukrainę zginęła co najmniej jedna kobieta. Rumuński myśliwiec NATO zestrzelił rosyjskiego drona, który naruszył przestrzeń powietrzną Rumunii, co pokazuje rosnące ryzyko rozlania się konfliktu poza granice Ukrainy. Ukraina odpowiada seriami nalotów dronowych na rosyjskie regiony przygraniczne i obiekty infrastrukturalne. Równolegle Ukraina przekazała Stanom Zjednoczonym własne propozycje dotyczące wznowienia rozmów pokojowych z Rosją, licząc na presję administracji Trumpa na Moskwę; Niemcy, Francja i Wielka Brytania pracują też nad własnym formatem rozmów. Analitycy oceniają, że sukcesy na południu mogą wzmocnić pozycję negocjacyjną Kijowa, choć ostrzegają przed ryzykiem dalszej rosyjskiej eskalacji w odpowiedzi na utratę terenu.",
     "sources": {
       "https://wydarzenia.interia.pl/ukraina-rosja/news-skuteczna-kontrofensywa-ukrainy-setki-kilometrow-odbite-z-ra,nId,23528292": "Interia",
       "https://www.rp.pl/konflikty-zbrojne/art44978091-zelenski-przekazal-usa-propozycje-rozmow-z-rosja-kijow-liczy-na-presje-trumpa": "rp.pl",
       "https://defence24.pl/polityka-obronna/rosyjskie-rakiety-atakuja-ukraine-kijow-odpowiada-setkami-dronow": "Defence24",
       "https://www.pap.pl/aktualnosci/atak-ukrainskich-dronow-w-rosji-sa-ofiary-smiertelne": "PAP",
       "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks": "Al Jazeera",
-      "https://www.euronews.com/my-europe/2026/08/14/kyivs-forces-retake-26-settlements-and-over-600-km2-in-southeastern-ukraine": "Euronews"
+      "https://www.euronews.com/my-europe/2026/08/14/kyivs-forces-retake-26-settlements-and-over-600-km2-in-southeastern-ukraine": "Euronews",
+      "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania": "Al Jazeera",
+      "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv": "France 24",
+      "https://kyivindependent.com/russian-attack-rocks-kyiv-as-numerous-explosions-heard-within-minutes/": "Kyiv Independent"
     },
-    "last_updated": "2026-08-16 05:23"
+    "last_updated": "2026-08-16 09:20"
   },
   {
     "slug": "huragan-lala-hawaje-ostrzezenie-15-sierpnia-2026",
@@ -327,5 +334,36 @@
       "https://zachod.pl/1535288/polscy-uczniowie-zdobyli-osiem-medali-w-miedzynarodowej-olimpiadzie-sztucznej-inteligencji/": "Radio Zachód"
     },
     "last_updated": "2026-08-16 07:26"
+  },
+  {
+    "slug": "wypadek-autokaru-polskiego-wegry-16-sierpnia-2026",
+    "category": "pl",
+    "lead": true,
+    "title": "Tragiczny wypadek polskiego autokaru na Węgrzech, zginęło 12 osób",
+    "body": "Na Węgrzech doszło w sobotę do tragicznego wypadku autokaru wiozącego polskich pasażerów, w wyniku którego zginęło 12 osób, a co najmniej 10 zostało rannych, część w stanie ciężkim. Według Nowiny24 pojazd wiózł mieszkańców Podkarpacia; dokładna trasa i miejscowość zdarzenia są ustalane przez węgierskie służby, a pełne okoliczności katastrofy wciąż się wyjaśnia. Węgierska policja zatrzymała kierowcę autokaru, a przyczyny wypadku, w tym ewentualny udział czynnika ludzkiego lub technicznego, są przedmiotem prowadzonego postępowania. Informację potwierdziły niemal wszystkie duże polskie redakcje, w tym PAP, RMF24, TVN24, Interia, rp.pl, Polsat News i Polskie Radio 24, a o zdarzeniu informują też media zagraniczne, powołując się na agencję Reuters. Polskie MSZ oraz konsulat w Budapeszcie uruchamiają procedury pomocy rodzinom ofiar i poszkodowanym; oczekiwane są komunikaty o wsparciu dla rannych oraz organizacji transportu do kraju. Wypadek wywołał falę kondolencji i poruszenia w mediach społecznościowych, a lokalne władze na Podkarpaciu zapowiedziały wsparcie dla rodzin ofiar. To jedna z najtragiczniejszych katastrof drogowych z udziałem Polaków za granicą od lat, sprawa pozostaje rozwojowa i będzie aktualizowana w miarę napływu nowych informacji.",
+    "sources": {
+      "https://www.pap.pl/aktualnosci/tragiczny-wypadek-polskiego-autokaru-na-wegrzech-sa-ofiary-smiertelne-i-ranni": "PAP",
+      "https://www.rmf24.pl/fakty/swiat/news-wypadek-polskiego-autokaru-na-wegrzech-12-osob-nie-zyje,nIdn,1013848": "RMF24",
+      "https://tvn24.pl/swiat/wypadek-polskiego-autokaru-na-wegrzech-zginelo-12-osob-st9191761": "TVN24",
+      "https://wydarzenia.interia.pl/zagranica/news-wypadek-polskiego-autokaru-na-wegrzech-sa-ofiary-i-ranni,nId,23529349": "Interia",
+      "https://www.rp.pl/wypadki/art45004121-wypadek-polskiego-autokaru-na-wegrzech-nie-zyje-12-osob": "rp.pl",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-16/wypadek-polskiego-autokaru-na-wegrzech-12-osob-nie-zyje-wielu-rannych/": "Polsat News",
+      "https://nowiny24.pl/wegry-tragiczny-wypadek-autokaru-z-podkarpacia-zginelo-12-osob/ar/c1p2-29269977": "Nowiny24"
+    },
+    "last_updated": "2026-08-16 09:20"
+  },
+  {
+    "slug": "japonia-minister-swiatynia-yasukuni-protesty-chiny-korea-15-sierpnia-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Japoński minister odwiedził świątynię Yasukuni, protesty Chin i Korei Południowej",
+    "body": "W 81. rocznicę kapitulacji Japonii w II wojnie światowej minister obrony Japonii złożył wizytę i ofiarę w kontrowersyjnej świątyni Yasukuni w Tokio, upamiętniającej między innymi japońskich zbrodniarzy wojennych skazanych po wojnie; łącznie świątynię odwiedziło tego dnia czterech japońskich ministrów, choć sama premier Sanae Takaichi osobiście nie pojawiła się na miejscu, ograniczając się do przesłania rytualnej ofiary. Wizyta wywołała natychmiastowe protesty dyplomatyczne ze strony Chin i Korei Południowej, które od dekad krytykują odwiedziny japońskich polityków w świątyni jako gloryfikację japońskiego militaryzmu i wypieranie odpowiedzialności za zbrodnie wojenne popełnione w regionie. Pekin i Seul wezwały Tokio do refleksji nad historią i przestrzegania wcześniejszych deklaracji o pokojowym kursie polityki zagranicznej. Japońskie media, w tym Japan Times, podkreślają, że decyzja premier Takaichi o nieodwiedzeniu świątyni osobiście miała złagodzić napięcia dyplomatyczne z sąsiadami, choć wysłanie ofiary i wizyta czterech ministrów i tak wywołały krytykę. Sprawa na nowo rozpaliła regionalny spór o pamięć historyczną między Japonią a jej sąsiadami w Azji Wschodniej.",
+    "sources": {
+      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea": "Al Jazeera",
+      "https://www.japantimes.co.jp/news/2026/08/15/japan/politics/japan-takaichi-koizumi-yasukuni/": "Japan Times",
+      "https://www.washingtonpost.com/world/2026/08/14/japan-minister-shrine-militarism/446c95aa-9833-11f1-9ef9-1be722184483_story.html": "Washington Post",
+      "https://www.nbcnews.com/world/japan/japanese-leader-skips-controversial-shrine-visit-avoids-mention-remors-rcna592663": "NBC News"
+    },
+    "last_updated": "2026-08-16 09:20"
   }
 ]
