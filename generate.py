@@ -84,7 +84,11 @@ def category_html(cat_key):
 pl_html, pl_total, pl_shown = category_html("pl")
 world_html, world_total, world_shown = category_html("world")
 
-now = datetime.now(WARSAW) if WARSAW else datetime.now()
+override = sys.argv[2] if len(sys.argv) > 2 else None
+if override:
+    now = datetime.strptime(override, "%Y-%m-%d %H:%M")
+else:
+    now = datetime.now(WARSAW) if WARSAW else datetime.now()
 time_part = now.strftime('%H:%M')
 meta_line = f"Aktualizacja: {pl_date_str(now)}, {time_part}, wygenerowano automatycznie"
 
