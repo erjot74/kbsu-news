@@ -36,11 +36,18 @@ def is_polish_source(name):
                        "Dorzeczy","o2.pl","Zero.pl","300gospodarka","Money.pl"]
     return any(m.lower() in name.lower() for m in polish_markers)
 
+def is_polish_url(url):
+    try:
+        host = urllib.parse.urlparse(url).netloc.lower()
+    except Exception:
+        return False
+    return host.endswith(".pl") or ".pl/" in url.lower()
+
 def render_sources(sources):
     parts = []
     for url, name in sources.items():
         translate = ""
-        if not is_polish_source(name):
+        if not is_polish_source(name) and not is_polish_url(url):
             enc = urllib.parse.quote(url, safe="")
             translate = f' <a class="translate-link" href="https://translate.google.com/translate?sl=auto&tl=pl&u={enc}">tłumacz</a>'
         parts.append(f'<a href="{url}" target="_blank" rel="noopener">{name}</a>{translate}')

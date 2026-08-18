@@ -58,5 +58,21 @@
       "https://www.rynek-kolejowy.pl/wiadomosci/koleje-ukrainskie-postepuje-ewakuacja-z-kramatorska-i-slowianska-107508.html": "Rynek Kolejowy"
     },
     "last_updated": "2026-08-18 00:40"
+  },
+  {
+    "slug": "program-cpn-ceny-paliw-nizej-sierpien-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Rząd przywrócił program CPN: od poniedziałku niższe maksymalne ceny paliw na stacjach",
+    "body": "W poniedziałek 17 sierpnia 2026 roku polski rząd pod kierownictwem premiera Donalda Tuska przywrócił program osłonowy CPN, czyli Ceny Paliw Niżej, ustalający maksymalne ceny benzyny i oleju napędowego na stacjach paliw w całym kraju. Jak informuje oficjalny komunikat Kancelarii Prezesa Rady Ministrów opublikowany na stronie gov.pl, obniżka obowiązuje od poniedziałku i ma być odczuwalna przede wszystkim dla kierowców tankujących Pb95, Pb98 oraz olej napędowy. Forsal.pl oraz GazetaPrawna.pl podają, że premier Tusk zapewnił, iż paliwa będą tańsze o ponad dziesięć procent względem cen rynkowych, zastrzegając jednocześnie, że utrzymanie programu będzie kosztować budżet państwa znaczące kwoty. Biznesinfo.pl oraz portal biznes.interia.pl przekazują konkretne maksymalne stawki obowiązujące we wtorek 18 sierpnia, wskazując, że ceny na dystrybutorach mogą się jeszcze różnić w zależności od regionu. Rp.pl przypomina, że to kolejna odsłona wcześniej krytykowanego przez opozycję mechanizmu, a sam Tusk w poprzednich tygodniach wiązał wcześniejsze wzrosty cen paliw z decyzjami podejmowanymi przez prezydenta Karola Nawrockiego, co podsyca trwający spór polityczny wokół polityki energetycznej rządu.",
+    "sources": {
+      "https://www.gov.pl/web/premier/wraca-rzadowy-program-cpn-czyli-ceny-paliwa-nizej": "Gov.pl (KPRM)",
+      "https://forsal.pl/gospodarka/aktualnosci/artykuly/11289091,powrot-programu-ceny-paliw-nizej-cpn-premier-tansze-paliwo-od-tego-momentu.html": "Forsal.pl",
+      "https://www.gazetaprawna.pl/biznes/finanse-i-gospodarka/artykuly/11290670,tusk-paliwa-sa-tansze-o-ponad-10-proc-ale-kosztowac-bedzie-to-ponad.html": "GazetaPrawna.pl",
+      "https://www.biznesinfo.pl/ceny-paliw-na-wtorek-18-sierpnia-jest-nowa-decyzja-rzadu-kierowcy-poznali-stawki-jb-wem-170826": "Biznes Info",
+      "https://biznes.interia.pl/gospodarka/news-cpn-wraca-znamy-nowe-maksymalne-ceny-paliw-tyle-zaplacimy-w,nId,23528933": "Interia Biznes",
+      "https://energia.rp.pl/paliwa/art44989871-nieoficjalnie-rzad-oglosi-powrot-programu-cpn-ceny-paliw-znow-maja-byc-nizsze": "rp.pl"
+    },
+    "last_updated": "2026-08-18 04:20"
   }
 ]
