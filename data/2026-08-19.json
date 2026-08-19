@@ -159,5 +159,22 @@
       "https://www.wprost.pl/swiat/12415014/putin-chce-rozbic-nato-od-srodka-moldawia-kluczowa.html": "Wprost"
     },
     "last_updated": "2026-08-19 10:17"
+  },
+  {
+    "slug": "atak-dronow-moskwa-620-dronow-18-sierpnia-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Ukraina przeprowadziła jeden z największych od dwóch lat ataków dronowych na Moskwę",
+    "body": "W nocy z 17 na 18 sierpnia 2026 roku ukraińskie siły przeprowadziły jeden z największych od dwóch lat ataków dronowych na Moskwę i obwód moskiewski, kierując w stronę rosyjskiej stolicy, według różnych źródeł, od kilkuset do 620 bezzałogowców. Jak informuje Dorzeczy.pl, rosyjska obrona powietrzna zestrzeliła 180 z 620 dronów, a Interia opisuje nalot jako największy atak na rejon Moskwy od dwóch lat. TVN24 podaje, że jeden z dronów trafił w magazyn giganta e-commerce Wildberries pod Moskwą, wywołując rozległy pożar, a lokalne władze przekazały informacje o ofiarach cywilnych bez podania dokładnej liczby poszkodowanych. PolsatNews.pl informuje, że w wyniku ataku są ranni, a w regionie wybuchły też kolejne pożary, w tym w infrastrukturze magazynowej i energetycznej. Energetyka24.com podaje, że ponad pięć tysięcy odbiorców zostało pozbawionych prądu. WP Wiadomości opisuje, że drony trafiły także w zaplecze logistyczne rosyjskiej armii. Rosyjskie władze potwierdziły odparcie części ataku, nie podając pełnych danych o stratach. Nalot wpisuje się w serię coraz częstszych ukraińskich uderzeń w głąb Rosji, mających osłabiać zaplecze logistyczne i przemysłowe wojny.",
+    "sources": {
+      "https://dorzeczy.pl/swiat/930094/atak-ukrainy-na-moskwe-rosja-zestrzelila-180-z-620-dronow.html": "Dorzeczy.pl",
+      "https://tvn24.pl/swiat/ukrainskie-drony-uderzyly-w-poblizu-moskwy-trafily-w-magazyn-wildberries-st9194187": "TVN24",
+      "https://wydarzenia.interia.pl/ukraina-rosja/news-najwiekszy-atak-od-dwoch-lat-setki-dronow-nad-moskwa,nId,23530241": "Interia",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-18/atak-na-stolice-rosji-ponad-600-dronow-w-regionie-sa-ranni/": "PolsatNews.pl",
+      "https://energetyka24.com/energetyka/elektroenergetyka/atak-dronow-na-moskwe-ponad-5-tys-odbiorcow-bez-pradu": "Energetyka24.com",
+      "https://wiadomosci.wp.pl/setki-dronow-polecialy-na-moskwe-plonie-zaplecze-armii-putina-7319686773221504a": "WP Wiadomości",
+      "https://www.eska.pl/news/swiat/atak-dronow-na-moskwe-setki-bezzalogowcow-nadlecialy-nad-stolice-rosji-aa-4g8F-j5Fo-aDZh.html": "ESKA.pl"
+    },
+    "last_updated": "2026-08-19 12:25"
   }
 ]
