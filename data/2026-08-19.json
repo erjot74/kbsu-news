@@ -88,7 +88,7 @@
     "category": "pl",
     "lead": false,
     "title": "Rząd uruchomił program CPN z maksymalnymi cenami paliw na stacjach",
-    "body": "Od poniedziałku, 17 sierpnia 2026 roku, rząd Donalda Tuska uruchomił program osłonowy CPN, wprowadzający maksymalne ceny paliw na stacjach benzynowych w całej Polsce, a już trzeciego dnia jego działania widać wyraźne wahania cen. Jak informuje energia.rp.pl, w poniedziałek maksymalne stawki wynosiły 6,41 zł za litr benzyny Pb95 oraz 7,37 zł za litr oleju napędowego, jednak Parkiet.com podaje, że od wtorku i środy paliwa znów drożeją w ślad za rosnącymi cenami hurtowymi, choć limity CPN chronią kierowców przed jeszcze wyższymi podwyżkami. WNP.pl potwierdza, że trzeciego dnia działania nowego pakietu ceny maksymalne poszły w górę, a OTOMOTO News dodaje, że na środę, 19 sierpnia, rząd ponownie podniósł limity, więc kierowcy zatankują drożej niż w poniedziałek. Autokult.pl i Agroprofil.pl informują, że mimo podwyżek stawki pozostają niższe niż byłyby bez interwencji państwa, a analitycy wiążą wzrosty z sytuacją na rynkach światowych i napięciami wokół Cieśniny Ormuz. Politycy opozycji krytykują program jako doraźny i kosztowny dla budżetu, rząd broni decyzji, wskazując na ochronę portfeli kierowców w szczycie sezonu wakacyjnego. Program ma obowiązywać do końca wakacji.",
+    "body": "Program osłonowy CPN, wprowadzający maksymalne ceny paliw na polskich stacjach, trwa już piąty dzień, a rząd Donalda Tuska podał kolejne, wyższe stawki obowiązujące w środę, 19 sierpnia 2026 roku. Jak informuje Ministerstwo Energii na portalu Gov.pl, maksymalna cena benzyny Pb95 wynosi tego dnia 6,46 złotych za litr, a oleju napędowego 7,47 złotych za litr, czyli więcej niż w poniedziałek, gdy program wystartował. Super Biznes podaje, że minister energii ogłosił nowe stawki, tłumacząc podwyżki rosnącymi cenami hurtowymi surowca na rynkach światowych. AutoGaleria.pl i Warszawa w Pigułce informują, że drożeje benzyna, diesel i paliwo premium Pb98, choć limity CPN nadal chronią kierowców przed jeszcze wyższymi cenami rynkowymi. OTOMOTO News zapowiada, że w czwartek, 20 sierpnia, ceny maksymalne mogą pójść jeszcze wyżej w ślad za notowaniami ropy, na które wpływają napięcia wokół Cieśniny Ormuz i wojna Iranu z USA. NewsLubuski.pl podkreśla, że mimo podwyżek Polacy wciąż płacą mniej niż wynosiłaby cena czysto rynkowa. Opozycja krytykuje koszty programu dla budżetu, rząd broni decyzji jako ochrony portfeli kierowców w sezonie wakacyjnym.",
     "sources": {
       "https://www.gov.pl/web/energia/taniej-na-stacjach-paliw-rzad-uruchamia-program-oslonowy-cpn": "Gov.pl (Ministerstwo Energii)",
       "https://polskieradio24.pl/pieniadze/duza-obnizka-na-stacjach-17-sierpnia-2026-rzad-podal-maksymalne-ceny-paliw": "Polskie Radio 24",
@@ -99,9 +99,15 @@
       "https://www.otomoto.pl/news/ceny-paliw-19-sierpnia-cpn": "OTOMOTO News",
       "https://autokult.pl/nowe-limity-cen-paliw-od-srody-ile-zaplaca-kierowcy,7319761827653760a": "Autokult.pl",
       "https://agroprofil.pl/wiadomosci/ceny-paliw-pna-sie-w-gore-po-skokowej-obnizce-w-poniedzialek-sprawdz-ile-wiecej-zaplacisz-w-srode-i-czwartek/": "Agroprofil.pl",
-      "https://energia.rp.pl/paliwa/art45006281-rzad-obniza-ceny-paliw-od-dzis-benzyna-i-diesel-maja-byc-wyraznie-tansze": "rp.pl"
+      "https://energia.rp.pl/paliwa/art45006281-rzad-obniza-ceny-paliw-od-dzis-benzyna-i-diesel-maja-byc-wyraznie-tansze": "rp.pl",
+      "https://www.gov.pl/web/energia/maksymalna-cena-detaliczna-paliw-obowiazujaca-19-sierpnia-2026-r": "Gov.pl (Ministerstwo Energii)",
+      "https://superbiz.se.pl/wiadomosci/ceny-benzyny-ida-w-gore-minister-energii-podal-nowe-stawki-aa-ZQfV-Uns9-WeCv.html": "Super Biznes",
+      "https://autogaleria.pl/maksymalne-ceny-paliw-na-19-sierpnia-benzyna-i-diesel-znowu-drozeja": "AutoGaleria.pl",
+      "https://warszawawpigulce.pl/uwaga-kierowcy-od-srody-19-sierpnia-nowe-maksymalne-ceny-paliw-benzyna-diesel-i-pb98-drozeja/": "Warszawa w Pigułce",
+      "https://www.otomoto.pl/news/ceny-maksymalne-paliw-20-sierpnia-2026": "OTOMOTO News",
+      "https://newslubuski.pl/spoleczne/121987-maksymalne-ceny-paliw-19-sierpnia-2026.html": "NewsLubuski.pl"
     },
-    "last_updated": "2026-08-19 11:20"
+    "last_updated": "2026-08-19 15:18"
   },
   {
     "slug": "zmiany-zatrudnianie-cudzoziemcow-kolumbia-gruzja-wenezuela-22-sierpnia-2026",
@@ -197,5 +203,22 @@
       "https://www.toledoblade.com/local/police-fire/2026/08/18/crews-battling-south-toledo-structure-fire/stories/20260818078": "The Blade"
     },
     "last_updated": "2026-08-19 14:21"
+  },
+  {
+    "slug": "imgw-ostrzezenia-burze-upaly-19-sierpnia-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "IMGW ostrzega przed upałami i gwałtownymi burzami w piętnastu województwach",
+    "body": "W środę, 19 sierpnia 2026 roku, Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego, a miejscami drugiego stopnia przed upałami i gwałtownymi burzami dla około piętnastu województw w Polsce, o czym informuje TVN24 Meteo. Jak podaje RMF24, w wielu regionach synoptycy spodziewają się temperatur sięgających nawet 30 stopni Celsjusza w połączeniu z intensywnymi burzami, którym towarzyszyć mogą grad, ulewne opady i silne porywy wiatru. Portalspożywczy.pl informuje, że najgroźniej może być w nocy, gdy nad krajem przemieszczać się będzie kolejna fala burzowa, a władze części powiatów, jak kamiennogórski na Dolnym Śląsku, wydały własne komunikaty ostrzegawcze drugiego stopnia. WP Wiadomości podaje, że mieszkańcy odczują duże wahania temperatury: upał w dzień i gwałtowne ochłodzenie po przejściu frontu. Goniec.pl zauważa, że niespokojna pogoda pojawia się tuż przed końcem wakacji, co może pokrzyżować plany ostatnich wyjazdów urlopowych. PolsatNews.pl ostrzega, że kolejne zmiany pogody będą następować jedna po drugiej przez najbliższe dni, bez wyraźnej stabilizacji. Służby apelują o ostrożność i śledzenie bieżących komunikatów IMGW.",
+    "sources": {
+      "https://tvn24.pl/tvnmeteo/polska/upal-i-burze-ostrzezenia-imgw-dla-15-wojewodztw-niektore-maja-nawet-drugi-stopien-st9142923": "TVN24 Meteo",
+      "https://www.rmf24.pl/fakty/pogoda/news-alerty-imgw-dla-wielu-regionow-nadciagaja-upaly-i-gwaltowne-,nIdn,1014315": "RMF24",
+      "https://www.portalspozywczy.pl/inne/wiadomosci/imgw-alerty-przed-burzami-i-upalem-gdzie-bedzie-najgrozniej-w-nocy,292048.html": "Portalspożywczy.pl",
+      "https://kamienna-gora.pl/aktualnosci/1902-ostrzezenia-meteorologiczne-burze-stopien-2.html": "Powiat Kamiennogórski",
+      "https://wiadomosci.wp.pl/nawet-30-stopni-ulewy-i-silny-wiatr-imgw-wydal-nowa-prognoze-7320026125068416a": "WP Wiadomości",
+      "https://goniec.pl/niepokojace-prognozy-na-sam-koniec-wakacji-mozliwe-burze-wichury-i-sciana-deszczu-mt-wpd-190826": "Goniec.pl",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-19/zostaly-ostatnie-godziny-do-zalamania-pogody-zbliza-sie-burzowa-seria/": "PolsatNews.pl"
+    },
+    "last_updated": "2026-08-19 15:18"
   }
 ]
