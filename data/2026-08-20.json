@@ -120,9 +120,10 @@
       "https://www.cnn.com/2026/08/19/world/live-news/iran-war-trump": "CNN",
       "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran": "Al Jazeera",
       "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/": "CBS News",
-      "https://www.thenationalnews.com/news/uae/2026/08/18/uae-suspends-trade-and-financial-transactions-with-iran/": "The National"
+      "https://www.thenationalnews.com/news/uae/2026/08/18/uae-suspends-trade-and-financial-transactions-with-iran/": "The National",
+      "https://wydarzenia.interia.pl/bliski-wschod/news-trump-wypowiada-iranowi-wojne-gospodarcza-na-niespotykana-sk,nId,23531315": "Interia"
     },
-    "last_updated": "2026-08-20 07:20"
+    "last_updated": "2026-08-20 09:21"
   },
   {
     "slug": "izrael-gaza-atak-kushner-zawieszenie-broni-20-sierpnia-2026",
@@ -204,5 +205,33 @@
       "https://dorzeczy.pl/swiat/928888/putin-chce-rozbic-nato-i-ue-od-wewnatrz-moldawia-ma-byc-kluczowa.html": "Do Rzeczy"
     },
     "last_updated": "2026-08-20 07:20"
+  },
+  {
+    "slug": "wybuch-kuter-jastarnia-lpr-20-sierpnia-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Wybuch na kutrze rybackim w Jastarni, dwóch mężczyzn rannych",
+    "body": "W środę po południu w porcie rybackim w Jastarni na Półwyspie Helskim doszło do eksplozji na pokładzie kutra rybackiego, do której doprowadził najprawdopodobniej wybuch silnika lub instalacji paliwowej jednostki. W wyniku zdarzenia ranne zostały dwie osoby, rybacy przebywający na pokładzie w chwili wybuchu, którzy doznali poparzeń i obrażeń wymagających specjalistycznej pomocy medycznej. Na miejsce natychmiast skierowano zastępy straży pożarnej oraz służby ratownicze, a ze względu na stan poszkodowanych do akcji włączył się Lotniczy Pogotowie Ratunkowe, które przetransportowało rannych do szpitali dysponujących oddziałami leczenia oparzeń. Dokładne przyczyny eksplozji bada obecnie policja oraz straż pożarna, które starają się ustalić, czy doszło do awarii technicznej silnika, wycieku paliwa czy innego zdarzenia losowego na pokładzie jednostki. Władze portu w Jastarni oraz lokalna społeczność rybacka wyraziły zaniepokojenie bezpieczeństwem pracy na kutrach, apelując o dokładne przeglądy techniczne floty rybackiej przed sezonem połowowym. Sprawa wywołała odzew w mediach lokalnych Pomorza, a mieszkańcy nadmorskich miejscowości życzą poszkodowanym szybkiego powrotu do zdrowia.",
+    "sources": {
+      "https://goniec.pl/wybuch-przy-kutrze-rybackim-w-jastarni-ranne-2-osoby-interweniuje-lpr-ks-wksw-190826": "Goniec.pl",
+      "https://www.rmf24.pl/regiony/trojmiasto/news-jastarnia-eksplozja-kutra-w-porcie-rybackim,nIdn,1014314": "RMF24",
+      "https://wiadomosci.wp.pl/eksplozja-na-kutrze-rybackim-w-jastarni-dwoch-rannych-7320156439550080a": "WP Wiadomości",
+      "https://www.portalmorski.pl/bezpieczenstwo/61497-wybuch-silnika-na-kutrze-rybackim-w-jastarni-poszkodowane-dwie-osoby": "PortalMorski.pl"
+    },
+    "last_updated": "2026-08-20 09:21"
+  },
+  {
+    "slug": "ukraina-rosja-wymiana-jencow-103-za-103-20-sierpnia-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Ukraina i Rosja przeprowadziły wymianę jeńców, wrócili obrońcy Mariupola",
+    "body": "We wtorek i środę Ukraina i Rosja przeprowadziły kolejną, dużą wymianę jeńców wojennych w formule sto trzy za sto trzy, w ramach której do domów wróciło łącznie ponad dwustu żołnierzy przetrzymywanych w niewoli po obu stronach frontu. Wśród uwolnionych Ukraińców znaleźli się między innymi obrońcy Mariupola i kombinatu Azowstal, którzy spędzili w rosyjskiej niewoli wiele miesięcy, znosząc trudne warunki opisywane przez organizacje praw człowieka jako nieludzkie. Prezydent Ukrainy Wołodymyr Zełenski poinformował o zakończonej wymianie i opublikował zdjęcia powracających żołnierzy, dziękując negocjatorom oraz mediatorom, w tym stronie Zjednoczonych Emiratów Arabskich, która od miesięcy pośredniczy w podobnych operacjach humanitarnych między Kijowem a Moskwą. Rodziny uwolnionych żołnierzy relacjonowały wzruszające powitania, część ocalałych wymagała natychmiastowej pomocy medycznej po długim okresie niewoli. Wymiana odbywa się na tle wciąż trwających intensywnych walk oraz ataków rakietowo dronowych na terytorium Ukrainy, co komentatorzy oceniają jako dowód, że nawet w warunkach kontynuowanej wojny obie strony zachowują kanał do ograniczonych porozumień humanitarnych.",
+    "sources": {
+      "https://www.pap.pl/aktualnosci/wymiana-jencow-pomiedzy-ukraina-i-rosja": "PAP",
+      "https://tvn24.pl/swiat/103-ukrainskich-jencow-wrocilo-do-kraju-wsrod-nich-obroncy-mariupola-st9196446": "TVN24",
+      "https://forsal.pl/swiat/ukraina/artykuly/9605018,masowa-wymiana-jencow-wojennych-miedzy-ukraina-i-rosja-wolnosc-odzysk.html": "Forsal.pl",
+      "https://kresy.pl/wydarzenia/rosja-i-ukraina-wymienily-jencow/": "Kresy.pl"
+    },
+    "last_updated": "2026-08-20 09:21"
   }
 ]
