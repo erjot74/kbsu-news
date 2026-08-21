@@ -114,5 +114,33 @@
       "https://www.wprost.pl/kraj/12419553/karol-nawrocki-wetuje-i-obszernie-wyjasnia-powody-minister-klimczak-nieprzekonany.html": "Wprost"
     },
     "last_updated": "2026-08-21 05:16"
+  },
+  {
+    "slug": "tragedia-tatry-orla-perc-bratanica-wiceprezydenta-bydgoszczy-sierpien-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Tragedia w Tatrach: na Orlej Perci zginęła 36-letnia bratanica wiceprezydenta Bydgoszczy",
+    "body": "Trzydziestosześcioletnia kobieta z Bydgoszczy, bratanica wiceprezydenta tego miasta, zginęła w połowie sierpnia podczas wędrówki po Orlej Perci, uznawanej za jeden z najtrudniejszych i najbardziej eksponowanych szlaków w polskich Tatrach, prowadzący skalistą granią zabezpieczoną łańcuchami i klamrami. Górskie Ochotnicze Pogotowie Ratunkowe zaalarmowane o wypadku podjęło akcję ratunkową, jednak pomoc nie zdołała uratować życia turystki, a dokładne okoliczności zdarzenia bada obecnie prokuratura. Wiceprezydent Bydgoszczy pożegnał bratanicę we wzruszającym wpisie w mediach społecznościowych, pisząc, że nie umie wyobrazić sobie życia bez niej, co poruszyło mieszkańców miasta i wywołało falę kondolencji. Sprawę opisało wiele ogólnopolskich redakcji, podkreślających, że Orla Perć od lat jest miejscem wypadków turystów nieprzygotowanych na trudne warunki i gwałtownie zmieniającą się pogodę w wysokich partiach Tatr. Ratownicy TOPR oraz władze Tatrzańskiego Parku Narodowego po raz kolejny zaapelowali o ostrożność, odpowiednie przygotowanie kondycyjne i sprzętowe oraz rezygnację z wędrówki tym szlakiem w razie złej pogody, mgły lub braku doświadczenia w trudnym terenie wysokogórskim.",
+    "sources": {
+      "https://tvn24.pl/kujawsko-pomorskie/bydgoszcz-wiceprezydent-pozegnal-swoja-bratanice-36-latka-zginela-w-tatrach-st9195842": "TVN24",
+      "https://wydarzenia.interia.pl/kraj/news-tragedia-w-tatrach-wiceprezydent-bydgoszczy-zegna-bratanice,nId,23531123": "Interia",
+      "https://forsal.pl/kraj/aktualnosci/artykuly/11292226,tragedia-w-tatrach-na-orlej-perci-zginela-36-letnia-krewna-polskiego-polityka.html": "Forsal.pl",
+      "https://natemat.pl/665353,wiceprezydent-bydgoszczy-pozegnal-swoja-bratanice-36-latka-zginela-na-orlej-perci": "naTemat.pl"
+    },
+    "last_updated": "2026-08-21 07:16"
+  },
+  {
+    "slug": "nord-stream-ukrainiec-zatrzymany-chorwacja-tusk-niemcy-sierpien-2026",
+    "category": "world",
+    "lead": false,
+    "title": "Nord Stream: Ukrainiec ponownie zatrzymany, tym razem w Chorwacji, Tusk broni jego postawy",
+    "body": "Chorwacka policja zatrzymała Ukraińca podejrzewanego przez niemiecką prokuraturę o udział w wysadzeniu podmorskich gazociągów Nord Stream na Bałtyku we wrześniu 2022 roku, mimo że wcześniej mężczyzna był zatrzymany w Polsce, gdzie polski sąd odmówił jego ekstradycji do Niemiec i zwolnił go z aresztu, co wywołało napięcia dyplomatyczne między Warszawą a Berlinem. Niemieckie władze, prowadzące od miesięcy śledztwo w tej sprawie, ponownie wystąpiły o wydanie podejrzanego, tym razem po jego zatrzymaniu na terytorium Chorwacji, gdzie o dalszych krokach zdecyduje tamtejszy wymiar sprawiedliwości. Premier Donald Tusk skomentował sprawę, mówiąc, że Niemcy nie powinny ścigać osoby, która w jego ocenie działała w interesie Ukrainy broniącej się przed rosyjską agresją, co spotkało się z krytyką części komentatorów i polityków w Niemczech. Śledztwo w sprawie wysadzenia Nord Stream, wciąż formalnie niewyjaśnionej co do zleceniodawców ataku, pozostaje jednym z najbardziej spornych wątków w relacjach między państwami NATO, a nowe zatrzymanie może ponownie otworzyć pytania o jurysdykcję oraz polityczne konsekwencje ewentualnego procesu.",
+    "sources": {
+      "https://www.rmf24.pl/fakty/swiat/news-ukrainiec-podejrzany-o-wysadzenie-nord-stream-zatrzymany-w-c,nIdn,1014282": "RMF24",
+      "https://tvn24.pl/swiat/nord-stream-zatrzymano-ukrainca-podejrzanego-o-wysadzenie-gazociagu-na-baltyku-st9196348": "TVN24",
+      "https://www.rp.pl/polityka/art45028311-donald-tusk-o-ukraincu-zatrzymanym-za-wysadzenie-nord-stream-niemcy-nie-powinny-go-scigac": "rp.pl",
+      "https://www.bankier.pl/wiadomosc/W-Chorwacji-aresztowano-Ukrainca-podejrzanego-w-sprawie-wysadzenia-Nord-Stream-9184255.html": "Bankier.pl"
+    },
+    "last_updated": "2026-08-21 07:16"
   }
 ]
