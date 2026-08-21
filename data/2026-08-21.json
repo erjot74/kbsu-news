@@ -88,14 +88,15 @@
     "slug": "rosja-atak-rakietowy-kijow-ofiary-zaloba-sierpien-2026",
     "category": "world",
     "lead": false,
-    "title": "Rosja przeprowadza zmasowany atak rakietowy na Kijów, są ofiary śmiertelne i ranni",
-    "body": "W nocy z 19 na 20 sierpnia Rosja przeprowadziła zmasowany atak rakietowy i dronowy na Kijów oraz inne ukraińskie miasta, w tym Lwów, w wyniku którego zginęło co najmniej dziewięć osób, a kilkadziesiąt zostało rannych; władze ukraińskie podkreślają, że bilans ofiar może jeszcze wzrosnąć w miarę usuwania gruzów. Jeden z pocisków uszkodził budynek ambasady Litwy w stolicy Ukrainy, co wywołało ostre protesty dyplomatyczne Wilna wobec Moskwy. Prezydent Wołodymyr Zełenski oświadczył, że świat nie zawsze reaguje na rosyjskie ataki w sposób adekwatny do ich skali, i ponowił apel do sojuszników o pilne dostawy dodatkowych zestawów Patriot oraz pocisków przechwytujących, wskazując na braki w obronie powietrznej podczas ataku. W związku z atakiem oraz naruszeniami przestrzeni powietrznej w regionie polskie siły powietrzne podniosły w gotowość myśliwce, a Rządowe Centrum Bezpieczeństwa wysłało alerty do mieszkańców części Lubelszczyzny i Podkarpacia, blisko granicy z Ukrainą. Władze Kijowa ogłosiły dzień żałoby dla ofiar ataku. Zachodni przywódcy, w tym przedstawiciele Unii Europejskiej i NATO, potępili atak i zapowiedzieli dalsze wsparcie wojskowe oraz kolejny pakiet sankcji wobec Rosji.",
+    "title": "Rosja atakuje Kijów rakietami, trafiony szpital dziecięcy, rośnie bilans ofiar",
+    "body": "W nocy z 19 na 20 sierpnia Rosja przeprowadziła jeden z najcięższych ataków rakietowo-dronowych na Kijów od wielu tygodni, uderzając w stolicę Ukrainy oraz inne miasta, w tym Lwów. Jeden z pocisków trafił w szpital dziecięcy Ochmatdet, co wywołało międzynarodowe oburzenie i pytania o celowość ataku na obiekt medyczny dla najmłodszych pacjentów. Bilans ofiar rósł w kolejnych godzinach: pierwsze doniesienia mówiły o dziewięciu zabitych, a w miarę usuwania gruzów kolejne relacje, w tym PAP, podawały liczby sięgające kilkunastu zabitych i kilkudziesięciu rannych. Jeden z pocisków uszkodził też budynek ambasady Litwy w Kijowie, co wywołało ostre protesty dyplomatyczne Wilna wobec Moskwy. Prezydent Zełenski ocenił, że świat nie zawsze reaguje na rosyjskie ataki adekwatnie do ich skali, i ponowił apel o pilne dostawy dodatkowych zestawów Patriot. W związku z atakiem polskie siły powietrzne podniosły w gotowość myśliwce, a RCB wysłało alerty do mieszkańców Lubelszczyzny i Podkarpacia. Władze Kijowa ogłosiły dzień żałoby dla ofiar. Zachodni przywódcy potępili atak i zapowiedzieli dalsze wsparcie wojskowe oraz kolejny pakiet sankcji wobec Rosji.",
     "sources": {
+      "https://www.pap.pl/aktualnosci/wzrosla-liczba-ofiar-smiertelnych-rosyjskiego-ostrzalu-kijowa-u": "PAP",
+      "https://www.rmf24.pl/fakty/swiat/news-koszmar-kijowa-trwa-wielu-zabitych-trafiony-szpital-dziecie,nIdn,1014485": "RMF24",
       "https://tvn24.pl/swiat/wojna-w-ukrainie-kijow-zaatakowany-rosyjskimi-rakietami-polska-poderwala-mysliwce-st9197423": "TVN24",
-      "https://www.rmf24.pl/fakty/swiat/news-zmasowany-atak-rosji-na-ukraine-eksplozje-w-kijowie-i-we-lwo,nIdn,1011893": "RMF24",
-      "https://www.tvp.info/94633433/ukraina-rosyjski-atak-rakietowy-na-kijow-co-najmniej-dziewiec-ofiar-smiertelnych-i-kilkudziesieciu-rannych-pocisk-uszkodzil-ambasade-litwy": "TVP Info",
-      "https://www.rp.pl/konflikty-zbrojne/art45027691-swiat-nie-reaguje-w-odpowiedni-sposob-wolodymyr-zelenski-komentuje-ataki-rosji": "rp.pl"
+      "https://i.pl/atak-rakiet-balistycznych-i-dronow-rosji-na-kijow-uderzono-w-szpital-dzieciecy-i-budynki-mieszkalne-zginelo-12-osob-a-33-zostaly-ranne/ar/c1p2-29280493": "i.pl",
+      "https://www.tvp.info/94937324/atak-na-kijow-szpital-dzieciecy-trafiony-rakieta-ofiary-smiertelne-i-ranni-wideo": "TVP Info"
     },
-    "last_updated": "2026-08-21 01:25"
+    "last_updated": "2026-08-21 02:35"
   }
 ]
