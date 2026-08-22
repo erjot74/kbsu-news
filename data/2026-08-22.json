@@ -146,8 +146,26 @@
       "https://wydarzenia.interia.pl/ukraina-rosja/news-zelenski-grzmi-po-podwojnym-ataku-rosjan-cyniczny-i-nikczemn,nId,23532440": "Interia",
       "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45038941-rosjanie-zaatakowali-krzywy-rog-i-kijow-plonie-rafineria-w-rosji": "rp.pl",
       "https://polskieradio24.pl/swiat/rosyjskie-drony-uderzyly-w-centrum-handlowe-wielu-zabitych-wsrod-rannych-dzieci": "Polskie Radio24",
-      "https://dorzeczy.pl/swiat/932143/rosja-zaatakowala-krzywy-rog-nie-zyje-co-najmniej-14-osob.html": "Dorzeczy.pl"
+      "https://dorzeczy.pl/swiat/932143/rosja-zaatakowala-krzywy-rog-nie-zyje-co-najmniej-14-osob.html": "Dorzeczy.pl",
+      "https://www.tvp.info/94977340/atak-na-krzywy-rog-liczba-ofiar-rosyjskiego-ataku-wzrosla-do-16-130-osob-zostalo-rannych": "TVP Info"
     },
-    "last_updated": "2026-08-22 09:20"
+    "last_updated": "2026-08-22 12:25"
+  },
+  {
+    "slug": "nawrocki-weto-ustawa-transport-publiczny-sierpien-2026",
+    "category": "pl",
+    "lead": false,
+    "title": "Nawrocki wetuje ustawę o transporcie publicznym, Klimczak: 10 mln Polaków straci szansę",
+    "body": "W czwartek, 20 sierpnia 2026 roku, prezydent Karol Nawrocki zawetował nowelizację ustawy o publicznym transporcie zbiorowym, która miała ograniczyć wykluczenie komunikacyjne w mniejszych miejscowościach i na wsi. Przepisy zakładały obowiązek co najmniej czterech kursów dziennie na liniach dofinansowywanych z funduszu autobusowego oraz nowe zasady pięcioletnich umów z przewoźnikami i rozwój transportu na żądanie, informują Bankier.pl, Money.pl i biznes.interia.pl. W uzasadnieniu weta prezydent ocenił przepisy jako niedopracowane, krytykując sztywne pięcioletnie kontrakty oraz zasady finansowania przewozów na żądanie, co jego zdaniem ograniczyłoby elastyczność samorządów. Minister infrastruktury Dariusz Klimczak ostro skrytykował decyzję, szacując, że nawet 10 milionów Polaków z ograniczonym dostępem do komunikacji publicznej straci szansę na poprawę sytuacji, a zapowiadane nowe autobusy i połączenia na razie nie powstaną, co potwierdzają Dorzeczy.pl, Wprost i Portal Samorządowy. Samorządy wyrażają rozczarowanie, a rząd zapowiedział nowy projekt uwzględniający zastrzeżenia prezydenta, bez podania konkretnego terminu jego złożenia w Sejmie.",
+    "sources": {
+      "https://www.bankier.pl/wiadomosc/Nawrocki-zablokowal-ustawe-o-walce-z-wykluczeniem-komunikacyjnym-9184954.html": "Bankier.pl",
+      "https://www.money.pl/mobility/weto-prezydenta-ws-ustawy-o-wykluczeniu-komunikacyjnym-7320466419148928a.html": "Money.pl",
+      "https://biznes.interia.pl/gospodarka/news-weto-prezydenta-klimczak-10-mln-polakow-bedzie-mialo-problem,nId,23531710": "Interia",
+      "https://dorzeczy.pl/ekonomia/931774/prezydent-zawetowal-ustawe-o-transporcie-klimczak-10-mln-polakow-bedzie-mialo-problem.html": "Dorzeczy.pl",
+      "https://www.wprost.pl/kraj/12419553/karol-nawrocki-wetuje-i-obszernie-wyjasnia-powody-minister-klimczak-nieprzekonany.html": "Wprost",
+      "https://www.portalsamorzadowy.pl/gospodarka-komunalna/10-milionow-polakow-bedzie-mialo-problem-z-dojazdem-wszystko-przez-weto-prezydenta,673049.html": "Portal Samorządowy",
+      "https://www.prawo.pl/samorzad/prezydent-zawetowal-ustawe-o-transporcie-zbiorowym,1548832.html": "Prawo.pl"
+    },
+    "last_updated": "2026-08-22 12:25"
   }
 ]
