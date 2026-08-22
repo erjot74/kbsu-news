@@ -70,7 +70,7 @@
     "category": "pl",
     "lead": false,
     "title": "Fala burz nad Polską trwa, ewakuowano obozy, tysiące interwencji straży",
-    "body": "Od piątku, 21 sierpnia, nad Polską przechodzi fala gwałtownych burz z gradem, ulewami i silnym wiatrem, wywołana niżem genueńskim znad Morza Śródziemnego. RCB wydało alert dla piętnastu województw, a IMGW utrzymuje trzeci stopień ostrzeżeń oraz ostrzeżenia hydrologiczne przed przekroczeniem stanów alarmowych na rzekach, informują Goniec.pl, TVN24 Meteo i RMF24. Wicepremier i minister obrony Władysław Kosiniak-Kamysz postawił wybrane brygady Wojsk Obrony Terytorialnej w stan podwyższonej gotowości, z obowiązkiem stawiennictwa żołnierzy w ciągu sześciu godzin. Straż pożarna do godzin porannych w sobotę odnotowała ponad tysiąc dziewięćset interwencji, a w ciągu dnia liczba zgłoszeń rosła do kilku tysięcy w całym kraju, co RMF24 określiło mianem pogodowego armagedonu nad Polską. Ewakuowano też część obozów i kolonii letnich na terenach zagrożonych podtopieniem, informuje portalspozywczy.pl. Na Mazowszu bez prądu pozostało około dwudziestu dwóch tysięcy odbiorców, lokalnie zamykano drogi, a na południu kraju ulice zamieniły się w potoki. Synoptycy zapowiadają kolejne opady, dlatego RCB i IMGW apelują o ostrożność.",
+    "body": "Od piątku, 21 sierpnia, nad Polską przechodzi fala gwałtownych burz z gradem, ulewami i silnym wiatrem, wywołana niżem genueńskim znad Morza Śródziemnego. RCB wydało alert dla piętnastu województw, a IMGW utrzymuje trzeci stopień ostrzeżeń oraz ostrzeżenia hydrologiczne przed przekroczeniem stanów alarmowych na rzekach, informują Goniec.pl, TVN24 Meteo i RMF24. Straż pożarna do godzin porannych w sobotę odnotowała ponad tysiąc dziewięćset interwencji, a w ciągu dnia liczba zgłoszeń rosła do kilku tysięcy w całym kraju, co RMF24 określiło mianem pogodowego armagedonu nad Polską. Wicepremier Władysław Kosiniak-Kamysz postawił wybrane brygady WOT w stan podwyższonej gotowości. Wieczorem PolsatNews podsumował skalę zniszczeń: zalane ulice, powalone drzewa i zerwane dachy w kilku regionach, a Portal i.pl opisał zalane piwnice i połamane drzewa w Kujawsko-Pomorskiem. W obawie przed kolejnymi podtopieniami strażacy w jednym z województw zaczęli rozdawać mieszkańcom worki z piaskiem, poinformował Goniec.pl. Na Mazowszu bez prądu pozostało około 22 tysięcy odbiorców, lokalnie zamykano drogi i ewakuowano obozy letnie z terenów zagrożonych podtopieniem. Synoptycy zapowiadają kolejne opady, dlatego RCB i IMGW apelują o ostrożność.",
     "sources": {
       "https://goniec.pl/alert-rcb-dla-15-wojewodztw-nad-polske-nadciagaja-grozne-burze-i-ulewy-wk-wwi-210826": "Goniec.pl",
       "https://www.eska.pl/news/pogoda/grozne-burze-z-gradem-i-ulewami-w-polsce-mozliwe-podtopienia-i-przerwy-w-dostawie-pradu-aa-ifch-9667-DHY1.html": "ESKA.pl",
@@ -89,9 +89,12 @@
       "https://tvn24.pl/tvnmeteo/prognoza/ryzyko-przekroczenia-stanow-alarmowych-na-rzekach-ostrzezenia-hydrologiczne-imgw-st9200527": "TVN24 Meteo",
       "https://wiadomosci.wp.pl/nawalnica-uderzyla-w-mazowsze-22-tys-odbiorcow-bez-pradu-7317074474555456a": "WP Wiadomości",
       "https://www.rmf24.pl/fakty/polska/news-tysiace-interwencji-strazakow-pogodowy-armagedon-nad-polska,nIdn,1014717": "RMF24",
-      "https://www.portalspozywczy.pl/technologie/wiadomosci/burze-i-wichury-w-polsce-strazacy-mieli-do-godziny-8-00-ponad-1900-interwencji-ewakuowano-obozy,292149.html": "Portalspozywczy.pl"
+      "https://www.portalspozywczy.pl/technologie/wiadomosci/burze-i-wichury-w-polsce-strazacy-mieli-do-godziny-8-00-ponad-1900-interwencji-ewakuowano-obozy,292149.html": "Portalspozywczy.pl",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-22/nawalnice-przeszly-przez-polske-masa-zniszczen-zalane-ulice-zerwane-dachy/": "PolsatNews.pl",
+      "https://i.pl/zalane-piwnice-i-ulice-powalone-drzewa-oto-nasz-raport-po-burzy-w-kujawsko-pomorskiem/ar/c1p2-29286583": "Portal i.pl",
+      "https://goniec.pl/gwaltowne-burze-przetoczyly-sie-przez-polske-w-jednym-z-wojewodztw-wydaja-worki-z-piaskiem-mt-wpd-220826": "Goniec.pl"
     },
-    "last_updated": "2026-08-22 15:20"
+    "last_updated": "2026-08-22 20:20"
   },
   {
     "slug": "iran-usa-ekonomiczny-dzien-d-sankcje-sierpien-2026",
@@ -132,7 +135,7 @@
     "category": "pl",
     "lead": false,
     "title": "Raport Polaków portret własny: Barbara Mróz-Gorgoń podała się do dymisji",
-    "body": "W drugiej połowie sierpnia 2026 roku wybuchła afera wokół rządowego raportu Polaków portret własny, zamówionego za około 180 tysięcy złotych i nadzorowanego przez pełnomocniczkę rządu do spraw promocji Polski Barbarę Mróz-Gorgoń, informują TVN24, Bankier.pl i Interia. Dziennikarze i eksperci wskazali w dokumencie liczne błędy merytoryczne oraz kontrowersyjne, niepotwierdzone tezy, a autorka raportu przyznała, że korzystała ze sztucznej inteligencji, co podważyło wiarygodność analizy finansowanej z pieniędzy publicznych. W piątek, 21 sierpnia, poseł PiS Mariusz Błaszczak złożył zawiadomienie do Centralnego Biura Antykorupcyjnego oraz prokuratury, a TVN24, rp.pl i wirtualnemedia.pl potwierdziły, że prokuratura formalnie wszczęła czynności sprawdzające wydatkowanie środków publicznych. W piątek wieczorem, pod presją krytyki polityków niemal wszystkich opcji oraz internautów, Barbara Mróz-Gorgoń złożyła dymisję z funkcji pełnomocniczki rządu do spraw promocji marki Polski, co potwierdzają TVP Info, naTemat.pl, Interia, PolsatNews, Wprost i GazetaPrawna.pl. Kancelaria Premiera nie ujawniła jeszcze następcy, a opozycja żąda wyjaśnienia procedury zlecenia dokumentu.",
+    "body": "W drugiej połowie sierpnia 2026 roku wybuchła afera wokół rządowego raportu Polaków portret własny, zamówionego za około 180 tysięcy złotych i nadzorowanego przez pełnomocniczkę rządu do spraw promocji Polski Barbarę Mróz-Gorgoń, informują TVN24, Bankier.pl i Interia. Autorka raportu przyznała, że korzystała ze sztucznej inteligencji, co podważyło wiarygodność analizy finansowanej z pieniędzy publicznych. W piątek, 21 sierpnia, poseł PiS Mariusz Błaszczak złożył zawiadomienie do CBA oraz prokuratury, która formalnie wszczęła czynności sprawdzające wydatkowanie środków publicznych. Pod presją krytyki polityków niemal wszystkich opcji Mróz-Gorgoń złożyła w piątek wieczorem dymisję z funkcji pełnomocniczki rządu do spraw promocji marki Polski. Zanim odeszła, złożyła oświadczenie majątkowe, które w sobotę opisały Interia i zero.pl: wynika z niego między innymi zaciągnięty kredyt oraz dotychczasowe źródła dochodów. WP Wiadomości opisało riposty rzecznika Kancelarii Prezydenta wymierzone w premiera Tuska w ramach fali szyderczych komentarzy po dymisji, którą PolsatNews podsumował cytatami polityków mówiących o szczycie bezczelności. Kancelaria Premiera nie ujawniła jeszcze następcy, a opozycja żąda wyjaśnienia procedury zlecenia dokumentu.",
     "sources": {
       "https://tvn24.pl/polska/kontrowersje-wokol-raportu-polakow-portret-wlasny-komunikat-ministerstwa-i-pelnomocniczki-rzadu-barbary-mroz-gorgon-st9198830": "TVN24",
       "https://www.bankier.pl/wiadomosc/Raport-Polakow-portret-wlasny-wywolal-burze-Autorka-przyznaje-wykorzystywalam-AI-9185203.html": "Bankier.pl",
@@ -150,9 +153,14 @@
       "https://wydarzenia.interia.pl/kraj/news-pelnomocniczka-rzadu-rezygnuje-w-tle-glosny-raport-skladam-d,nId,23532443": "Interia",
       "https://www.polsatnews.pl/wiadomosc/2026-08-21/dymisja-w-rzadzie-tuska-konsekwencje-afery-ws-raportu-o-polakach/": "PolsatNews.pl",
       "https://www.wprost.pl/kraj/12420876/barbara-mroz-gorgon-zlozyla-dymisje-po-aferze-z-raportem-polakow-portret-wlasny.html": "Wprost",
-      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11293542,barbara-mroz-gorgon-dymisja-pelnomocnik-rzadu-raport-ai.html": "GazetaPrawna.pl"
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11293542,barbara-mroz-gorgon-dymisja-pelnomocnik-rzadu-raport-ai.html": "GazetaPrawna.pl",
+      "https://tvrepublika.pl/Polityka/Afera-wokol-raportu-Mroz-Gorgon-Po-dymisji-pokazala-majatek/220316": "TV Republika",
+      "https://biznes.interia.pl/finanse/news-mroz-gorgon-odchodzi-po-aferze-wczesniej-ujawnila-majatek-dw,nId,23532534": "Interia Biznes",
+      "https://zero.pl/news/barbara-mroz-gorgon-majatek-dochody-i-kredyt-co-wynika-z-oswiadczenia": "Zero.pl",
+      "https://wiadomosci.wp.pl/kpiny-po-dymisji-mroz-gorgon-rzecznik-prezydenta-wbil-szpile-tuskowi-7320947875793024a": "WP Wiadomości",
+      "https://www.polsatnews.pl/wiadomosc/2026-08-21/fala-komentarzy-po-dymisji-barbary-mroz-gorgon-szczyt-bezczelnosci/": "PolsatNews.pl"
     },
-    "last_updated": "2026-08-22 14:25"
+    "last_updated": "2026-08-22 20:20"
   },
   {
     "slug": "rosja-atak-krzywy-rog-centrum-handlowe-sierpien-2026",
